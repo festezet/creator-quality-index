@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Creator Quality Index</title>
+
+    <!-- Open Graph / LinkedIn -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="YouTube Creator Quality Index">
+    <meta property="og:description" content="100+ YouTube channels scored on intellectual quality, not popularity. Data-driven ratings across research depth, production, originality, and more.">
+    <meta property="og:url" content="https://creator-quality-index.app">
+    <meta property="og:image" content="/static/og-image.png">
+    <meta property="og:site_name" content="YouTube Creator Quality Index">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="YouTube Creator Quality Index">
+    <meta name="twitter:description" content="100+ YouTube channels scored on intellectual quality, not popularity.">
+
+    <meta name="description" content="YouTube Creator Quality Index - Rating YouTube channels on intellectual quality, not popularity. Research depth, production quality, signal-to-noise ratio, originality, and lasting impact.">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="nav-inner">
+            <a href="#" class="nav-brand" data-nav="index">
+                <span class="nav-logo">CQI</span>
+                <span class="nav-title">YouTube Creator Quality Index</span>
+            </a>
+            <div class="nav-links">
+                <a href="#" class="nav-link active" data-nav="index">Index</a>
+                <a href="#methodology" class="nav-link" data-nav="methodology">Methodology</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main content wrapper -->
+    <main id="main-content">
+
+        <!-- Index View -->
+        <div id="view-index">
+            <!-- Hero Section -->
+            <section class="hero">
+                <div class="hero-inner">
+                    <div class="hero-glow"></div>
+                    <h1 class="hero-title">YouTube Creator Quality <span class="hero-accent">Index</span></h1>
+                    <p class="hero-subtitle">100+ YouTube channels scored on intellectual quality, not popularity</p>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-value" id="stat-total">--</span>
+                            <span class="stat-label">Channels Rated</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="stat-avg-score">--</span>
+                            <span class="stat-label">Avg Score</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="stat-s-tier">--</span>
+                            <span class="stat-label">S-Tier</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="stat-categories">--</span>
+                            <span class="stat-label">Categories</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Why this index -->
+            <section class="why-section">
+                <h2 class="why-title">Why this index?</h2>
+                <p class="why-text">YouTube's algorithm optimizes for one thing: ad revenue. It pushes watch time and engagement, not quality. A clickbait video with millions of views ranks higher than a meticulously researched documentary with a fraction of the audience. The platform rewards creators who game the system, not those who respect yours. This index exists to fix that — every channel here is scored by humans on research depth, production, signal-to-noise ratio, originality, and lasting impact. No algorithm. No sponsorship bias. Just substance.</p>
+            </section>
+
+            <!-- Weight Customizer CTA -->
+            <section class="weight-cta">
+                <button class="weight-cta-btn" id="open-customizer">
+                    <span class="weight-cta-icon">&#9878;</span>
+                    <span class="weight-cta-text">
+                        <strong>How would YOU rank them?</strong>
+                        <span>Adjust the 5 criteria weights and see your own ranking</span>
+                    </span>
+                    <span class="weight-cta-arrow">&rarr;</span>
+                </button>
+            </section>
+
+            <!-- Weight Customizer Modal -->
+            <div class="customizer-overlay" id="customizer-overlay">
+                <div class="customizer-modal">
+                    <div class="customizer-header">
+                        <h2 class="customizer-title">Your Custom Ranking</h2>
+                        <button class="customizer-close" id="customizer-close" aria-label="Close">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 6 6 18M6 6l12 12"/>
+                            </svg>
+                        </button>
+                    </div>
+                    <p class="customizer-subtitle">Each channel is scored on 5 criteria weighted equally (20% each) in our official ranking. Move the sliders below to apply your own weighting — the ranking updates live.</p>
+                    <div class="customizer-sliders" id="weight-sliders">
+                        <div class="weight-slider-row">
+                            <span class="weight-slider-label">Research</span>
+                            <input type="range" min="0" max="100" step="1" value="20"
+                                   class="weight-slider-input" data-criterion="research_depth">
+                            <span class="weight-slider-value">20%</span>
+                        </div>
+                        <div class="weight-slider-row">
+                            <span class="weight-slider-label">Production</span>
+                            <input type="range" min="0" max="100" step="1" value="20"
+                                   class="weight-slider-input" data-criterion="production">
+                            <span class="weight-slider-value">20%</span>
+                        </div>
+                        <div class="weight-slider-row">
+                            <span class="weight-slider-label">Signal/Noise</span>
+                            <input type="range" min="0" max="100" step="1" value="20"
+                                   class="weight-slider-input" data-criterion="signal_noise">
+                            <span class="weight-slider-value">20%</span>
+                        </div>
+                        <div class="weight-slider-row">
+                            <span class="weight-slider-label">Originality</span>
+                            <input type="range" min="0" max="100" step="1" value="20"
+                                   class="weight-slider-input" data-criterion="originality">
+                            <span class="weight-slider-value">20%</span>
+                        </div>
+                        <div class="weight-slider-row">
+                            <span class="weight-slider-label">Impact</span>
+                            <input type="range" min="0" max="100" step="1" value="20"
+                                   class="weight-slider-input" data-criterion="lasting_impact">
+                            <span class="weight-slider-value">20%</span>
+                        </div>
+                        <div class="weight-footer">
+                            <span class="weight-total" id="weight-total">Total: 100%</span>
+                            <button class="weight-reset-btn" id="weight-reset" disabled>Reset to defaults</button>
+                        </div>
+                    </div>
+                    <div class="customizer-ranking" id="customizer-ranking">
+                        <!-- Custom ranked list rendered by JS -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Filters -->
+            <section class="filters-section">
+                <div class="filters-row">
+                    <!-- Search -->
+                    <div class="search-box">
+                        <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+                        </svg>
+                        <input type="text" id="search-input" placeholder="Search channels..." autocomplete="off">
+                    </div>
+                </div>
+
+                <!-- Category pills -->
+                <div class="filter-group">
+                    <span class="filter-label">Category</span>
+                    <div class="pills-scroll" id="category-pills">
+                        <button class="pill active" data-category="">All</button>
+                        <!-- Dynamically populated -->
+                    </div>
+                </div>
+
+                <!-- Tier pills -->
+                <div class="filter-group">
+                    <span class="filter-label">Tier</span>
+                    <div class="pills-scroll" id="tier-pills">
+                        <button class="pill active" data-tier="">All</button>
+                        <button class="pill pill-tier-s" data-tier="S">S</button>
+                        <button class="pill pill-tier-a" data-tier="A">A</button>
+                        <button class="pill pill-tier-b" data-tier="B">B</button>
+                        <button class="pill pill-tier-c" data-tier="C">C</button>
+                        <button class="pill pill-tier-d" data-tier="D">D</button>
+                    </div>
+                    <div class="tier-legend">
+                        <span class="tier-legend-item"><span class="tier-dot tier-dot-s"></span>S &ge; 8.5</span>
+                        <span class="tier-legend-item"><span class="tier-dot tier-dot-a"></span>A &ge; 7.0</span>
+                        <span class="tier-legend-item"><span class="tier-dot tier-dot-b"></span>B &ge; 5.5</span>
+                        <span class="tier-legend-item"><span class="tier-dot tier-dot-c"></span>C &ge; 4.0</span>
+                        <span class="tier-legend-item"><span class="tier-dot tier-dot-d"></span>D &lt; 4.0</span>
+                    </div>
+                </div>
+
+                <!-- Language & Sort -->
+                <div class="filter-row-inline">
+                    <div class="filter-group">
+                        <span class="filter-label">Language</span>
+                        <div class="pills-scroll" id="lang-pills">
+                            <button class="pill active" data-lang="">All</button>
+                            <button class="pill" data-lang="en">EN</button>
+                            <button class="pill" data-lang="fr">FR</button>
+                        </div>
+                    </div>
+                    <div class="filter-group">
+                        <span class="filter-label">Sort</span>
+                        <div class="pills-scroll" id="sort-pills">
+                            <button class="pill active" data-sort="composite_score" data-order="desc">Score</button>
+                            <button class="pill" data-sort="subscriber_count" data-order="desc">Subscribers</button>
+                            <button class="pill" data-sort="name" data-order="asc">Name</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results count -->
+            <div class="results-bar">
+                <span id="results-count"></span>
+            </div>
+
+            <!-- Channel list -->
+            <section class="ranking-list" id="channel-list">
+                <div class="ranking-header">
+                    <span class="ranking-col-rank">#</span>
+                    <span class="ranking-col-name">Channel</span>
+                    <span class="ranking-col-category">Category</span>
+                    <span class="ranking-col-subs">Subs</span>
+                    <span class="ranking-col-score">Score</span>
+                    <span class="ranking-col-tier">Tier</span>
+                </div>
+                <div id="ranking-rows">
+                    <!-- Rows rendered by JS -->
+                </div>
+            </section>
+
+            <!-- Channel grid (preserved for future reuse) -->
+            <section class="grid" id="channel-grid" style="display:none;">
+            </section>
+
+            <!-- Load more -->
+            <div class="load-more-wrap" id="load-more-wrap" style="display:none;">
+                <button class="btn-load-more" id="btn-load-more">Load More</button>
+            </div>
+
+            <!-- Empty state -->
+            <div class="empty-state" id="empty-state" style="display:none;">
+                <div class="empty-icon">&#128269;</div>
+                <p>No channels match your filters</p>
+            </div>
+        </div>
+
+        <!-- Methodology View -->
+        <div id="view-methodology" style="display:none;">
+            <section class="methodology-content" id="methodology-content">
+                <div class="methodology-loading">Loading methodology...</div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Channel Detail Modal -->
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal" id="modal">
+            <button class="modal-close" id="modal-close" aria-label="Close">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M18 6 6 18M6 6l12 12"/>
+                </svg>
+            </button>
+            <div class="modal-body" id="modal-body">
+                <!-- Rendered by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <p class="footer-text">YouTube Creator Quality Index &mdash; Rating intellectual value, not subscriber counts</p>
+            <a href="#methodology" class="footer-link" data-nav="methodology">Methodology</a>
+        </div>
+    </footer>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>
