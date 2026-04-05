@@ -5,7 +5,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from flask import Flask, send_from_directory
+from flask import Flask, send_from_directory, jsonify
 
 # Use shared_lib locally, fallback to inline helpers on Render
 try:
@@ -36,7 +36,12 @@ app.register_blueprint(community_bp)
 
 @app.route("/")
 def index():
-    return send_from_directory(FRONTEND_DIR, "index.html")
+    try:
+        return send_from_directory(FRONTEND_DIR, "index.html")
+    except Exception as e:
+        return jsonify({"error": str(e), "frontend_dir": FRONTEND_DIR,
+                        "exists": os.path.exists(FRONTEND_DIR),
+                        "index_exists": os.path.exists(os.path.join(FRONTEND_DIR, "index.html"))}), 500
 
 
 @app.route("/static/<path:filename>")
