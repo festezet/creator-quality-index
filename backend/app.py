@@ -34,11 +34,24 @@ app.register_blueprint(stats_bp)
 app.register_blueprint(community_bp)
 
 
+@app.route("/api/debug/paths")
+def debug_paths():
+    """Temporary diagnostic endpoint."""
+    return jsonify({
+        "frontend_dir": FRONTEND_DIR,
+        "exists": os.path.exists(FRONTEND_DIR),
+        "index_exists": os.path.exists(os.path.join(FRONTEND_DIR, "index.html")),
+        "cwd": os.getcwd(),
+        "listdir": os.listdir(FRONTEND_DIR) if os.path.exists(FRONTEND_DIR) else "NOT_FOUND",
+    })
+
+
 @app.route("/")
 def index():
     try:
         return send_from_directory(FRONTEND_DIR, "index.html")
     except Exception as e:
+        logger.error(f"Index error: {e}")
         return jsonify({"error": str(e), "frontend_dir": FRONTEND_DIR,
                         "exists": os.path.exists(FRONTEND_DIR),
                         "index_exists": os.path.exists(os.path.join(FRONTEND_DIR, "index.html"))}), 500
@@ -46,7 +59,11 @@ def index():
 
 @app.route("/static/<path:filename>")
 def serve_static(filename):
-    return send_from_directory(os.path.join(FRONTEND_DIR, "static"), filename)
+    try:
+        return send_from_directory(os.path.join(FRONTEND_DIR, "static"), filename)
+    except Exception as e:
+        logger.error(f"Static file error: {e}")
+        return jsonify({"error": str(e)}), 404
 
 
 @app.route("/api/methodology", methods=["GET"])
