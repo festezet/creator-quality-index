@@ -5,7 +5,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from flask import Flask, send_from_directory, jsonify
+from flask import Flask, send_from_directory, jsonify, make_response
 
 # Use shared_lib locally, fallback to inline helpers on Render
 try:
@@ -48,13 +48,14 @@ def debug_paths():
 
 @app.route("/")
 def index():
-    try:
-        return send_from_directory(FRONTEND_DIR, "index.html")
-    except Exception as e:
-        logger.error(f"Index error: {e}")
-        return jsonify({"error": str(e), "frontend_dir": FRONTEND_DIR,
-                        "exists": os.path.exists(FRONTEND_DIR),
-                        "index_exists": os.path.exists(os.path.join(FRONTEND_DIR, "index.html"))}), 500
+    index_path = os.path.join(FRONTEND_DIR, "index.html")
+    if not os.path.exists(index_path):
+        return jsonify({"error": "index.html not found", "path": index_path}), 404
+    with open(index_path, "r", encoding="utf-8") as f:
+        html = f.read()
+    resp = make_response(html)
+    resp.headers["Content-Type"] = "text/html; charset=utf-8"
+    return resp
 
 
 @app.route("/static/<path:filename>")
