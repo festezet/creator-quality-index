@@ -5,7 +5,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from flask import Flask, send_from_directory, send_file
+from flask import Flask, send_from_directory
 
 # Use shared_lib locally, fallback to inline helpers on Render
 try:
@@ -36,7 +36,7 @@ app.register_blueprint(community_bp)
 
 @app.route("/")
 def index():
-    return send_file(os.path.join(FRONTEND_DIR, "index.html"))
+    return send_from_directory(FRONTEND_DIR, "index.html")
 
 
 @app.route("/static/<path:filename>")
