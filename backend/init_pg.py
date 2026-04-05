@@ -1,4 +1,7 @@
 """Initialize PostgreSQL schema for YouTube Creator Quality Index."""
+import json
+import os
+
 from backend.db_adapter import get_db, release_db
 
 PG_SCHEMA = """
@@ -95,8 +98,57 @@ CATEGORIES = [
 ]
 
 
+def _seed_channels(cur, conn):
+    """Seed channels from JSON file if table is empty."""
+    cur.execute("SELECT COUNT(*) FROM channels")
+    count = cur.fetchone()[0]
+    if count > 0:
+        print(f"PostgreSQL: {count} channels already present, skipping seed")
+        return
+
+    seed_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "seed_channels.json")
+    if not os.path.exists(seed_path):
+        print("No seed_channels.json found, skipping seed")
+        return
+
+    with open(seed_path, "r", encoding="utf-8") as f:
+        channels = json.load(f)
+
+    inserted = 0
+    for ch in channels:
+        cur.execute("""
+            INSERT INTO channels (
+                channel_id, name, url, platform, language, primary_category,
+                description, subscriber_count, total_views, video_count,
+                avg_upload_frequency_days,
+                score_research_depth, score_production, score_signal_noise,
+                score_originality, score_lasting_impact,
+                composite_score, tier, scoring_notes, sample_videos,
+                is_reviewed, is_featured
+            ) VALUES (
+                %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
+                %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
+            ) ON CONFLICT (channel_id) DO NOTHING
+        """, (
+            ch.get("channel_id"), ch["name"], ch["url"],
+            ch.get("platform", "youtube"), ch.get("language", "en"),
+            ch["primary_category"], ch.get("description"),
+            ch.get("subscriber_count"), ch.get("total_views"),
+            ch.get("video_count"), ch.get("avg_upload_frequency_days"),
+            ch.get("score_research_depth"), ch.get("score_production"),
+            ch.get("score_signal_noise"), ch.get("score_originality"),
+            ch.get("score_lasting_impact"), ch.get("composite_score"),
+            ch.get("tier"), ch.get("scoring_notes"), ch.get("sample_videos"),
+            ch.get("is_reviewed", False), ch.get("is_featured", False),
+        ))
+        inserted += cur.rowcount
+
+    conn.commit()
+    print(f"PostgreSQL: seeded {inserted} channels from JSON")
+
+
 def init_pg():
-    """Create tables and seed categories in PostgreSQL."""
+    """Create tables and seed categories + channels in PostgreSQL."""
     conn = get_db()
     try:
         cur = conn.cursor()
@@ -108,8 +160,9 @@ def init_pg():
                 (slug, name, icon, sort_order),
             )
         conn.commit()
-        cur.close()
         print("PostgreSQL schema initialized")
+        _seed_channels(cur, conn)
+        cur.close()
     finally:
         release_db(conn)
 

@@ -1,11 +1,14 @@
 """YouTube Creator Quality Index — Flask application."""
 import sys
 import os
+import mimetypes
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from flask import Flask, send_from_directory, jsonify, make_response
+from flask import Flask, jsonify, make_response
+
+mimetypes.add_type("image/webp", ".webp")
 
 # Use shared_lib locally, fallback to inline helpers on Render
 try:
@@ -49,11 +52,17 @@ def index():
 
 @app.route("/static/<path:filename>")
 def serve_static(filename):
-    try:
-        return send_from_directory(os.path.join(FRONTEND_DIR, "static"), filename)
-    except Exception as e:
-        logger.error(f"Static file error: {e}")
-        return jsonify({"error": str(e)}), 404
+    file_path = os.path.join(FRONTEND_DIR, "static", filename)
+    if not os.path.isfile(file_path):
+        return jsonify({"error": "File not found"}), 404
+    mime_type = mimetypes.guess_type(file_path)[0] or "application/octet-stream"
+    mode = "r" if mime_type.startswith("text/") or mime_type in ("application/javascript", "application/json") else "rb"
+    with open(file_path, mode, **{"encoding": "utf-8"} if mode == "r" else {}) as f:
+        data = f.read()
+    resp = make_response(data)
+    resp.headers["Content-Type"] = mime_type
+    resp.headers["Cache-Control"] = "public, max-age=3600"
+    return resp
 
 
 @app.route("/api/methodology", methods=["GET"])
