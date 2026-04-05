@@ -1,5 +1,5 @@
 """Stats routes for YouTube Creator Quality Index API."""
-import traceback
+import logging
 
 from flask import Blueprint, jsonify
 
@@ -10,6 +10,7 @@ except ImportError:
 
 from backend.db_adapter import db_query
 
+logger = logging.getLogger(__name__)
 stats_bp = Blueprint("stats", __name__)
 
 
@@ -51,4 +52,5 @@ def get_stats():
             "averages": averages,
         })
     except Exception as e:
-        return jsonify({"error": str(e), "trace": traceback.format_exc()}), 500
+        logger.error(f"Stats error: {e}")
+        return jsonify({"error": "Internal server error"}), 500
