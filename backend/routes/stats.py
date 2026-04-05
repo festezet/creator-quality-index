@@ -14,13 +14,13 @@ stats_bp = Blueprint("stats", __name__)
 @stats_bp.route("/api/stats", methods=["GET"])
 def get_stats():
     """Aggregated benchmark stats."""
-    total = db_query("SELECT COUNT(*) as count FROM channels WHERE is_reviewed = 1", one=True)["count"]
+    total = db_query("SELECT COUNT(*) as count FROM channels WHERE is_reviewed = TRUE", one=True)["count"]
 
     tier_dist = db_query(
-        "SELECT tier, COUNT(*) as count FROM channels WHERE is_reviewed = 1 AND tier IS NOT NULL GROUP BY tier ORDER BY tier")
+        "SELECT tier, COUNT(*) as count FROM channels WHERE is_reviewed = TRUE AND tier IS NOT NULL GROUP BY tier ORDER BY tier")
 
     cat_dist = db_query(
-        "SELECT primary_category as category, COUNT(*) as count FROM channels WHERE is_reviewed = 1 GROUP BY primary_category ORDER BY count DESC")
+        "SELECT primary_category as category, COUNT(*) as count FROM channels WHERE is_reviewed = TRUE GROUP BY primary_category ORDER BY count DESC")
 
     avg_row = db_query("""
         SELECT
@@ -30,10 +30,10 @@ def get_stats():
           ROUND(AVG(score_signal_noise), 2) as avg_signal_noise,
           ROUND(AVG(score_originality), 2) as avg_originality,
           ROUND(AVG(score_lasting_impact), 2) as avg_impact
-        FROM channels WHERE is_reviewed = 1 AND composite_score IS NOT NULL""", one=True)
+        FROM channels WHERE is_reviewed = TRUE AND composite_score IS NOT NULL""", one=True)
 
     lang_dist = db_query(
-        "SELECT language, COUNT(*) as count FROM channels WHERE is_reviewed = 1 GROUP BY language ORDER BY count DESC")
+        "SELECT language, COUNT(*) as count FROM channels WHERE is_reviewed = TRUE GROUP BY language ORDER BY count DESC")
 
     return success({
         "total_channels": total,

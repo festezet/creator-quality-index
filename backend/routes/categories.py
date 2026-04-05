@@ -18,7 +18,7 @@ def list_categories():
         SELECT cat.slug, cat.name, cat.icon, cat.sort_order,
                COUNT(ch.id) as channel_count
         FROM categories cat
-        LEFT JOIN channels ch ON ch.primary_category = cat.slug AND ch.is_reviewed = 1
+        LEFT JOIN channels ch ON ch.primary_category = cat.slug AND ch.is_reviewed = TRUE
         GROUP BY cat.slug, cat.name, cat.icon, cat.sort_order
         ORDER BY cat.sort_order
     """

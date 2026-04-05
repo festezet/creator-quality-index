@@ -58,13 +58,13 @@ def get_comments(channel_id):
     rows = db_query("""
         SELECT id, visitor_name, content, upvotes, created_at, parent_id
         FROM comments
-        WHERE channel_id = ? AND is_visible = 1
+        WHERE channel_id = ? AND is_visible = TRUE
         ORDER BY created_at DESC
         LIMIT ? OFFSET ?
     """, [channel_id, limit, offset])
 
     total = db_query(
-        "SELECT COUNT(*) as count FROM comments WHERE channel_id = ? AND is_visible = 1",
+        "SELECT COUNT(*) as count FROM comments WHERE channel_id = ? AND is_visible = TRUE",
         [channel_id], one=True
     )["count"]
 

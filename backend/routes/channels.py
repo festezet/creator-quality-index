@@ -36,7 +36,7 @@ def list_channels():
     if order not in ("asc", "desc"):
         order = "desc"
 
-    where = ["c.is_reviewed = 1"]
+    where = ["c.is_reviewed = TRUE"]
     params = []
 
     if category:
