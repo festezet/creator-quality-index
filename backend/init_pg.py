@@ -107,7 +107,7 @@ def _seed_channels(cur, conn):
         # Update thumbnail_url for existing channels that are missing it
         cur.execute("SELECT COUNT(*) FROM channels WHERE thumbnail_url IS NOT NULL")
         thumb_count = cur.fetchone()[0]
-        if thumb_count == 0:
+        if thumb_count < count:
             seed_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "seed_channels.json")
             if os.path.exists(seed_path):
                 with open(seed_path, "r", encoding="utf-8") as f:
@@ -115,9 +115,10 @@ def _seed_channels(cur, conn):
                 updated = 0
                 for ch in channels:
                     if ch.get("thumbnail_url"):
+                        # Match by name (channel_id is often NULL)
                         cur.execute(
-                            "UPDATE channels SET thumbnail_url = %s WHERE channel_id = %s AND thumbnail_url IS NULL",
-                            (ch["thumbnail_url"], ch.get("channel_id")),
+                            "UPDATE channels SET thumbnail_url = %s WHERE name = %s AND thumbnail_url IS NULL",
+                            (ch["thumbnail_url"], ch["name"]),
                         )
                         updated += cur.rowcount
                 conn.commit()
