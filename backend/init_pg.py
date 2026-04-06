@@ -39,6 +39,7 @@ CREATE TABLE IF NOT EXISTS channels (
 
     scoring_notes TEXT,
     sample_videos TEXT,
+    thumbnail_url TEXT,
     is_reviewed BOOLEAN DEFAULT FALSE,
     is_featured BOOLEAN DEFAULT FALSE,
     created_at TIMESTAMP DEFAULT NOW(),
@@ -103,6 +104,24 @@ def _seed_channels(cur, conn):
     cur.execute("SELECT COUNT(*) FROM channels")
     count = cur.fetchone()[0]
     if count > 0:
+        # Update thumbnail_url for existing channels that are missing it
+        cur.execute("SELECT COUNT(*) FROM channels WHERE thumbnail_url IS NOT NULL")
+        thumb_count = cur.fetchone()[0]
+        if thumb_count == 0:
+            seed_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "seed_channels.json")
+            if os.path.exists(seed_path):
+                with open(seed_path, "r", encoding="utf-8") as f:
+                    channels = json.load(f)
+                updated = 0
+                for ch in channels:
+                    if ch.get("thumbnail_url"):
+                        cur.execute(
+                            "UPDATE channels SET thumbnail_url = %s WHERE channel_id = %s AND thumbnail_url IS NULL",
+                            (ch["thumbnail_url"], ch.get("channel_id")),
+                        )
+                        updated += cur.rowcount
+                conn.commit()
+                print(f"PostgreSQL: updated thumbnail_url for {updated} channels")
         print(f"PostgreSQL: {count} channels already present, skipping seed")
         return
 
@@ -124,10 +143,10 @@ def _seed_channels(cur, conn):
                 score_research_depth, score_production, score_signal_noise,
                 score_originality, score_lasting_impact,
                 composite_score, tier, scoring_notes, sample_videos,
-                is_reviewed, is_featured
+                thumbnail_url, is_reviewed, is_featured
             ) VALUES (
                 %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
-                %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
+                %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
             ) ON CONFLICT (channel_id) DO NOTHING
         """, (
             ch.get("channel_id"), ch["name"], ch["url"],
@@ -139,7 +158,8 @@ def _seed_channels(cur, conn):
             ch.get("score_signal_noise"), ch.get("score_originality"),
             ch.get("score_lasting_impact"), ch.get("composite_score"),
             ch.get("tier"), ch.get("scoring_notes"), ch.get("sample_videos"),
-            ch.get("is_reviewed", False), ch.get("is_featured", False),
+            ch.get("thumbnail_url"), ch.get("is_reviewed", False),
+            ch.get("is_featured", False),
         ))
         inserted += cur.rowcount
 
@@ -153,6 +173,13 @@ def init_pg():
     try:
         cur = conn.cursor()
         cur.execute(PG_SCHEMA)
+        # Add thumbnail_url column if missing (migration for existing DBs)
+        cur.execute("""
+            DO $$ BEGIN
+                ALTER TABLE channels ADD COLUMN thumbnail_url TEXT;
+            EXCEPTION WHEN duplicate_column THEN NULL;
+            END $$;
+        """)
         for slug, name, icon, sort_order in CATEGORIES:
             cur.execute(
                 "INSERT INTO categories (slug, name, icon, sort_order) "
