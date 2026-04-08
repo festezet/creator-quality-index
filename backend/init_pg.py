@@ -181,6 +181,21 @@ def init_pg():
             EXCEPTION WHEN duplicate_column THEN NULL;
             END $$;
         """)
+        # Add AI analysis columns if missing
+        for col_name, col_type in [
+            ("ai_score_research", "INTEGER"),
+            ("ai_score_signal_noise", "INTEGER"),
+            ("ai_score_originality", "INTEGER"),
+            ("ai_score_lasting_impact", "INTEGER"),
+            ("ai_analysis_date", "TIMESTAMP"),
+            ("ai_analysis_notes", "TEXT"),
+        ]:
+            cur.execute(f"""
+                DO $$ BEGIN
+                    ALTER TABLE channels ADD COLUMN {col_name} {col_type};
+                EXCEPTION WHEN duplicate_column THEN NULL;
+                END $$;
+            """)
         for slug, name, icon, sort_order in CATEGORIES:
             cur.execute(
                 "INSERT INTO categories (slug, name, icon, sort_order) "

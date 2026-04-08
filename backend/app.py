@@ -50,6 +50,38 @@ def index():
     return resp
 
 
+@app.route("/robots.txt")
+def robots_txt():
+    content = """User-agent: *
+Allow: /
+Sitemap: https://creator-quality-index.onrender.com/sitemap.xml
+"""
+    resp = make_response(content)
+    resp.headers["Content-Type"] = "text/plain; charset=utf-8"
+    return resp
+
+
+@app.route("/sitemap.xml")
+def sitemap_xml():
+    content = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://creator-quality-index.onrender.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://creator-quality-index.onrender.com/#methodology</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
+"""
+    resp = make_response(content)
+    resp.headers["Content-Type"] = "application/xml; charset=utf-8"
+    return resp
+
+
 @app.route("/static/<path:filename>")
 def serve_static(filename):
     file_path = os.path.join(FRONTEND_DIR, "static", filename)

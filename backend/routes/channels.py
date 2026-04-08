@@ -30,6 +30,8 @@ def list_channels():
         "score_research_depth", "score_production",
         "score_signal_noise", "score_originality",
         "score_lasting_impact", "created_at",
+        "ai_score_research", "ai_score_signal_noise",
+        "ai_score_originality", "ai_score_lasting_impact",
     }
     if sort not in allowed_sorts:
         sort = "composite_score"

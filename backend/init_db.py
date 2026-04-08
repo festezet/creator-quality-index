@@ -113,6 +113,38 @@ def init_db():
     print(f"  {len(CATEGORIES)} categories seeded")
 
 
+AI_COLUMNS_MIGRATION = """
+ALTER TABLE channels ADD COLUMN ai_score_research INTEGER;
+ALTER TABLE channels ADD COLUMN ai_score_signal_noise INTEGER;
+ALTER TABLE channels ADD COLUMN ai_score_originality INTEGER;
+ALTER TABLE channels ADD COLUMN ai_score_lasting_impact INTEGER;
+ALTER TABLE channels ADD COLUMN ai_analysis_date TEXT;
+ALTER TABLE channels ADD COLUMN ai_analysis_notes TEXT;
+"""
+
+
+def ensure_ai_columns():
+    """Add AI score columns if they don't exist (migration)."""
+    conn = get_connection(DB_PATH)
+    cursor = conn.cursor()
+    cursor.execute("PRAGMA table_info(channels)")
+    existing = {row[1] for row in cursor.fetchall()}
+    new_cols = [
+        ("ai_score_research", "INTEGER"),
+        ("ai_score_signal_noise", "INTEGER"),
+        ("ai_score_originality", "INTEGER"),
+        ("ai_score_lasting_impact", "INTEGER"),
+        ("ai_analysis_date", "TEXT"),
+        ("ai_analysis_notes", "TEXT"),
+    ]
+    for col_name, col_type in new_cols:
+        if col_name not in existing:
+            conn.execute(f"ALTER TABLE channels ADD COLUMN {col_name} {col_type}")
+            print(f"  Added column: {col_name}")
+    conn.commit()
+    conn.close()
+
+
 COMMUNITY_TABLES = """
 CREATE TABLE IF NOT EXISTS community_ratings (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -151,3 +183,4 @@ def ensure_community_tables():
 
 if __name__ == "__main__":
     init_db()
+    ensure_ai_columns()
