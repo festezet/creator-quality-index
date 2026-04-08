@@ -50,6 +50,13 @@ def index():
     return resp
 
 
+@app.route("/google34d892dfcaaecc3b.html")
+def google_verification():
+    resp = make_response("google-site-verification: google34d892dfcaaecc3b.html")
+    resp.headers["Content-Type"] = "text/html; charset=utf-8"
+    return resp
+
+
 @app.route("/robots.txt")
 def robots_txt():
     content = """User-agent: *
