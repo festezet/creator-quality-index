@@ -264,13 +264,24 @@ def _cache_stats():
 
 @admin_bp.route("/api/admin/pipeline", methods=["GET"])
 def pipeline_status():
-    """Phase A/B pipeline state : status counts, per-channel breakdown, rates, cache."""
-    # Global status counts
-    status_rows = db_query("""
-        SELECT status, COUNT(*) AS n
-        FROM download_progress
-        GROUP BY status
-    """)
+    """Phase A/B pipeline state : status counts, per-channel breakdown, rates, cache.
+
+    Returns {"available": false} when the local-only download_progress table is
+    missing (production deployments do not run the audio pipeline).
+    """
+    # Global status counts — also used to detect missing table
+    try:
+        status_rows = db_query("""
+            SELECT status, COUNT(*) AS n
+            FROM download_progress
+            GROUP BY status
+        """)
+    except Exception as exc:
+        return success({
+            "available": False,
+            "reason": "download_progress table not found (pipeline runs locally only)",
+            "detail": str(exc).splitlines()[0][:200],
+        })
     status_counts = {r["status"]: r["n"] for r in status_rows}
 
     # Total videos in manifest

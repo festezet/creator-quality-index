@@ -82,6 +82,13 @@ def db_query(sql, params=None, one=False):
         if one:
             return result[0] if result else None
         return result
+    except Exception:
+        if IS_POSTGRES:
+            try:
+                conn.rollback()
+            except Exception:
+                pass
+        raise
     finally:
         release_db(conn)
 
