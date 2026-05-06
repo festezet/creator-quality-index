@@ -18,6 +18,7 @@ except ImportError:
     from backend.helpers import setup_cors, register_health, success, setup_logger
 
 from backend.config import HOST, PORT, DEBUG, SERVICE_NAME, FRONTEND_DIR, DOCS_DIR, DB_PATH, IS_POSTGRES
+from backend.auth import require_admin_auth
 
 logger = setup_logger(SERVICE_NAME)
 
@@ -53,6 +54,7 @@ def index():
 
 
 @app.route("/admin")
+@require_admin_auth
 def admin_page():
     admin_path = os.path.join(FRONTEND_DIR, "admin.html")
     if not os.path.exists(admin_path):
@@ -65,6 +67,7 @@ def admin_page():
 
 
 @app.route("/admin/pipeline")
+@require_admin_auth
 def admin_pipeline_page():
     p = os.path.join(FRONTEND_DIR, "pipeline.html")
     if not os.path.exists(p):

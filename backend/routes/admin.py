@@ -10,6 +10,7 @@ except ImportError:
     from backend.helpers import success, error
 
 from backend.db_adapter import db_query
+from backend.auth import require_admin_auth
 
 admin_bp = Blueprint("admin", __name__)
 
@@ -100,6 +101,7 @@ def _load_video_scores_map():
 
 
 @admin_bp.route("/api/admin/synthesis", methods=["GET"])
+@require_admin_auth
 def synthesis():
     """Return synthesis table: all channels with transcript + AI score status."""
     channels = db_query("""
@@ -263,6 +265,7 @@ def _cache_stats():
 
 
 @admin_bp.route("/api/admin/pipeline", methods=["GET"])
+@require_admin_auth
 def pipeline_status():
     """Phase A/B pipeline state : status counts, per-channel breakdown, rates, cache.
 
