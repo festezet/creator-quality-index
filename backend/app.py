@@ -30,11 +30,13 @@ from backend.routes.channels import channels_bp
 from backend.routes.categories import categories_bp
 from backend.routes.stats import stats_bp
 from backend.routes.community import community_bp
+from backend.routes.admin import admin_bp
 
 app.register_blueprint(channels_bp)
 app.register_blueprint(categories_bp)
 app.register_blueprint(stats_bp)
 app.register_blueprint(community_bp)
+app.register_blueprint(admin_bp)
 
 
 
@@ -44,6 +46,30 @@ def index():
     if not os.path.exists(index_path):
         return jsonify({"error": "index.html not found", "path": index_path}), 404
     with open(index_path, "r", encoding="utf-8") as f:
+        html = f.read()
+    resp = make_response(html)
+    resp.headers["Content-Type"] = "text/html; charset=utf-8"
+    return resp
+
+
+@app.route("/admin")
+def admin_page():
+    admin_path = os.path.join(FRONTEND_DIR, "admin.html")
+    if not os.path.exists(admin_path):
+        return jsonify({"error": "admin.html not found"}), 404
+    with open(admin_path, "r", encoding="utf-8") as f:
+        html = f.read()
+    resp = make_response(html)
+    resp.headers["Content-Type"] = "text/html; charset=utf-8"
+    return resp
+
+
+@app.route("/admin/pipeline")
+def admin_pipeline_page():
+    p = os.path.join(FRONTEND_DIR, "pipeline.html")
+    if not os.path.exists(p):
+        return jsonify({"error": "pipeline.html not found"}), 404
+    with open(p, "r", encoding="utf-8") as f:
         html = f.read()
     resp = make_response(html)
     resp.headers["Content-Type"] = "text/html; charset=utf-8"

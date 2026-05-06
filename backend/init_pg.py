@@ -196,6 +196,35 @@ def init_pg():
                 EXCEPTION WHEN duplicate_column THEN NULL;
                 END $$;
             """)
+        # Create video_scores table
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS video_scores (
+                id SERIAL PRIMARY KEY,
+                channel_id INTEGER NOT NULL REFERENCES channels(id),
+                video_id TEXT NOT NULL,
+                video_title TEXT,
+                transcript_length INTEGER,
+                score_research INTEGER CHECK(score_research BETWEEN 1 AND 10),
+                score_signal_noise INTEGER CHECK(score_signal_noise BETWEEN 1 AND 10),
+                score_originality INTEGER CHECK(score_originality BETWEEN 1 AND 10),
+                score_lasting_impact INTEGER CHECK(score_lasting_impact BETWEEN 1 AND 10),
+                reasoning TEXT,
+                scored_at TIMESTAMP DEFAULT NOW(),
+                UNIQUE(channel_id, video_id)
+            );
+            CREATE INDEX IF NOT EXISTS idx_video_scores_channel ON video_scores(channel_id);
+        """)
+        # Add video scoring tracking columns to channels
+        for col_name, col_type in [
+            ("ai_videos_scored", "INTEGER DEFAULT 0"),
+            ("ai_videos_target", "INTEGER DEFAULT 26"),
+        ]:
+            cur.execute(f"""
+                DO $$ BEGIN
+                    ALTER TABLE channels ADD COLUMN {col_name} {col_type};
+                EXCEPTION WHEN duplicate_column THEN NULL;
+                END $$;
+            """)
         for slug, name, icon, sort_order in CATEGORIES:
             cur.execute(
                 "INSERT INTO categories (slug, name, icon, sort_order) "

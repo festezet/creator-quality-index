@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CQI Admin — Pipeline</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --surface: #1a1d27;
+    --border: #2a2d37;
+    --text: #e1e4ea;
+    --muted: #8b8fa3;
+    --accent: #00d4ff;
+    --green: #22c55e;
+    --yellow: #eab308;
+    --red: #ef4444;
+    --orange: #f97316;
+    --purple: #a855f7;
+    --blue: #3b82f6;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, monospace;
+    background: var(--bg);
+    color: var(--text);
+    padding: 24px;
+    line-height: 1.5;
+  }
+  h1 { color: var(--accent); font-size: 1.5rem; margin-bottom: 4px; }
+  h2 { color: var(--text); font-size: 1.1rem; margin: 24px 0 12px; border-left: 3px solid var(--accent); padding-left: 10px; }
+  .subtitle { color: var(--muted); font-size: 0.85rem; margin-bottom: 8px; }
+  .meta { color: var(--muted); font-size: 0.75rem; margin-bottom: 16px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .stat-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 14px;
+  }
+  .stat-card .value {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--accent);
+    line-height: 1.1;
+  }
+  .stat-card .label {
+    font-size: 0.7rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 6px;
+  }
+  .stat-card .extra {
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+  .stat-card.green .value { color: var(--green); }
+  .stat-card.yellow .value { color: var(--yellow); }
+  .stat-card.red .value { color: var(--red); }
+  .stat-card.orange .value { color: var(--orange); }
+  .stat-card.purple .value { color: var(--purple); }
+  .stat-card.blue .value { color: var(--blue); }
+
+  /* Progress bar */
+  .progress-bar {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    height: 22px;
+    position: relative;
+    overflow: hidden;
+    margin: 8px 0 24px;
+  }
+  .progress-bar .seg { height: 100%; display: inline-block; vertical-align: top; }
+  .seg.ok { background: var(--green); }
+  .seg.dl { background: var(--blue); }
+  .seg.fail { background: var(--red); }
+  .seg.retry { background: var(--orange); }
+  .progress-bar .label-overlay {
+    position: absolute; top: 0; left: 8px; line-height: 22px;
+    font-size: 0.75rem; color: white; mix-blend-mode: difference;
+    pointer-events: none;
+  }
+
+  /* Tables */
+  table {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 0.8rem;
+    overflow: hidden;
+  }
+  th {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    color: var(--muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+    letter-spacing: 0.04em;
+    background: var(--bg);
+    position: sticky;
+    top: 0;
+  }
+  td {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(255,255,255,0.02); }
+
+  .num { text-align: right; font-variant-numeric: tabular-nums; }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    background: var(--border);
+    color: var(--text);
+  }
+  .badge.ok { background: rgba(34,197,94,0.18); color: var(--green); }
+  .badge.dl { background: rgba(59,130,246,0.18); color: var(--blue); }
+  .badge.fail { background: rgba(239,68,68,0.18); color: var(--red); }
+  .badge.retry { background: rgba(249,115,22,0.18); color: var(--orange); }
+  .badge.muted { color: var(--muted); }
+
+  .scroll-y {
+    max-height: 420px;
+    overflow-y: auto;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .scroll-y table { border: none; border-radius: 0; }
+
+  .controls {
+    display: flex; gap: 12px; align-items: center; margin-bottom: 12px;
+    flex-wrap: wrap;
+  }
+  .controls input, .controls select {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+  }
+  .auto-toggle {
+    display: flex; align-items: center; gap: 6px;
+    color: var(--muted); font-size: 0.8rem;
+  }
+  .pulse {
+    display: inline-block;
+    width: 8px; height: 8px;
+    background: var(--green);
+    border-radius: 50%;
+    animation: pulse 1.4s ease-in-out infinite;
+    margin-right: 6px;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(1.3); }
+  }
+  .pulse.off { animation: none; background: var(--muted); }
+
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  @media (max-width: 1024px) { .grid-2 { grid-template-columns: 1fr; } }
+
+  .channel-row .micro-bar {
+    display: inline-block;
+    width: 80px;
+    height: 8px;
+    background: var(--bg);
+    border-radius: 4px;
+    overflow: hidden;
+    vertical-align: middle;
+    margin-left: 6px;
+  }
+  .channel-row .micro-bar > span {
+    display: inline-block; height: 100%;
+    background: var(--green); vertical-align: top;
+  }
+  .channel-row .micro-bar > .dl-seg { background: var(--blue); }
+  .channel-row .micro-bar > .fail-seg { background: var(--red); }
+</style>
+</head>
+<body>
+
+<h1>Pipeline status — CQI</h1>
+<div class="subtitle">Phase A (audio download to firecuda) | Phase B (Whisper transcription)</div>
+<div class="meta">
+  <span class="pulse" id="pulse"></span>
+  <span id="lastUpdate">Loading...</span>
+  &nbsp;·&nbsp;
+  <label class="auto-toggle"><input type="checkbox" id="autoRefresh" checked> auto-refresh 10s</label>
+  &nbsp;·&nbsp;
+  <a href="/admin">← back to /admin</a>
+  &nbsp;·&nbsp;
+  <a href="/">home</a>
+</div>
+
+<!-- Top stats -->
+<div class="stats-grid" id="statsGrid"></div>
+
+<!-- Progress bar -->
+<div>
+  <div class="subtitle">Manifest progress (transcribed / downloaded waiting / failed / pending)</div>
+  <div class="progress-bar" id="progressBar">
+    <span class="label-overlay" id="progressLabel"></span>
+  </div>
+</div>
+
+<div class="grid-2">
+
+  <div>
+    <h2>Channels — top 15 by transcribed</h2>
+    <div class="scroll-y">
+      <table id="channelsTopTable">
+        <thead><tr>
+          <th>#</th><th>Channel</th><th class="num">OK</th>
+          <th class="num">DL queue</th><th class="num">Fail</th>
+          <th class="num">Pending</th><th>Coverage</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div>
+    <h2>Channels — bottom 15 (least progress)</h2>
+    <div class="scroll-y">
+      <table id="channelsBottomTable">
+        <thead><tr>
+          <th>#</th><th>Channel</th><th class="num">OK</th>
+          <th class="num">DL queue</th><th class="num">Fail</th>
+          <th class="num">Pending</th><th>Coverage</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+<h2>Recent activity <span id="recentCount" style="color:var(--muted);font-size:0.8rem;font-weight:normal;"></span></h2>
+<div class="controls">
+  <input type="text" id="filterChannel" placeholder="Filter by channel name...">
+  <select id="filterStatus">
+    <option value="">All status</option>
+    <option value="ok">ok</option>
+    <option value="downloaded">downloaded</option>
+    <option value="download_failed">download_failed</option>
+    <option value="whisper_failed">whisper_failed</option>
+    <option value="rate_limited">rate_limited</option>
+    <option value="timeout">timeout</option>
+  </select>
+  <select id="recentLimit" title="Max rows fetched from DB">
+    <option value="100">100 rows</option>
+    <option value="200" selected>200 rows</option>
+    <option value="500">500 rows</option>
+    <option value="1000">1000 rows</option>
+  </select>
+  <select id="recentHours" title="Time window">
+    <option value="0" selected>All time</option>
+    <option value="0.25">Last 15 min</option>
+    <option value="1">Last 1 h</option>
+    <option value="6">Last 6 h</option>
+    <option value="24">Last 24 h</option>
+    <option value="168">Last 7 d</option>
+  </select>
+</div>
+<div class="scroll-y">
+  <table id="recentTable">
+    <thead><tr>
+      <th>Time</th><th>Channel</th><th>Video</th><th>Status</th>
+      <th class="num">Words</th><th>Lang</th><th>Source</th>
+    </tr></thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+<script>
+const fmtBytes = (b) => {
+  if (!b) return '0 B';
+  const u = ['B','KB','MB','GB','TB'];
+  let i = 0; while (b >= 1024 && i < u.length-1) { b /= 1024; i++; }
+  return `${b.toFixed(1)} ${u[i]}`;
+};
+const fmtNum = (n) => (n === null || n === undefined) ? '–' : n.toLocaleString();
+const fmtAge = (ts) => {
+  if (!ts) return '–';
+  const d = new Date(ts.replace(' ', 'T') + 'Z');
+  const sec = Math.floor((Date.now() - d.getTime()) / 1000);
+  if (sec < 60) return `${sec}s ago`;
+  if (sec < 3600) return `${Math.floor(sec/60)}m ago`;
+  if (sec < 86400) return `${Math.floor(sec/3600)}h ago`;
+  return `${Math.floor(sec/86400)}d ago`;
+};
+const statusBadgeClass = (s) => {
+  if (s === 'ok') return 'badge ok';
+  if (s === 'downloaded') return 'badge dl';
+  if (s === 'download_failed' || s === 'whisper_failed' || s === 'audio_missing') return 'badge fail';
+  if (s === 'rate_limited' || s === 'timeout') return 'badge retry';
+  return 'badge muted';
+};
+
+let state = { recent: [], channels: [] };
+
+function renderStats(d) {
+  const sc = d.status_counts || {};
+  const c = d.cache || {};
+  const cards = [
+    { label: 'Manifest total', value: fmtNum(d.manifest_total), cls: '' },
+    { label: 'Transcribed (OK)', value: fmtNum(d.transcribed_total), cls: 'green',
+      extra: `${Math.round(100*(d.transcribed_total||0)/(d.manifest_total||1))}% of manifest` },
+    { label: 'In Whisper queue', value: fmtNum(sc.downloaded || 0), cls: 'blue' },
+    { label: 'Remaining', value: fmtNum(d.remaining), cls: 'orange' },
+    { label: 'Download fails', value: fmtNum(sc.download_failed || 0), cls: 'red' },
+    { label: 'Whisper fails', value: fmtNum(sc.whisper_failed || 0), cls: 'red' },
+    { label: 'Rate (transcr/h)', value: fmtNum(d.rates?.transcribed_per_hour), cls: 'purple',
+      extra: d.eta_hours != null ? `ETA ~${d.eta_hours.toFixed(1)}h` : '' },
+    { label: 'Cache audio', value: fmtBytes(c.bytes), cls: 'yellow',
+      extra: `${fmtNum(c.files)} files` },
+  ];
+  document.getElementById('statsGrid').innerHTML = cards.map(card => `
+    <div class="stat-card ${card.cls}">
+      <div class="label">${card.label}</div>
+      <div class="value">${card.value}</div>
+      ${card.extra ? `<div class="extra">${card.extra}</div>` : ''}
+    </div>
+  `).join('');
+}
+
+function renderProgress(d) {
+  const total = d.manifest_total || 1;
+  const ok = d.transcribed_total || 0;
+  const dl = d.status_counts?.downloaded || 0;
+  const fail = (d.status_counts?.download_failed || 0) + (d.status_counts?.whisper_failed || 0);
+  const retry = (d.status_counts?.rate_limited || 0) + (d.status_counts?.timeout || 0);
+  const pending = Math.max(total - ok - dl - fail - retry, 0);
+  const pct = (n) => `${(100 * n / total).toFixed(2)}%`;
+  document.getElementById('progressBar').innerHTML = `
+    <span class="seg ok" style="width:${pct(ok)}" title="OK: ${ok}"></span>
+    <span class="seg dl" style="width:${pct(dl)}" title="Downloaded: ${dl}"></span>
+    <span class="seg retry" style="width:${pct(retry)}" title="Retry: ${retry}"></span>
+    <span class="seg fail" style="width:${pct(fail)}" title="Fail: ${fail}"></span>
+    <span class="label-overlay">${ok}/${total} OK · ${dl} queued · ${fail} fail · ${pending} pending</span>
+  `;
+}
+
+function microBar(row) {
+  const t = row.target || 26;
+  const ok = (row.transcribed||0) / t * 100;
+  const dl = (row.downloaded||0) / t * 100;
+  const fail = ((row.dl_failed||0) + (row.whisper_failed||0)) / t * 100;
+  return `<span class="micro-bar">
+    <span style="width:${ok}%"></span>
+    <span class="dl-seg" style="width:${dl}%"></span>
+    <span class="fail-seg" style="width:${fail}%"></span>
+  </span>`;
+}
+
+function renderChannels(channels) {
+  const sortByOK = [...channels].sort((a,b) => (b.transcribed||0) - (a.transcribed||0));
+  const sortByPending = [...channels].sort((a,b) =>
+    ((a.transcribed||0) + (a.downloaded||0)) - ((b.transcribed||0) + (b.downloaded||0))
+  );
+
+  const renderRow = (r, idx) => `
+    <tr class="channel-row">
+      <td class="num">${idx+1}</td>
+      <td><b>${r.name||'?'}</b><br><span class="badge muted">${r.tier||'-'} · ${r.primary_category||'-'}</span></td>
+      <td class="num">${r.transcribed||0}</td>
+      <td class="num">${r.downloaded||0}</td>
+      <td class="num">${(r.dl_failed||0)+(r.whisper_failed||0)}</td>
+      <td class="num">${r.pending||0}</td>
+      <td>${(r.transcribed||0)}/${r.target||26} ${microBar(r)}</td>
+    </tr>
+  `;
+
+  document.querySelector('#channelsTopTable tbody').innerHTML =
+    sortByOK.slice(0,15).map(renderRow).join('');
+  document.querySelector('#channelsBottomTable tbody').innerHTML =
+    sortByPending.slice(0,15).map(renderRow).join('');
+}
+
+function renderRecent() {
+  const fc = document.getElementById('filterChannel').value.toLowerCase();
+  const fs = document.getElementById('filterStatus').value;
+  const channelMap = Object.fromEntries(state.channels.map(c => [c.id, c.name]));
+
+  const rows = state.recent.filter(r => {
+    const name = (channelMap[r.channel_id] || '').toLowerCase();
+    if (fc && !name.includes(fc)) return false;
+    if (fs && r.status !== fs) return false;
+    return true;
+  });
+
+  const cnt = document.getElementById('recentCount');
+  if (cnt) cnt.textContent = `(${rows.length} shown / ${state.recent.length} loaded)`;
+
+  document.querySelector('#recentTable tbody').innerHTML = rows.map(r => `
+    <tr>
+      <td title="${r.last_attempt_at||''}">${fmtAge(r.last_attempt_at)}</td>
+      <td>${channelMap[r.channel_id] || `#${r.channel_id}`}</td>
+      <td><code>${r.video_id}</code></td>
+      <td><span class="${statusBadgeClass(r.status)}">${r.status}</span></td>
+      <td class="num">${r.words||'–'}</td>
+      <td>${r.lang||'–'}</td>
+      <td>${r.source||'–'}</td>
+    </tr>
+  `).join('');
+}
+
+async function refresh() {
+  try {
+    const limit = document.getElementById('recentLimit').value;
+    const hours = document.getElementById('recentHours').value;
+    const qs = new URLSearchParams({ recent_limit: limit, recent_hours: hours });
+    const r = await fetch(`/api/admin/pipeline?${qs}`);
+    const data = await r.json();
+    const d = data.data || data;
+    state.recent = d.recent || [];
+    state.channels = d.channels || [];
+    renderStats(d);
+    renderProgress(d);
+    renderChannels(state.channels);
+    renderRecent();
+    document.getElementById('lastUpdate').textContent =
+      `Updated ${new Date().toLocaleTimeString()}`;
+    document.getElementById('pulse').classList.remove('off');
+  } catch (e) {
+    document.getElementById('lastUpdate').textContent = `Error: ${e.message}`;
+    document.getElementById('pulse').classList.add('off');
+  }
+}
+
+document.getElementById('filterChannel').addEventListener('input', renderRecent);
+document.getElementById('filterStatus').addEventListener('change', renderRecent);
+document.getElementById('recentLimit').addEventListener('change', refresh);
+document.getElementById('recentHours').addEventListener('change', refresh);
+
+let timer = null;
+function setupAutoRefresh() {
+  if (timer) clearInterval(timer);
+  if (document.getElementById('autoRefresh').checked) {
+    timer = setInterval(refresh, 10000);
+  }
+}
+document.getElementById('autoRefresh').addEventListener('change', setupAutoRefresh);
+
+refresh();
+setupAutoRefresh();
+</script>
+
+</body>
+</html>

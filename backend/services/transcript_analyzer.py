@@ -104,6 +104,31 @@ def get_recent_video_id(channel_url):
     return None
 
 
+def get_recent_video_ids(channel_url, count=30):
+    """Get the N most recent video IDs from a channel using yt-dlp.
+
+    Args:
+        channel_url: Full YouTube channel URL.
+        count: Number of videos to retrieve (default 30).
+
+    Returns:
+        List of video ID strings, or empty list on failure.
+    """
+    try:
+        result = subprocess.run(
+            [
+                "yt-dlp", "--flat-playlist", "--playlist-end", str(count),
+                "--print", "%(id)s", f"{channel_url}/videos",
+            ],
+            capture_output=True, text=True, timeout=60,
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            return [vid.strip() for vid in result.stdout.strip().split("\n") if vid.strip()]
+    except (subprocess.TimeoutExpired, FileNotFoundError) as e:
+        logger.warning("yt-dlp failed for %s: %s", channel_url, e)
+    return []
+
+
 def get_video_title(video_id):
     """Get video title via yt-dlp."""
     try:

@@ -181,6 +181,48 @@ def ensure_community_tables():
     conn.close()
 
 
+VIDEO_SCORES_TABLE = """
+CREATE TABLE IF NOT EXISTS video_scores (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    channel_id INTEGER NOT NULL REFERENCES channels(id),
+    video_id TEXT NOT NULL,
+    video_title TEXT,
+    transcript_length INTEGER,
+    score_research INTEGER CHECK(score_research BETWEEN 1 AND 10),
+    score_signal_noise INTEGER CHECK(score_signal_noise BETWEEN 1 AND 10),
+    score_originality INTEGER CHECK(score_originality BETWEEN 1 AND 10),
+    score_lasting_impact INTEGER CHECK(score_lasting_impact BETWEEN 1 AND 10),
+    reasoning TEXT,
+    scored_at TEXT DEFAULT (datetime('now')),
+    UNIQUE(channel_id, video_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_video_scores_channel ON video_scores(channel_id);
+"""
+
+
+def ensure_video_scores_table():
+    """Create video_scores table and add tracking columns to channels (migration)."""
+    conn = get_connection(DB_PATH)
+    conn.executescript(VIDEO_SCORES_TABLE)
+
+    # Add tracking columns to channels
+    cursor = conn.cursor()
+    cursor.execute("PRAGMA table_info(channels)")
+    existing = {row[1] for row in cursor.fetchall()}
+    new_cols = [
+        ("ai_videos_scored", "INTEGER DEFAULT 0"),
+        ("ai_videos_target", "INTEGER DEFAULT 26"),
+    ]
+    for col_name, col_type in new_cols:
+        if col_name not in existing:
+            conn.execute(f"ALTER TABLE channels ADD COLUMN {col_name} {col_type}")
+            print(f"  Added column: {col_name}")
+    conn.commit()
+    conn.close()
+
+
 if __name__ == "__main__":
     init_db()
     ensure_ai_columns()
+    ensure_video_scores_table()

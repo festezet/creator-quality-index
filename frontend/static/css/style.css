@@ -884,6 +884,13 @@ body {
     flex-shrink: 0;
 }
 
+.modal-criteria-bars {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
 .modal-criteria-bar-track {
     flex: 1;
     height: 8px;
@@ -892,10 +899,19 @@ body {
     overflow: hidden;
 }
 
+.ai-bar-track {
+    height: 5px;
+}
+
 .modal-criteria-bar-fill {
     height: 100%;
     border-radius: 4px;
     transition: width var(--transition-slow);
+}
+
+.ai-bar-fill {
+    background: #22d3ee !important;
+    opacity: 0.7;
 }
 
 .modal-criteria-value {
@@ -903,9 +919,33 @@ body {
     font-weight: 700;
     font-variant-numeric: tabular-nums;
     color: var(--text-primary);
-    width: 24px;
+    width: 40px;
     text-align: right;
     flex-shrink: 0;
+}
+
+.ai-val {
+    color: #22d3ee;
+    font-weight: 500;
+    font-size: 11px;
+}
+
+.ai-legend {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 4px;
+}
+
+.ai-legend-bar {
+    display: inline-block;
+    width: 20px;
+    height: 5px;
+    background: #22d3ee;
+    opacity: 0.7;
+    border-radius: 3px;
 }
 
 /* Modal sections */

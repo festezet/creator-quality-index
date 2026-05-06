@@ -77,11 +77,11 @@
 
     // --- Criteria config ---
     const CRITERIA = [
-        { key: "score_research_depth", label: "Research", short: "Research" },
-        { key: "score_production", label: "Production", short: "Production" },
-        { key: "score_signal_noise", label: "Signal/Noise", short: "Signal" },
-        { key: "score_originality", label: "Originality", short: "Original." },
-        { key: "score_lasting_impact", label: "Impact", short: "Impact" },
+        { key: "score_research_depth", label: "Research", short: "Research", aiKey: "ai_score_research" },
+        { key: "score_production", label: "Production", short: "Production", aiKey: null },
+        { key: "score_signal_noise", label: "Signal/Noise", short: "Signal", aiKey: "ai_score_signal_noise" },
+        { key: "score_originality", label: "Originality", short: "Original.", aiKey: "ai_score_originality" },
+        { key: "score_lasting_impact", label: "Impact", short: "Impact", aiKey: "ai_score_lasting_impact" },
     ];
 
     // --- Category colors for avatars ---
@@ -798,18 +798,32 @@
                 </div>
                 <div class="modal-tier-badge ${tierClass(tier)}">${tier}</div>
                 <div class="modal-criteria-list">
-                    ${CRITERIA.map((c) => {
-                        const val = ch[c.key] != null ? ch[c.key] : 0;
-                        const pct = (val / 10) * 100;
-                        return `
-                            <div class="modal-criteria-row">
+                    ${(() => {
+                        const hasAnyAi = CRITERIA.some(c => c.aiKey && ch[c.aiKey] != null);
+                        return CRITERIA.map((c) => {
+                            const val = ch[c.key] != null ? ch[c.key] : 0;
+                            const pct = (val / 10) * 100;
+                            const aiVal = c.aiKey ? ch[c.aiKey] : null;
+                            const aiPct = aiVal != null ? (aiVal / 10) * 100 : 0;
+                            const hasAi = aiVal != null;
+                            return `
+                            <div class="modal-criteria-row${hasAi ? ' has-ai' : ''}">
                                 <span class="modal-criteria-label">${c.label}</span>
-                                <div class="modal-criteria-bar-track">
-                                    <div class="modal-criteria-bar-fill ${barTierClass(tier)}" style="width:${pct}%"></div>
+                                <div class="modal-criteria-bars">
+                                    <div class="modal-criteria-bar-track">
+                                        <div class="modal-criteria-bar-fill ${barTierClass(tier)}" style="width:${pct}%"></div>
+                                    </div>
+                                    ${hasAi ? `<div class="modal-criteria-bar-track ai-bar-track">
+                                        <div class="modal-criteria-bar-fill ai-bar-fill" style="width:${aiPct}%"></div>
+                                    </div>` : ''}
                                 </div>
-                                <span class="modal-criteria-value">${val || "--"}</span>
+                                <span class="modal-criteria-value">${val || "--"}${hasAi ? `<span class="ai-val">/${aiVal}</span>` : ''}</span>
                             </div>`;
-                    }).join("")}
+                        }).join("") + (hasAnyAi ? `
+                        <div class="ai-legend">
+                            <span class="ai-legend-bar"></span> AI transcript score
+                        </div>` : '');
+                    })()}
                 </div>
             </div>
 
