@@ -9,11 +9,13 @@ except ImportError:
     from backend.helpers import success, error
 
 from backend.db_adapter import db_query
+from backend.limiter import limiter
 
 channels_bp = Blueprint("channels", __name__)
 
 
 @channels_bp.route("/api/channels", methods=["GET"])
+@limiter.limit("120 per hour")
 def list_channels():
     """List channels with filtering, sorting, pagination."""
     category = request.args.get("category")
@@ -90,6 +92,7 @@ def list_channels():
 
 
 @channels_bp.route("/api/channels/<int:channel_id>", methods=["GET"])
+@limiter.limit("300 per hour")
 def get_channel(channel_id):
     """Get a single channel by ID."""
     sql = """

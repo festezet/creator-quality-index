@@ -11,6 +11,7 @@ except ImportError:
 
 from backend.db_adapter import db_query, db_execute
 from backend.config import IS_POSTGRES
+from backend.limiter import limiter
 
 community_bp = Blueprint("community", __name__)
 
@@ -72,6 +73,7 @@ def get_comments(channel_id):
 
 
 @community_bp.route("/api/channels/<int:channel_id>/comments", methods=["POST"])
+@limiter.limit("10 per hour")
 def post_comment(channel_id):
     """Post a comment on a channel."""
     visitor_id = _get_visitor_id()
@@ -114,6 +116,7 @@ def post_comment(channel_id):
 
 
 @community_bp.route("/api/comments/<int:comment_id>/upvote", methods=["POST"])
+@limiter.limit("60 per hour")
 def upvote_comment(comment_id):
     """Upvote a comment."""
     visitor_id = _get_visitor_id()

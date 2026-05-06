@@ -19,12 +19,22 @@ except ImportError:
 
 from backend.config import HOST, PORT, DEBUG, SERVICE_NAME, FRONTEND_DIR, DOCS_DIR, DB_PATH, IS_POSTGRES
 from backend.auth import require_admin_auth
+from backend.limiter import limiter
 
 logger = setup_logger(SERVICE_NAME)
 
 app = Flask(__name__, static_folder=None)
 setup_cors(app)
 register_health(app, SERVICE_NAME)
+limiter.init_app(app)
+
+
+# Exempt internal endpoints from rate limiting
+@limiter.request_filter
+def _exempt_health_and_static():
+    from flask import request as _r
+    p = _r.path
+    return p == "/health" or p.startswith("/static/")
 
 # Register blueprints
 from backend.routes.channels import channels_bp
