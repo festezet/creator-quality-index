@@ -1,0 +1,14 @@
+{
+  "channel_id": 117,
+  "name": "Stuff Made Here",
+  "research_depth": 7,
+  "signal_noise": 8,
+  "originality": 9,
+  "lasting_impact": 8,
+  "reasoning": {
+    "research_depth": "Strong practical engineering knowledge demonstrated through building real projects. Research is applied rather than theoretical.",
+    "signal_noise": "Good content density focused on the engineering process. Entertainment elements serve the narrative rather than being filler.",
+    "originality": "Highly original concept combining serious engineering with creative projects. The ambitious builds and problem-solving approach are genuinely unique.",
+    "lasting_impact": "Good evergreen value for engineering methodology and creative problem-solving. The projects themselves may become dated but the approach endures."
+  }
+}

@@ -1,0 +1,144 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Will Schoder
+**Video**: "Game of Thrones: The Repercussions of Mortality"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+(static emitting)
+(dramatic music) (sword slices) (somber music) - [Narrator] All the books
+in George R.R. Martin's epic series "The Song of Ice and Fire" are told in a third
+person limited narrative. That means characters are referred to as him or her rather
+than the first person, I. The narrative voice is not omniscient, and we only discover
+things that each character discovers from their own perspective. - [George] None of us are God. When we experience life, we see it through a particular viewpoint. If someone was sneaking up
+behind you with a knife, you wouldn't necessarily see that person, but I might, so it makes a huge difference in whose viewpoint we tell
+that particular incident from. - [Narrator] But Games of Thrones differs from the traditional uses
+of this narrative style with the number of narrators in the books. From the first book in
+the series to the fifth, Martin expanded the number
+of characters he followed from 9 to 31. This allows his story to span a huge amount of space and time without privileging any one point of view. - [Neil] You are right down there on the ground experiencing them, looking out through people's eyes, walking there with them
+and caring about them. And the moment you do that, you're lost, because you have to care. - [Narrator] By focusing
+on one character's consciousness at a time, Martin also increases the possibility for surprises to come from the outside. And think of how many surprises can come from 31 character arcs interacting with each other. The narrative structure and
+large character ensemble are important because they allow Martin to capitalize on what I believe to be his most powerful theme. - Death. - [Narrator] Since the first
+book was released in 1996, Martin has used the
+demise of his characters seemingly indiscriminately, destroying the typical tropes
+associated with fantasy, subverting the traditional
+prophecies of chosen ones, and continuing to shroud the identity of his series' protagonist, if there even is one. Martin does dabble in
+such prophecies however, creating inner-connected systems of belief for his characters. Several of these systems
+are rooted in the religions represented in Westerosi culture. There's The Seven, the Old
+Gods, the Lord of Light, the Drowned God, and many others. But over the course of the narrative, most of the deities the
+characters believe in do nothing. The Old Gods remain silent
+throughout the series, their vassals destroyed and
+their servants eliminated. The Seven Gods have a brief
+moment in the spotlight before they light blossoms into a destructive shade of green. The Drowned God hasn't done all that much, and while the Lord of Light
+pops in every now and then, one God plays an active and consistent role in the narrative. - There is only one God. And his name is Death. - [Narrator] One of the
+alternative names for death is the Many-Faced God of Bravos, the God the Faceless Men serve. Arya Stark meets more
+than a couple followers, her first being her water
+dancing teacher, Syrio Forel. As he tells Arya in season one, "There is only God, the God of Death." - And there is only one
+thing we say to death. Not today. - [Narrator] He does not say you can win, only that, at most, you can
+give yourself one more day. Given death's influence
+in Game of Thrones... (arrow fires) One is inclined to believe him. By having an entire culture
+in the series worship death, or at least accept its power
+and unstoppable nature, Martin and by extension, his showrunners, make it a focal point of discussion both within the series universe- - Does death only come for the wicked and leave the decent behind? - [Narrator] And outside of it. One of the common phrases
+spoke in Game of Thrones is the High Valyrian
+phrase, Valar Morghulis, which in English means "All men must die." As Martin said in an interview, "I think a writer, even a fantasy writer has an obligation to tell the truth. And the truth is, all me must die. We've all read the story a million times when a bunch of heroes
+set out on an adventure, and it's the hero, and his best friend, and his girlfriend, and they go through an amazing, hair-raising adventure, and none of them die. That's such a cheat." While there are certainly
+more than a couple examples of important deaths to look into, Ned Stark's had the greatest
+impact on the series. Despite the fact that Sean Bean, who has been killed
+onscreen a whopping 25 times was cast in the role, his death came as a complete surprise. This is because of the expectations Martin creates over the
+course of the first novel. While the novel follows
+several character's experiences simultaneously, Ned carries the bulk of
+the narrative's weight. He interacts with the most
+influential characters, carries the most power when he becomes the Hand of the King, and shares characteristics similar to several popular fantasy protagonists. His reluctance to rule mirrors Aragorn's, and his dedication to
+his duty mirrors Harry's. Despite his code of
+honor that separates him from the lustful Tyrion and
+the headstrong Daenerys, he meets the fate of a
+usurper and conspirator when the real usurpers and conspirators escape to live another day. Something truly out of the
+ordinary for a fantasy series. As writers Albert Anglberger and Alexander Hieke suggest, it is Ned's moral code
+that leads to his death, rather than saves him from it. "Eddard possessing the
+virtues of honesty and charity performs morally good actions both when he reveals to Cersei that he knows about Joffrey's lineage, and when he subsequently warns her about what might happen if
+the truth becomes public." While these qualities are admirable and traditionally
+applicable to the good guy in a fantasy series, in the world of Game of Thrones, they act as a detriment and a weakness. It was Ned's positive attributes that led to his downfall, not his negative ones. No salvation came to
+justify these qualities, he simply dies. This is largely due to
+Martin's affection for history. He has said the books are loosely based on the English War of Roses, and he wanted to show that in war, the truth is that all people, good or bad, have an equal possibility of perishing. He rarely betrays this desire
+to stay true to history. We see this in the Red Wedding, which has historical roots
+in two gruesome events that undoubtedly followed the rule. The decimation of Rob Stark
+and his family that night proved that Ned's death was not a fluke, a simple attempt to shock viewers, or anything other than a plain explanation for the basic law of the series. Again, Martin defied expectations by subverting the genre. He placed Rob in the spotlight, making him and his just campaign one of the primary foci. Rob attempted to take on
+several qualities of his father, making an effort to be an
+honorable leader worth following. This made the audience
+comfortable and content, luring them into a false sense of security where they believed the narrative was back on the traditional path of most fantasy series. At least until the King of
+the North's untimely demise. And unsurprisingly, everyone lost it. But despite these initial reactions, the viewership increased. The season 3 finale had
+5.39 million viewers where the season 4 finale had 7.09. A similar trend occurred
+when the season 5 finale ended with Jon Snow's betrayal and death. Despite everyone's flipping out again and claiming they were
+finished with the series, the season 6 finale
+pulled in 8.89 million, over three quarters of a million more than the season 5 finale. It makes plenty of sense when you consider how well trained television audiences have become to traditional narratives. It's clear there's a large audience that no longer wants to see death used as a cheap plot device, as it so often is in Hollywood. They want it to keep character arcs unexpected and honest without betraying the integrity of the story. And that's what Game of Thrones did. By sacrificing so many
+early on in the narrative, Martin effectively brought
+every character down to the same level. If no character is more
+protected than any other, boundless possibilities
+accompany each episode, leaving the audience uncertain as to where and how it will end. Where other series and
+writers create the illusion of danger and finality, Game of Thrones makes
+sure its viewers know there is no illusion about it. Every character is in equal danger, no matter their gender, class,
+or role in the narrative. Indeed, in a series where
+certain characters are safe, side characters become
+expendable by default. We're less likely to
+identify with side characters built up for the chopping block, because we know they
+won't be around for long. And we're less likely to identify with the primary and safe characters because their lack of mortality
+makes them less relatable. - [George] The Golden Boy, the character who can have everything and do everything, and is, you know, the superhero, my mind is less interested. When people are debating vigorously about whether a character is a good person or a bad person, that shows you
+it created a real character. Because then they're
+debating about that person the same way we in real life debate about President
+Obama or Winston Churchill or Neville Chamberlain, or
+real characters from history or from the current world. You know, if everybody thinks
+your character's a hero, or everybody thinks your
+character is a villain, then you're writing cardboard. Now there are those who think the series is becoming predictable, at least in regards to
+which characters are safe. Even if a viewer did not
+predict Jon Snow's death, they certainly predicted his resurrection. This may have to do with
+adapting a book for a TV show, or it may have to do with a feeling that a satisfying conclusion can only come from certain storylines. But as we've learned before, predictability doesn't really
+work for Games of Thrones. The resurrection of
+characters like Jon Snow and Beric Dondarrion are exceptions. - We all bloody die, except this one here. - [Narrator] The rule is that all men die. Just because it's possible
+for your favorite character to make it through it alive, it does make it any more
+of a distinct possibility than your least favorite. We've already learned from Rob and Ned that our expectations can be shattered by removing characters from the narrative when we never expected them to leave. Even if the series ends with a conclusion pulled out of a generic fantasy series, the viewers would be wary to accept it until its very end. Now, what I find especially compelling about the series' use of death is the ways in which it spins the story, how it impacts the characters
+who are still alive. Take for example, Jon Snow's
+death and resurrection. (Jon gasps) As Kit Harrington, the actor
+who plays Snow points out, "The experience completely alters the character's outlook on the world." - After they stabbed you, after you died, where did you go? What did you see? (dramatic music) - Nothing. - [Narrator] That cuts
+right to our deepest fear, that there's nothing after death. Jon's never been afraid of death, and that's made him a
+strong and honorable person. He realizes something about his life now. He has to live it, because
+that's all there is. He's been over the line,
+and there's nothing there. And that changes him. It literally puts the
+fear of God into him. He's seen oblivion, and
+that's gotta change somebody in the most fundamental way there is. Similar developments can be seen with Jamie Lannister and Sandor Clegane. While neither die, both go through a near death experience and are reborn. In the first season, Jamie tells Tyrion in regards to the
+recently paralyzed Bran... - Even if the boy lives,
+he'll be a cripple, grotesque. Give me a good, clean death any day. - [Narrator] Tyrion's response is... - Speaking for the grotesques,
+I'd have to disagree. Death is so final, whereas life, life is full of possibilities. - [Narrator] When Jamie
+becomes crippled himself, his eyes ar
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

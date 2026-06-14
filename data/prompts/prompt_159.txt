@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Exurb1a
+**Video**: "a pointless ad for my pointless new book"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Oh, hey. How's it going? Has your life been missing? Fun, intrigue, asbestos, gratan, duenoir, bangs, and the Polish city of Gdansk. Yes, I thought so. Then gosh darn do I have just the thing. It's another book that I wrote with my keyboard paws entirely for your displeasure. This is an ad for it. I am wasting your time and I lied about the Gdansk thing. It is called Sublimia Syndrome. It's five mini novelas, I guess, about a human civilization a million years from now and what might happen if we ever manage to get our together existentially speaking. And there's talking space whales and galactic social engineers and consciousness accelerators and lots of ripping off Isaac Azimoff, etc. If you happen to feel like wasting 6 hours of your life finding out why I wasted 2 years of mine, you can find a link below to the digital and print versions of the book. If you decide to pick it up, I am ever so grateful. Thank you. I should also apologize for not putting much out of late. Now and then people email me addressing the Exeria team and I always wonder who that could be because it's just her, sometimes this, and myself. So stuff takes a while sometimes. Thank you for being understanding. It's coming up for 10 years that I've been making nonsense online as a day job and that has only been possible with your support and kindness. So I just wanted to say, well, not that I like you or anything, but you're pretty okay. And even if giving this book a read isn't for you, thank you ever so much for following my stuff at all. I don't know what accounts for your lack of tastes, but I'm glad it coincides with my lack of talent. I hope you're having an adequate life. Please return to doomcrolling. Big love as ever, and cheers. [Music]
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

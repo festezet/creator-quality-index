@@ -1,0 +1,186 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Not Just Bikes
+**Video**: "Every Reason to Hate Cars"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Cars are great.
+They have revolutionized transportation around the world.
+They've made it possible for people to travel long distances quickly, they offer 
+easier access to remote areas, and they enable a more efficient transport of goods.
+For many, cars symbolize independence, success, and adventure.
+So it’s not surprising that cars have become a critical part of modern society.
+And yet, if you spend any time in urbanist circles, you'll find people who 
+want to take away car lanes, tear down highways,
+make cars drive slower, and even remove cars completely from many places. So why do these car-hating urbanists 
+want to destroy our freedoms? Well, I can't speak for all urbanists, but 
+I don’t actually want to eliminate cars. I don’t own a car today, simply because I 
+live in a place that makes it unnecessary, but I do have a driver’s license, 
+and I drive whenever I need to. So it’s not that I hate cars … 
+it's just that I love cities. And the fact is that cars ruin cities.
+So when you ruin the cities I love then yeah, I'm going to have a problem with that.
+So let’s talk about all the ways that cars harm cities, the environment, and people’s lives.
+And maybe, by the end of this video, you might hate cars just a little bit too.
+[NJB Intro] This is a paper published by 
+UK researchers in 2024 entitled “Car harm: A global review of automobility’s 
+harm to people and the environment”. It’s a comprehensive summary of all of 
+the harm caused by motor vehicles that can be backed up by scientific evidence, 
+which is a great place to get us started. I’m going to go over the key ideas in the 
+paper, and bring in other research as necessary. As usual, all references are available 
+at the link in the description. Cars can be very convenient for an individual, but 
+they create a lot of problems for society that are ultimately paid for by everyone, regardless 
+of whether or not they drive a motor vehicle. This is what economists 
+refer to as "externalities", the classic example being pollution.
+If a factory pollutes the local water supply, then everyone using that 
+water is negatively affected, but the factory owner doesn’t experience these 
+health or financial costs, and in many cases, even benefits from not having to 
+properly dispose of their pollution. Which is why one of the primary roles of 
+government is to minimise the effects of externalities on the rest of society.
+The Car Harm paper categorises the externalities of motor vehicles into seven main 
+categories, and we’ll get to them all eventually, but let’s start with the biggest problem of 
+them all: cars kill people. A lot of people, and the statistics from the WHO in 
+the Car Harm paper are horrifying. They estimate that traffic crashes kill 1.3 
+million people per year, and are the leading cause of death for people between the ages of 4 and 30.
+The authors estimate that between 60 to 80 million people have been killed by cars since their 
+invention, which would make cars as deadly as literal World War 2. But deaths 
+only tell part of the story. The paper estimates that in the past 25 years, 
+over 2 billion people have been injured in motor vehicle crashes, and in some cases, injuries 
+from a car crash result in lifelong disabilities. Cars were becoming safer over 
+the past few decades and deaths and injuries from crashes were decreasing …
+but then the automobile industry discovered they could make a lot more money selling giant 
+SUVs and pickup trucks instead of regular cars and so now deaths and injuries are going up.
+Because of their heavy and tall designs, SUVs and pickup trucks cause more deaths and injuries, 
+especially to other people outside of the vehicle. This includes people in smaller cars, but 
+especially people who are walking and cycling. In the EU, road deaths have 
+decreased by 36% since 2010. But in the US, road deaths have increased 
+by 30% during the same time period. Worse, pedestrian deaths in the US have increased 
+by 80% since 2010, and they are now at the highest level they’ve been since the 1980s. Meanwhile EU 
+pedestrian deaths have dropped 37%, since 2010. So no, it’s not just because of the 
+phones. They have iPhones in Europe, too, but what they don’t have in Europe
+are passenger vehicles as big as literal tanks. And I have a previous video about 
+that if you’d like to learn more. We often talk about traffic deaths as “accidents”, 
+but the majority of road deaths are preventable, which is why many safe-street advocates 
+are pressuring news and governmental organisations to use the term “crash” instead 
+of “accident” when reporting car crashes. We know that road deaths can be reduced 
+significantly with safer street design and most importantly, lower speed limits.
+Which is why many cities are reducing their default speed limit to 30 kilometres per hour.
+And I have a previous video about that if you’d like to learn more.
+The paper also provides examples of how cars are used as intentional weapons, in drive-by 
+shootings, car bombs, or intentional crashes. And they note that hundreds of cities have 
+been forced to install bollards to fortify public spaces against vehicle attacks.
+They also reference the thousands of deaths per year from intentional car 
+crashes and carbon monoxide inhalation from car exhaust as methods for self-harm.
+Cars are dangerous, but they also dominate urban life, and so everyone needs to 
+be alert and aware of the dangers of cars every time they go out in the city.
+I was glad to see the paper talk about how every time you cross the street, you’re 
+engaging in a life-and-death decision process, and I have a whole video about 
+that if you’d like to learn more. Yes, I made a 30-minute video 
+about crossing the street, but it’s worth it, if only for these stupid flags.
+Of course, these are just the obvious ways that cars kill people. If you’re lucky enough 
+to avoid a serious crash, cars will still play the long game, killing you slowly over time.
+If you live in a place with pollution from cars, such as nitrogen dioxide, sulfur dioxide, ozone, 
+and particulate matter, you’re at a higher risk of death from … basically everything.
+And in case you’re skeptical, the paper has references for every one of these assertions.
+For example, this systematic review of 353 studies that shows that motor vehicle air pollution 
+is associated with “all-cause, circulatory, ischemic heart disease and lung cancer mortality”
+It takes decades to understand the full impact of the harms caused by environmental pollutants. 
+Like, we are still trying to understand the full scope of the societal impact of leaded gasoline.
+This meta-analysis published in 2022 estimates that the phase-out of leaded gasoline 
+was responsible for up to 28% of the steep fall in homicide rates from 1989 
+to 2014, especially in urban areas. I remember suburbanites in the 90s saying 
+they would never live in the city because there was too much crime. Turns out 
+their cars were part of the problem. Of all of the world’s major cities, Paris 
+might be doing the most to curb car traffic. They have removed cars from major streets, 
+built hundreds of kilometres of bicycle lanes, and even converted a highway 
+into a walking and cycling path, and I made a video about those 
+improvements a few years ago. The non-profit organisation AirParif 
+collects pollution data in Paris, and you can see the drastic improvements that 
+these changes have made. For decades, Parisiennes were inhaling an enormous amount of unnecessary 
+air pollutants, simply because they allowed their city to be overrun by cars. Now the city, and 
+people’s lungs, are finally starting to heal, and other cities are starting to take notice.
+Of course the automobile industry's answer to this is electric cars, which are an improvement,
+but they only resolve part of the problem, because tailpipe exhaust is only 
+one source of pollution from cars. Cars release hundreds of environmental 
+pollutants from sources such as brakes, vehicle corrosion, lubricating oils, and 
+the erosion of asphalt and road markings. The Car Harm paper also notes that even 
+though lead has been banned in gasoline, there is still lead in many automobile paints
+and many road markings contain high levels of lead as well, especially yellow paint.
+But how often is yellow used in road markings, right?
+One of the biggest issues though, is tyres. Cars are constantly wearing away at 
+their tyres and the road surface as they drive, This toxic “road dust” is then spread 
+into the environment by rainwater or blown into the air by passing vehicles.
+And since electric cars are heavier than gas cars, they do this even faster.
+You may have heard about microplastics or nanoplastics: extremely small particles 
+of plastic that have been found nearly everywhere in our environment, including 
+inside of our brains and other organs. Whenever microplastics are discussed, 
+it’s usually blamed on fast fashion or disposable plastic utensils.
+And we all need to drink from these stupid paper straws as a result.
+But what is rarely talked about is car tyres, even though they’re a major source of microplastics.
+This 2017 study calculated that tyres and road wear particles, or TRWP, were the single largest 
+sources of microplastics in European rivers. Which makes sense because very few of 
+us are rubbing plastic straws along the ground at a hundred kilometres per hour.
+In this 2025 paper, researchers in Leipzig tested urban air for microplastics and nanoplastics and 
+found that 65% of particles came from tyre wear. The paper goes on to reference research 
+about how these kinds of small particles increase the risk of death from lung 
+cancer and cardiovascular disease. What’s worse is that we don’t know exactly what 
+tyres are made of, because the formulas are considered a trade secret by tyre manufacturers.
+So yeah, we’re all drinking and breathing in car tyres and we have no idea what’s in them.
+In the 1980s, researchers in the US were investigating a massive die-off in coho salmon.
+After decades of research they discovered that this was due to a byproduct of 6PPD, 
+a rubber stabiliser used in car tyres. More recent studies have shown that 6PPD 
+is toxic to other fish species as well but despite this, it is still 
+being used in car tyres today. I learned about this from this book, Life 
+After Cars, written by the hosts of the War on Cars Podcast. It’s a great read
+and I can definitely recommend it. I’ll leave a link to their website in the 
+description if you’d like to learn more. Cars are by far the primary source 
+of noise pollution in cities. At speeds of over 30 kilometres per hour, 
+the loudest part of a car isn’t the engine, it’s the sound of the tyres on the road, 
+what’s referred to as “rolling noise”. And since electric cars are heavier than gas cars, 
+they are even louder when driven at higher speeds. Which is yet another reason for speed limits 
+to be 30 kilometres per hour or less in cities. Of course that's just the noise 
+from normal well-behaved drivers. Urban noise gets even worse with motorcycles,
+or with drivers who rev their engines or who drive too fast,
+and of course everybody’s favourite noise … car alarms … I remember when I was a kid 
+and a car alarm would go off my mother would yell, “just hurry up and steal it already!”
+The truth is that cities aren’t loud, cars are loud.
+And I have a previous video about that if you’d like to learn more.
+Noise, especially constant daily noise, isn’t just annoying, it’s also bad for human 
+health, and the paper lists and references several negative health effects of vehicle noise pollution
+including cardiovascular disease, high blood pressure, tinnitus, hearing loss, anxiety, stress, 
+sleep disturbance, and cognitive impairment. I wish I could blame cars for the ringing in 
+my ears, but it’s almost certainly because ... I was a rave DJ in the 90s. And rounding out the pollution category,  cars and car-centric environments create a 
+lot of light and thermal pollution in cities
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

@@ -1,0 +1,180 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: BritMonkey
+**Video**: "The Race to Save the Titanic"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+April 20th 1912, 10:50am at 
+the Waldorf-Astoria Hotel, New York City. It’s day 2 of the United States 
+Senate Inquiry into the sinking of the British ocean liner RMS Titanic. Just five days prior, 
+over 1500 people had perished in the Atlantic Ocean as the world’s largest ship had struck 
+an iceberg on her maiden voyage to New York. Senator William Alden Smith, chairman 
+of the Inquiry, begins the meeting. “Gentlemen, I am very sorry to have 
+delayed beginning the hearing. I am going to proceed this morning by asking Mr. 
+Harold S Bride to take the witness chair”. A 22-year old man with a boyish face 
+and wavy hair limps over to the witness stand on a pair of crutches. His 
+feet are bandaged and every step appears to cause him significant pain. 
+His face is covered in cuts and bruises. “Mr Bride, What is your occupation?”
+“Wireless-telegraph operator, sir.” “In whose employ were you on 
+the 10th day of April 1912?” “The Marconi Company, sir.”
+“In what capacity?” “Second wireless operator... on the Titanic” The Titanic was 4 days into its Maiden voyage, and 
+it looked to be making record time to New York. In the luxurious first class section were 300 
+of the world’s wealthiest people. Down below, a thousand more passengers in Second 
+and Third class; immigrants from all over Europe and the Middle East wishing to 
+begin a new life in the land of opportunity. As America drew nearer, many 
+passenger began purchasing telegrams to be transmitted by wireless to 
+their friends and relatives waiting ashore. That afternoon, it was Harold Bride’s shift. 
+His superior, Jack Phillips, was snoozing in the wireless operator’s bunk room next door. And 
+Bride was in for a busy night. The night before, the Marconi machine used to send messages 
+had broken; Phillips and Bride had spent six hours into the evening trying fix the 
+machine, Phillips was awfully tired. so Bride felt it best if he gave Phillips a 
+couple hours extra sleep the next night. Due to the delay, there was a 
+mountain of messages to be sent. Then his headphones crackled into life; a warning 
+from a passing ship that icebergs were ahead. Bride dutifully noted it down, then walked the 
+short distance to the Bridge. He showed it to Captain Edward Smith who immediately discarded 
+it without reading. Later, the ship’s owner Bruce Ismay would be seen showing it off to 
+some first class passengers in the lounge. Bride rolled his eyes and returned to his desk. 
+He pulled out a notebook and began taking accounts of all the passenger’s messages; the ones he 
+had sent, and the ones he had yet to send. “You received it. It came to your ears?”
+“It came to my ears, yes.” “You took no notice of that message, 
+but went on with your accounts?” “Yes, sir”
+“Where were you when this collision occurred?” By 11:30pm, Bride was off duty and it 
+was Jack Phillips who was wrapping up the backlog of messages from the 
+passengers. The just-turned-25 year old was a skilled wireless operator, 
+although he was not well paid, and as such, did not take much pride in his work.
+He was punching letters to Cape Race, a wireless station on the Canadian coast, which 
+would then relay the messages further inland. Argh! Phillips tore off his headphones. The 
+SS Californian, a mere 20 miles away, was transmitting a very powerful signal, and Phillips had the Marconi’s volume set to 
+maximum so he could hear the distant Cape Race. He punched back a reply: “Keep out. Shut 
+up; I’m busy. You are jamming my signal!!” As Marconi operators were invariably men in 
+their early 20s, the Californian’s wireless operator was no stranger to the friendly 
+abuse they would send each other. He was getting tired anyway, so he switched off his 
+machine and went to bed. Unlike the Titanic, the Californian had no second wireless operator. “Iceberg, Right ahead sir!”
+“Ship to starboard!” “Aye sir” That was no ordinary sound of the ship. Some passengers went out on deck to see what the 
+fuss was about, but there was nothing to see. Any concern about the noise was quickly forgotten 
+when they saw how beautiful the night was. Clear, moonless, calm seas, and little flecks of ice 
+were floating in the air. But it was too cold to hang around outside. Then, like nothing 
+had ever happened, things went back to normal. In the Marconi bunk room, Bride stirred awake. 
+It wasn’t the noise that had awoken him; the predictable hum of the ship was gone. 
+For the first time in four days they had stopped. He climbed out of the bunk, 
+and noticed immediately that there was a slight...tilt to the room. He couldn’t 
+see it. But he could definitely...feel it. “Did it wake you?”
+“What?” “The sound.”
+“No?” They discussed the noise, what could have caused 
+it, and why they had stopped. Outside there were confused voices and officers running up and down 
+the hallway, but nothing out of the ordinary. Bride went back to the bunk 
+room and began to get dressed. “I think the ship had been damaged somehow, 
+we may even have to go back to Belfast...” At 5 minutes past midnight, Bride hopped on 
+the set to relieve Phillips. But no sooner had Phillips taken off his tie, Captain Smith 
+yanked open the door to the operator’s room. “Boys, we've struck an iceberg, and I'm having an 
+inspection made to tell what it has done for us. You had better get ready to send out a call for 
+assistance, but don't send it until I tell you.” As Phillips was the senior operator, Bride 
+vacated the machine to allow him to take over. Twenty miles away, the SS Californian had 
+stopped for the night, surrounded by ice. The wireless operator, Cyril Evans, was asleep. 
+Third Officer Groves knew some Morse code but when he picked up the headphones, he did 
+not realise the machine was switched off and assumed there were no messages. He 
+joined Captain Stanley Lord on deck, watching the Titanic steam past. Then, the ship 
+on the horizon slowed, and the lights dimmed. Captain Lord expressed confusion about this, 
+but Officer Groves assured him that this was a common trick that ocean liners pulled all 
+the time. They’d switch out the deck lights at midnight to encourage passengers to go to 
+bed and let the service crew clock off early. “Send a call for assistance, lads” The captain handed Bride a slip 
+of paper with the ship’s coordinates on. Phillips didn’t hesitate to get to work. Bride helped adjust the 
+machine to get a better signal. On deck, officers were giving the order to uncover 
+the lifeboats and abandon ship. Below decks, the crew were waking up passengers and 
+ordering them to put on life vests. The first ship to reply was 
+the German steamship Frankfurt. There is a brief pause. Then, very faintly; Stations outside the Titanic’s range 
+picked up on what was going on. Cape Cod in Massachusetts pieces together 
+the situation from the SS Mount Temple and begins punching out a general message to all 
+ships and stations in the western Atlantic. The airwaves fizzled into life. The SS Birma was a Russian vessel, and 
+the crew did not speak much English. But, they had a distress call and a position, 
+and when you hear a CQD you drop everything and change course to assist.
+The SS Parisian is close but on the other side of the ice field and 
+would be too dangerous to pass through. The SS Baltic, who had given Titanic 
+an iceberg warning just five hours ago, was turning around and heading back, but 
+they wouldn’t be there for some nine hours. The signals began pinging off the stratosphere, 
+the ships talked over each other and tried to catch the rudimentary buzzes of Morse code, 
+anxious to see if they would be close enough to help. The lives of more than 2000 people relied 
+on Jack Phillips finding just one ship that could. After reporting today’s messages to the bridge, 
+Harold Cottam, the telegraphist on board the RMS Carpathia, returned to the wireless 
+room. It was now the end of his shift. He was just taking off his coat when he 
+remembered that he had not yet received a reply from the SS Parisian, which he had 
+tried to contact earlier in the night. He switched his machine back on and picked 
+up the headphones for one last check. Cottam doesn’t bother writing any more messages. He vaults up to the wheelhouse. 
+Captain Arthur Rostron had just drifted to sleep when Cottom burst into 
+his quarters and handed him the message. “What do you want? What time is it?” “Chart a course and tell them we are coming.”. “All hands on deck. Engine crew on double shifts. 
+Turn off the heating and hot water, full power to the boilers. They’ll need to see us, so rig 
+up some lights and fire one rocket every five minutes. Get the ship’s doctor, we’re converting 
+the first-class lounge to a hospital. I want every blanket and spare clothing we can find brought up 
+here. Tell the kitchens to cancel the breakfast menu, start making soup and bread for survivors. 
+And for goodness sake, get some brandy ready!” Rostron had never once had to respond to 
+a distress call in all his years at sea. But the only thing he loved more than the sea 
+was God, and tonight he felt deep in his soul that the Lord had given him a mission. The 
+ship swung from it’s leisurely Mediterranean destination to the icy North Atlantic.
+Down in the engine rooms, scores of sleep-deprived engineers grabbed shovels and began 
+to shovel coal like they’d never shovelled before. Bride and Phillips still didn’t yet understand 
+the severity of the situation and were trading jokes at the expense of the Frankfurt’s 
+clueless radio operator. Among passengers outside too, many of them balked at the idea 
+of spending a couple hours in the lifeboats, preferring to take their chances in the 
+warmth of the ship. The ship’s band had assembled and was playing some jaunty 
+tunes to keep passengers entertained. It had now been one hour since the 
+collision and so far only one ship was confirmed to be coming to their aid. 
+Bride suggested that it could be because they’re using the old distress signal, CQD.
+“Try using the new one, SOS. It could be your last chance to use it.”
+“Ha ha, very funny.” “Has anyone responded to our distress call?”
+“The Carpathia should be here in about three hours, sir.”
+“Boys. I will be most honest with you. She does not have long 
+left. An hour. Maybe an hour and a half.” The air went out of the room. Everything 
+suddenly became a lot more severe. “But keep trying, there may be someone closer.” Outside, women and children were being loaded into the lifeboats. The evacuation 
+of the Titanic was underway. The crew of the stationary SS Californian 
+watched as the Titanic began to signal with some sort of light. Officer 
+Groves tried to make it out, but assumed it was just the bobbing of 
+the ship’s masthead in the ocean waves. Then out of nowhere, there is a flash above the 
+mysterious Titanic. One crewman suggests they are having a fireworks party to celebrate their 
+maiden voyage. Second Officer Stone thinks it is a signal to another ship that must be further over 
+the horizon. If any case, it is probably nothing. While the Carpathia had silenced herself and 
+was now heading full-steam towards the Titanic, the twelve other ships in the vicinity were 
+busy talking among themselves. Many of them, such as the Olympic and the Baltic 
+were making headway to the Titanic, even though they would not be there 
+for six or more hours. The other ships were struggling to hear and make 
+themselves heard in the frantic texting. Phillips battled to write all the messages down as Bride was running back and forth 
+delivering them to the Captain. A fight breaks out on the deck of 
+the SS Virginian. The wireless boy insists that Titanic is sinking and 
+needs help. The deck officers assume he’s playing a practical joke and 
+refuse to let him see the Captain. It didn’t help that many of 
+the ships were European and were trying to speak not only 
+Morse code but English as well. The Marconi machines were so overwhelmed 
+with signals that they become jammed. For three excruciating minutes nobody could talk 
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

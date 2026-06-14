@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Design Theory
+**Video**: "HOW TO SAVE WEBSITES FOR OFFLINE USE |TECH SCOUT TIPS|"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+How to save any websites for offline purposes? So basically in this tutorial I am going to teach you how to save any websites so that you can use it later on for your offline purposes. So the very first question that you might ask is why save any website for the offline purpose? Or why is it necessary to save websites in the first place? Well I personally find it useful whenever I am out of the internet connection. Well there are lots of the information out there and it is very much easy to get distracted. And there are millions of unnecessary stuff out there but you still want the necessary information, right? So whenever I hear a genuine article suggested by the person that I really admire or any topic or website that might be and these stuff whenever my teachers or the peer suggest me to check it out then I have to read it you know. So then what I do is I simply save that pages or entire website using these techniques. So later on when I am plugged in or got off myself from the internet and if I go offline then I still have these great stuff said on. So that I could read it later on. So basically today I am going to show you three techniques to save any websites for offline purposes. The three techniques that I often use. First list, firstly let's go. This is one of the articles that I really like. This is an essay that is written by what is the name of the... I am sorry I couldn't find it right now. So this is the very website. I have read it already but let's suppose I want to read it in future. So what I will do is first number one technique is going right click. Just click save page. I have made a folder over here. So what it does is it saves. Here you can see here it's saving website. So this is the same website. So later on when you use these articles you can click it and you can see it. Right technique is right click and print. So in the destination you can see there is save page PDF. If it is quite different than mine. Suppose if it is selected brother. This is the printer. This is the name of the printer that I have connected. So if something is different. There is something different showing than that of mine. Then just you can go to the change and click save page PDF. And what it does is it saves the entire website in the PDF format. So that you can use it in mobile phone or you can use it later on. Just go and save it. Now I am going to save it here. You can name the file in whatever you prefer. And in the save page type we will leave it there. Save it. Now let's see. Let's see. Let's see this second. Yeah. You can see it in the robot reader or you can see directly in the browsers. And the third and the very important step to save the whole website is by using a software. The name of the software is Mexico Army. It is we ST track. It's Google it. Yeah. This is what we are searching for. ST track. Now we will go to download. And you can choose anyone. We will be choosing from here. Since I have already downloaded this and you install them on PC. Just go and download it and install it. It's almost 4 or 5 MB file. Excuse me. It's downloading. And after you have installed this software and what will be between is let's open this. This is the website. So this is the software we have been looking for. And after that just click next and project name. What it means is suppose this is the website. I would like to say that there are lots of the very good issues over here. So what if I need all these issues so that I can be in future. What I will be doing is just go here and copy the URL and go to the our software. We interact. What I am going to do is just paste project name as this. And what I am going to do is on the base path I am going to make a folder. Here in the offline website I am going to make a new folder. If it's not then we will leave it. Press OK. We will go to next and here on the web address we paste the websites. Then press it next and paste. Here you can see in progress a parsing HTML file. And here you can see byte saved. Since my address speed is quite slow. You can see the data transfer rate is 10kb per second. And byte saved is 610kb. It depends on the internal speed that you have been using. So what it does is this is the first step and this one is the second. And the remaining file is generated automatically. The remaining file will be generated and after that you can just click on the index. And here you will be listing some list of these websites. And you can see since it is downloading this. Let's reload this. Yeah. That's it. So you can. Excuse me. You can save the page. Not only this but you can save all these pages. Thanks for watching.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

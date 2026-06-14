@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Low Level Learning
+**Video**: "how NASA writes space-proof code"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+I've been told that the worst thing that can happen as a developer is to have your code crash in production but what if your production environment is in space a null pointer D of reference or a used after free sends your satellite hurtling Into The Ether with no way to control it to avoid this NASA has a set of rules centered around making their code easy to statically analyze the rules I'm going to talk about are actually derived from a set of 10 rules that NASA has referred to as the power of 10. Gerard Holzman a developer for NASA at their jet propulsion laboratory for Reliable Software acknowledges that some of these rules are a little strict but in scenarios that require extreme safety he says the trade-off is worth it NASA restricts their code to simple control flow constructs this means that they do not use go to statements or set jump or long jump they also do not use recursion recursion or a function that calls into itself creates very hard to follow cyclic code control flow graphs recursive code can lead to Runaway code which can crash especially in embedded systems NASA gives all of its Loops a fixed upper bound now this may sound obvious but it's actually a little more Nuance in this rule for example when traversing a linked list the end case of the linked list may just be hit a forward pointer whose value equals zero but to prevent an edge case that leads to Runaway code NASA will always put a top limit of the amount of iterations that a linked list traversal will take all Loops are bound by a hard upper limit that is represented as an integer not as a pointer end case one of the most interesting rules is that NASA recommends that you do not use the Heap at all you exclusively use stack memory the reason for this is a notable amount of memory bugs do come from the use of the Heap and garbage collectors these systems cannot be proven by a static code analyzer by limiting your code to only using stack memory and setting an upper bound on the amount of Stack memory you can allocate You can predict exactly how much memory your program is going to use by not using the Heap at all you completely eliminate use after freeze and memory leaks the next rule seems a little pedantic but it actually makes a lot of sense when you think about the implication a function should do one thing now the function may require multiple steps to do that thing but the function should only perform a single action to ensure this and to ensure that the code is readable NASA recommends that functions should be no longer than 60 lines or about the size of a piece of paper writing your code this way ensures that someone else auditing your code can quickly and easily read a function and understand what that function does it also ensures that your function is small enough and concise enough to be testable as a single unit if your function is 400 lines and has several layers of nesting it's often a sign that your code is poorly structured and not well thought through NASA supports the idea of data hiding or declaring variables as they're used at the lowest scope possible again all these rules are centered at writing safe code and code that is statically testable by declaring variables at the lowest scope required you not only reduce the amount of code that can access those variables but you also reduce the amount of places that can go wrong when debugging why a variable has an erroneous value this next one seems obvious but is actually a pretty common issue when I'm reading the code of Junior developers check all of your return values for non-void functions all of them it's very easy to read the man page for a function and figure out what it does but to ignore the return value section for a function that should always behave properly for example the function printf which just prints to the screen should never fail and if it does we really don't care to make sure that the person auditing the code understands that the developer meant to ignore the return value the power of 10 says that we should explicitly cast all return values that are ignored to a void type if a non-void function's return value is not void this means that the developer forgot to check the return value and should be brought up in a code review NASA limits the use of the C preprocessor to file inclusions and very simple conditional macros the reason for this is the power of 10 calls out the c preprocessor as a hidden code obfuscator that can destroy code Clarity and befuddle many static code analyzers the power of 10 specifically calls out conditional compilation or having flags that change your code at compile time for example if you have 10 different flags that can be changed at compile time you essentially create 2 to the power of 10 compilation targets that need to be tested exponentially increasing the testing requirement of your code this makes the code hard to scale and hard to test another interesting rule by NASA is the Restriction of pointer use the power of 10 calls out pointers and says that they should not be able to be dereferenced more than one layer at a time the reason for this is pointers are a tool that are powerful but easy to use incorrectly by limiting your pointers to one dear reference at a time it forces you to create structures that properly track your pointers also NASA says to limit the use of function pointers at all function pointers obfuscate the code control flow graph of your program and make it very hard to statically analyze and fully test and finally when compiling your code compile with all warnings enabled and compile in pedantic mode doing this ensures that every possible problem the compiler sees with your code will be raised and treated as an error after this make sure your code is analyzed using multiple static code analyzers with different rule sets and that your code is unit tested now before you launch your new safely coated rocket into space go and watch this video where you'll learn something new about programming
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

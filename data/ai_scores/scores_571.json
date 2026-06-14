@@ -1,0 +1,12 @@
+{
+  "channel_id": 571,
+  "name": "TLDR News EU",
+  "tier": "B",
+  "scores": {
+    "research_depth": 6,
+    "signal_noise": 7,
+    "originality": 5,
+    "lasting_impact": 6
+  },
+  "analysis_notes": "Moderate research depth with specific electoral data but no primary sources. Good information density despite sponsor segment. Conventional political analysis perspective. Time-sensitive content with moderate lasting educational value."
+}

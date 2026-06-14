@@ -1,0 +1,11 @@
+{
+  "channel_id": 666,
+  "name": "Eco Gecko",
+  "scores": {
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 8
+  },
+  "analysis_notes": "Academic journal club format with dense citation of peer-reviewed research"
+}

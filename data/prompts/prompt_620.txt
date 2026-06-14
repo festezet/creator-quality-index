@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Sam Matla
+**Video**: "Using Asana with GTD (Part 2) - Tags"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Hey guys, Sam here from Passive Productive here, and this is the second part of our assignment with GTD series. So in the last video we looked at using our project, I'll see you in our projects, and just in basics, including sub tasks and descriptions. But mainly how we use our projects, what each one stands for, also assigning tasks, for example, today upcoming later, and also assigning tasks to ourselves. So in this video we're going to go over tags, and if you've used even though your views tags basically, so in even though I've actually got my notes for this video down here, but in even though you can put tags in here, so for example I've got two greed, read me clearly in reference, if you use GTD with even though it'll be a lot different, but we're basically going to point in some tags, different to those we'd use in even though, in even though you normally use context tags, for example, you might have a tag for calls or someday maybe, we've used projects for that, you can use tags if you want, I find this much easier though. So you've already set up your projects then, don't worry about that, we're using them anyway, and we're going to start with few tags, first set of tags, the context tags, not in the sense of, for example, home work calls, they can certainly include them if you'd like. We've set up a different set of tags here, let's go through them, so I'm sure there's an easier way to set up tags, unfortunately I don't know how to yet, so the only way I know how to set up tags, and if someone knows how to do this quicker, then I'd appreciate it if you could tell me, so basically create a new task and we'll delete this later, click up here on the tags button, it's going to enter some tags, so our first one is going to be PC, so that's basically the context that everything, all the tasks that require us to use are computer to do, next one is email, again, pretty stuff explanatory, I would assign that tag to sending out an user for my blog or emailing, reply to an email or emailing someone, next one is writing, and again you have to, if you don't do any writing then that's fine, don't include it, this is just tailored to myself, include tags that aren't here, so you wouldn't include calls, etc, this can be quite confusing to research, maybe, and design, so there's just a few ideas, the reason for this is, well there's a couple of reasons, but mainly I believe that you should do things that you feel like doing as much as you can, so for example I felt like doing some research then I would type in research, and my task with research would come up, so there's only this one at the moment, so that's one way of using them and there's many others which I won't go over, and there's another set, another two sets of tags that I'm going to introduce, so we just find our task, so the next set of tags is, let's create a new task here for make it more, okay next set of tags is time in tags, and I can't take credit for this idea, I actually got it from someone on Google+, and it's a standard community, but it's a really cool idea, and it basically allows you to organize your tasks in terms of how long they take, so there's a couple that I use, first one is under five minutes, so you just do that, in is under 30 minutes, under 60 minutes, under 180 minutes, and then over one day, and the D, over 3D, and it's that, so this is actually a really good way to organize tasks, and that you can change it around accordingly, in fact I think I might have under 15 minutes on there, and it's a great tool because if you have, for example, 15 minutes spear during the day, and you'll do something and all you need to do is just search up, click on your tag, sorry, tags under 15 minutes, and your tasks under 15 minutes will come up, that's a real cool thing to implement, now next thing we've got is importance tags, and this is something I've just started trying out, and I find it pretty useful, so it's the simplest sort of tagging system, it's three numbers, one, my, one, itself, two, and three, in fact if you want to speed this up, so it doesn't clash with your timing tags, you can maybe do exclamation marks, like that for example priority, it's quite, quite helpful, if you want to get important tasks done at the start of a day, then you choose obviously your most important tasks, that's basic tagging, you can get really advanced with it, many uses for tagging, you can use it for projects in themselves, specific parts of projects, everything really, there's many uses, I'll recommend experimenting, finding out what works for you, and in the next lecture we're going to be looking at master projects or master tasks, which I still haven't really explained, and I'll get into, so thanks for watching, and I'll see you in the next one.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

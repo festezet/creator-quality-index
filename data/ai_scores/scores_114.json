@@ -1,0 +1,14 @@
+{
+  "channel_id": 114,
+  "name": "Two Minute Papers",
+  "research_depth": 8,
+  "signal_noise": 7,
+  "originality": 8,
+  "lasting_impact": 7,
+  "reasoning": {
+    "research_depth": "Covers actual academic papers with genuine understanding. Provides context and explains significance of research findings.",
+    "signal_noise": "Good content density in short format. Some repetitive enthusiasm and catchphrases add minor noise but overall efficient.",
+    "originality": "Distinctive format summarizing cutting-edge research papers accessibly. The consistent enthusiasm and short format are recognizable.",
+    "lasting_impact": "Mixed longevity. Individual paper summaries may become outdated as fields advance, but the educational approach to understanding research persists."
+  }
+}

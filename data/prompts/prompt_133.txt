@@ -1,0 +1,167 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Kings and Generals
+**Video**: "Unknown"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Without a doubt, global instability is 
+on the rise. And if you think about it,   it all started with Russia annexing Crimea 
+practically with impunity. Fast forward 12 years,   and we now have the biggest war in Europe 
+since World War II, the biggest escalation   in the Middle East in decades, another war 
+in Iran, key trading routes being blockaded,   NATO facing an existential crisis and many other 
+conflicts and crises occurring around the world.   Today, we continue to describe the war in Ukraine 
+and discuss the impact of the war in Iran on it. BATTLEFIELD
+As usual,   let’s start by looking at what happened on the 
+battlefield in the past month. And to be frank,   not much has changed in March. Ukrainians claim 
+that Russia has started another grand offensive,   which will make sure that the boys are home by 
+Easter or Christmas at the latest. But as with   many previous attempts, this campaign has also 
+started with many losses and barely any progress.   The chief of Ukraine’s unmanned forces, Robert 
+Brovdy, aka Madyar, claimed that on March 17,   Russians launched their Spring-Summer offensive 
+of 2026 by attempting a breakthrough on the   Rodynske-Huliapole front, trying to take advantage 
+of the fog. According to Madyar, the initial   assault was a disaster with Russians failing to 
+gain any ground despite major personnel losses,   and there is some video footage confirming heavy 
+equipment losses. Since then, they have captured   Hryshyne, advanced on Zalyznuchne and made some 
+progress in gray areas along the whole front,   but this is hardly a breakthrough. There 
+have also been reports of Russian attempts   to attack Orikhiv from the South, but they 
+have been repelled there as well. Meanwhile,   Ukraine continued its successful counterattacks 
+north of Huliapole. In March, the 1st Separate   Assault Regiment, the 95th Air Assault Brigade and 
+other Ukrainian forces liberated Novohryhorivka,   Kalynivske, Stepove, Ternove and Berezove. 
+There have already been numerous reports   claiming that the Ukrainian army's success in 
+this sector has forced the Russian command to   redeploy units from the Pokrovsk sector and 
+the Kherson front to stabilize the situation.  The Donbas Fortress Belt remains the other 
+key target for the Russian army. And they   have failed to achieve any meaningful progress 
+here either. Russians have managed to expand the   grey zone south of Kostiantynivka, but the 
+battles are largely confined to the H20 and   T0504 highways. So far, Kostiantynivka proper is 
+under solid Ukrainian control. A similar dynamic   is observed on the northern tip of the Fortress 
+Belt. The Russian army needs to capture Lyman to   move further southwest toward Sloviansk, but the 
+Russian pincer movement's advance has been slowed   by the Ukrainians in recent months. On March 19, 
+the elements of the 1st Guards Tank Army and the   20th Guards Combined Arms Army launched a 
+relatively major assault in this sector,   sending armored vehicles into attack, a rare 
+sight these days. But this assault was defeated.   However, Russians continued advancing 
+on Sloviansk from the Southeast. After   capturing the heavily fortified town of Siversk, 
+the Russians have achieved a relatively steady   westward advance towards Sloviansk in the 
+past weeks, which continued in March as well. THE WAR IN IRAN. ECONOMIC CONSIDERATIONS
+Meanwhile, the peace negotiations,   which were not looking promising anyway because 
+of the gulf in Russia’s and Ukraine’s positions,   have taken a further step back due to the war in 
+Iran. The most realistic scenario is that the war   in Ukraine will continue for the foreseeable 
+future. And as always, the ability to maintain   the capacity to fight long wars depends on the 
+economy, force generation, military production,   strong alliances and steady morale at home.
+Russia has been able to maintain stable   manpower generation since 2023 by recruiting 
+30k to 45k contract soldiers every month,   which is possible because, well, Russia is 
+a wealthy country and still earns a lot of   money from selling oil and gas. Sure, Russia 
+has been experiencing economic difficulties,   but thus far, they are not at a level that would 
+prevent Russia from continuing to recruit men en   masse. They have also got enough money to steadily 
+produce missiles, drones and other deadly weapons.   But Ukraine has also enhanced its capacity to 
+hurt Russia with long-range strikes, specifically   its military production sites and oil and gas 
+infrastructure. According to Russia’s former   defense minister Shoigu, Ukraine launched 23,000 
+drones and missiles on Russian targets in 2025,   a massive increase from 6,200 launches in 
+2024. In March, they made several successful   missile strikes to destroy a Shahed storage 
+depot at Donetsk airport and severely damage   a microchip factory in Bryansk. The latter is 
+particularly important, since microchips are used   for a variety of military purposes, including 
+for precision-guided weaponry, air defense,   secure communication, surveillance and so on. But 
+arguably, the crown jewel of Ukrainian long-range   strikes in March was the attack on Russia’s 
+oil export ports in Primorsk and Ust-Luga.   In combination with the earlier damage to the 
+Druzhba pipeline running through Ukraine to   Hungary and Slovakia, along with damage to the 
+port of Novorossiysk and the regular seizure of   Russian oil tankers, Ukraine has done a very 
+good job of limiting Russia’s oil revenues.   According to Reuters calculations, this strategy 
+has temporarily shut down 40% of Russia’s crude   oil export capabilities. At the time, when 
+oil prices skyrocketed due to the war in Iran.  Another very curious political development in 
+Russia is the story reported by the independent   Russian media outlet The Bell, which claimed 
+that during his March 26 meeting with top   Russian businessmen and oligarchs, Putin asked 
+them to chip in for Russia’s war effort in   Ukraine. The story, corroborated by Financial 
+Times sources, reports that Rosneft chief Igor   Sechin came up with this idea. Apparently, one 
+of the wealthiest Russian oligarchs, Suleiman   Kerimo,v immediately offered to donate 100 billion 
+rubles - 1.22 billion dollars. Just to give you an   idea of how much money we are talking about. If 
+true, this is an important development because   of the peculiarity of a social contract between 
+Putin and Russian oligarchs. To give you context,   following the fall of the USSR, Soviet industry 
+bosses, enterprise directors, bureaucrats,   late-Soviet-era entrepreneurs, and people from 
+a few other general groups took advantage of the   painful transition from a state-run economy 
+to capitalism to enrich themselves beyond   their wildest dreams in Russia in the 1990s. With 
+extreme wealth came considerable political power,   which many oligarchs readily used to expand 
+their influence. But the new Russian president,   Vladimir Putin, has never been one to like 
+sharing political power, and early in his reign,   he met with a large group of oligarchs. There, 
+he offered them a deal: keep out of politics,   do not challenge my authority, and I will allow 
+you to keep what you have earned or stolen during   the wild 1990s. Very few, like Boris Berezovsky, 
+Viktor Gusinsky, and Mikhail Khodorkovsky,   dared to defy Putin and suffered the consequences 
+in the form of arrest, asset forfeiture, or exile.   The vast majority of oligarchs, though, agreed 
+and continued to thrive under Putin. They were   occasionally asked to invest in major projects 
+like the Sochi Olympics or the construction in   Crimea, but this one feels totally different. 
+Oleg Deripaska may be the only oligarch who has   publicly spoken out against the war in Ukraine, 
+but without a doubt, he is not the only one who   opposes the war, resents being sanctioned, and is 
+now being asked to give money for Putin’s personal   imperial project. As things stand, this may not 
+mean much, since Putin remains in total control   of Russia. But if such voluntary-compulsory 
+donations are demanded frequently, the richest   class in Russia may actually question whether 
+the existing social contract still suits them.   In any case, it is something worth monitoring.
+For now, the war in Iran has added a whole new   dimension to the war in Ukraine. First of 
+all, it is a notable positive for Putin and   Russia from a public relations standpoint. The 
+attack of the United States and Israel on Iran   is illegal under international law, and it gives 
+the Kremlin propaganda a lot of ammunition when   the next time somebody condemns their invasion 
+of Ukraine. Second, the United States getting   bogged down in Iran without a clear endgame 
+is also a plus for Russia. Even though the US   military is performing much better than Russia 
+through a purely conventional military lens,   this has not been enough to bring the Americans 
+to the assumed strategic finish line of the war.   The Kremlin can now more comfortably claim 
+that it is not the only superpower getting   in trouble after attacking a smaller nation. 
+But along with such intangible considerations,   there are also very real and tangible consequences 
+of the war in Iran on the war in Ukraine. In terms   of military-political impact, we can mention the 
+excessive reliance of the US and Gulf countries on   Patriot air defense to counter the Iranian drone 
+threat. Zelensky claimed that the US and Gulf   countries have used 800 Patriot missiles in merely 
+three days to shoot down Iranian Shahed drones,   more than Ukraine has used throughout its war. 
+Using Patriot missiles, which have a reported   cost of 4 to 7 million dollars, to destroy drones, 
+which cost around 50,000 dollars, is not feasible   in the long term. Not just from the financial 
+standpoint, but also because the United States   produces only 600-700 Patriot missiles per year. 
+At the current rate of use, the existing stockpile   of Patriot missiles may be depleted to the point 
+where they are no longer sold to Ukraine. And   Russia recognizes this. In March, they launched 
+more ballistic missiles in packages to force the   Ukrainian air defense to exhaust their Patriot 
+missiles faster. If the war in Iran continues   for a few more months, this may turn into a 
+problem for Ukraine. There are conflicting   reports on whether the United States will 
+continue providing Patriot missiles to Ukraine.   Several media reports have claimed that the US 
+will put the delivery of at least some of the   weapons purchased by European countries from 
+America for Ukraine within the PURL framework,   including Patriot missiles, on hold. But Zelensky 
+refuted these claims and expressed gratitude   to Trump for continuing military supplies.
+However, the war in Iran, specifically the   threat caused by Iranian drones, has created 
+a great opportunity for Ukraine as well.   Ukraine has a unique experience of countering more 
+advanced versions of Shaheds almost every day,   most recently in packages of hundreds. They have 
+developed drone interceptors that are cheaper   than the Shaheds they need to shoot down. One of 
+Ukraine’s premier drone manufacturers, SkyFall,   has estimated that they could scale up their 
+production of drone interceptors to 50k per   month to cover Ukraine’s needs and then to export 
+the surplus. Trump may think that they know “more   about drones than anybody” and that “the last 
+person” they “need help from is Zelensky”,   but the Gulf countries quite clearly disagree. 
+Ukraine has already sent more than 200 military   specialists to the Gulf countries to discuss 
+cooperation and ways of countering Iranian   drones. Then at the end of March, Zelensky 
+toured the Gulf countries and signed 10-year   defense agreements with Saudi Arabia, Qatar and 
+the UAE, which he hailed as “historic.” According   to Ukraine’s president, they will provide drone 
+interceptors and related technolo
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

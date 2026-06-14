@@ -1,0 +1,13 @@
+{
+  "channel_id": 606,
+  "name": "BrainCraft",
+  "tier": "A",
+  "scores": {
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 9,
+    "lasting_impact": 8
+  },
+  "average_score": 8.5,
+  "analysis_summary": "Sleep science video by PhD researcher. Cites multiple studies with methodological details. Presents counterintuitive U-shaped curve finding that regular screen users have better sleep than occasional users due to consistency. High information density, minimal filler. Challenges conventional 'no screens before bed' wisdom with nuanced evidence-based perspective."
+}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Aperture (Education)
+**Video**: "2012: Direct from Chris Boot"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+As I come to the end of my first year here, I wanted to take this opportunity to acknowledge Aperture's community of loyal friends and supporters. During 2011, we began a process of adapting Aperture's programme to new times. Innovations this year include the use of the Aperture space for more live participatory events, including what matters now, proposals for a new front page and Didado Morayama's printing show TKY, which involved the production of a book in the space. The gallery was sound insulated over the summer to allow us to better present live events. We also set about embracing the wider photo book making community honouring Gerhard Stidal at our annual benefits, launching a new photo book award at Parry Photo and publishing the first edition of the photo book review, alongside which we publish a list that includes new artists like Brian Ulrich and major surveys such as the New York Times magazine photographs by Kathy Ryan. During 2012, our anniversary year our evolution will gain pace and you'll see more changes to the magazine, our online presence in and our live and educational programming. Our anniversary projects will include the publishing of Aperture anthology, the minor white years, a book surveying the first 25 years of Aperture magazine and an exhibition of new works by leading contemporary photographers responding to classic publications from Aperture's history. Besides which, we have a busy programme of talks, events and new books that include Petrochemical America by Richard Mizraak and Kate Orr, Factory of Dreams by Stefan Ruiz and the first book by Richard Moss, Infra, as well as new editions of classic books from Aperture's history including Lin Cohen's Occupied Territory, a re-origination of Nan Goldens, Ballad of Sexual Dependency and a large scale re-issue of Richard Mizraak's Golden Gates. Aperture relies on financial contributions from its supporters. Please affirm your place in our community by making a contribution to Aperture this holiday season and helping give us a head start on the next 60 years. Thank you.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

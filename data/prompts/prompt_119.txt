@@ -1,0 +1,81 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Technology Connections
+**Video**: "Unknown"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+If there's one light on your car's 
+instrument panel you should never, ever ignore, it's this one: the oil pressure warning light. It usually looks like a little oiling can. And if that light comes on while you're driving, that means you should pull over and 
+shut off the engine as soon as you can possibly do so safely and then call a tow truck. And I'm not kidding. If that light comes on, your engine may be mere minutes away from self-destruction. And so continuing to drive is a very risky choice to make. Now, if you're wondering why exactly the engine 
+could destroy itself when that light comes on, that's the point of this video. Today we're going to explore the mechanical basics of the internal combustion engine, with a particular focus on its lubrication system 
+and why it's required to keep the engine alive. There's a lot of stuff going on inside one of these contraptions, 
+and by the time we're done here there's a good chance you'll think it's a miracle we've managed to make these things as reliable as they usually are. Now, if you're a gearhead or even just gearhead-adjacent, there's probably not much you're going to learn here. But if you don't really know that much 
+about engines and how they work, and really how they keep themselves working, well I think you'll find this video to be quite informative. Before we really dive in, though, there's something you should know about the rest of the lights on your car's instrument cluster. And that's something is the rest of them! Because they all mean very important things
+and are designed to help you. They're even color coded to convey their urgency and meaning. Red lights are bad and need your attention now because they indicate an unsafe condition 
+where something is majorly wrong. Yellow lights are warnings which can vary in severity but probably don't need your immediate attention. And other colors are usually reserved for simple information, like the blue light that warns you your high beams are on so please shut them off unless you're in the middle of the country — that's not for use with other cars around! Or the white or green status 
+indicators for the cruise control system. If you want to know just what exactly all those lights mean, your car will have an owner's manual somewhere and there's going to be a handy little section which explains each and every one of them and why they might light up. I'd highly encourage looking at that section of the manual and committing those details to memory. But anyway, this is a video about the engine and how it works. So let's dig into it. First, though, if you'll indulge me, here's a brief overview of how electric cars work: [two toots of the drill] But bigger. And now let's take a look at this Renault-Nissan MR-18DE, the engine which powers the venerable Nissan Cube. Let me just, uh, take it apart real quick. Okay, this is the engine block. It's really nothing more than an intricately cast 
+and machined hunk of metal, but it's the heart of the engine and contains the cylinders. In this case, there are four of them, and they're all arranged in a straight line, which makes this an inline four cylinder engine. Probably the most common type of engine out there in cars. Not all four cylinder engines are alike, of course; these cylinders come in many different sizes, 
+so some are more powerful than others, and they're not always arranged in a line. We'll talk more about that later, though. Oh also sometimes there aren't cylinders at all! But that's mainly a Mazda thing they only sometimes do because rotary engines are equal parts cool and terrible. But they're committed to them! Sometimes - for special occasions. Anyway, the cylinders are each a combustion chamber. The idea is to fill these cylinders with a mixture of air and fuel, and then ignite that mixture so it... expands very rapidly. I would say that mixture explodes, but it's not technically an explosion. What's really happening is that the carbon dioxide and water vapor that are produced in the combustion process have a much larger volume 
+than the fuel and air did before it ignited, and that rapid expansion of hot gases 
+inside the combustion chamber can be harnessed and turned into mechanical work. And to do that we use pistons. Each cylinder gets a piston just like this inserted from the bottom, and these pistons are able to 
+slide up and down inside the cylinders. During a combustion event, as the mixture of hot gases inside the cylinder rapidly expands these pistons are forced downward into the engine block. And that's how we convert the chemical 
+energy in the fuel into mechanical energy. Now, the goal of this engine is to spin the wheels of a car. So ultimately the engine produces rotational movement. And since the pistons move up and down inside the cylinders, we're going to need a mechanism to translate 
+their up and down motion into a spinning motion. If you noticed the weird stick thing 
+with a ring on the end that each piston has, well, this is the connecting rod 
+and it's there to connect the pistons to this thing. This is the crankshaft, and it is the thing that spins. The tachometer, the gauge which tells you engine RPM, is telling you how quickly this literal thing 
+is spinning inside the engine block. Now we're going to look at this closely 
+in a moment to see how the pistons make it spin. But first I want to point out that the crankshaft 
+sticks out from the block on both sides. That is how we actually make this spinning crankshaft do useful things for us. Bolted to one side of it is this large rusty wheel with teeth on its edges. This is what's known as a flexplate. The teeth on its circumference are there 
+for the electric starter motor to engage with, and turn the crankshaft 
+inside the engine in order to start it from a stop. But the rest of this connects the engine to the transmission so that once the engine is running the spinning crankshaft can spin the wheels of the car. Technical note: if you were expecting me to call this a flywheel, well, this is not a flywheel. It's a flexplate. What's the difference? Well, flywheels are used with manual transmissions, while flexplates are used with automatic transmissions. In a car with an automatic,
+which is what this engine was taken from, the flexplate gets fastened 
+to the transmission's torque converter, and the engine and transmission 
+are permanently coupled together. But flywheels are completely different. They're used with manual transmissions and are not really fastened to the transmission at all, since in a stick shift the engine and transmission 
+are mated with a clutch under the driver's control. The clutch sort of presses up against the flywheel when engaged to connect the transmission to the engine, and it moves away from the flywheel when disengaged to separate them. And because of this, flywheels have a smooth surface on the outer side which the clutch pushes against. It's also quite a lot thicker and heavier than a flexplate to give the crankshaft more rotational momentum: helpful when getting the car moving from a stop. This Nissan Cube has a manual transmission, so its engine has a flywheel 
+attached to the crankshaft and not a flexplate, but everything else is identical. Now, while moving the car is the main thing the spinning crankshaft has to do, it also has to do things like generate electricity to keep the car's battery charged. And that needs to happen whether the wheels are moving or not. Which is why the other end of the crankshaft 
+also sticks out from the engine block. But on this side, all we have attached to it is the small pulley. This is the crank pulley and it provides power for engine accessories such as the alternator, air conditioning compressor and water pump via a drive belt. The pulley simply bolts on to the end of the crankshaft here... with this large bolt. Oh, and like in many engines, that pulley has some rubber like material in there to allow it to function as a harmonic balancer. But that's not important right now. What is important right now is how the uppy downy pistons actually make 
+the spinny spinny crankshaft spin in the first place. To explain, I want you to focus on these very shiny and perfectly circular surfaces you can find on the crankshaft. These are bearings, just plain bearings. which is a dad joke because 
+they are literally called plain bearings. [voiceover]
+Oooookay editor me popping in with some notes on terminology. I made the mistake when writing this script of letting a technical definition supersede the common language most people use. These are indeed plain bearings, but they belong to a subset of 
+plain bearing known as journal bearings. And the circular, shiny things we're looking at on the crankshaft are usually referred to as the journals. But here's the thing. Journal is simply another word for shaft. All these things are is a polished, circular shaft which spins inside of a stationary circle, which wraps around and holds on to the shaft. Once put together, it's really just two concentric circles where one spins and the other doesn't. And both the spinning journal and its stationary holder are a bearing surface, which is what I wanted to highlight in this video. The interface between those two bearing surfaces is what really matters to the point here. And from either one's individual perspective, the other part is what's spinning. And so that's why I ultimately chose to refer to these as bearings. But I understand a lot of people will be very annoyed by that choice. And so... sorry about that. They consist of that smooth, shiny part in the center of the crankshaft and a thin bushing which surrounds it. You can see half of the bushings here in the block. [voiceover]
+Oh, hi. Me again. See, this right here explains the problem. This is literally the bearing. This is the bearing surface. But technically it is a bushing. However, when people rebuild engines, they're going to refer to these things as the bearing because it's the bearing surface. And hopefully that helps explain why I had such decision paralysis around the terminology here. Five of the bearings are all arranged in a straight line. These are the main bearings which hold the crankshaft in the block and keep it centered, but the remaining four are wildly offset from the rest. These eccentric bearings are what the pistons attach to. The big round part at the bottom of the connecting rod can be split in half by loosening these fasteners. And then you can attach the piston and its bushings to its respective bearing. Now, I want to point out as I very loosely attach this, that the mating surfaces here are both metal. This is literally metal on metal contact, and these components slide against each other as they spin around, which feels problematic, doesn't it? Keep that in mind as we continue. If you're wondering why the 
+crankshaft has these weird lobe things, well, remember, this is the thing that spins. And since the bearings that the pistons 
+attach to are wildly offset from the center, you need counterweights to keep it balanced. And that's what these are. This is roughly how fast the 
+crankshaft spins when the engine is at idle! And at redline, it can be spinning ten times as fast. So you really want this thing as perfectly balanced as you can possibly get it to reduce vibration which could tear the engine apart. And you can even see marks 
+where small amounts of material were drilled out of the counterweights after casting to make fine adjustments to balance. But anyway, back to the pistons. Once assembled, the pistons function very much like your feet when pedaling a bicycle. In fact, if you look at the crankshaft closely, you'll see that on each end of it is basically the exact same 
+mechanism as the crank arm of a bike. And here's what it looks like with 
+all the pistons attached and the crankshaft turning. There are several things wrong with this demonstration. For instance, this is upside down. But you'll notice t
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

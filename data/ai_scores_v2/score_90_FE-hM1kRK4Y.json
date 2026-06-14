@@ -1,0 +1,16 @@
+{
+  "channel_id": 90,
+  "video_id": "FE-hM1kRK4Y",
+  "video_title": "Why Laplace transforms are so useful",
+  "transcript_length": 10733,
+  "research_depth": 8,
+  "signal_noise": 9,
+  "originality": 9,
+  "lasting_impact": 9,
+  "reasoning": {
+    "research_depth": "deep technical S-plane/poles exposition",
+    "signal_noise": "dense pedagogical",
+    "originality": "unique S-plane visualization",
+    "lasting_impact": "timeless engineering concept"
+  }
+}

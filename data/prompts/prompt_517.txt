@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Periodic Videos
+**Video**: "Mystery Glassware - Periodic Table of Videos"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+There are all sorts of rearrangements in our building. People are moving from one room to another, and Connor, our glass blur, has had to move part of his stall. Although he's been here quite a long time, there are pieces of glassware that are much older than he is. And he's found a couple of pieces that are really strange, and he's asked me to make a video to ask you if you recognize what these might be. If we're really lucky, one of you used the work here in Nottingham and might recognize this. So the first one is this long tube. It looks as if it is some sort of condenser for condensing vapor in a sort of distillation. And if you look along here, it is all the way up. It is zigzag. It's been pinched all the way up. And then at the top, there is this rather strange coil. And inside is something with a metal electrode, which might be some sort of pressure measurement device. And it is connected to the column here and at the top. There is also an input here, which may be for water jacket. And all together, I've never seen anything quite like it. It could be the whole thing was meant to be used the other way up. So this could be the bottom, and the other end could be the top. So it could be like this. And there is some sort of plate here, which presumably held it. And the fact that this plate is at this end sort of suggests that this was the top. Because if you were going to support this, you would support it at the top. But maybe that there were two plates and the bottom one has been lost. Connor, as a glass blower says, there is so much work needed to make this. There is not going to throw it away. So this is the second piece of Connor's glassware. And it's really weird. It is glass, you can see bit here, and it's been painted black. And I think it's been painted black because it for some sort of experiment involving light. And they don't want light from the room to get in. It consists of a main tube here. And it has two strange horns, a big one and a small one, like a lopsided Viking helmet. And two tubes going one, presumably going in and the other going out. But what is strange is that there are no ends here. You can go straight through. There is a hole here which appears to be for a window and another hole here for rather smaller window. This mark here is a bit of paper that's just up to the paint. And these horns are almost certainly to stop light which is shining in here, being reflected back. Is the other horn opposite the other window? Oh yes, yeah. So the two horns are opposite windows, right? Yes. And the fact that this is a much bigger horn, perhaps suggest that the light coming here is brighter than the light there. But that may not be correct assumption. The other thing is this hole just goes in, perhaps there was a window glued on here. But this hole has another smaller hole inside. OK. And the thing is, which I think is strange, is that there's nothing to contain what is inside this tube. One might expect it to be closed at either end and to be studying the gas or whatever is inside. And my only thought is that perhaps originally, this was clamped onto other pipes and there was something flowing through it. So I'm really hoping that somebody might recognize this either because they used it or because they have read a paper which had the drawing of this in the paper. So Professor, these light horns, these light blocking horns, that's like a standard procedure is in science to stop light reflecting back. I think it used to be. And this is one of the few examples I've seen. But it's very beautiful. And some poor glass blower must have spent ages making this. And pieces of glass fly everywhere. Tell us the business mate. And those who I can hold in properly will be used to layer as well. And what are we making?
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

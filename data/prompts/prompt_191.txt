@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Laura Kampf
+**Video**: "Check Out My Crazy House (Haus Liselotte Update)"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Hey everybody and welcome to my new video. Today I'm actually taking you on a trip. So, pack a toothbrush, we're going far. Hey Laura, welcome to your house. Okay, where am I? I am in my house in Germany that I bought five years ago. I bought this house. Let's take a look inside. Yeah, I know, I know. And when I got it, my plan was to of course live in it. And my goal was to build all the furniture for it. So, do some light renovation and lots of furniture building to make the house mine. Oh my god! Cocoa! Yes! I'm so relieved! But then I discovered that the entire house was kind of eaten by ants. And we had to rebuild the house with a house in the way. What the hell? What, it's tickling everywhere. It took me over three years of intense work to make this house livable again to rescue it. And just when I was about to be done, I met my now wife and moved to California. So then I had to decide what happens to the house. There was a plan to turn it into an Airbnb. But eventually I decided I'm going to keep it and I'm going to turn it into my workshop. Because in Germany I still work for a kids TV show and I need a workshop for that and a studio. And I also still want to finish the house. So this is it now. My workshop, house, hotel, studio and still lifetime project. I still have not given up on the dream to build everything that's in this house. Every lamp, every piece of furniture, every little weird thing that you find, I want to build it. And now check out the new kitchen. In my defense, we were shooting with a bunch of people here all week. So yes, this might be a little bit messy, but check out the kids room. Every time I come to the house, I have a project of mine that I want to finish. And this time it was the kids room. Last time we were here, this was completely empty. But thanks to my jet lag, I not only shot for the kids TV show, I also finished this room. This is obviously a little play house and also a mailbox. I need some details, some fluffy stuff, some books, some pillows. But it's better than before. Some couple management. Okay, this is really, really cool. But this is my first solid wood project, Walnut and Oak. And I build it for my brother's first kid. It was a long, long time ago, even before YouTube. But now I have the bed for our baby. So she can sleep in here. This is very emotional, I think. Okay, there's a really cool thing behind the store. I'm probably not supposed to show you, but I'm going to give you a little sneak peek. That's the kind of stuff that I build for the mouse show. If you've never heard of it, please check it out. I'm so proud of the things that we build there and the stories we tell, it's really cool. So, quick sneak peek to encourage you to watch more. It is so satisfying. The show is also good to check out if you want to hear me speak German more. But, you know, making is a universal language, you'll figure it out. That's another jet-like project. I'm pumped about it. It's a piece of neon that I found in the neon trash. And it's like the color. I don't know what it is about this orangey hue that it has is perfect. But the problem with neon is always that the cables and the power source is so ugly. So I built this little housing. It has an extra switch in case I don't want it. It has these custom copper holders, so it looks as minimal as possible. And then I made these little cable management screws. And together with a yellow fabric cable, I just think this looks so good. The cool thing is this piece of wood is from that piece of furniture that is also a YouTube video. I built it, I don't know, seven, eight years ago. And that's why you never throw anything away. You have to keep it all. Keep all the scraps. You never know. That's another midnight project. I didn't have a mirror here. I also wanted some more neon light in the bathroom, like every normal person. You need to have at least two neon lamps in the bathroom, so I did that. Jenny, who right now is doing illustrations on Patreon of my project. I got that from her 2016. Not one of my favorite things. This is my bedroom. We've been here last time. New is this wall. We closed this up. So now there is one side of the attic is storage. And the other side is this open space. Next time I'm here, at least next time I'm here by myself, I want to work on the upstairs department. I need to hide all these pipes. This is super ugly. So there's obviously no way to get up here. And I have this idea of building stairs or a ladder or something that's in between those beams. And that you can lower if you need it. We'll see. There's some interesting projects up there. And the plan is to have the TV up there. Please don't ask me how I got this up there by myself on a ladder. It was not nice. And playstation, pillows, music, just to chill out zone too. If you don't want to build stuff in the middle of the night, you can go up there and play Resident Evil. And I have tons of really cool framed artwork from friends and family. And I want to have like all this wall should be art. Yeah, I think that's going to look really cool and emphasize the height of this. That's next time. I can't talk about this project yet, but it's really, really fun. And then upstairs. Nope, we're not going to talk about upstairs. That's where I keep my chaos. And I put the cork floor in.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

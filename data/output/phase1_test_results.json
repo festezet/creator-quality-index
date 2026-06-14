@@ -1,0 +1,60 @@
+{
+  "test_date": "2026-04-09",
+  "model": "claude-sonnet-4-5-20250929",
+  "method": "single_transcript_analysis",
+  "note": "Production excluded (not evaluable from transcript)",
+  "channels": [
+    {
+      "id": 90,
+      "name": "3Blue1Brown",
+      "tier": "S",
+      "video_analyzed": "How (and why) to take a logarithm of an image",
+      "manual_scores": {"research_depth": 10, "signal_noise": 10, "originality": 9, "lasting_impact": 9},
+      "ai_scores": {"research_depth": 10, "signal_noise": 10, "originality": 9, "lasting_impact": 9},
+      "delta": {"research_depth": 0, "signal_noise": 0, "originality": 0, "lasting_impact": 0},
+      "ai_reasoning": {
+        "research_depth": "References specific academic work (De Smit and Lenstra 2003), primary source materials (Escher's letter to his son), deep understanding of math and art history.",
+        "signal_noise": "Every sentence advances understanding with zero filler. No sponsors, no padding, just dense conceptual progression.",
+        "originality": "Signature pedagogical framework using animation to reveal mathematical insights in artwork. Highly distinctive approach.",
+        "lasting_impact": "Explains timeless mathematical concepts (self-similarity, logarithmic transformations) through enduring artwork."
+      }
+    },
+    {
+      "id": 92,
+      "name": "Kurzgesagt - In a Nutshell",
+      "tier": "A",
+      "video_analyzed": "The Most Insane Megaproject You Never Heard About",
+      "manual_scores": {"research_depth": 8, "signal_noise": 8, "originality": 7, "lasting_impact": 7},
+      "ai_scores": {"research_depth": 8, "signal_noise": 9, "originality": 7, "lasting_impact": 8},
+      "delta": {"research_depth": 0, "signal_noise": 1, "originality": 0, "lasting_impact": 1},
+      "ai_reasoning": {
+        "research_depth": "Deep knowledge of Project Plowshare with specific technical details, dates, locations. Precise quantitative data throughout.",
+        "signal_noise": "Extremely content-dense with no filler. Efficient storytelling moving chronologically without padding.",
+        "originality": "Distinctive narrative style mixing dark humor with education. Fresh angle on lesser-known Cold War topic.",
+        "lasting_impact": "Important but obscure historical episode. Lessons about technological overreach remain relevant."
+      }
+    },
+    {
+      "id": 118,
+      "name": "Mark Rober",
+      "tier": "A",
+      "video_analyzed": "Engineers vs Junkyard RC Car Death Match",
+      "manual_scores": {"research_depth": 7, "signal_noise": 6, "originality": 8, "lasting_impact": 7},
+      "ai_scores": {"research_depth": 3, "signal_noise": 6, "originality": 7, "lasting_impact": 5},
+      "delta": {"research_depth": -4, "signal_noise": 0, "originality": -1, "lasting_impact": -2},
+      "ai_reasoning": {
+        "research_depth": "No research, citations, or technical depth—live-action RC car competition with engineering references but no actual analysis.",
+        "signal_noise": "Decent entertainment-to-filler ratio but includes sponsor plugs and repetitive banter.",
+        "originality": "Creative competition format combining RC cars with engineered weaponry. Distinct from standard formats.",
+        "lasting_impact": "Pure entertainment content with no educational takeaways or timeless insights."
+      },
+      "note": "Large delta likely due to video selection — this is an entertainment video, not a typical Mark Rober explainer. Manual scores reflect channel average."
+    }
+  ],
+  "summary": {
+    "mean_absolute_delta": 1.0,
+    "max_delta": -4,
+    "conclusion": "AI scores align well for content-heavy channels (3B1B: perfect match, Kurzgesagt: ±1). Entertainment-focused videos underperform vs channel-level manual scores. Mitigation: analyze 2-3 videos per channel and average, or select educational videos specifically.",
+    "recommendation": "Proceed to Phase 2 with multi-video averaging. Exclude production criterion from AI scoring."
+  }
+}

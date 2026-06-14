@@ -1,0 +1,14 @@
+{
+  "channel_id": 111,
+  "name": "LiveOverflow",
+  "research_depth": 9,
+  "signal_noise": 9,
+  "originality": 8,
+  "lasting_impact": 8,
+  "reasoning": {
+    "research_depth": "Deep technical expertise in security research. Demonstrates real vulnerability analysis with thorough understanding of the underlying systems.",
+    "signal_noise": "Excellent focus on technical content with minimal filler. Every segment directly contributes to understanding the security concept being explored.",
+    "originality": "Distinctive approach combining real-world security research with educational content. The hands-on exploitation demonstrations are genuinely unique.",
+    "lasting_impact": "Strong evergreen potential for security education. Fundamental concepts and methodologies remain relevant even as specific vulnerabilities get patched."
+  }
+}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: minuteearth
+**Video**: "There’s Really Only One Way To Die"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Cancer, heart disease, allergic reactions, drowning in molasses, getting your head bitten off by a grizzly bit. There are lots of things out there that can kill you, but when it comes to the inner workings of the human body, it turns out that everybody actually dies from the same thing. Hi, I'm Kate, and this is Minotaur. We often use specific biological hallmarks, like a person's heartbeat or brain activity, to divide life from death. But there's something much more fundamental that drives these processes, and all the other life-sustaining processes constantly going on in your body. ATP, our body's energy source. Every single cause of death out there actually kills us by interfering with our ability to produce ATP, powering down the very processes that keep us alive. Okay, every cause of death accept something like a nuclear explosion, which obliterates the need for these processes in the first place. But for the vast majority of us, death is a dearth of ATP. It takes two ingredients to make ATP, fuel and oxygen. Without enough of either one, your cells can't produce enough ATP to keep you alive. Starvation, for instance, is a matter of not having enough fuel to convert into ATP. But cells are really good at scavenging our body's stores of fat, protein, and carbs. So in most causes of death, fuel isn't the limiting factor. Oxygen is. Normally, our respiratory system grabs oxygen from the air, then our circulatory system shuttles it to various organs, where cells use it to make ATP. Most causes of death interrupt this journey in some way. Some mess with the initial oxygen acquiring part. Like pneumonia fills the lungs with fluid, preventing oxygen from making it into the bloodstream in the first place. Other respiratory problems like lung cancer, anaphylaxis, and drowning also prevent the respiratory system from effectively grabbing oxygen from the air. Most causes of death, though, interfere with the second part of the oxygen pathway. Like heart disease, the most common cause of death worldwide, narrows the arteries, restricting the flow of blood throughout the rest of the body. Electricution messes with the electrical signals that regulate the pumping of the various chambers of the heart, leaving them unable to effectively pump blood. Strokes, another major cause of death, happen when blood can't reach the brain. And sudden trauma can cause so much blood loss that the pressure in the circulatory system drops, leaving it unable to move blood through the body. In each of these cases, even though enough oxygen has made it into the body, that oxygen isn't getting carried to cells, where it's needed to produce ATP. And in a few especially weird causes of death, plenty of oxygen is making it into the body, and getting where it needs to go, but cells can't use it. Nine-eyed, for instance, messes with the cellular machinery that makes ATP, leaving it unable to use oxygen to complete their reaction. There are a ton of ways to interfere with the ATP production pathway. That's why there are so many so-called causes of death. But no matter where, or how the pathway fails, the ultimate result is the same. Your body can't produce enough energy to carry out the processes needed to actually maintain life. And a lack of ATP is the ultimate cause of every single case of RIP.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

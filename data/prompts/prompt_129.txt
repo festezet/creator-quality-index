@@ -1,0 +1,149 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Money & Macro
+**Video**: "Unknown"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Okay, it's been a month since the largest oil 
+supply disruption in history and brand crude oil   prices are now well over $100 per barrel. 
+Driving your car has already become very,   very expensive indeed. But sadly, I'm here to tell 
+you it's going to get quite a bit worse. You see,   just as when after the 2022 Ukraine energy crisis, 
+your food bill at the grocery store skyrocketed,   this crisis will sadly do the same. Indeed, some 
+fertilizer prices are already up by well over 50%.   But because this will only affect harvests in a 
+couple of weeks or months, unlike at the gas pump,   you will only start feeling this crisis in your 
+wallet later. So, when can you expect things   to get more expensive? What types of food are 
+most at risk? And especially, how bad is this   food crisis going to get? Hey, I'm Yuri. I have a 
+PhD in economics. And in today's money and macro   briefing, I will answer all of these questions. 
+But before getting into that, we first need to   quickly review why Hormuz is so crucial for global 
+food prices. Because while Ukraine is famously the   grain basket of Europe, last time I checked, not 
+that many crops were grown in the middle of the   desert. So then, why is the Strait of Hormuz so 
+essential for global food prices? In a nutshell,   it's about four types of ships that are stuck in 
+the Persian Gulf. The first are ships carrying oil   and these are going to farms all around the world. 
+The second are ships carrying natural gas mainly   from Qatar. And then the third are ships carrying 
+sulfur to for example fertilizer plants in   Morocco. And finally the fourth are those carrying 
+about 1/3 of the global fertilizer supply. The way   these four types of ships will affect your grocery 
+prices are as follows. First, fuel costs are one   of the main costs at mechanized farms. And of 
+course, they're also crucial in transporting your   food to the supermarket. Second, at a high level, 
+there are essentially three types of fertilizers.   There are nitrogen fertilizers, phosphate, 
+and potach. And potach well that is largely   unaffected. However, nitrogen fertilizers are made 
+using natural gas and nitrogen fertilizer plants   in Europe and India rely heavily on cheap natural 
+gas imports from the Gulf for their production. So   right now they are facing higher production costs 
+which will translate of course into higher prices   for these fertilizers for farmers which will then 
+ultimately translate into higher food prices.   Third, to make all of that even worse, about 44% 
+of world sulfur exports pass through the straight   of Hormuz, which is a major component needed 
+to make phosphate fertilizers in places like   especially Morocco. So again they will face higher 
+costs to make fertilizers which will be translated   into higher fertilizer prices for farmers all 
+over the world. Finally this region does not only   provide inputs for fertilizer factories elsewhere. 
+Saudi Arabia, Qatar and Iran itself are also three   of the top exporters of nitrogen-based fertilizers 
+like urea accounting for around 1/3 of global   trade. So the blockade has basically removed 
+around 20% of ready-to-use fertilizers from global   markets. And then to make matters even worse, 
+farming is an extremely competitive business.   Farms have almost zero profit margins. So 
+higher fertilizer and higher energy prices   at the same time. It immediately makes a lot 
+of farms unprofitable, meaning that they will   have to make difficult decisions. They can buy 
+fertilizer at astronomical prices and try to pass   the increased costs onto the consumer or they can 
+plant less and accept a smaller harvest that year.   All roads lead to the same outcome, which 
+is a higher grocery bill for all of us. So,   food price inflation, when can we expect prices 
+to start going up? Answering this question is   very tricky indeed. You see, these three types 
+of fertilizers are not all affected the same, but   they are mostly used together at different stages 
+of the crop-growing process. And crop growing   relied on food system experts like Raj Patel 
+to give us an idea. And according to him, the   current timing of the closure of the straight of 
+Hormuz and different planting seasons all across   the world actually creates a predictable timeline 
+of food price inflation. If we look at grains and   bread prices for example, it's a matter of weeks. 
+Then if we look at products like egg and dairy,   it's a matter of months. And finally, after about 
+five months, we will start seeing the so-called   protein spike, which means that pork and broiler 
+chickens will become significantly more expensive   because the corn and other feed stock prices will 
+go up and these are used to feed them and so that   will no longer be affordable. Yes, that sounds 
+rather scary. But what does it mean for your   grocery bill? Because you don't only buy these 
+products. How much will food prices go up? Again,   because of the complexity of global food supply 
+chains, we have relied on expert predictions here,   which can vary quite a bit and will of course 
+depend heavily on two other things. Number one,   where you are in the world. Some countries will be 
+hit harder than others, and number two, how long   the war will last. According to the UK's Institute 
+of Grocery Distribution, if the disruption lasts a   few months, food inflation would increase by 
+roughly 1 percentage point due to the rising   energy costs alone. But if it lasts longer and 
+if oil prices go up by 150% and gas by 250,   food inflation purely due to energy could rise by 
+about 2.5 percentage points in the UK. However,   that is just energy because in the UK most farmers 
+have already locked in fertilizer prices for the   upcoming year. If you live in a country where 
+they did not do that, then according to Stone X,   fertilizer shocks could add up to two to four 
+percentage points extra to food inflation. Now,   notably, this does not take into account yet 
+rising interest rates, which will also greatly   affect farmers. That aside, on average, the 
+crisis will likely lead, and this is still very   uncertain, to a grocery bill that is about 3 to 6% 
+higher by the end of the year. So, what this means   is that if your groceries were already expected 
+to rise by 3%, because there was already high   food inflation, the war could push that increase 
+much higher. Your total food bill could now go up   by 6 to 9% instead. And such a massive increase in 
+just a year could especially happen if countries   follow China in banning fertilizer exports 
+to protect their own consumers. In that case,   food prices may rise quite a lot more in certain 
+countries. But of course, a lot of that will   depend on the agricultural season and on how 
+your government will react. They may decide to   subsidize food prices. So which countries are the 
+most vulnerable? We don't know fully, but just to   get an idea, according to the UN, some of the most 
+vulnerable nations right now are those where the   seasonal timing is very bad. Like in particularly 
+Sri Lanka where the Maha rice harvest is underway.   In Bangladesh, there will also be big problems 
+because they have the critical boro rice season.   India also faces big problems because of reduced 
+domestic fertilizer productions ahead of the car   reef season. Another set of countries that could 
+be in serious serious trouble are those that rely   heavily on food imports where for example Egypt 
+is famously very much reliant on wheat imports and   already also Sudan which already has a massive 
+food insecurity crisis. Other countries that   are very vulnerable are fertilizer importers such 
+as for example the East African nations and also   very crucially Brazil which has become one of the 
+biggest food exporters in the world but is highly   highly reliant on fertilizer imports and if prices 
+in Brazil are driven up then the cost of meat,   grains and basic staples everywhere will soon 
+follow. So in conclusion, to me this fertilizer   crisis really highlights that the global economy 
+is facing a multi crisis due to the US-Israel   attack on Iran and consequent closure of the 
+strait of Hormuz. Now I've already talked about   the direct energy market impact in another video. 
+I've talked about the impact on Gulf economies in   particular and I'm planning to make another video 
+soon to highlight the broader economic impact on   emerging markets because as we've seen in this 
+video they are especially vulnerable and add   to that they that they rely heavily on energy 
+imports and also on Gulf money. Honestly, it's   looking really bad for a lot of these countries. 
+Now, if you have not seen my other videos yet,   go check them out. And if there is another angle 
+that I have not mentioned yet, like the airline   crisis, Russia's perspective, Europe, the US, let 
+me know what you want to see next in the comments   below. And in the meantime, if you want to dig 
+deeper, I highly recommend you check out the   excellent analysis by our advertising sponsor, 
+The Economist, which I always check out for the   research process of my video. For example, their 
+coverage of how the Russia-Ukraine wars sent and   fertilizer prices soaring really helped me 
+understand how quickly disruptions in one   region can cascade through global supply chains. 
+At the same time, they also dig into lesser-known   but fascinating dynamics like how Iranian 
+firms have developed surprisingly creative   ways to bypass sanctions even in something as 
+mundane as vegetable exports. And if you want   a more direct look at what an Iran war could mean 
+for energy markets and the wider economy, they've   also got a podcast episode that breaks that down 
+all clearly that I will link in the comments. As   these examples show, The Economist delivers 
+insights that help you see the bigger picture   and think for yourself. This is why I almost 
+always rely on their analysis for my research,   and it's why I highly recommend you subscribe. 
+Indeed, I'm excited to say that they are offering   a special 35% discount for money and macro 
+viewers right now. Whether you prefer their daily   journalism in the Economist app or you're like 
+me and enjoy catching up on the global economy   over the weekend with a cup of coffee and the 
+print edition, you'll always stay on top of the   latest global developments and support journalism 
+that values factual information, integrity, and   an independent point of view. So, don't miss out. 
+Click the link in the description or top comment   below or head over to economist.com/moneymackro 
+to claim your exclusive 35% discount today.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

@@ -1,0 +1,209 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: NileRed
+**Video**: "Making raspberry perfume"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+On this channel, I've made many chemicals, and some of them have smelled really nice,
+like grape or wintergreen, and others have smelled terrible,
+like putrescine or skatole. In theory, I could have used any of these
+to make a perfume, or I could have mixed them all together
+to make some disgusting creation. However,
+I thought that maybe it could be fun to make a completely new one,
+and I decided to go with raspberry ketone. Raspberry ketone occurs naturally
+in red raspberries, and it's a major component of their smell. The amount in the raspberries, though,
+is really small, and it's estimated
+that 1 kilo of raspberries might only contain a few milligrams of it. This makes extracting it
+extremely inefficient and way too expensive
+to use in things like candy or food. This isn't really much of an issue,
+though, because with chemistry, we can often just disregard nature
+and build the molecules ourselves. Like with many other flavors, fragrances,
+and pharmaceuticals, the building process usually starts
+with some cheap petroleum product. For any given molecule,
+there are many ways that it can be built, but for raspberry ketone,
+this seems to be the common pathway. It starts with benzene,
+which is derived from crude oil, and with every step,
+the raspberry ketone molecule is slowly put together. This is a really long
+and labor-intensive process, though, and when producing it industrially, nobody's going to be starting
+with benzene. Like with most other synthesis, they'll start with the cheapest
+mass-produced precursor that's closest to the final molecule. In this case,
+it's often 4-Hydroxybenzaldehyde, so that's what
+I'm going to be starting with. As usual, I tried my best to find an easy
+online source for this chemical, but unfortunately,
+I wasn't able to find a single place. I didn't really have a choice, and I ended up
+having to order it from Sigma. Before I get started, though,
+I did just want to say that making the raspberry ketone myself was definitely
+not the most efficient way to make it. The entire point of this project
+was to just explore the chemistry and the science behind its production, and I thought that making it myself
+could just be something fun to do. Unlike the 4-Hydroxybenzaldehyde, the raspberry ketone
+is actually quite easy to buy online. There are a lot of places
+that sell it for cheap, but it's not meant to be used in food or perfumes
+or anything else like that. It's instead sold
+as a weight loss supplement, but as far as I know, as with many other
+weight loss supplements, there's no evidence
+to support that it works. However, it was convenient for me to have an easy
+and pure source of the ketone, and you'll see later on in the video
+how I take advantage of this. But anyway, with that being said,
+we can finally get started. The first step was to make
+a dilute solution of sodium hydroxide, so I added about 4 grams of it
+to a beaker, followed by 40 mls of water. I swirled it around a bit
+over the course of a couple of minutes, and eventually it all dissolved. I didn't need this solution
+right at the moment, though, so it was temporarily placed on the side. I then got a flask and I dumped in 10 grams
+of the 4-Hydroxybenzaldehyde. On top of this, I dropped in a stir bar, and I also added
+40 milliliters of acetone. It quickly dissolved
+a lot of the 4-Hydroxybenzaldehyde, but to get the rest of it,
+I had to turn on the stirring. In less than a minute later,
+it had all disappeared, and I was left with this
+crystal-clear solution. Now, the next step was,
+with strong stirring, to slowly add
+the sodium hydroxide solution that I just made before. This caused its color to slowly change, and by the time that it was all added,
+it had turned yellow. What's going on here is a reaction between the acetone
+and the 4-Hydroxybenzaldehyde, and it's catalyzed
+by the sodium hydroxide. This reaction is generally known
+as an aldol condensation, and a new carbon-carbon bond
+is forming between the two molecules. The result is this intermediate molecule, which is actually very close
+to the final raspberry ketone. However, it still has this double bond, which I'll have to get rid of
+with another reaction. This intermediate has
+a slight yellow color, and I think it's why
+the color of the solution changes. This reaction is a bit messy, though, and it forms side products in tar, which I think caused it
+to slowly turn red. At this point, I sealed it with a stopper,
+took it off the stir plate, and I let it sit somewhere dark
+for about 24 hours. During this time,
+the reaction slowly went to completion, and when I came back to it,
+it had almost completely solidified. Now, into a beaker,
+I added about 100 mls water, followed by 65 mls
+of concentrated hydrochloric acid. This was then topped off
+to about 200mls, and it gave me roughly a 10% solution. This was all mixed together
+as thoroughly as possible, and I also added some ice. Then I shook the reaction mixture
+to break up all the solid stuff, and I poured it into the acid. The major reason for this step was to help purify out
+the raspberry ketone. I also washed the flask
+a couple of times with water just get out as much as possible. This reaction isn't very clean, and the base causes some of the acetone
+and our product to polymerize. Our desired product
+should have an off-white or slightly yellow color, and I think that all this red stuff
+is just polymerized junk. By adding it to the acid, all the sodium hydroxide
+is being neutralized, and it stops things
+from polymerizing more. Also, the water dissolves
+the leftover acetone, which helps separate
+the product from the tar. This process
+didn't happen instantly, though, and the product just
+slowly crystallized out over the course of about 10 minutes. When it looked like it was done,
+it was time to get rid of all the water, and I did this by vacuum filtration. I turned on my vacuum pump
+and I started adding the mixture. When everything had been pulled through, I washed the beaker
+and the powder with some more water. Then I turned on my pump again,
+and I let it run for a couple of minutes. I was eventually left with a reddish-brown
+semi-dry powder, but it was still really impure. To clean it up,
+I just had to recrystallize it, so I poured it all into a beaker. Then I added a somewhat arbitrary
+amount of water, and I turned on the stirring and heating. As it warmed up
+and got closer to the boiling point, more and more solid dissolved,
+and it took on this green color. Also, at some point,
+all the solid had melted, and it became an oily liquid. Most of it eventually disappeared, but to get the rest,
+I had to start adding more water. I ended up adding quite a bit,
+and at this point, It looked pretty good, but there was still a small amount left. I really wanted it to be nice and clear,
+but this would require adding more water, and I worried
+it wouldn't fit in the beaker. I just quickly transferred it
+to a larger flask, and then continued adding more. It did end up clearing up completely, but it also didn't take
+that much more water, so probably everything
+would have fit in the beaker. I then took it off the hot plate, pulled out my stir bar,
+and waited for it to cool down. When I came back the next day, I had a lot of nice
+whitish yellow crystals, but there was also a lot
+of this nasty junk on the bottom. All that stuff
+is just a mixture of the product, as well as tar and other things, and it's going to have
+to be processed again. The fluffy crystals, though,
+are still good, and they can just be filtered off. I did this just like before;
+using my vacuum filter. After all the water was pulled through,
+I washed it with more water, and I left the pump on for a few minutes
+to dry it up as much as possible. I'm not sure why,
+but by the time I was done with it, it wasn't white anymore,
+and it had turned yellow. I then dumped it onto some paper to dry,
+and at this point, it even looked orange. But by the next day,
+it was back to being a pale yellow. In total here,
+my yield was about 3 grams, which was a bit low for this reaction. Also, the purity of the stuff here
+was decent, but it wasn't as good
+as I would have liked, so I wanted to clean it up a bit more. First, though, I wanted to see
+if I can increase my yield by getting more product
+out of the tar junk, and I'll come back to this in a bit. All of the tar had solidified, and it was only loosely stuck
+to the bottom, so it was pretty easy to scrape off. To get it all out,
+I ended up having to wash the flask a few times with water, and all of these washings
+were added to a beaker. The heating was turned on, and like before,
+I kept adding small amounts of water. Eventually, almost everything dissolved, but there was still some stubborn tar
+at the bottom that didn't seem to disappear
+even when I added more water. I decided to get rid of it, and I did this by pouring everything
+into another beaker, and doing my best to not include the tar. I then added a bit more water
+and brought it to a boil, and I was left
+with a crystal-clear solution. This was taken off the hot plate
+and the stir bar was removed, and I waited for it to cool
+to room temperature. I ended up leaving it overnight, and when I came back the next day, I saw that some really nice crystals
+had formed. Unfortunately, though, there was still
+a decent amount of tar junk at the bottom. But thankfully, it was pretty easy
+to separate from the crystals, and I just had to shake it around a bit. I then filtered it off and dried it
+like we saw before, and this is what I was left with. I was able to recover
+another gram of the product, which was pretty significant, considering my initial yield
+was only three. Now, the total amount that I had
+was 4 grams, but like I said before, it wasn't as pure as I would have liked,
+so I had to clean it up a bit. To do this,
+I had to do another recrystallization, but this time,
+instead of just using water, I decided to try
+a mixture of water and ethanol. I started by adding
+a somewhat random amount of ethanol, and then I turned on
+the stirring and heating, and I waited for it to get to a boil. The raspberry ketone
+and most of the impurities are much more soluble in ethanol, so this time,
+they dissolved relatively quickly. When it eventually got to a boil
+a few minutes later, I started adding water
+to knock down the solubility. The basic goal here was to keep adding the water
+in small portions until the product was just barely soluble
+in the boiling solution. When I eventually got
+to what I felt was a good balance between the ethanol and the water,
+I took it off the hot plate. I took out the stir bar and let it cool, and several hours later,
+I had these nice white crystals. At the bottom, though,
+I unfortunately still had some tar. But in any case, I just swirled it around
+like before to separate the crystals, and I filtered them off. I let them dry for about a day or so,
+and I was left with about 3.75 grams. This was definitely way more pure
+than before, but it still looked like
+there was a bit of orange stuff in it. But despite this, it was more than
+pure enough for the next step, so I decided to move on. What I thought was interesting was,
+as I mentioned before, this molecule
+is extremely close to raspberry ketone. However, despite just being
+one double bond away, it really had no smell to it. The next reaction that I had to do
+was known as a reduction, and to do it, I needed hydrogen gas. However, I didn't just have a tank of it
+lying around or something, and I had to make it myself. In a lab setting, there are several ways
+that this can be done, but I found that for me,
+the easiest one was always just to mix sodium hydroxide drain cleaner
+with aluminum foil. This was the setup that I put together, which at first
+might look a bit complicated, but it's really not that bad. The basic idea is that the flask is filled
+with aluminum foil, and then above this,
+I've attached an addition funnel. In this funnel, oil is a whole bunch
+of concentrated sodium hydroxide soluti
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

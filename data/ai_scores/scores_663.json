@@ -1,0 +1,13 @@
+{
+  "channel_id": 663,
+  "name": "PBS Terra",
+  "scores": {
+    "research_depth": 8,
+    "signal_noise": 7,
+    "originality": 6,
+    "lasting_impact": 8
+  },
+  "justification": "\nResearch Depth (8/10): Excellent scientific grounding. Features expert interviews (Chris Goldfinger - geologist, Allison Perch - engineer, Michael Weber - contractor). Provides specific data: 41 quakes over 10,000 years (every 250 years average), last one in 1700 (321 years ago), 37% chance in next 50 years, magnitude 9 prediction. Compares to 2011 Japan Fukushima quake. Shows geological understanding of Cascadia Subduction Zone mechanics.\n\nSignal/Noise (7/10): High information density with practical content (retrofit techniques, evacuation challenges, infrastructure vulnerabilities). Some dramatic narration (\"ticking time bomb\") but mostly substantive. Concrete preparedness advice (5 essential items, retrofitting demonstration). Efficient use of expert testimony and visual evidence (aerial footage of Seaside).\n\nOriginality (6/10): Solid educational treatment of a well-documented topic. The combination of geological science, infrastructure analysis, and practical preparedness is well-executed but not novel. The firsthand Japan comparison from Chris Goldfinger adds valuable perspective. More compilation/synthesis than original research or unique framing.\n\nLasting Impact (8/10): Evergreen preparedness content. The geological facts and practical advice will remain relevant indefinitely (or until the earthquake occurs). The retrofitting techniques and emergency preparedness checklist have timeless value. However, specific infrastructure projects (Burnside bridge plans) may become dated.\n",
+  "video_topic": "Cascadia Subduction Zone Megaquake",
+  "analysis_date": "2026-04-09"
+}

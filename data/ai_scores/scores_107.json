@@ -1,0 +1,14 @@
+{
+  "channel_id": 107,
+  "name": "George Hotz",
+  "research_depth": 7,
+  "signal_noise": 4,
+  "originality": 8,
+  "lasting_impact": 6,
+  "reasoning": {
+    "research_depth": "Demonstrates genuine technical expertise through live coding. Knowledge comes from practical experience rather than academic sources.",
+    "signal_noise": "Significant tangents and stream-of-consciousness delivery. Live coding format inherently includes dead time, debugging, and off-topic conversation.",
+    "originality": "Highly distinctive voice and approach. The raw, unedited live coding format with real-time problem solving is genuinely unique among tech content.",
+    "lasting_impact": "Mixed longevity. The specific tools and code shown may become outdated, but the problem-solving approach and thinking patterns have lasting educational value."
+  }
+}

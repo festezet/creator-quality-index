@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: The Science Asylum
+**Video**: "I Thought Metric Was Better... Until Now."
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Whenever I mention a length in inches feet or miles, I inevitably get comments like, science uses the metric system you American even, but the units we use here in the U.S. are actually better. Hey, Crazies, there are two major systems of units here in the Western world, the metric system and the imperial system. That second one is, well, it's left over from the age of empires. No, not that age of empires. Hashtag not a sponsor. Anyway, people have a lot of opinions about these two systems. Imperial units are often considered to be chaotic or cursed, whereas metric units are considered the only legit scientific system. Neither of those opinions is true. What makes a system of units scientific is whether or not it's standardized. And to be fair, the metric system did try that right from the get-go. The second was originally defined as one 86,400th of the mean solar day. They also tried a similar thing with the meter. It was one 40 millionth of the circumference of the earth. Unfortunately, that wasn't a very good standard since the circumference of the earth is difficult to measure, at least precisely. And mass was even more difficult to define. So they ultimately made a few physical prototypes and called those the standards. It wasn't ideal, but it got the job done. The thing is, standardization is not unique to the metric system. The US also standardized its own imperial-based system as the US customary system. We took the easy route though and just defined all our units in terms of the metric ones. For example, the US foot is exactly 0.3048 meters, and the US mile is exactly 1,609.344 meters. There are similar definitions for every other unit in the US customary system. They've been linked this way since the 1950s, so any update in the metric system is automatically applied to the US customary system. In 1967, the second was redefined in terms of oscillations of the cesium atom, a universal constant. Since 1983, the meter has been defined in terms of the speed of light and the second. Then in 2019, the kilogram finally got a universal definition, involving plunks constant and the previous two definitions. The moment each update occurred, it also applied to the US. Both systems are equally standardized, which means both are equally scientific. If you look at a list of imperial units and how they relate to each other, it can be a bit overwhelming if you didn't grow up with them. But to be fair, a sizable chunk of my viewers did grow up with them. Even if we set that aside though, there isn't anything inherently special about metric units. The meter and the gram are still just as arbitrary as the foot and the pound. You still have to know what a meter looks like and what a gram feels like. The only thing that might give the metric system a slight edge here are the prefixes and the consistency that comes with them. See, in the metric system, lengths are measured in some form of the meter. If you're measuring something smaller, just throw a centi in front, and you've got a smaller unit, the centimeter. Measuring something bigger, use kilo instead, and you've got the kilo meter or kilometer. Oh, you're measuring a small time? How about milliseconds or nanoseconds? Is it a heavy mass? Megagrams might do. There are only seven units to remember and every one of them accepts the same list of metric prefixes. Except that's a lie. I don't see the Newton or the Jewel on this list. What about the Tesla, or the Volt, or the what? Metric may have seven base units, but there are plenty of other units you also have to remember. So that doesn't actually make it better than Imperial, just different. Yes, the metric prefixes are based on tens, but the reason that's convenient is because our decimal number system also happens to be based on tens. And only because most of us have ten digits on our hands. Here's the thing though, ten is objectively a bad number to base a system on. There are only two factors, five and two. 12 and 16 have way more factors, which makes them far more useful as a system base. And that's exactly what the Imperial system does most of the time. There are 12 inches in a foot, 16 ounces in a pound, three feet in a yard, four courts in a gallon, and eight furlongs in a mile. And lots of everyday items come in Imperial-sized packs, eggs, drink cans, hotdog buns, crayons, donuts, and so on. The metric system might be tidy when using decimal numbers, but big whoop, Imperial units win in real life. So is the metric system the only legit way to do science? No. Is the Imperial system cursed? Also, no. You should be using whatever one is more convenient for you in a given situation. We invented them to be useful. The most important thing is that reliable and precise communication occurs. Units work because we agree on standards, not because we count by tens. And until next time, remember, it's okay to be a little crazy. It was one four hundred millionth of the circumference of the earth. It was one four hundred. There's only one zero brain. There's only one zero. Turned down for what?
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

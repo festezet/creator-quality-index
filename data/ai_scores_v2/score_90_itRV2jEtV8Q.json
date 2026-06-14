@@ -1,0 +1,16 @@
+{
+  "channel_id": 90,
+  "video_id": "itRV2jEtV8Q",
+  "video_title": "Simulating and understanding phase change | Guest video by Vilas Winstein",
+  "transcript_length": 10384,
+  "research_depth": 8,
+  "signal_noise": 8,
+  "originality": 7,
+  "lasting_impact": 8,
+  "reasoning": {
+    "research_depth": "guest: Boltzmann formula, liquid-vapor model",
+    "signal_noise": "technical dense",
+    "originality": "guest simulation+explanation",
+    "lasting_impact": "fundamental physics"
+  }
+}

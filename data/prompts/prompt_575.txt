@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: TaskForce
+**Video**: "Financial Action Task Force (FATF) and Geopolitics with Deputy Governor Fundi Tshazibana"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+some might say the way fatf was established to operate and the way that it is currently operating are no longer there's now a Divergence there's your core and headline inflation Divergence taking place would there be any truth to that in other words meaning the East and West geopolitical stuff is starting to inter inter feere with whether you go on the grade list or go off the grade list is the grade list starting to be used as a disciplining factor in this geopolitical dance that is taking place so you know Global institutions are are very strange animals and they're complex animals so and and I say this having been a global bureaucrat for a long time I still uh M1 to to a large extent uh everywhere they they are politics they politics in your organizations and and it is that way also uh and and as you know there is this issue of influence that that is there and and I think that this fat would um would be unique if it hadn't been affected by what is happening geopolitically um however we don't have a choice as jurisdictions because their gray listing still has got meaning there are these dynamics that have to be debated uh and corrected in terms of what it is that we're doing because the membership is the one that votes the membership is the one that pronounces the market is the one that utilizes that information so regardless of what our views around fairness or different things things the reality is this is a measure that is used are you on a gray list are you on a black list but there are these tensions that are there that are emerging particularly at present how do you define specific things uh and and there there is a school of thought that says well maybe the worst is is too uh too hard on certain things and when we look at how do we Define what is aist there are these interpretations that keep changing quite regularly but on the whole I would say that the the original intentions within fat still remain we need to Be watchful of certain things we need to be cautious of certain things even aside from the fat of GRE list so I want to use one very simple and practical example so one of the fat gr fat requirements is that when you are banking someone you need to be aware of who that someone is how do they get their income and you need to vet them differently and they have a label for people like me I don't like to use it uh politically exposed individuals so you shop at Pep stores yeah I shop at Pep stores uh and I have to enforce this concept of of peps so so how do pep and how can peps exert undue influence and we know that in multiple jurisdictions they have been ilcd activity that has been perpetrated by or enabled by Pips uh and so these are things they are in the fatter standards but having lived in South Africa having lived through um State capture you can say with or without fatter it's it's important for us to understand these Dynamics and what it is that that we are picking up and yet it seems like our last question on gry listing uh the the one place or the one make stakeholder that is likely to possibly move us into The Blacklist is uh our ability to prosecute uh for the the state capture criminals for example uh are you in a position to give us an update based on what's in the public domain about your level of confidence in the remaining period before we are considered either off the gr list or onto the Blacklist so to speak about the progress that you see us making as a country unfortunately that that is the one question I can answer lots of questions that is the one question I'm unable to answer I thought you would walk into that one yeah yeah H unfortunately I can't answer but but cdy if what I can say is that we have got this interdepartmental committee that is cheered by the treasury and we are working through the individual items on the gry list yes they are capacity challenges um and we are working with other private sector colleagues we looking for mechanisms on how do we assist on the the side of the prosecutions on the side of Investigations but we also have to be mindful when you run a process like this it's not as simple as me coming to say to Gibs help us here uh Gibbs May well be implicated you yourself May well be implicated and have do you know something I don't know I don't know but I just say that this is the broad context when you receive help as a state you have to find these balances around the the the issues that you're going to be investigating who you might be investigating because you don't know y so um I'd like to go back to Savers cuz as you can see I've lost a lot of of hair which means I'm on the other side of the data Savers equation um when you're looking to balance the equation around is it inflation or interest rate is it really a balance or is there part of the stakeholder economy that you feel needs to be protected a lot more than the other we have an inflation Target and we seek to be within that Target so as the S remember the inflation Target band is white we have um our assessment has led us to believe that the midpoint is best for us we think that it's a good start we would like to see inflation even lower than the Mido over the longer term because if we look at our trading partners they have inflation lower than ours what does it mean if our trading partners have inflation lower than ours is that already our prices are too high it takes us out of the competitive space the second reason is the erosion of income which I touched on earlier so we do not focus on interest rates we focus on where is inflation and what will it take to get inflation to the midpoint of the inflation Target and I hope in a few years when I come to visit we'll be talking about you know the lower end of the of the target but but the the interest rate conversation I can't stress more it is the second order conversation you get there because of what's happening to inflation and this is your primary [Music] tool [Music] [Music]
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

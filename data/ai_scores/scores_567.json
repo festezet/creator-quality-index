@@ -1,0 +1,12 @@
+{
+  "channel_id": 567,
+  "name": "Geography Now!",
+  "tier": "A",
+  "scores": {
+    "research_depth": 3,
+    "signal_noise": 2,
+    "originality": 4,
+    "lasting_impact": 2
+  },
+  "notes": "Personal vlog about first continent visits. Heavy on personal anecdotes, light on geographic content. High tangent ratio (moving, burglary, merch). Voluntourism acknowledgment shows some self-awareness but doesn't translate to educational value."
+}

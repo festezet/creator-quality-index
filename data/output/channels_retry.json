@@ -1,0 +1,186 @@
+[
+  {
+    "id": 96,
+    "name": "Sabine Hossenfelder",
+    "url": "https://www.youtube.com/@SabineHossenfelder",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "science"
+  },
+  {
+    "id": 102,
+    "name": "Thought Emporium",
+    "url": "https://www.youtube.com/@ThoughtEmporium",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "science"
+  },
+  {
+    "id": 110,
+    "name": "Low Level Learning",
+    "url": "https://www.youtube.com/@LowLevelLearning",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "tech-dev"
+  },
+  {
+    "id": 122,
+    "name": "Undecided with Matt Ferrell",
+    "url": "https://www.youtube.com/@UndecidedMF",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "engineering"
+  },
+  {
+    "id": 134,
+    "name": "Historia Civilis",
+    "url": "https://www.youtube.com/@HistoriaCivilis",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "history"
+  },
+  {
+    "id": 135,
+    "name": "OverSimplified",
+    "url": "https://www.youtube.com/@OverSimplified",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 140,
+    "name": "Dan Carlin - Hardcore History",
+    "url": "https://www.youtube.com/@dancarlin",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "history"
+  },
+  {
+    "id": 156,
+    "name": "CGP Grey",
+    "url": "https://www.youtube.com/@CGPGrey",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 177,
+    "name": "Brilliant",
+    "url": "https://www.youtube.com/@brilliant",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 502,
+    "name": "ScienceClick",
+    "url": "https://www.youtube.com/@ScienceClick",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "science"
+  },
+  {
+    "id": 506,
+    "name": "Grand Angle",
+    "url": "https://www.youtube.com/@GrandAngle",
+    "language": "fr",
+    "tier": "B",
+    "primary_category": "finance"
+  },
+  {
+    "id": 507,
+    "name": "Xavier Delmas",
+    "url": "https://www.youtube.com/@XavierDelmas",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "finance"
+  },
+  {
+    "id": 511,
+    "name": "Le Dessous des Cartes",
+    "url": "https://www.youtube.com/@LeDessousDesCartes",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 514,
+    "name": "NileRed",
+    "url": "https://www.youtube.com/@NileredOfficial",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "science"
+  },
+  {
+    "id": 521,
+    "name": "Fermilab",
+    "url": "https://www.youtube.com/@feraboragua",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "science"
+  },
+  {
+    "id": 529,
+    "name": "Hussein Nasser",
+    "url": "https://www.youtube.com/@haborMeaning",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "tech-dev"
+  },
+  {
+    "id": 535,
+    "name": "Lesics",
+    "url": "https://www.youtube.com/@Lesics",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "engineering"
+  },
+  {
+    "id": 545,
+    "name": "The Engineering Mindset",
+    "url": "https://www.youtube.com/@TheEngineeringMindset",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "engineering"
+  },
+  {
+    "id": 548,
+    "name": "Grady Hillhouse",
+    "url": "https://www.youtube.com/@GradyHillhouse",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "engineering"
+  },
+  {
+    "id": 550,
+    "name": "Works By Design",
+    "url": "https://www.youtube.com/@WorksByDesign",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "engineering"
+  },
+  {
+    "id": 552,
+    "name": "Unlearning Economics",
+    "url": "https://www.youtube.com/@UnlearningEconomics",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "finance"
+  },
+  {
+    "id": 554,
+    "name": "Company Man",
+    "url": "https://www.youtube.com/@CompanyMan",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "finance"
+  },
+  {
+    "id": 562,
+    "name": "Heu?reka Eco",
+    "url": "https://www.youtube.com/@Heureka2",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "finance"
+  }
+]

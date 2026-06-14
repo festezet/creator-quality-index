@@ -1,0 +1,654 @@
+[
+  {
+    "name": "Arvin Ash",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 6,
+    "lasting_impact": 8,
+    "id": 100
+  },
+  {
+    "name": "Numberphile",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 101
+  },
+  {
+    "name": "Fireship",
+    "research_depth": 7,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 7,
+    "id": 103
+  },
+  {
+    "name": "ThePrimeagen",
+    "research_depth": 3,
+    "signal_noise": 6,
+    "originality": 7,
+    "lasting_impact": 4,
+    "reasoning": {
+      "research_depth": "Minimal technical sourcing. The video is a personal narrative/demo about using Strudel (JavaScript music library) with Vim/Playwright. No citations, expert interviews, or technical documentation references. Anecdotal storytelling with some technical demonstration.",
+      "signal_noise": "Decent signal-to-noise ratio. The video has a clear narrative arc (musician\u2192programmer\u2192musician) and demonstrates a working technical setup. Some filler with memes, copypasta humor, and tangential jokes, but the core technical content is present.",
+      "originality": "Distinct voice and recognizable style (ThePrimeagen's characteristic humor and storytelling). The Vim+Playwright+Strudel integration is a creative technical solution. Strong personal style elevates it.",
+      "lasting_impact": "Largely time-bound content. The personal story and specific Strudel demo have limited evergreen value. Not likely to be referenced years later except as a curiosity."
+    },
+    "id": 104
+  },
+  {
+    "name": "Computerphile",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 9,
+    "reasoning": {
+      "research_depth": "Expert-level content with academic credibility. Features actual computer science researchers and professors explaining concepts from their domain of expertise.",
+      "signal_noise": "Pure content delivery with minimal filler. Academic interview format keeps the focus on substantive technical content throughout.",
+      "originality": "Competent execution of the expert interview format. The channel's strength is in sourcing quality experts rather than novel presentation.",
+      "lasting_impact": "Highly evergreen content covering fundamental computer science concepts that remain relevant regardless of technological trends."
+    },
+    "id": 105
+  },
+  {
+    "name": "Ben Eater",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Deep technical knowledge demonstrated through hands-on hardware exploration. Shows genuine understanding of electronic components and audio engineering principles.",
+      "signal_noise": "Excellent signal-to-noise ratio. Every segment contributes to understanding the technical subject. Minimal filler or tangents.",
+      "originality": "Distinctive hands-on approach combining hardware teardowns with educational content. The practical demonstration format sets the channel apart.",
+      "lasting_impact": "Strong evergreen potential for hardware and electronics education. The fundamental principles discussed remain relevant over time."
+    },
+    "id": 106
+  },
+  {
+    "name": "George Hotz",
+    "research_depth": 7,
+    "signal_noise": 4,
+    "originality": 8,
+    "lasting_impact": 6,
+    "reasoning": {
+      "research_depth": "Demonstrates genuine technical expertise through live coding. Knowledge comes from practical experience rather than academic sources.",
+      "signal_noise": "Significant tangents and stream-of-consciousness delivery. Live coding format inherently includes dead time, debugging, and off-topic conversation.",
+      "originality": "Highly distinctive voice and approach. The raw, unedited live coding format with real-time problem solving is genuinely unique among tech content.",
+      "lasting_impact": "Mixed longevity. The specific tools and code shown may become outdated, but the problem-solving approach and thinking patterns have lasting educational value."
+    },
+    "id": 107
+  },
+  {
+    "name": "NetworkChuck",
+    "research_depth": 6,
+    "signal_noise": 6,
+    "originality": 7,
+    "lasting_impact": 6,
+    "reasoning": {
+      "research_depth": "Decent research covering the cybersecurity incident with multiple sources. Surface-level analysis rather than deep technical investigation.",
+      "signal_noise": "Some padding with dramatic presentation style and sponsor reads. Content is present but mixed with entertainment filler.",
+      "originality": "Recognizable energetic style that distinguishes from other tech channels. The accessible presentation of security topics is somewhat unique.",
+      "lasting_impact": "Time-bound content tied to specific security incidents. Good for current awareness but limited long-term reference value."
+    },
+    "id": 108
+  },
+  {
+    "name": "Jeff Geerling",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 8,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Solid hands-on testing and research. Demonstrates real hardware knowledge through practical experimentation and benchmarking.",
+      "signal_noise": "Minimal filler with content-focused delivery. Gets to the point efficiently with relevant technical demonstrations.",
+      "originality": "Distinctive approach combining hardware reviews with real-world testing scenarios. The practical, no-nonsense style is recognizable.",
+      "lasting_impact": "Good evergreen potential for hardware and infrastructure content, though specific product reviews may date over time."
+    },
+    "id": 109
+  },
+  {
+    "name": "LiveOverflow",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Deep technical expertise in security research. Demonstrates real vulnerability analysis with thorough understanding of the underlying systems.",
+      "signal_noise": "Excellent focus on technical content with minimal filler. Every segment directly contributes to understanding the security concept being explored.",
+      "originality": "Distinctive approach combining real-world security research with educational content. The hands-on exploitation demonstrations are genuinely unique.",
+      "lasting_impact": "Strong evergreen potential for security education. Fundamental concepts and methodologies remain relevant even as specific vulnerabilities get patched."
+    },
+    "id": 111
+  },
+  {
+    "name": "ArjanCodes",
+    "research_depth": 4,
+    "signal_noise": 7,
+    "originality": 6,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Surface-level coverage of Python design patterns. Presents established concepts without deep investigation or novel insights.",
+      "signal_noise": "Good structure and clear delivery. Content is well-organized with minimal tangents, though some segments feel like filler.",
+      "originality": "Competent execution of Python tutorial format. The focus on design patterns is somewhat distinctive but the presentation style is conventional.",
+      "lasting_impact": "Decent evergreen value for Python best practices. Design pattern content remains relevant though specific library recommendations may date."
+    },
+    "id": 112
+  },
+  {
+    "name": "Sebastian Lague",
+    "research_depth": 6,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Solid understanding of algorithms and graphics programming. Demonstrates through implementation rather than academic citation.",
+      "signal_noise": "Exceptional signal-to-noise ratio. Pure content delivery with beautiful visualizations and zero filler.",
+      "originality": "Highly distinctive visual style combining coding challenges with elegant graphics. The journey-style format showing the creative process is unique.",
+      "lasting_impact": "Good evergreen potential for algorithmic and graphics concepts. The visual explanations transcend specific implementations."
+    },
+    "id": 113
+  },
+  {
+    "name": "Two Minute Papers",
+    "research_depth": 8,
+    "signal_noise": 7,
+    "originality": 8,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Covers actual academic papers with genuine understanding. Provides context and explains significance of research findings.",
+      "signal_noise": "Good content density in short format. Some repetitive enthusiasm and catchphrases add minor noise but overall efficient.",
+      "originality": "Distinctive format summarizing cutting-edge research papers accessibly. The consistent enthusiasm and short format are recognizable.",
+      "lasting_impact": "Mixed longevity. Individual paper summaries may become outdated as fields advance, but the educational approach to understanding research persists."
+    },
+    "id": 114
+  },
+  {
+    "name": "Real Engineering",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Thorough research combining technical documentation, academic sources, and expert interviews. Demonstrates deep understanding of engineering principles.",
+      "signal_noise": "Excellent content density with every segment contributing to the engineering explanation. Professional narration with no filler.",
+      "originality": "Distinctive approach to engineering topics with high production quality. Makes complex engineering concepts accessible without dumbing down.",
+      "lasting_impact": "Strong evergreen content covering fundamental engineering principles. The explanations remain relevant regardless of technological trends."
+    },
+    "id": 116
+  },
+  {
+    "name": "Stuff Made Here",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 9,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Strong practical engineering knowledge demonstrated through building real projects. Research is applied rather than theoretical.",
+      "signal_noise": "Good content density focused on the engineering process. Entertainment elements serve the narrative rather than being filler.",
+      "originality": "Highly original concept combining serious engineering with creative projects. The ambitious builds and problem-solving approach are genuinely unique.",
+      "lasting_impact": "Good evergreen value for engineering methodology and creative problem-solving. The projects themselves may become dated but the approach endures."
+    },
+    "id": 117
+  },
+  {
+    "name": "Technology Connections",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Thorough research into everyday technology with genuine investigation. Combines historical context, engineering principles, and hands-on testing.",
+      "signal_noise": "Excellent content density with methodical explanations. Every segment contributes to understanding. Minimal filler despite longer format.",
+      "originality": "Highly distinctive approach examining mundane technology with genuine curiosity. The deep-dive format on overlooked topics is unique.",
+      "lasting_impact": "Strong evergreen value explaining fundamental technology principles. Content remains relevant as it covers underlying engineering rather than trends."
+    },
+    "id": 119
+  },
+  {
+    "name": "Engineering Explained",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Strong technical analysis with data-driven approach. Uses calculations, graphs, and engineering principles to explain automotive topics.",
+      "signal_noise": "Excellent signal-to-noise ratio with focused explanations. Whiteboard format keeps content dense and educational.",
+      "originality": "Solid engineering education format. The whiteboard approach is distinctive but the automotive focus is well-covered territory.",
+      "lasting_impact": "Good evergreen content for engineering principles. Fundamental physics and engineering concepts remain relevant regardless of specific car models discussed."
+    },
+    "id": 120
+  },
+  {
+    "name": "Branch Education",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "reasoning": {
+      "research_depth": "Deep technical accuracy in explaining complex systems. Demonstrates thorough understanding of engineering and scientific principles.",
+      "signal_noise": "Exceptional content density with pure educational focus. 3D animations and clear narration with zero filler content.",
+      "originality": "Distinctive 3D animation approach to explain how things work at a fundamental level. The visual style is recognizable and effective.",
+      "lasting_impact": "Excellent evergreen potential. Explains fundamental technology and science that doesn't change. Content will remain educational for years."
+    },
+    "id": 121
+  },
+  {
+    "name": "Applied Science",
+    "research_depth": 9,
+    "signal_noise": 10,
+    "originality": 10,
+    "lasting_impact": 9,
+    "reasoning": {
+      "research_depth": "Exceptional research depth with hands-on experimentation. Builds actual scientific equipment and conducts real experiments.",
+      "signal_noise": "Perfect signal-to-noise ratio. Pure content delivery focused entirely on the science and engineering. No entertainment filler whatsoever.",
+      "originality": "Uniquely original content. Building electron microscopes, superconductors, and other advanced scientific equipment at home is genuinely unprecedented.",
+      "lasting_impact": "Excellent lasting value. The scientific principles and engineering approaches demonstrated are timeless and educational."
+    },
+    "id": 123
+  },
+  {
+    "name": "How Money Works",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 7,
+    "lasting_impact": 6,
+    "reasoning": {
+      "research_depth": "Decent research covering financial topics with data and examples. More accessible than academic but reasonably well-sourced.",
+      "signal_noise": "Good content structure with clear explanations. Some clickbait tendencies but generally focused on delivering the information.",
+      "originality": "Competent financial education format. Topics are interesting but the presentation style follows common YouTube patterns.",
+      "lasting_impact": "Mixed longevity. Some content covers timeless financial principles while other videos are tied to current events that will date."
+    },
+    "id": 124
+  },
+  {
+    "name": "Patrick Boyle",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Strong financial analysis drawing on professional hedge fund experience. Well-sourced with academic and industry references.",
+      "signal_noise": "Excellent signal-to-noise ratio. Dry humor enhances rather than detracts from content. Dense financial analysis with minimal filler.",
+      "originality": "Distinctive voice combining professional finance expertise with dry wit. The hedge fund manager perspective is relatively rare on YouTube.",
+      "lasting_impact": "Good lasting value for financial analysis methodology. While specific market events date, the analytical framework and financial literacy remain relevant."
+    },
+    "id": 126
+  },
+  {
+    "name": "The Plain Bagel",
+    "research_depth": 1,
+    "signal_noise": 3,
+    "originality": 7,
+    "lasting_impact": 2,
+    "reasoning": {
+      "research_depth": "WARNING: Scored on April Fools satire video - not representative of channel quality. The analyzed transcript was intentional comedy/satire.",
+      "signal_noise": "April Fools content - intentionally low signal. Not representative of normal channel output.",
+      "originality": "Creative April Fools concept shows originality in humor, but not indicative of typical educational content quality.",
+      "lasting_impact": "Satire video with no lasting educational value. Normal channel content would score significantly higher."
+    },
+    "id": 128
+  },
+  {
+    "name": "Money & Macro",
+    "research_depth": 7,
+    "signal_noise": 6,
+    "originality": 6,
+    "lasting_impact": 4,
+    "reasoning": {
+      "research_depth": "Reasonable macroeconomic analysis with data references. Covers topics competently but without deep academic rigor.",
+      "signal_noise": "Moderate content density. Some segments feel padded and there's occasional repetition of points.",
+      "originality": "Standard macroeconomics YouTube format. Topics are relevant but presentation doesn't stand out from similar channels.",
+      "lasting_impact": "Limited lasting value as content is heavily tied to current economic events and market conditions that will date quickly."
+    },
+    "id": 129
+  },
+  {
+    "name": "Aswath Damodaran",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "reasoning": {
+      "research_depth": "Exceptional depth from a world-renowned valuation professor. Academic rigor with real-world application. Primary source material.",
+      "signal_noise": "Excellent content density. Pure educational content from university lectures adapted for YouTube. No entertainment filler.",
+      "originality": "Unique position as the leading academic voice on corporate valuation. Brings genuine expertise rarely found on YouTube.",
+      "lasting_impact": "Outstanding lasting value. Valuation principles and financial frameworks taught are timeless and form the foundation of modern finance education."
+    },
+    "id": 130
+  },
+  {
+    "name": "Two Cents",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 7,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Solid personal finance research with good sourcing. Accessible without being superficial.",
+      "signal_noise": "Good content structure with clear explanations. Animation and graphics support the message well with minimal filler.",
+      "originality": "Well-executed personal finance education. The couple format and animation style are distinctive but the genre is crowded.",
+      "lasting_impact": "Good evergreen value for personal finance fundamentals. Core financial literacy concepts remain relevant over time."
+    },
+    "id": 131
+  },
+  {
+    "name": "Graham Stephan",
+    "research_depth": 4,
+    "signal_noise": 6,
+    "originality": 6,
+    "lasting_impact": 5,
+    "reasoning": {
+      "research_depth": "Surface-level financial advice based primarily on personal experience rather than rigorous research. Anecdotal rather than analytical.",
+      "signal_noise": "Moderate content density. Personality-driven content with some filler and repetitive messaging around frugality themes.",
+      "originality": "Recognizable personal brand but follows standard YouTube personal finance format. Real estate angle provides some differentiation.",
+      "lasting_impact": "Limited lasting value. Content tied to personal anecdotes and current market conditions. General advice is generic enough to be found elsewhere."
+    },
+    "id": 132
+  },
+  {
+    "name": "Kings and Generals",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 6,
+    "lasting_impact": 6,
+    "reasoning": {
+      "research_depth": "Strong historical research with detailed military analysis. Well-sourced content covering battles, campaigns, and strategic context.",
+      "signal_noise": "Excellent content density focused on historical narrative. Animated maps and clear narration with minimal filler.",
+      "originality": "Competent execution of animated history format. The military history focus is well-done but the format is shared by several similar channels.",
+      "lasting_impact": "Moderate lasting value. Historical content is inherently evergreen but the format and depth may be superseded by more detailed treatments."
+    },
+    "id": 133
+  },
+  {
+    "id": 137,
+    "name": "Extra History",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Solid historical content covering Victorian era topics with good factual basis but relies mainly on secondary sources rather than primary research",
+      "signal_noise": "High signal content focused on historical narrative with minimal filler, short format keeps content dense",
+      "originality": "Competent execution of animated history explainer format, established style without particularly novel approach",
+      "lasting_impact": "Historical content remains relevant over time, educational value persists though not paradigm-shifting"
+    }
+  },
+  {
+    "id": 138,
+    "name": "History Matters",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 7,
+    "reasoning": {
+      "research_depth": "Well-researched WWI and Roosevelt content with multiple credible sources and demonstrated deep subject knowledge",
+      "signal_noise": "Excellent signal-to-noise ratio, very content-dense with minimal filler in short-form format",
+      "originality": "Distinctive animated style with unique humorous approach to history education, recognizable format",
+      "lasting_impact": "Historical content is evergreen, though short format may limit depth of lasting intellectual impact"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Invicta",
+    "research_depth": 4,
+    "signal_noise": 3,
+    "originality": 3,
+    "lasting_impact": 2,
+    "reasoning": {
+      "research_depth": "Video analyzed was a sponsored game showcase rather than typical historical content - minimal research depth in this particular video",
+      "signal_noise": "Heavy sponsored content and game promotion dominated the video, low educational signal",
+      "originality": "Standard sponsored game review format, not representative of channel's usual historical content",
+      "lasting_impact": "Sponsored game content has minimal lasting value"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Voices of the Past",
+    "research_depth": 10,
+    "signal_noise": 10,
+    "originality": 9,
+    "lasting_impact": 10,
+    "reasoning": {
+      "research_depth": "Primary source reading - William Adams letter provides direct historical testimony, the highest form of historical sourcing",
+      "signal_noise": "Pure primary source content with no filler, every word directly from the historical document",
+      "originality": "Unique format of reading primary historical sources, distinctive approach rarely seen on YouTube",
+      "lasting_impact": "Primary source historical documents are timeless - this content will remain valuable indefinitely"
+    }
+  },
+  {
+    "id": 142,
+    "name": "CaspianReport",
+    "research_depth": 9,
+    "signal_noise": 8,
+    "originality": 9,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Deep analysis of Gulf desalination vulnerability with specific data points, geopolitical connections, and historical context",
+      "signal_noise": "Focused narrative on desalination dependency, minimal tangents, though some repetition in framing",
+      "originality": "Unique angle connecting water infrastructure to geopolitical vulnerability - rarely covered topic",
+      "lasting_impact": "Strong lasting relevance as water security becomes increasingly critical geopolitically"
+    }
+  },
+  {
+    "id": 143,
+    "name": "TLDR News Global",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 6,
+    "reasoning": {
+      "research_depth": "Solid overview of dollar dominance with relevant data (reserve percentages, forex transactions), though stays at surface level on mechanisms",
+      "signal_noise": "Well-structured analysis with clear progression, minimal filler despite magazine/subscription promotion at end",
+      "originality": "Covers well-trodden topic (de-dollarization) with standard framing, Kindleberger Trap reference adds some depth",
+      "lasting_impact": "Timely analysis but conclusions are speculative; value diminishes as events unfold differently"
+    }
+  },
+  {
+    "id": 144,
+    "name": "PolyMatter",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Thorough economic analysis tracing Puerto Rico from Operation Bootstrap through Section 936 to debt crisis, with specific data (tax savings per employee, bond refinancing stats)",
+      "signal_noise": "Excellent signal - each section builds logically on the previous, minimal tangents, sponsor integration brief and non-intrusive",
+      "originality": "Fresh angle on Puerto Rico's decline through the lens of Section 936 tax policy, connecting macro policy to local outcomes",
+      "lasting_impact": "Strong educational value about unintended consequences of tax policy, relevant framework for understanding territorial economics"
+    }
+  },
+  {
+    "id": 145,
+    "name": "RealLifeLore",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Good historical overview of Middle East borders from Ottoman Empire through Sykes-Picot to Treaty of Lausanne, with specific treaties and dates",
+      "signal_noise": "Well-structured chronological narrative, stays focused on border formation, minimal tangential content",
+      "originality": "Well-known topic (Sykes-Picot) presented in standard historical narrative format without novel angles",
+      "lasting_impact": "Strong educational foundation for understanding ongoing Middle East conflicts, remains relevant and referenceable"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Wendover Productions",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 7,
+    "lasting_impact": 6,
+    "reasoning": {
+      "research_depth": "Good research into Nike history from founding through Jordan era to modern challenges, with specific business data and cultural analysis",
+      "signal_noise": "Well-paced narrative arc from Nike's origins to current struggles, stays focused despite broad scope",
+      "originality": "Business analysis angle on Nike is common, but connects running culture, athlete partnerships, and brand identity evolution in interesting ways",
+      "lasting_impact": "Informative business case study but tied to current events that may date; framework for understanding brand lifecycle has some lasting value"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Atlas Pro",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "reasoning": {
+      "research_depth": "Deep evolutionary biology and geology tracing redwood evolution from Pangaea cypress ancestors through Laurasia fog adaptation to modern California remnants",
+      "signal_noise": "Excellent narrative flow - each concept builds on previous, minimal tangents, personal framing adds engagement without diluting content",
+      "originality": "Novel angle connecting atmospheric moisture intake strategy to height evolution and positive feedback loops - goes well beyond standard ecology",
+      "lasting_impact": "Strong educational value about evolutionary adaptation, climate change effects on species, and biogeography principles"
+    }
+  },
+  {
+    "name": "VisualPolitik EN",
+    "research_depth": 6,
+    "signal_noise": 7,
+    "originality": 6,
+    "lasting_impact": 5,
+    "id": 148
+  },
+  {
+    "name": "Good Times Bad Times",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 6,
+    "id": 149
+  },
+  {
+    "name": "Johnny Harris",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 7,
+    "lasting_impact": 8,
+    "id": 150
+  },
+  {
+    "name": "Ali Abdaal",
+    "research_depth": 4,
+    "signal_noise": 6,
+    "originality": 4,
+    "lasting_impact": 5,
+    "id": 151
+  },
+  {
+    "name": "Thomas Frank",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 152
+  },
+  {
+    "name": "Cal Newport",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 153
+  },
+  {
+    "name": "Matt D'Avella",
+    "research_depth": 7,
+    "signal_noise": 6,
+    "originality": 6,
+    "lasting_impact": 6,
+    "id": 154
+  },
+  {
+    "name": "Tiago Forte",
+    "research_depth": 4,
+    "signal_noise": 6,
+    "originality": 5,
+    "lasting_impact": 5,
+    "id": 155
+  },
+  {
+    "name": "Atomic Shrimp",
+    "research_depth": 4,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 5,
+    "id": 157
+  },
+  {
+    "name": "Pursuit of Wonder",
+    "research_depth": 7,
+    "signal_noise": 9,
+    "originality": 6,
+    "lasting_impact": 8,
+    "id": 158
+  },
+  {
+    "name": "Einzelganger",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 160
+  },
+  {
+    "name": "Academy of Ideas",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 8,
+    "id": 161
+  },
+  {
+    "name": "Veritasium",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 91
+  },
+  {
+    "name": "PBS Space Time",
+    "research_depth": 9,
+    "signal_noise": 10,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 93
+  },
+  {
+    "name": "SmarterEveryDay",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8,
+    "id": 94
+  },
+  {
+    "name": "Steve Mould",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 8,
+    "id": 95
+  },
+  {
+    "name": "Domain of Science",
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 7,
+    "lasting_impact": 8,
+    "id": 97
+  },
+  {
+    "name": "Up and Atom",
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 7,
+    "id": 98
+  },
+  {
+    "name": "MinutePhysics",
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 9,
+    "id": 99
+  }
+]

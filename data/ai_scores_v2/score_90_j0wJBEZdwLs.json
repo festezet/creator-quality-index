@@ -1,0 +1,16 @@
+{
+  "channel_id": 90,
+  "video_id": "j0wJBEZdwLs",
+  "video_title": "But what is a Laplace Transform?",
+  "transcript_length": 10204,
+  "research_depth": 8,
+  "signal_noise": 9,
+  "originality": 9,
+  "lasting_impact": 9,
+  "reasoning": {
+    "research_depth": "under-the-hood mechanism explanation",
+    "signal_noise": "dense, content-focused",
+    "originality": "novel visual decomposition",
+    "lasting_impact": "evergreen diff-eq tool"
+  }
+}

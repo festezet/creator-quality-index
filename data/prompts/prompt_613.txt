@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Nathaniel Drew
+**Video**: "Please stop hiding from life."
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+So spring has arrived. As is always the case every year, it feels like it's time to re-enter the world. And there's something scary about that. Due to a variety of things, a lot of life changes happening right now in my life. A few health problems which are improving. I have kind of lost a lot of momentum. I don't feel very much creative momentum right now. And I think that's very psychological. But we are creatures that have to negotiate with our own psychology. And so kind of forced myself to come out here, record this in a public space, and read to you a short essay I wrote that I posted on my sub-stack a few months ago called Do Not Hide. It's a reminder to myself and a message to anybody who feels drawn to those words. I'll read it to you now. You can also read it for yourself on sub-stack. I'll leave a link to it in the description. Do Not Hide. The safe thing to do is always to hide. We all feel that urge, that option is always there. But if what you want to do is to live, really live, then hiding is actually not an option. And it never was. When you hide, you are making an apology that does not need to be made. I beg you not to hide. That cannot possibly be what you were brought here to do. I wish that you find the courage within yourself to show your face. To show yourself in all of your incredible light, hiding is a disservice to the world and to yourself. I beg you to not make yourself small. Do Not Apologize for who you are. The world has room for you. When people really show themselves, it stirs something inside of me. I am often reduced to tears. Life becomes a measurably more beautiful and more terrifying and direct proportion to the responsibility you take over yourself. If you feel dull inside, it can only be because you are not allowing yourself to feel. It is not possible to feel dull when you are not hiding. The walls that separate you from the rest of the world to grow thinner and thinner and become but a thin film. Everything becomes more vibrant and alive, brighter or expansive. The great teachers say that we cannot even fathom how vibrant and alive and joyful it can all become. I yearn for that. I want to go home. And I know that you can only walk down that path by not hiding. Be the owner of your life. Own it all. Own your reactions, your triggers, own your words and your actions. This is where your emancipation awaits you. Thanks for listening. Before it comes soon and I wish you all the bravery and courage to not hide.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

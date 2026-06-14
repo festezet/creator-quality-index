@@ -1,0 +1,19 @@
+{
+  "channel_id": 141,
+  "channel_name": "Voices of the Past",
+  "scores": {
+    "research_depth": 10,
+    "signal_noise": 10,
+    "originality": 9,
+    "lasting_impact": 10
+  },
+  "reasoning": {
+    "research_depth": "Primary source reading - William Adams letter provides direct historical testimony, the highest form of historical sourcing",
+    "signal_noise": "Pure primary source content with no filler, every word directly from the historical document",
+    "originality": "Unique format of reading primary historical sources, distinctive approach rarely seen on YouTube",
+    "lasting_impact": "Primary source historical documents are timeless - this content will remain valuable indefinitely"
+  },
+  "transcript_assessment": "Primary source reading of William Adams letter from Japan, pure historical document presentation",
+  "source": "sonnet_analysis",
+  "analysis_date": "2026-04-08"
+}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Two Minute Papers
+**Video**: "Google’s New AI Just Broke My Brain"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Google made a huge announcement about their new method that lets us run AI techniques cheaper. The news took the world by storm. This came at the best possible time because we have a worldwide memory shortage. So the prices for capable laptops and GPUs and anything that can run these AI systems is up by an insane amount and this work would make them much cheaper to run. They call it TurboQuant. Roughly speaking, they claim 4 to 6 times less memory. That is insane. And 8 times faster computation for a part of the neural network called Attention. No meaningful loss in output quality. And it works on top of existing models as is. Phew, if true, that is a total game changer. The news was so huge it even moved the stock price of huge semiconductor companies. Because of that, I did not want to publish an early video on this huge sensation. I really wanted to wait a bit and find out whether it actually works in practice. I'll tell you about that. And I'll also tell you that not everyone is happy about it. So three questions. What does it do? Does it work? And three. What is the controversy about? Dear Fellow Scholars, this is two-minute papers with Dr. Karo Zonai Fahir. And it feels so good to do it like this. Well, this compresses the KV cache of AI systems, like large language models. This is the short-term memory of an AI assistant. If you would look into that, you would see tons and tons of these numbers. These numbers relate to what you are currently talking about. Movies, a bunch of documents, or a huge codebase. Now, personally, I am a research scientist. What caught my eye was not the media hype, but this. Oh, a formal mathematical proof that it works. Now we're talking. Scientists propose that we chop off the end of the numbers to save memory. Is that a new idea? No. Is that a good idea? No, unless you are very careful. Because you can lose a lot of information and your neural network might output nonsense. So how do you do that? Well, imagine a vector. This is like an arrow pointing somewhere. Sometimes that arrow points mostly along one axis. This is the axis. So most of its energy is in one direction and a little in other directions. And when you chop that information off, it snaps to the grid. You basically lose everything except that one direction. That is not useful. Now here is a brilliant idea. Before chopping it off, rotate the arrow in a random direction. Now, the energy spreads more evenly across all directions. So when you round off parts of it, you lose a little from everywhere. Instead, everything from most places. The result? Much less information lost. Is this idea new? No. This is a very old idea. Now, they do one more thing. They use the Johnson Lyndon Strauss transform to compress the data. What is that? Remember, we have a bunch of numbers representing arrow directions. And we want fewer numbers to describe these directions. But very carefully, you do that in a way that guarantees that the distances between these arrows is roughly the same after squishing. If you want to sound really cool, just call it the JL transform. Is that new? Not really. 40-year-old technique. And I think this is the key. Everyone loves to invent shiny new stuff. But here, quantization is not new. Rotating things around is not new. This transform is not new. These are three age old ideas combined together to great effect. Look, sometimes you don't need to invent grand new theories. Sometimes you need a smart combination of existing methods. Now, to conclude that it really works in practice, I wanted to see other scientists reproduce the technique and benchmark it for themselves. This is why the video appears later than most others, but I think it makes it more truthful. So, were other scientists able to reproduce this technique? Yes. Did they also benchmark it? Yes. Does this technique help? Yes. But not so fast. The first tests reveal that it decreased the memory cost of the KV cache short term memory by 30-40%. That is fantastic. I would have been very happy with this, but it doesn't end there. Typically, you have a trade-off where you decrease memory usage at the cost of something. So, something needs to slow down. Now, hold on to your papers, fellow scholars, because it also sped up processing the prompt by about 40% as well. What? That. My brain crashed. We get faster assistants that need less memory at almost zero cost. That is insane. In a world where it's harder and harder to own things, this is a blessing. Thank you so much. It is also remarkable that the paper has barely been out for a week, and some of you fellow scholars already coded it up. Nice work. Link is in the description. So, it's not quite like the media says. Based on the results, we cannot conclude that every AI machine suddenly needs six times less RAM. No, that is a bit idealistic and only true for some corner cases. You know, when you see an official benchmark of a phone battery or electric core mileage with somewhat idealized conditions, it is a bit like that. So, careful with the media hype. But experience fellow scholars like you know that in your mind, you have to tone these numbers down a little. This is why we wait for more data and analyze experiments here to get the highest quality information for you. But it's still good. Really good. It helps most people who run AI systems with very long contacts. When you chuck in a huge PDF document or a movie or a huge codebase for an AI to analyze, yes, you will be able to do that cheaper with meaningfully less memory. Often, a few gigabytes less. Wow. And I think that is absolutely amazing news. Third, I will note that other researchers point out that the paper overlaps with previous techniques. They felt that it has similarities that should be discussed more thoroughly. And there was more. Eventually, the paper was accepted for publication, though not all researchers agree the concerns were fully addressed. I put a link to all of these in the video description. But this proves that even in modern AI, there are still basic things we haven't invented yet. And that makes this a very exciting area to be in. What a time to be alive. And if you agree that this is the way of talking about papers, please consider subscribing and hitting the bell icon. Here you see me running the full deep seek AI model through Lambda GPU cloud 671 billion parameters running super fast and super reliably. This is insane. I love it and I use it on a regular basis. Lambda provides you with powerful and video GPUs to run your own chatbots and experiments. Seriously, try it out now at lambda dot AI slash papers or click the link in the description.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

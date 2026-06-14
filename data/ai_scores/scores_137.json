@@ -1,0 +1,19 @@
+{
+  "channel_id": 137,
+  "channel_name": "Extra History",
+  "scores": {
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 7
+  },
+  "reasoning": {
+    "research_depth": "Solid historical content covering Victorian era topics with good factual basis but relies mainly on secondary sources rather than primary research",
+    "signal_noise": "High signal content focused on historical narrative with minimal filler, short format keeps content dense",
+    "originality": "Competent execution of animated history explainer format, established style without particularly novel approach",
+    "lasting_impact": "Historical content remains relevant over time, educational value persists though not paradigm-shifting"
+  },
+  "transcript_assessment": "Victorian era history content, animated explainer format, educational focus",
+  "source": "sonnet_analysis",
+  "analysis_date": "2026-04-08"
+}

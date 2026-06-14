@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: George Hotz
+**Video**: "George Hotz | Programming | how I actually use agentic coding | Agentic AI"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+So I want to show you guys how I actually use agentic coding, let me see if we can get that to be a little quieter. Can you guys hear that? Is that loud in the morning? No, I don't think it's a lot of little. So I mean yesterday is a bad example of how to actually use those things. In reality, they're useful for certain things, but you have to stay super carefully on top of them. So like, you can see it added two helper functions here. It looks like there's a ton of duplicate code. Do not duplicate code. Is this used? This fallback that I don't really like, I had to add some assertions, but you have to carefully read any of the code that it writes. This is the other thing that I'm working on. I'm trying to write firmware for the eGPUs. So I got some eGPUs on the mail. This is a nice board where we set up a really nice debug loop. This is an FTDI that can unbrick the chip no matter what. So I'm having a claw try to enumerate the USB. I got the UR working. These things aren't that good and you have to hint them. You have to help them a lot. Like I had to tell it to disable parity. So I'm working on three PRs right now. I'm working on this DSPerminstructions one. It's so annoying if I'm not logged in to GitHub. I guess I can see it. Okay, that's fine. As long as I can see if it gets a green check. And I don't do any logged in stuff on stream. I'm also working on this RDNA for PR. So you can see this one. Unfortunately got an X on the linter. We can check that. So I messaged here into a tiny box. And also I hope this stream is working because I do have tail scale up. I need to have my tail scale up. I'm using an exit node in order to access a claw in from Hong Kong. Yeah, no, I mean yesterday's stream sets of that example. You shouldn't actually be using a jet decoding anything like that. And there's a lot of stuff that I still do by hand. If you want to see some of the by hand stuff, right? But it's useful for like figuring things out. So I'm not working in tiny grad here. So I have an extra tiny grad to work on. I can manage about three or four of these. But if I try to manage too many, it gets I just get overwhelmed. I'm going to test test plus. RDA for. Add it to the AMD. IDE test and have actions. And then here so we can see. This on GitHub. I mean, sometimes I'll just push stuff to GitHub. And I'll look at the different GitHub. Like I can some diffs. I really have to stay on top of by hand. Because you really can't start to let the slop in. People have this mythical idea that agents can somehow manage their own. Slop. Fear and loathing of gas town. That would have been a good name. Okay, so. Just. Test. Test. So this is adding RDNA for support to the emulator. There's one new part of tiny grad that I've entirely coded in agents. But yeah, so the only questions with the zero is they're right to fall. These are variables like I they're all assigned for years. So. Why would. To clear if they already. Exist in Vars. Show an example of this. So you can see that this thing is working. It's flashing firmware. Whenever you can give these things loops to close themselves, they work pretty well. Sometimes they can't do it if they can't get any incrementalism on the problem. Like I tried to get it to write an emulator. That was cycle accurate and it doesn't try to like make a model of the GPU. It just adds hacks. If you can get closer by adding hacks, it generally doesn't work. If they can get closer by like doing the right thing, if like the gradient flows, um, then. Uh, it works. Uh, correct. Right. So. So you like here. We can see some tests failing. It's going on here. Um, and then you have to kind of decide which ones you have to stay on top of. Right. So look at my. Yeah. So instead of duplicating that code, it listened to me and a deduplicated that code. Um, see, this is not a good. This is not a good fix. I don't understand this fix of that lost mass. It's true. It didn't update that correctly. Um. So like, I might want to complain and say you set default here. Also. When I could also have a check the type. Uh, maybe if I want to add more assertions, but you still nothing about agentic coding prevents you from having the entire state of the system in your head. And it also can hurt you because when you write the code yourself, it's much harder to delete yourself into thinking that you understand it. Um, but when the agent writes it, you can like look it over and be like, yeah, I understand all of that. And then you read it more carefully. Uh, so I think Carpathi has a lot of good things about this. I talked about how you, uh, you start to attribute your code writing skill, but you improve your code reading skill. So that uses that default now. I'm pretty happy with that. Let's see if, um, let's run Python path equals this pre-command. You know, like mosh or something set up. So this just works better. So it's adding some timing and firenet. So this is reverse engineering. From where these names are terrible.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

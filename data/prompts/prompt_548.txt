@@ -1,0 +1,162 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Grady Hillhouse
+**Video**: "Through the Eyes of an Engineer | Grady Hillhouse | TEDxTAMU"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Transcriber: Julia Golubnichaya
+Reviewer: David DeRuwe This is the Hernando de Soto Bridge
+that carries traffic on I-40 over the Mississippi River
+between  Arkansas and Memphis, Tennessee. In May of last year, a team of engineers
+hired to inspect the superstructure, that’s the truss work above the roadway, happened to notice a crack
+in a structural member below the deck. This crack passed almost all the way
+through one of the arched eyes, which are considered
+fracture-critical members. In other words, you lose this member,
+you lose the entire bridge. Recognizing the severity of the situation, the engineers immediately called 911
+and had the bridge shut down, and it stayed shut down, this critical link between two states, for more than three months
+while repairs were completed. It was complete luck
+that engineers hired to inspect a different part of the bridge 
+happened to notice the crack and recognize its severity
+before it turned into a disaster. And if a bridge that looks like this, that serves as an iconic
+part of the landscape and a vital link over a major river,
+can experience such a blatant oversight, not to mention a violation of federal
+bridge safety standards, how much confidence 
+does that give you in the safety of a bridge
+that looks like this, something you’re much more likely
+to drive over in your daily commute? Infrastructure doesn't last forever. Most projects are designed
+with a lifespan of 50 to 100 years, which means a lot of the stuff
+that we’ve built over the past century, and we built a lot of stuff,
+is starting to show signs of its age. The American Society of Civil Engineers
+estimates right now we’re spending just around half of what’s needed
+to maintain a state of good repair. And that bill is eventually
+going to come due. Just the past few months, we’ve seen a bridge collapse in Pittsburgh and a citywide boil water notice in Austin because of problems
+at the treatment plant. What’s worse is that waiting
+to address these problems until it becomes absolutely necessary,
+like after a major failure, is far more costly, disruptive, and risky than just keeping up
+with regular maintenance over time. You don’t need a civil engineer
+to tell you an ounce of prevention is worth a pound of cure. Underinvestment in infrastructure’s
+a thing we’re somewhat familiar with. We see headlines about it regularly. Major federal legislation last year
+brought it into the spotlight and is hopefully a big step
+towards turning the problem around. Still, politicians, planners,
+and government officials at every level face an uphill battle
+in getting the public interested and involved in infrastructure. It’s either too boring,
+too complicated, or both. We need to understand our connection
+to the constructed environment, in order to care for it and invest in it, which means we need to know
+a little bit about how it works. We grow up with all
+this infrastructurearound us, taking most of it so for granted
+that we hardly even realize it’s there. These elements of our environment
+that meet our basic needs of clean air, fresh water, sanitation,
+and transportation, they’re practically invisible to us. They’re hidden in plain sight, and I think that solving
+our problems with infrastructure starts with just opening our eyes
+to the constructed environment. Let me show you just a quick
+example of what I mean: This is a picture that I took right
+outside my house. Anyone recognize this? A utility pole, right? You’ve probably
+seen thousands of these in your lifetime. But with a show of hands, how many of you have ever taken
+a good, hard look at one of these? Like for more than 30 seconds? I don’t see many hands. Keep your hands up if you can tell me
+what every single one of those wires does. Not very many. On the surface, it seems like a utility
+pole serving a fairly simple, some might even say utilitarian purpose of distributing power
+to homes and businesses. But the truth is a little bit
+more complicated and  I think more interesting
+and engaging than that. So let me tell you
+just a few of the things that I see when I look
+at these ubiquitous objects, and I think you’re going
+to walk out of the room looking at these poles
+just a little bit differently. Distributing electricity
+isn’t that complicated, it all happens on wires,
+but if you want to move a lot of electricity to every single home
+and business in an entire city, it’s much more cost-effective
+to use high voltage, like in the thousands of volts. But high voltage is dangerous because
+the electricity can jump across gaps, so we have to keep these energized
+lines high up off the ground at the very top of these poles. And electricity is normally distributed
+in three individual phases, so in commercial areas you’ll see
+them run together like this. And in residential areas sometimes
+they split the phases apart, and so you might see one, two, or three
+energized lines at the top of a pole, plus a return wire to complete
+the circuit we call neutral. You can’t just set high voltage lines
+directly on a wooden crossbar because wood isn’t a good insulator,
+especially when it gets wet, so we use ceramic insulators to isolate
+the energized lines from the pole and keep the electricity from using
+it as a short circuit to ground. But if an energized line does come
+into contact with something on the pole, it can create a shock hazard
+to people below or start a fire, so we also include ground wires
+along each pole as a safety measure. Now we have power to the pole,
+but it still has to reach the customers. Every connection from the grid to a home
+or business is called a service drop, but we can’t send
+high voltage into buildings, again because it’s too dangerous. So we have to take that high voltage
+and lower it to a lower level, and we do that using transformers,
+very simple devices, essentially two coils
+of wire and a can of oil. But even though they're simple devices,
+transformers are expensive, so we install fuses to protect
+them against surges and faults like lightning strikes
+and wayward squirrels. That’s just the electricity part. There’s also other utilities that need
+to reach individual homes and businesses like cable, telephone,
+and fiber optic lines. We already have these poles, so we
+string them along, too, in many cases, but we don’t want our cable and telephone
+technicians being shocked, so we include a safety space below
+the energized lines for them to work. And all these cables and wires
+create a lot of stress on a pole, so we also include guy wires in some cases to balance the forces
+and keep things upright. I could keep going, but I’m running
+out of room on my diagram here and I know this is kind of a mess,
+but that’s kind of the point, right, because hopefully you’re seeing now
+that even the simple utility pole, one of the most basic pieces
+of infrastructure out there, is really a monument to the solutions
+of 100 practical engineering problems, all of which are out there right
+in the open for anyone to have a look. And noticing even just
+a few of these details and understanding even just a tiny bit
+about how these things work can convert the act
+of looking at infrastructure from a mundane inevitability
+into an everyday diversion and joy. My wife sometimes accuses me
+of having my head in the clouds when I was looking
+at a cool piece of equipment at the top of a utility pole
+or antenna tower. When the news came out about the Hernando
+de Soto Bridge crack last year, it reminded a gentleman of a kayak trip
+he took on the Mississippi River in 2016. He went home, looked through his photos,
+and found one that included the bridge. Sure enough, you could see
+the crack from the water below. This was five years
+before that team of engineers noticed a crack and sounded the alarms. I think there’s some big lessons here
+for state DOTs involved in this incident, but I think there’s a lesson
+here for us, too, because even though
+that crack was invisible to the roughly 100 million vehicles
+that passed over the bridge during those five years, it was
+visible to anyone on the water below. And not a single person
+had ever been curious enough to look up where they might
+have noticed and reported it. Now, I’m not saying we should
+all be ad hoc structural engineers observing the conditions
+of every bridge we cross over, but I do think that we all
+have some responsibility for how the world gets built around us. Investment in infrastructure requires that we care for it
+and appreciate it first. And an easy way to do that
+is just to look up. Thank you. (Applause)
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

@@ -1,0 +1,19 @@
+{
+  "channel_id": 146,
+  "channel_name": "Wendover Productions",
+  "scores": {
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 7,
+    "lasting_impact": 6
+  },
+  "reasoning": {
+    "research_depth": "Good research into Nike history from founding through Jordan era to modern challenges, with specific business data and cultural analysis",
+    "signal_noise": "Well-paced narrative arc from Nike's origins to current struggles, stays focused despite broad scope",
+    "originality": "Business analysis angle on Nike is common, but connects running culture, athlete partnerships, and brand identity evolution in interesting ways",
+    "lasting_impact": "Informative business case study but tied to current events that may date; framework for understanding brand lifecycle has some lasting value"
+  },
+  "transcript_assessment": "Representative business/logistics explainer typical of Wendover Productions",
+  "source": "whisper_base",
+  "analysis_date": "2026-04-08"
+}

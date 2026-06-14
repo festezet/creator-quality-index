@@ -1,0 +1,14 @@
+{
+  "channel_id": 108,
+  "name": "NetworkChuck",
+  "research_depth": 6,
+  "signal_noise": 6,
+  "originality": 7,
+  "lasting_impact": 6,
+  "reasoning": {
+    "research_depth": "Decent research covering the cybersecurity incident with multiple sources. Surface-level analysis rather than deep technical investigation.",
+    "signal_noise": "Some padding with dramatic presentation style and sponsor reads. Content is present but mixed with entertainment filler.",
+    "originality": "Recognizable energetic style that distinguishes from other tech channels. The accessible presentation of security topics is somewhat unique.",
+    "lasting_impact": "Time-bound content tied to specific security incidents. Good for current awareness but limited long-term reference value."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "channel_id": 90,
+  "video_id": "4NlrfOl0l8U",
+  "video_title": "The AI that solved IMO Geometry Problems | Guest video by @Aleph0",
+  "transcript_length": 10159,
+  "research_depth": 8,
+  "signal_noise": 8,
+  "originality": 8,
+  "lasting_impact": 7,
+  "reasoning": {
+    "research_depth": "guest: DeepMind AlphaGeometry, Gao-Zhang paper",
+    "signal_noise": "dense technical",
+    "originality": "guest decode non-AI vs AI",
+    "lasting_impact": "somewhat AI-news-bound but principles last"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "channel_id": 600,
+  "name": "Pop Culture Detective",
+  "tier": "A",
+  "scores": {
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8
+  },
+  "average": 8.5,
+  "notes": "Thorough historical research, systematic media criticism approach, high information density"
+}

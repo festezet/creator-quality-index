@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Aperture
+**Video**: "Electric Avenue 2.0"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Music Boi! Boi! Now in the tree there is violence And I'm not allowed to stop the work to be done No place behind all the washing And then I can't stay all under the sun Oh no, we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Working so hard like a soldier Can't afford a thing on TV Deep in my heart I am warrior Can't get food for them kids For the God we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh no Oh no Oh no Oh no Oh no, we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh no, we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh no, we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh no, we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh no Out in the street Out in the street Out in the playground In the dark side of town Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Hey we gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher Oh we're gonna rock it down too Eli, shake I venue And then we're taking higher
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

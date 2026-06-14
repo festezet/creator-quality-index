@@ -1,0 +1,1593 @@
+[
+  {
+    "id": 564,
+    "name": "Joseph Carlson",
+    "url": "https://www.youtube.com/@JosephCarlsonShow",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "finance"
+  },
+  {
+    "id": 565,
+    "name": "Zeihan on Geopolitics",
+    "url": "https://www.youtube.com/@ZeihanonGeopolitics",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 566,
+    "name": "Kraut",
+    "url": "https://www.youtube.com/@Kraut",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 567,
+    "name": "Geography Now!",
+    "url": "https://www.youtube.com/@GeographyNow",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 568,
+    "name": "Vox",
+    "url": "https://www.youtube.com/@Vox",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 569,
+    "name": "Adam Something",
+    "url": "https://www.youtube.com/@AdamSomething",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 571,
+    "name": "TLDR News EU",
+    "url": "https://www.youtube.com/@TLDRNewsEU",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 572,
+    "name": "William Spaniel",
+    "url": "https://www.youtube.com/@Gametheory101",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 573,
+    "name": "KJ Vids",
+    "url": "https://www.youtube.com/@KJVids",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 574,
+    "name": "Mapping the World",
+    "url": "https://www.youtube.com/@MappingtheWorld",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 575,
+    "name": "TaskForce",
+    "url": "https://www.youtube.com/@TaskForceFR",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 576,
+    "name": "Carto",
+    "url": "https://www.youtube.com/@Carto",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 577,
+    "name": "History Scope",
+    "url": "https://www.youtube.com/@HistoryScope",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 578,
+    "name": "The Gravel Institute",
+    "url": "https://www.youtube.com/@TheGravelInstitute",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "geopolitics"
+  },
+  {
+    "id": 579,
+    "name": "Epic History TV",
+    "url": "https://www.youtube.com/@EpicHistoryTV",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "history"
+  },
+  {
+    "id": 581,
+    "name": "Feature History",
+    "url": "https://www.youtube.com/@FeatureHistory",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 582,
+    "name": "Simple History",
+    "url": "https://www.youtube.com/@SimpleHistory",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "history"
+  },
+  {
+    "id": 583,
+    "name": "The Operations Room",
+    "url": "https://www.youtube.com/@TheOperationsRoom",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 584,
+    "name": "Jay Foreman",
+    "url": "https://www.youtube.com/@JayForeman",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 585,
+    "name": "Knowledgia",
+    "url": "https://www.youtube.com/@Knowledgia",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "history"
+  },
+  {
+    "id": 586,
+    "name": "TIK History",
+    "url": "https://www.youtube.com/@TIKhistory",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 587,
+    "name": "History Buffs",
+    "url": "https://www.youtube.com/@HistoryBuffs",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 588,
+    "name": "The Cold War",
+    "url": "https://www.youtube.com/@TheColdWar",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 589,
+    "name": "C'est une autre histoire",
+    "url": "https://www.youtube.com/@Cestuneautrehistoire",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 590,
+    "name": "Questions d'Histoire",
+    "url": "https://www.youtube.com/@Questionsdhistoire",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "history"
+  },
+  {
+    "id": 591,
+    "name": "World War Two",
+    "url": "https://www.youtube.com/@WorldWarTwo",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "history"
+  },
+  {
+    "id": 592,
+    "name": "Philosophy Tube",
+    "url": "https://www.youtube.com/@PhilosophyTube",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 593,
+    "name": "ContraPoints",
+    "url": "https://www.youtube.com/@ContraPoints",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 594,
+    "name": "The School of Life",
+    "url": "https://www.youtube.com/@theschooloflife",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 595,
+    "name": "Wisecrack",
+    "url": "https://www.youtube.com/@wisecrack",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 596,
+    "name": "Jacob Geller",
+    "url": "https://www.youtube.com/@JacobGeller",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 597,
+    "name": "Aperture",
+    "url": "https://www.youtube.com/@Aperture",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 598,
+    "name": "Will Schoder",
+    "url": "https://www.youtube.com/@WillSchoder",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 599,
+    "name": "Jonas Ceika",
+    "url": "https://www.youtube.com/@JonasCeworeCeworeka",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 600,
+    "name": "Pop Culture Detective",
+    "url": "https://www.youtube.com/@PopCultureDetective",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 601,
+    "name": "Renegade Cut",
+    "url": "https://www.youtube.com/@RenegadeCut",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 602,
+    "name": "Tantacrul",
+    "url": "https://www.youtube.com/@Tantacrul",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 603,
+    "name": "Hbomberguy",
+    "url": "https://www.youtube.com/@haborMeaning2",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 604,
+    "name": "Maggie Mae Fish",
+    "url": "https://www.youtube.com/@MaggieMaeFish",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 605,
+    "name": "Folding Ideas",
+    "url": "https://www.youtube.com/@FoldingIdeas",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 606,
+    "name": "BrainCraft",
+    "url": "https://www.youtube.com/@BrainCraft",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "philosophy-essays"
+  },
+  {
+    "id": 607,
+    "name": "Andrew Huberman",
+    "url": "https://www.youtube.com/@hubabormanlab",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 608,
+    "name": "HealthyGamerGG",
+    "url": "https://www.youtube.com/@HealthyGamerGG",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 609,
+    "name": "Keep Productive",
+    "url": "https://www.youtube.com/@KeepProductive",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 610,
+    "name": "Jeff Su",
+    "url": "https://www.youtube.com/@JeffSu",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 611,
+    "name": "Elizabeth Filips",
+    "url": "https://www.youtube.com/@ElizabethFilips",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 612,
+    "name": "Better Ideas",
+    "url": "https://www.youtube.com/@BetterIdeas",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 613,
+    "name": "Nathaniel Drew",
+    "url": "https://www.youtube.com/@NathanielDrew",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 614,
+    "name": "Improvement Pill",
+    "url": "https://www.youtube.com/@ImprovementPill",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 615,
+    "name": "Justin Sung",
+    "url": "https://www.youtube.com/@JustinSung",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 616,
+    "name": "Odysseas",
+    "url": "https://www.youtube.com/@Odysseas",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 617,
+    "name": "Mike and Matty",
+    "url": "https://www.youtube.com/@MikeAndMatty",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 618,
+    "name": "Lavendaire",
+    "url": "https://www.youtube.com/@Lavendaire",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 619,
+    "name": "Rowena Tsai",
+    "url": "https://www.youtube.com/@RowenaTsai",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 620,
+    "name": "Sam Matla",
+    "url": "https://www.youtube.com/@SamMatla",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 621,
+    "name": "Kalle Hallden",
+    "url": "https://www.youtube.com/@KalleHallden",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 622,
+    "name": "Cajun Koi Academy",
+    "url": "https://www.youtube.com/@CajunKoiAcademy",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 623,
+    "name": "Struthless",
+    "url": "https://www.youtube.com/@struthless",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 624,
+    "name": "Mark Manson",
+    "url": "https://www.youtube.com/@IAmMarkManson",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "productivity"
+  },
+  {
+    "id": 625,
+    "name": "Cinema Cartography",
+    "url": "https://www.youtube.com/@CinemaCartography",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 626,
+    "name": "Thomas Flight",
+    "url": "https://www.youtube.com/@ThomasFlight",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 628,
+    "name": "Patrick H. Willems",
+    "url": "https://www.youtube.com/@patrickhwillems",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 629,
+    "name": "Sideways",
+    "url": "https://www.youtube.com/@Sideways440",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 630,
+    "name": "Solar Sands",
+    "url": "https://www.youtube.com/@SolarSands",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 631,
+    "name": "Royal Ocean Film Society",
+    "url": "https://www.youtube.com/@RoyalOceanFilmSociety",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 632,
+    "name": "Polyphonic",
+    "url": "https://www.youtube.com/@Polyphonic",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 633,
+    "name": "Middle 8",
+    "url": "https://www.youtube.com/@Middle8",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 635,
+    "name": "Trash Theory",
+    "url": "https://www.youtube.com/@TrashTheory",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 636,
+    "name": "Entrevue",
+    "url": "https://www.youtube.com/@Entrevue",
+    "language": "fr",
+    "tier": "B",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 637,
+    "name": "Le Fossoyeur de Films",
+    "url": "https://www.youtube.com/@LeFossoyeurDeFilms",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 638,
+    "name": "The Closer Look",
+    "url": "https://www.youtube.com/@TheCloserLook",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 639,
+    "name": "Must See Film Podcasts",
+    "url": "https://www.youtube.com/@MustSeeFilmPodcasts",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 640,
+    "name": "Volksgeist",
+    "url": "https://www.youtube.com/@Volksgeist",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 641,
+    "name": "Vox Earworm",
+    "url": "https://www.youtube.com/@earworm",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 642,
+    "name": "Just Write",
+    "url": "https://www.youtube.com/@justwrite",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "design-art"
+  },
+  {
+    "id": 643,
+    "name": "Vsauce2",
+    "url": "https://www.youtube.com/@Vsauce2",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 644,
+    "name": "Mark Rober Kids",
+    "url": "https://www.youtube.com/@MarkRoberKids",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 645,
+    "name": "minuteearth",
+    "url": "https://www.youtube.com/@minuteearth",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 646,
+    "name": "It's Okay To Be Smart",
+    "url": "https://www.youtube.com/@ItsOkayToBeSmart",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 647,
+    "name": "AsapSCIENCE",
+    "url": "https://www.youtube.com/@AsapSCIENCE",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 648,
+    "name": "The Infographics Show",
+    "url": "https://www.youtube.com/@TheInfographicsShow",
+    "language": "en",
+    "tier": "C",
+    "primary_category": "education"
+  },
+  {
+    "id": 649,
+    "name": "Real Science",
+    "url": "https://www.youtube.com/@realscience",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 650,
+    "name": "Half as Interesting",
+    "url": "https://www.youtube.com/@halfasinteresting",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 652,
+    "name": "Kurzgesagt - German",
+    "url": "https://www.youtube.com/@KurzgesagtDE",
+    "language": "de",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 653,
+    "name": "Aperture (Education)",
+    "url": "https://www.youtube.com/@ApertureEducation",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 654,
+    "name": "Lex Clips",
+    "url": "https://www.youtube.com/@LexClips",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 655,
+    "name": "SciShow",
+    "url": "https://www.youtube.com/@SciShow",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 656,
+    "name": "Tom Nicholas",
+    "url": "https://www.youtube.com/@TomNicholas",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 658,
+    "name": "Ici Amy Plant",
+    "url": "https://www.youtube.com/@IciAmyPlant",
+    "language": "fr",
+    "tier": "B",
+    "primary_category": "education"
+  },
+  {
+    "id": 659,
+    "name": "Linguisticae",
+    "url": "https://www.youtube.com/@Linguisticae",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "education"
+  },
+  {
+    "id": 660,
+    "name": "City Beautiful",
+    "url": "https://www.youtube.com/@CityBeautiful",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 661,
+    "name": "Adam Something",
+    "url": "https://www.youtube.com/@AdamSomething2",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 662,
+    "name": "Planet A",
+    "url": "https://www.youtube.com/@DWPlanetA",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 663,
+    "name": "PBS Terra",
+    "url": "https://www.youtube.com/@PBSTerra",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 664,
+    "name": "Undecided Climate",
+    "url": "https://www.youtube.com/@UndecidedClimate",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 665,
+    "name": "Leaf of Faith",
+    "url": "https://www.youtube.com/@LeafofFaith",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 666,
+    "name": "Eco Gecko",
+    "url": "https://www.youtube.com/@EcoGecko",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 668,
+    "name": "RMTransit",
+    "url": "https://www.youtube.com/@RMTransit",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 669,
+    "name": "Alan Fisher",
+    "url": "https://www.youtube.com/@AlanFisher",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 670,
+    "name": "Strong Towns",
+    "url": "https://www.youtube.com/@strongtowns",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 671,
+    "name": "Oh The Urbanity!",
+    "url": "https://www.youtube.com/@OhTheUrbanity",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 672,
+    "name": "Le Reveilleur",
+    "url": "https://www.youtube.com/@LeReveilleur",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 673,
+    "name": "Paloma Moritz",
+    "url": "https://www.youtube.com/@PalomaBlast",
+    "language": "fr",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 674,
+    "name": "Osons Causer",
+    "url": "https://www.youtube.com/@OsonsCauser",
+    "language": "fr",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 675,
+    "name": "Real World Climate",
+    "url": "https://www.youtube.com/@RealWorldClimate",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 676,
+    "name": "EV Driven",
+    "url": "https://www.youtube.com/@EVDriven",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 677,
+    "name": "Footprint Nature",
+    "url": "https://www.youtube.com/@FootprintNature",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 678,
+    "name": "Climate Adam",
+    "url": "https://www.youtube.com/@ClimateAdamAlt",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "environment"
+  },
+  {
+    "id": 679,
+    "name": "Regenerate",
+    "url": "https://www.youtube.com/@Regenerate",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "environment"
+  },
+  {
+    "id": 680,
+    "name": "Matthias Wandel",
+    "url": "https://www.youtube.com/@matthiaswandel",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 681,
+    "name": "AvE",
+    "url": "https://www.youtube.com/@arduinoversusevil2025",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 683,
+    "name": "Frank Howarth",
+    "url": "https://www.youtube.com/@FrankHowarth",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 684,
+    "name": "Alec Steele",
+    "url": "https://www.youtube.com/@AlecSteele",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 685,
+    "name": "Wintergatan Marble",
+    "url": "https://www.youtube.com/@WintergatanMarble",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 686,
+    "name": "Peter Brown",
+    "url": "https://www.youtube.com/@kaboreterBrown",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 687,
+    "name": "Alexandre Chappel",
+    "url": "https://www.youtube.com/@AlexandreChappel",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 688,
+    "name": "Crafsman Steady Craftin",
+    "url": "https://www.youtube.com/@CrafsmanSteadyCraftin",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 689,
+    "name": "Jimmy DiResta",
+    "url": "https://www.youtube.com/@jimmydiresta",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 690,
+    "name": "Ishitani Furniture",
+    "url": "https://www.youtube.com/@ishitanifurniture",
+    "language": "ja",
+    "tier": "S",
+    "primary_category": "making"
+  },
+  {
+    "id": 691,
+    "name": "Pask Makes",
+    "url": "https://www.youtube.com/@PaskMakes",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 692,
+    "name": "Cosmas Bauer",
+    "url": "https://www.youtube.com/@CosmasBauer",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 693,
+    "name": "My Mechanics",
+    "url": "https://www.youtube.com/@mymechanics",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 694,
+    "name": "Anne of All Trades",
+    "url": "https://www.youtube.com/@AnneofAllTrades",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 695,
+    "name": "Hand Tool Rescue",
+    "url": "https://www.youtube.com/@HandToolRescue",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 696,
+    "name": "John Heisz",
+    "url": "https://www.youtube.com/@JohnHeisz",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "making"
+  },
+  {
+    "id": 697,
+    "name": "Essential Craftsman",
+    "url": "https://www.youtube.com/@essentialcraftsman",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 698,
+    "name": "Tested (Adam Savage)",
+    "url": "https://www.youtube.com/@tested2",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "making"
+  },
+  {
+    "id": 699,
+    "name": "MrBeast",
+    "url": "https://youtube.com/@MrBeast",
+    "language": "en",
+    "tier": "C",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 700,
+    "name": "PewDiePie",
+    "url": "https://youtube.com/@PewDiePie",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 701,
+    "name": "Stokes Twins",
+    "url": "https://youtube.com/@StokesTwins",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 702,
+    "name": "Dude Perfect",
+    "url": "https://youtube.com/@DudePerfect",
+    "language": "en",
+    "tier": "C",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 703,
+    "name": "5-Minute Crafts",
+    "url": "https://youtube.com/@5MinuteCrafts",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 704,
+    "name": "Logan Paul",
+    "url": "https://youtube.com/@LoganPaul",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 705,
+    "name": "KSI",
+    "url": "https://youtube.com/@KSI",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 706,
+    "name": "A4",
+    "url": "https://youtube.com/@A4",
+    "language": "ru",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 707,
+    "name": "Alejo Igoa",
+    "url": "https://youtube.com/@AlejoIgoa",
+    "language": "es",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 708,
+    "name": "Fede Vigevani",
+    "url": "https://youtube.com/@FedeVigevani",
+    "language": "es",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 709,
+    "name": "ISSEI / いっせい",
+    "url": "https://youtube.com/@issei0806",
+    "language": "ja",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 710,
+    "name": "Zhong",
+    "url": "https://youtube.com/@Zhong",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 711,
+    "name": "Jimmy Donaldson (MrBeast Gaming)",
+    "url": "https://youtube.com/@MrBeastGaming",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 712,
+    "name": "Topper Guild",
+    "url": "https://youtube.com/@TopperGuild",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 713,
+    "name": "T-Series",
+    "url": "https://youtube.com/@tsaborar",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "music"
+  },
+  {
+    "id": 714,
+    "name": "Zee Music Company",
+    "url": "https://youtube.com/@ZeeMusicCompany",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "music"
+  },
+  {
+    "id": 715,
+    "name": "BLACKPINK",
+    "url": "https://youtube.com/@BLACKPINK",
+    "language": "ko",
+    "tier": "C",
+    "primary_category": "music"
+  },
+  {
+    "id": 716,
+    "name": "HYBE LABELS",
+    "url": "https://youtube.com/@HYBELABELS",
+    "language": "ko",
+    "tier": "C",
+    "primary_category": "music"
+  },
+  {
+    "id": 717,
+    "name": "Justin Bieber",
+    "url": "https://youtube.com/@JustinBieber",
+    "language": "en",
+    "tier": "C",
+    "primary_category": "music"
+  },
+  {
+    "id": 718,
+    "name": "BANGTANTV",
+    "url": "https://youtube.com/@BANGTANTV",
+    "language": "ko",
+    "tier": "C",
+    "primary_category": "music"
+  },
+  {
+    "id": 719,
+    "name": "Canal KondZilla",
+    "url": "https://youtube.com/@CanalKondZilla",
+    "language": "pt",
+    "tier": "D",
+    "primary_category": "music"
+  },
+  {
+    "id": 720,
+    "name": "YRF",
+    "url": "https://youtube.com/@YRF",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "music"
+  },
+  {
+    "id": 721,
+    "name": "Cocomelon",
+    "url": "https://youtube.com/@Cocomelon",
+    "language": "en",
+    "tier": "C",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 722,
+    "name": "Vlad and Niki",
+    "url": "https://youtube.com/@VladandNiki",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 723,
+    "name": "Kids Diana Show",
+    "url": "https://youtube.com/@KidsDianaShow",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 724,
+    "name": "Like Nastya",
+    "url": "https://youtube.com/@LikeNastya",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 725,
+    "name": "ChuChu TV",
+    "url": "https://youtube.com/@ChuChuTV",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 726,
+    "name": "Baby Shark - Pinkfong",
+    "url": "https://youtube.com/@Pinkfong",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 727,
+    "name": "Toys and Colors",
+    "url": "https://youtube.com/@ToysAndColors",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 728,
+    "name": "El Reino Infantil",
+    "url": "https://youtube.com/@ElReinoInfantil",
+    "language": "es",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 729,
+    "name": "Infobells - Hindi",
+    "url": "https://youtube.com/@InfobellsHindi",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 730,
+    "name": "SET India",
+    "url": "https://youtube.com/@SETIndia",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 731,
+    "name": "Sony SAB",
+    "url": "https://youtube.com/@SonySAB",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 732,
+    "name": "WWE",
+    "url": "https://youtube.com/@WWE",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 733,
+    "name": "UR · Cristiano",
+    "url": "https://youtube.com/@Cristiano",
+    "language": "en",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 734,
+    "name": "Zee TV",
+    "url": "https://youtube.com/@ZeeTV",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 735,
+    "name": "Colors TV",
+    "url": "https://youtube.com/@ColorsTV",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 736,
+    "name": "Aaj Tak",
+    "url": "https://youtube.com/@AajTak",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 737,
+    "name": "HAR PAL GEO",
+    "url": "https://youtube.com/@HARPALGEO",
+    "language": "ur",
+    "tier": "D",
+    "primary_category": "sports-media"
+  },
+  {
+    "id": 738,
+    "name": "김프로KIMPRO",
+    "url": "https://youtube.com/@kimpro",
+    "language": "ko",
+    "tier": "D",
+    "primary_category": "gaming"
+  },
+  {
+    "id": 739,
+    "name": "Bispo Bruno Leonardo",
+    "url": "https://youtube.com/@BispoBrunoLeonardo",
+    "language": "pt",
+    "tier": "D",
+    "primary_category": "lifestyle"
+  },
+  {
+    "id": 741,
+    "name": "Alan's Universe",
+    "url": "https://youtube.com/@AlansUniverse",
+    "language": "es",
+    "tier": "D",
+    "primary_category": "kids-family"
+  },
+  {
+    "id": 742,
+    "name": "YOLO AVENTURAS",
+    "url": "https://youtube.com/@YOLOAventuras",
+    "language": "es",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 743,
+    "name": "KL BRO Biju Rithvik",
+    "url": "https://youtube.com/@KLBROBijuRithvik",
+    "language": "ml",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 744,
+    "name": "ZAMZAM BROTHERS",
+    "url": "https://youtube.com/@ZAMZAMBrothers",
+    "language": "ar",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 745,
+    "name": "Anaya Kandhal",
+    "url": "https://youtube.com/@AnayaKandhal",
+    "language": "hi",
+    "tier": "D",
+    "primary_category": "entertainment"
+  },
+  {
+    "id": 96,
+    "name": "Sabine Hossenfelder",
+    "url": "https://www.youtube.com/@SabineHossenfelder",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "science",
+    "is_retry": true
+  },
+  {
+    "id": 102,
+    "name": "Thought Emporium",
+    "url": "https://www.youtube.com/@ThoughtEmporium",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "science",
+    "is_retry": true
+  },
+  {
+    "id": 110,
+    "name": "Low Level Learning",
+    "url": "https://www.youtube.com/@LowLevelLearning",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "tech-dev",
+    "is_retry": true
+  },
+  {
+    "id": 122,
+    "name": "Undecided with Matt Ferrell",
+    "url": "https://www.youtube.com/@UndecidedMF",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "engineering",
+    "is_retry": true
+  },
+  {
+    "id": 134,
+    "name": "Historia Civilis",
+    "url": "https://www.youtube.com/@HistoriaCivilis",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "history",
+    "is_retry": true
+  },
+  {
+    "id": 135,
+    "name": "OverSimplified",
+    "url": "https://www.youtube.com/@OverSimplified",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "history",
+    "is_retry": true
+  },
+  {
+    "id": 140,
+    "name": "Dan Carlin - Hardcore History",
+    "url": "https://www.youtube.com/@dancarlin",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "history",
+    "is_retry": true
+  },
+  {
+    "id": 156,
+    "name": "CGP Grey",
+    "url": "https://www.youtube.com/@CGPGrey",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "productivity",
+    "is_retry": true
+  },
+  {
+    "id": 177,
+    "name": "Brilliant",
+    "url": "https://www.youtube.com/@brilliant",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "education",
+    "is_retry": true
+  },
+  {
+    "id": 502,
+    "name": "ScienceClick",
+    "url": "https://www.youtube.com/@ScienceClick",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "science",
+    "is_retry": true
+  },
+  {
+    "id": 506,
+    "name": "Grand Angle",
+    "url": "https://www.youtube.com/@GrandAngle",
+    "language": "fr",
+    "tier": "B",
+    "primary_category": "finance",
+    "is_retry": true
+  },
+  {
+    "id": 507,
+    "name": "Xavier Delmas",
+    "url": "https://www.youtube.com/@XavierDelmas",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "finance",
+    "is_retry": true
+  },
+  {
+    "id": 511,
+    "name": "Le Dessous des Cartes",
+    "url": "https://www.youtube.com/@LeDessousDesCartes",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "geopolitics",
+    "is_retry": true
+  },
+  {
+    "id": 514,
+    "name": "NileRed",
+    "url": "https://www.youtube.com/@NileredOfficial",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "science",
+    "is_retry": true
+  },
+  {
+    "id": 521,
+    "name": "Fermilab",
+    "url": "https://www.youtube.com/@feraboragua",
+    "language": "en",
+    "tier": "S",
+    "primary_category": "science",
+    "is_retry": true
+  },
+  {
+    "id": 529,
+    "name": "Hussein Nasser",
+    "url": "https://www.youtube.com/@haborMeaning",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "tech-dev",
+    "is_retry": true
+  },
+  {
+    "id": 535,
+    "name": "Lesics",
+    "url": "https://www.youtube.com/@Lesics",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "engineering",
+    "is_retry": true
+  },
+  {
+    "id": 545,
+    "name": "The Engineering Mindset",
+    "url": "https://www.youtube.com/@TheEngineeringMindset",
+    "language": "en",
+    "tier": "B",
+    "primary_category": "engineering",
+    "is_retry": true
+  },
+  {
+    "id": 548,
+    "name": "Grady Hillhouse",
+    "url": "https://www.youtube.com/@GradyHillhouse",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "engineering",
+    "is_retry": true
+  },
+  {
+    "id": 550,
+    "name": "Works By Design",
+    "url": "https://www.youtube.com/@WorksByDesign",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "engineering",
+    "is_retry": true
+  },
+  {
+    "id": 552,
+    "name": "Unlearning Economics",
+    "url": "https://www.youtube.com/@UnlearningEconomics",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "finance",
+    "is_retry": true
+  },
+  {
+    "id": 554,
+    "name": "Company Man",
+    "url": "https://www.youtube.com/@CompanyMan",
+    "language": "en",
+    "tier": "A",
+    "primary_category": "finance",
+    "is_retry": true
+  },
+  {
+    "id": 562,
+    "name": "Heu?reka Eco",
+    "url": "https://www.youtube.com/@Heureka2",
+    "language": "fr",
+    "tier": "A",
+    "primary_category": "finance",
+    "is_retry": true
+  }
+]

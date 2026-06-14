@@ -1,0 +1,16 @@
+{
+  "channel_id": 90,
+  "video_id": "ldxFjLJ3rVY",
+  "video_title": "How (and why) to take a logarithm of an image",
+  "transcript_length": 47595,
+  "research_depth": 9,
+  "signal_noise": 10,
+  "originality": 9,
+  "lasting_impact": 9,
+  "reasoning": {
+    "research_depth": "Escher/De Smit-Lenstra 2003 analysis, visual reverse-engineering",
+    "signal_noise": "zero filler dense narration",
+    "originality": "unique visual unpacking 'rediscover yourself'",
+    "lasting_impact": "timeless complex-log math"
+  }
+}

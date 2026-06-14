@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Epic History TV
+**Video**: "Napoleon's Greatest Gamble: Escape from Elba"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+February 1850 A small flotilla slips quietly across the Mediterranean, west of Alba. It's most important passenger, a former emperor, now a fugitive, embarked on the greatest gamble of his astonishing career. Napoleon Bonaparte was the greatest general of his age. His armies had once dominated Europe. But just eleven months earlier, at the end of a ten-year conflict that left millions dead. He'd finally been comprehensively, disastrously, defeated. The great powers of Europe had hoped to consign Napoleon to history, giving him the tiny island of Alba to rule. And restoring France's Bobon monarchy. But the emperor of Alba soon became restless, whispers reach him. That France's new king is despised, and many wish for his return. That his enemies, Britain, Russia, Prussia and Austria, have turned on each other and may have plans to move him to a more remote location. Napoleon will be no mere spectator to his own fate. His faith in his own destiny is undiminished. Napoleon will act and roll the dice of fortune once more. He will make a daring bid to reclaim his throne and restore France to glory. Even if it means plunging all Europe into war, once more. But Napoleon's quest may be over before it begins. A day after sailing from Alba as the sun falls over the Mediterranean, Napoleon's vessel passes within shouting distance of Zephyr, a brig of the French king's navy. But for an unknown reason, there is no attempt to question or search the suspicious vessel. Perhaps Napoleon's star of destiny still shines after all. On the 1st of March 1815, Napoleon lands at Golfezouan, with 1,000 grenadiers of his imperial guard. He's just 15 miles from Nice, where his glorious first Italian campaign began 19 years earlier. Napoleon has no illusions of the danger. He must win support and turn the tables on his enemies before they trap and arrest him or worse. Therefore, he must travel fast before they can organize. X, on the main road, is a royalist stronghold. So Napoleon takes a more mountainous route to the east. He and his entourage travel 190 miles in six days, along narrow winding tracks. There is snow and ice and sheer mountain cliffs. Napoleon, now 45 years old, has to travel on foot for much of the journey. Sometimes he stumbles and needs assistance. The contrast to the youthful first consul Bonaparte of 1800 crossing these same mountains is stark. As he moves north, things start to improve. At Cisteron, Napoleon is welcomed by the mayor. At Gap, he is cheered by crowds. But then, on the 7th of March, outside Grenoble, the road is blocked by French troops sent by the king. The 5th line includes many veterans of the empire, men who have served under Napoleon's command. There is a standoff. The emperor's grenadiers implore the 5th to join them. Then Napoleon himself steps forward, throwing open his grey coat. Soldiers of the 5th, if there is one among you who wishes to kill his emperor, he can do so. Here I am. A royalist captain gives the command, fire. There is silence. Then, cries of vive l'empereur ring through the regiment. They are one over. On my march to Grenoble, I was an adventurer. Napoleon later recalled. In Grenoble, I once again became a sovereign. At the court of King Louis XVIII in Paris, there is disquiet, but no great sense of alarm. An outlaw adventurer and his small band of followers are surely no threat to the French state. The men who now draw up a plan to stop this escapade know the fugitive well. Marshal Sult, now minister of war, joined by Marshal's Udi-no, Macdonald and Nay. Men who had won titles, riches and glory under Napoleon, but continue to hold senior roles under the Bourbons. Nay, in particular, whom Napoleon had once dubbed bravest of the brave, seems to have switched his loyalty with zeal. I will seize Bonaparte, he tells the king, and I will bring him to you in an iron cage. Nay marches south with 3,000 troops to arrest his former master, but everywhere there are signs that Bob on authority is collapsing. In Lyon, Napoleon is welcomed with celebrations. Whole regiments are defecting to him. Nay hears grumbling within his own ranks. He's haunted by the prospect of civil war. Napoleon writes directly to Nay. I shall receive you as I did on the morrow of the battle of the Mosqueva, he tells him. Nay is one over. The cause of the Bourbons is lost forever, he tells his troops. Only the Emperor Napoleon is entitled to rule over our beautiful country. There are cheers amongst his men as he orders them to turn around and march on Paris. Nay's defection is the final straw for King Louis. On the 20th of March, he flees the Toulary Palace, heading for safety in the Netherlands. That evening, Napoleon enters Paris. At the Toulary, he is acclaimed by former ministers, dignitaries and soldiers, many of whom are now out of work. Marshall Davout is there to welcome him. He had been ostracized by the Bourbons for his loyalty to Napoleon. Even Joseph Fouche, the wily minister of police for the last 16 years, is on hand to offer his services, which are quickly accepted. In these first weeks in Paris, Napoleon is a well-wind of activity. He appoints new ministers, prefects and mayors. He promises a new liberal constitution on the British model that will limit his powers. He lifts censorship and restarts public works. Whether such measures are long-term commitments or mere populism to win support will never be tested. Bonaparte loyalists across France burst into activity, but many others are more cautious, preferring to wait out events. Because across Europe, there is the confident expectation that Napoleon's return can only mean war.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

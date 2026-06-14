@@ -1,0 +1,240 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Lemmino
+**Video**: "Shouting at Stars: A History of Interstellar Messages"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+In early 1972, a probe known as
+Pioneer 10 was launched into space on a mission to the largest
+planet in the Solar System. After millennia of
+speculation and wonder, humanity got its first
+close-up view of Jupiter. Accelerated by the
+immense gravity of the planet, Pioneer 10 was then
+catapulted into deep space, destined to leave the Solar System
+and roam the galaxy for billions of years. On the off-chance that this
+vestige of humanity should one day be intercepted
+by an alien intelligence, it was affixed with a message. A message designed to answer
+three central questions. [Carl Sagan]
+Where we are, when we are, and who we are. More than half a century
+has now passed since the launch of our
+first galactic emissary, and in that time, we've made numerous
+attempts to communicate with life beyond. Either by attaching greeting cards
+to probes headed for interstellar space or by targeting our cosmic neighbors
+with high-powered beams of light. So far, humanity's been left on read,
+but that could change at any moment. As long as we keep making noise,
+there's always a chance we'll be heard. An exceedingly slim chance, as we'll see,
+but a non-zero chance nonetheless. Given the paradigm-shifting potential
+of contacting beings from another world, it sure would be nice to know what exactly
+we've been telling them all these years. I mean, don't get me wrong, "Where we are, when we are,
+and who we are", sounds really neat and all,
+but it's not exactly rich in detail. So let's start with
+that plaque on Pioneer 10. What does it say,
+and more importantly, to whom should I direct my anger when
+the aliens arrive to harvest my bones? The idea to attach
+a message to Pioneer 10 was the brainchild of journalist
+and author Eric Burgess. Less than four months before
+the probe was scheduled to launch, Burgess approached famed astronomer
+and science communicator Carl Sagan, who, in turn, relayed
+the proposal to NASA. Sagan was given three
+weeks to devise the message, and with the help of
+his wife and artist Linda as well as fellow
+astronomer Frank Drake, they scrambled together
+a series of pictograms etched into a gold-laden
+plate of aluminum. In the words of Sagan... Near the upper-left corner,
+we find a diagram of hydrogen, the simplest and most abundant
+element in the universe. One electron
+bound to a proton. More specifically, the diagram
+depicts a single atom of hydrogen transitioning from one
+energy state to another, which is meant to be conveyed by this
+horizontal line here in the middle. This shift in energy is known
+as a hyperfine transition, and it's accompanied
+by the emission of a radio wave. That radio wave has
+a very specific frequency that's so prominent across the universe
+that we've given it a name, the hydrogen line. Something that beings
+of sufficient intelligence to capture a
+drifting spacecraft would no doubt
+be aware of as well. In human terms, it has a frequency
+of about 1420 megahertz which means that each cycle of the wave
+has a period of about 0.7 nanoseconds and a corresponding length
+of roughly 21 centimeters. The recipients would obviously
+express their measurements using something other than
+nanoseconds and centimeters, but what's important here is that
+they're measuring the same thing and that that thing
+never changes. The duration of one wavecycle and
+the distance covered during that cycle remains the same
+across the universe. This allows us to establish a
+shared unit of both time and length. We're basically telling the
+aliens to treat their measurement of the hyperfine transition
+of neutral hydrogen as one unit of time
+and one unit of length. That's why there's a vertical
+line here in the middle, which is meant to convey
+the concept of one in binary. But, of course, hydrogen
+is merely one of many possible interpretations
+of this diagram. The aliens could just as easily
+think it's some sort of language, technology, star system,
+or literally anything else. To help them narrow down the list, the
+plaque includes three outlined silhouettes of a man, a woman,
+and Pioneer 10. These illustrations
+were drawn to scale, so the aliens can use the
+spacecraft's diameter as a basis for deriving the height
+of the two figures in the foreground. In human terms, that would make
+the man approximately 182 centimeters and the woman about 169. The woman's height has
+been further emphasized by two demarcation marks
+along the right edge here. Between them is a sequence of four lines
+representing the number eight in binary. The purpose of this number
+is to communicate to the aliens that the woman is eight times as tall
+as the wavelength of the hydrogen line. In human terms,
+that's about 169, just like the woman's height
+relative to the probe's diameter. In other words, the interpretation
+of this as a schematic of hydrogen and the interpretation of this
+as an outline of the spacecraft are mutually corroborative. They provide the aliens with a means
+of deriving the height of this figure on the basis of two
+distinct measurements, which should help them narrow
+down the list of possible interpretations. At least, that was the idea. But when you actually measure
+the height of the couple relative to this
+sketch of the probe, you quickly realize they're
+about 10 centimeters too tall. While I have no way of confirming this,
+I suspect the source of this discrepancy is that the reflector dish on
+Pioneer 10 is not a perfect circle. It's slightly wider in this
+dimension than in this one, known as a major
+and minor axis. If we assume that this
+outline of the probe is oriented with the minor
+axis along the vertical, the relative height of the couple
+is indeed what you'd expect. But if that is what the
+Sagans and Drake intended, only two of the three antenna struts
+should be visible here in the front. The fact that all three have
+been drawn on the plaque, implies the probe is oriented with
+the major axis along the vertical, thereby increasing the couples'
+height by roughly 10 centimeters. Nevertheless, it's hardly surprising for
+an oversight like this to go unnoticed given they only had three weeks
+to assemble everything, and Sagan acknowledged
+they could have done a better job had they not been
+so pressed for time. Moving on to the
+left side of the plaque, we find a starburst pattern of 15 straight
+lines emanating from a central point. This is a galactic
+map of pulsars that's meant to help the aliens
+pinpoint the Solar System. Pulsars are rapidly rotating neutron
+stars that can easily be spotted from thousands or even
+millions of lightyears away. They're often described
+as cosmic clocks or lighthouses because they're
+not only extremely bright but pulsate at very
+consistent rates. This red line shooting
+off to the right represents the distance between the Sun
+and the center of the galaxy, while the green lines
+represent the relative distance between the Sun and 14 pulsars. To make it easier to
+identify the pulsars, each line is accompanied by the star's
+rotation period expressed in binary, marked here in blue. Take this one,
+for instance. This star is known as the Vela Pulsar,
+and it's about 1 000 lightyears from Earth. Its rotation period has been expressed
+in waveperiods of the hydrogen line and reads 126 726 823 when
+translated from binary to decimal. What that means is that
+it takes the Vela Pulsar almost 127 million times
+longer to complete one rotation than the waveperiod of a hydrogen
+atom undergoing hyperfine transition. In human terms, that's about
+89 million nanoseconds or eleven rotations every second,
+which is about this fast. By scouring the
+galaxy for pulsars that match the information
+embedded within this map, the aliens could theoretically
+triangulate the Solar System. In fact, the chart not only discloses
+our location in space but also in time. As Sagan put it... [Carl Sagan]
+Where we are, when we are, and who we are. This goes back to the
+cosmic clock analogy because pulsars gradually wind
+down at highly predictable rates. So even though the Vela Pulsar
+will have a much slower rate of spin by the time it's observed
+by our hypothetical aliens, they could simply wind back
+the clock until its rotation period matched the one
+etched into the plaque. Repeating that process for
+at least some of the other pulsars would enable them to figure
+out not just from where, but also when Pioneer 10
+was launched. At least, that was the idea. But when the plaque
+was created, the existence of pulsars had only
+been known for about four years. Astronomers have since
+learned a lot more about them, and they're not nearly as rare, stable,
+and long-lived as once believed. They can only be observed from
+very specific vantage points, and unpredictable speedups,
+slowdowns, and glitches challenge the
+cosmic clock analogy. Sagan and Drake were
+aware of at least some of these issues, but there
+was only so much they could've foreseen with the limited data
+available at the time. In fact, there was
+such great uncertainty regarding the distance of
+some of the featured pulsars that they added these
+breaks in the lines, indicating they're based on rough
+estimates rather than exact figures. Finally, on the
+bottom of the plaque, we find a plain schematic
+of the Solar System. These binary numbers represent
+the orbital distance of each planet expressed as multiples of one tenth of the
+mean distance between the Sun and Mercury. For instance, the number above
+Earth reads 26 in decimal, which means it is
+26 times further away than 10% of the distance
+between the Sun and Mercury. The obvious problem
+with this approach is that it requires the recipients to
+already be familiar with the Solar System. Otherwise, one tenth of the distance
+between the Sun and Mercury is completely meaningless. We might as well have expected them
+to be familiar with kilometers or miles. To quote the creators of the plaque... It's unclear why the
+Sagans and Drake knowingly used an
+indecipherable unit of length when they had already gone through the
+trouble of creating a universal yardstick with this schematic of hydrogen. My best guess is that the wavelength
+of a state-shifting hydrogen atom was simply too small a unit to
+represent interplanetary distances, and the resulting binary strings became
+too long to neatly fit on the plaque. Again, they only had three
+weeks to do all of this. Last but not least, the trajectory of the
+spacecraft has been traced with an arrow, and the probe's main antenna
+is pointing at home. Over half a century later, Pioneer 10 is now more than
+20 billion kilometers from the Sun. That might sound like a lot, especially
+given how I just emphasized that number, but it's only about three
+times further away than Pluto, and it takes less than a day for a
+light beam to cover the same distance. Even though it's darting through
+space at several kilometers per second, the probe won't surpass even
+the nearest star to the Sun for many tens of
+thousands of years. But it gets worse because Pioneer 10
+is not headed for any particular star. It's expected to pass within a few trillion
+kilometers of a relatively nearby system in about 90 000 years or so
+when this star, all the way out here, will come closer to the Sun
+than Proxima Centauri is today. While an exoplanet has yet
+to be detected around this star, if one does exist, and that planet
+just so happens to be inhabited by intelligent beings in possession of
+technology that allows them to detect a perfectly silent and practically invisible
+speck gently gliding by their system at a distance greater than
+a thousand times the orbit of Pluto, then, yeah... ...maybe they'll see it. A nearly identical probe was launched
+in 1973 known as Pioneer 11, and it was outfitted with the exact
+same plaque as Pioneer 10. Much like its predecessor, Pioneer 11
+was just kind of hurtled into deep space with no particular
+target in mind. While a chance encounter with another
+planetary system is not impossible, even across timescales
+of many billions of years, Sagan and Drake believed
+it was more likely for the probes
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

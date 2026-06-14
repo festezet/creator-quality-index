@@ -1,0 +1,14 @@
+{
+  "channel_id": 563,
+  "name": "Minority Mindset",
+  "research_depth": 6,
+  "signal_noise": 7,
+  "originality": 5,
+  "lasting_impact": 7,
+  "reasoning": {
+    "research_depth": "Uses specific historical data (1971-1991 periods, inflation rates ~124-236%, actual dollar calculations) and references real events (Nixon gold standard, Yom Kippur War). However, doesn't cite specific sources and calculations appear simplified/rounded.",
+    "signal_noise": "Content is fairly dense with concrete examples and numbers throughout. Some promotional padding (market briefs signup) and cultural asides (Punjabi mustache/braid references), but majority delivers actionable financial education.",
+    "originality": "The historical comparison framework (1970s vs 2026) is somewhat unique, but the core lessons (long-term stock investing beats gold/savings) are standard investment wisdom. The three-character investor scenario is a clear teaching device but not groundbreaking.",
+    "lasting_impact": "Teaches timeless principles: diversification timing vs long-term strategy, inflation's impact, understanding what you buy (Warren Buffett quote). The specific 1970s-2026 comparison will age, but the underlying lessons about investment horizons and strategy remain evergreen."
+  }
+}

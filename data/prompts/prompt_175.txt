@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: TED-Ed
+**Video**: "How do snakes swallow animals so much bigger than they are? - Niko Zlotnik"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+How can a bigger tube fit inside a smaller tube? This might sound like a riddle, but it's a practical dilemma in our snake-eat snake world. This eastern king snake, for example, has a mouthful of a Texas rat snake, but the rat snakes longer than it is. So how can the king snake possibly swallow it whole? This is just one of countless predatory dilemmas snakes have solved. Since slithering onto the scene, some 150 million years ago, evolving length and limblessness out of their ancestral lizard forms, snakes have diversified rapidly. The nudely bodies and flexible heads granted them access to novel places and prey. And today, there are nearly 4,000 snake species spanning habitats high and low, wet and dry. All are carnivorous, but their diets range from fish eggs to alligators. Before dropping a matinee, allows most snakes to swallow their mules, holes. Because their jaw bones aren't fused like ours, but connected by an elastic ligament, and the bones on the sides of their lower jaws flare apart, they can dramatically stretch their mores. Prediculated pythons can even achieve 180 degree gapes. Sharp, curved teeth, also line many snake's jaws, keeping prey from wriggling out. And to prevent suffocation when choking down a big meal, many snakes shift the position of their airways entrance and isolate which ribcage regions they inhale with. These are also equipped with stretchy tissue along their jaws, enabling them to spread four times wider than their own skulls. They've been documented using this skill to eat hyenas, alligators, and yes, evil humans. Whole. Their skin might sag after all the stretching, and it could take weeks to metabolize meals this large. But it seems their intestines have special cells for helping digest bones, and they can sometimes survive for over a year on just one feast. African egg-eating snakes, meanwhile, consume large intact bird eggs, pissing their shells in their esophageye, using inward-facing, vertebral spines. While many snakes make a show of swallowing things whole, gravity snakes often pry their prey's limbs off one by one, and blind snakes decapitate their termite targets, probably to prioritize their more digestible bodies. Some blind snakes actually use chemical secretions to repel their prey, because it allows them to hang out in ant colonies, snacking on their inhabitants without being attacked. Their skills have even been noticed by other species. Eastern screech owls sometimes place blind snakes in their nest, where they eat the insects that might otherwise harm their young. In fact, baby owls with a blind snake nest mate have higher rates of growth and survival. The same can't be said for other species. Turtle-headed sea snakes scrape fish eggs off coral reefs, and cat-eyed snakes hunt red-eyed tree frog eggs. However, even as embryos, the developing frogs consents an attacking snake's vibrations and may prematurely hatch to escape. It's a sacrifice, but at least it's not certain death by serpent. Gata snakes, meanwhile, go after Western Newts, even though their skin is packed with a potent neurotoxin. Just one bite could kill a person. The Gata snakes swallow the newts unscathed, since modified proteins in their nerve cells prevent the toxin from binding. Not only that, but since the toxin may remain in their livers for weeks afterwards, it may even end up lending Gata snakes' protection against their predators. However, snakes more often make their own toxins, injecting or spitting venom from specialized glands out of grooved or syringe-like fangs. Philippine cobre venom is full of fast-acting neurotoxins that cause paralysis and respiratory fave. West African, sore-scaled viper venom is a cocktail of compounds that cause profuse bleeding and tissue death. And while inland tie-pans are thought to possess the world's most potent venom, they tend to reserve it for quickly killing rodents. But we still haven't answered. How smaller snakes can consume bigger ones. It turns out that the king's snake does this with an elegant trick. Once it runs out of space in its flexible stomach, it stretches and compresses its spine, shoving the rat's snake into a kinked zigzag shape within its digestive tract. So a post-meal x-ray may look like this. Sorry. We know the truth can be hard to swallow unless, of course, you're a snake. Ready to keep learning? Watch these videos to either challenge what you think you know or learn more about what you don't. Subscribe and stay curious.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

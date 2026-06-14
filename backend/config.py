@@ -19,7 +19,7 @@ PORT = int(os.environ.get("PORT", 5065))
 DEBUG = not IS_POSTGRES
 SERVICE_NAME = "creator-quality-index"
 
-# Scoring weights
+# Scoring weights (manual/editorial — 5 criteria incl. Production)
 WEIGHTS = {
     "research_depth": 0.25,
     "production": 0.20,
@@ -28,10 +28,24 @@ WEIGHTS = {
     "lasting_impact": 0.15,
 }
 
-# Tier thresholds
+# AI scoring weights (4 criteria — Production excluded, not evaluable from
+# a text transcript). Reweighted to sum to 1.0. Production is surfaced as a
+# separate editorial badge, not folded into the AI composite.
+WEIGHTS_AI = {
+    "research_depth": 0.30,
+    "signal_noise": 0.30,
+    "originality": 0.20,
+    "lasting_impact": 0.20,
+}
+
+# Tier thresholds (shared by manual and AI composites)
 TIERS = {
     "S": 8.5,
     "A": 7.0,
     "B": 5.5,
     "C": 4.0,
 }
+
+# AI score validity thresholds (number of scored videos per channel)
+AI_SCORE_CONFIRMED_MIN = 20   # >= 20 videos -> 'confirmed'
+AI_SCORE_PROVISIONAL_MIN = 10  # 10-19 videos -> 'provisional'; < 10 -> no score

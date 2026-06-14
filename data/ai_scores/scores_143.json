@@ -1,0 +1,19 @@
+{
+  "channel_id": 143,
+  "channel_name": "TLDR News Global",
+  "scores": {
+    "research_depth": 7,
+    "signal_noise": 8,
+    "originality": 6,
+    "lasting_impact": 6
+  },
+  "reasoning": {
+    "research_depth": "Solid overview of dollar dominance with relevant data (reserve percentages, forex transactions), though stays at surface level on mechanisms",
+    "signal_noise": "Well-structured analysis with clear progression, minimal filler despite magazine/subscription promotion at end",
+    "originality": "Covers well-trodden topic (de-dollarization) with standard framing, Kindleberger Trap reference adds some depth",
+    "lasting_impact": "Timely analysis but conclusions are speculative; value diminishes as events unfold differently"
+  },
+  "transcript_assessment": "Representative news analysis typical of TLDR format",
+  "source": "whisper_base",
+  "analysis_date": "2026-04-08"
+}

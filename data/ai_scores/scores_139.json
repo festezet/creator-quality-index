@@ -1,0 +1,19 @@
+{
+  "channel_id": 139,
+  "channel_name": "Invicta",
+  "scores": {
+    "research_depth": 4,
+    "signal_noise": 3,
+    "originality": 3,
+    "lasting_impact": 2
+  },
+  "reasoning": {
+    "research_depth": "Video analyzed was a sponsored game showcase rather than typical historical content - minimal research depth in this particular video",
+    "signal_noise": "Heavy sponsored content and game promotion dominated the video, low educational signal",
+    "originality": "Standard sponsored game review format, not representative of channel's usual historical content",
+    "lasting_impact": "Sponsored game content has minimal lasting value"
+  },
+  "transcript_assessment": "WARNING: Analyzed video was a sponsored game showcase, NOT typical Invicta content. Scores may not reflect channel quality. Consider re-scoring with representative video.",
+  "source": "sonnet_analysis",
+  "analysis_date": "2026-04-08"
+}

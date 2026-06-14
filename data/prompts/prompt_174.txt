@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: CrashCourse
+**Video**: "Crash Course Geology Preview"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+I dare you to find somebody who hasn't, at some point in their life, utter the words, ooh, cool rock! Those three little words connect you to powerful forces that shaped the world, people who lived thousands of years ago in the scrum you little kid inside you and never grew up. Because let's face it, rocks are cool! We've transported them across long distances as far back as prehistoric times. We've admired them, traded them, built pyramids and skyscrapers out of them. And to this day, even a tiny pebble is part of a bigger story that began long before us and will continue on long after we're gone. Hi, I'm Sage. And this is Crash Course Geology. I'm an artist and a creator who is obsessed with earth science. You might know me from my YouTube channel Sage, the bad naturalist, where I make videos about fascinating fungi and scary sludge and various experiments that never go exactly to plan and I love a cool rock. But Geology is so much more than that. In 25 episodes, we'll dig deep into the forces that shape our planet from the inside out. We'll dial back the clock to Earth's fire youth, journey into its center, and uncover the churning dynamic forces that sculpted surface, making it possible for you and me to exist at all. We'll discover how fossils and layers of rock clueless into what happened before humans showed up, fashionably late to the party. And, uh, Dwayne the pet rock will catch us up on all the lore we missed. What's that? Girl Earth did what now? But Geology isn't just about the deep past. That's also about the present and the future. It's about the gems that decorate our fingers and the minerals that power electric cars. It's about clean water, healthy soil, preparing for hazards like earthquakes and volcanic eruptions. It's about tapping Earth's geothermal energy and finding rocks to store excess carbon. Geology puts our lives in a whole new perspective because it's not just microscopic minerals and enormous mountains. It's asteroids and deep sea trenches and worlds beyond our own. One tiny, ordinary bubble can teach us about our current moment and the enormous timescales that stretch beyond us. So make me back here and check out some cool rocks and much more together. Thanks for watching this episode Crash Course Geology. It was filmed at our studio in Indianapolis, Indiana, which is made with the help of these Groovy people. If you want to help us keep Crash Course free, for everyone, forever, you can join our community on Patreon.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Solar Sands
+**Video**: "Newsie Nighttime"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+And now for the illustrious newsy night time! Oh, folks, we've got a great show for you tonight, great show. So, uh, I hear there's these people nowadays called in cells. No matter what, they can't get a woman to be around them. Boy, what I wouldn't give to be in their shoes, I'd tell ya. But regardless, I heard it's hard out there in the dating scene. The only thing that's harder is in my pants. Oh, my god. Don't get your sprockets in a twist. Speaking of pants, I once met a guy whose glutes had more points of articulation than anyone else. He could solve a Rubik's cube with his hands tied. Cheeky, isn't he? I heard there's a new 70% tariff on crude oil and petroleum distillates. Where am I gonna get my hair gel now? I tell ya. You know, I heard someone out there duct taped a banana to a wall. He must have been saving it for later. I can't relate to that. I feel like I've got too much time on my hands. I was talking to the old ball in chain last night, and by that I mean my wife. When I asked her, why are feminists so fat? I thought it was all about the movement. She didn't answer. So then I asked, have you seen the new Marvel movie? Gee, and I thought my acting was wooden. And speaking of the movies, I saw one flick the other day about killer animatronics. Sounds like my mother-in-law's last Christmas party. I was vacationing in Tel Aviv recently, and I was talking to a VTuber the other day, and I thought their animation rig glitched out. Turns out they were just having a stroke. When my child was being born, the nurses told me I needed a midwife. I told her I already got one. They say I need to be more marketable. I tell you, if I had a gold star for every child that was groomed on Roblox, well, I think you get the picture. And speaking of pictures, have you all seen Iron Lung? More like Iron Tung, Tung, Tung, Sahur. Anyone here who works for the explosive ordinance factory? Thank you for your service. People on YouTube say I'm a charlatan. They say I'm just a puppet. Well, to them, I have to say, guilty as charged. I've been Newsy Nighttime, and remember, keep your strings clean and your sprockets creased. Good night, everybody.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

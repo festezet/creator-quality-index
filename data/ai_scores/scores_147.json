@@ -1,0 +1,19 @@
+{
+  "channel_id": 147,
+  "channel_name": "Atlas Pro",
+  "scores": {
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8
+  },
+  "reasoning": {
+    "research_depth": "Deep evolutionary biology and geology tracing redwood evolution from Pangaea cypress ancestors through Laurasia fog adaptation to modern California remnants",
+    "signal_noise": "Excellent narrative flow - each concept builds on previous, minimal tangents, personal framing adds engagement without diluting content",
+    "originality": "Novel angle connecting atmospheric moisture intake strategy to height evolution and positive feedback loops - goes well beyond standard ecology",
+    "lasting_impact": "Strong educational value about evolutionary adaptation, climate change effects on species, and biogeography principles"
+  },
+  "transcript_assessment": "Representative science/geography deep-dive typical of Atlas Pro",
+  "source": "whisper_base",
+  "analysis_date": "2026-04-08"
+}

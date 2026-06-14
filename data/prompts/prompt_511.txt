@@ -1,0 +1,169 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Le Dessous des Cartes
+**Video**: "Soja : une graine géopolitique | Le dessous des cartes - ARTE"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Ravie de vous retrouver pour ce nouveau numéro du 
+Dessous des cartes aujourd’hui on s’intéresse à   des graines, des graines de soja, de ces graines 
+dépend aujourd’hui la sécurité alimentaire de   toute la planète. Pourquoi ? Parce qu’on en 
+fait du lait de soja, de l’huile de soja,   mais surtout parce qu’on en fait des tourteaux 
+de soja, lesquels servent aujourd’hui pour   l’alimentation des porcs, volailles, et 
+autres vaches et bœufs de la planète.  Nous allons vous raconter l'étonnante histoire 
+de ces graines de soja, cultivées au départ sur   le continent asiatique, puis passées au fil des 
+années sur le continent américain, où trois géants   dominent désormais la production mondiale 
+: le Brésil, les Etats-Unis et l’Argentine.  Les Européens, doivent faire avec 
+cette dépendance commerciale,   surtout depuis la guerre des tarifs 
+douaniers décrétée par Donald Trump  Idem pour les Chinois, eux aussi dépendent 
+du soja américain, mais ils ont des armes   sérieuses vous allez voir pour riposter.
+Tout de suite voici la guerre du soja,   une longue histoire, qui se joue sur tous 
+les continents : sortons nos cartes ! Au cœur des Etats-Unis, dirigeons-nous vers 
+les grandes plaines de l'Iowa. Ici les champs   de soja s’étendent à perte de vue, sur près de 4 
+millions d’hectares. Les fermiers y produisent pas   moins de 16 millions de tonnes de soja par an, 
+soit 13,5% de la production totale américaine. Dans l’Iowa comme dans la plupart des États 
+du Midwest, le Dakota du Nord et du Sud,   le Nebraska, le Kansas, le Missouri, l’Illinois, 
+et l’Indiana, la culture du soja a été un moteur   qui a largement contribué à la prospérité de 
+ces États, cœur de l’électorat de Donald Trump. Ainsi, la superficie des terres états-uniennes 
+consacrées à la culture du soja a augmenté de   40% entre 1995 et 2024 jusqu’à devenir la 
+principale exportation agricole américaine. Principaux destinataires de ce soja : 
+l’Union européenne, à hauteur de 20%,   et surtout la Chine qui absorbe 52% des 
+exportations américaines. Pékin qui a décidé   de frapper fort. En représailles aux droits de 
+douane imposés par l’administration américaine,   la Chine de Xi Jinping a réduit ses importations 
+jusqu’à se passer purement et simplement du soja   états-unien en septembre 2025. Résultat 
+: un manque à gagner abyssal pour les   agriculteurs du Midwest et un cours 
+du soja qui s’eﬀondre dès l’été 2025. Si le soja, cette petite plante discrète 
+est devenue une arme géopolitique dans la   rivalité sino-américaine, c’est que 
+sa production se caractérise par une   hyper-concentration dans quelques régions du 
+monde, et c’est ce qu’on va voir maintenant. Le marché du soja on l’a dit est 
+dominé par trois géants : le Brésil,   premier producteur mondial, les Etats-Unis, 
+pionniers de la culture industrielle du soja   et l’Argentine dont la puissance agricole 
+s’appuie désormais sur cette légumineuse.   A eux trois, ils représentent plus 
+de 80% des exportations mondiales. Face à eux, deux principaux acheteurs l’Union 
+européenne, on y reviendra et surtout la Chine   qui importe chaque année 100 millions de 
+tonnes de graine soit près des deux tiers   du commerce mondial. Pékin qui depuis les années 
+90, a fait un choix stratégique : externaliser   sa production de soja pour se concentrer sur 
+l’industrialisation et sur la production animale. Ces trois géants producteurs tiennent donc 
+entre leurs mains l’équilibre alimentaire   de la planète. Car le marché du soja est 
+colossal. En 2023, la production mondiale   a atteint quelques 390 millions de tonnes. 
+En eﬀet, on le sait peu mais le soja est   l’ingrédient invisible de nos assiettes. Derrière 
+ces nuggets, ce bacon ou du lait, il y a du soja.   Si les graines de cette sorte d’haricot grimpants 
+servent un peu à l’alimentation humaine,   à hauteur de 19%, elles sont surtout 
+devenues incontournables pour nourrir   les animaux d’élevages. 75% de la production 
+mondiale de soja est utilisée dans les élevages   intensifs de bovins, porcs et volailles. Facile 
+à cultiver, le soja a un atout considérable,   sa richesse en protéines qui permet une 
+croissance rapide et à faible coût des animaux.   Enfin, Enfin, 4% de la production de soja 
+sert à la fabrication de biocarburants. Pilier de l’industrie de la viande, 
+le soja est aujourd’hui la quatrième   plus grande culture agricole dans le 
+monde après le maïs, le blé, et le riz.  Cette plante longtemps mal 
+aimée a connu en à peine un   siècle une expansion fulgurante et pour 
+le comprendre il faut revenir en arrière. L’histoire du soja commence dans le Nord Est 
+de la Chine où il aurait été domestiqué 3000   ans avant notre ère. Grâce à sa haute valeur 
+nutritive, il s’impose progressivement comme   complément alimentaire des populations rurales qui 
+le consomment sous forme de tofu ou lait de soja.   Longtemps, la culture de cette graine demeure 
+secondaire. Elle va peu à peu essaimer dans les   pays voisins : principalement en Corée, au Japon 
+mais sans véritablement réussir à s’exporter.   En 1933, la Chine et la Mandchourie représentent 
+encore près de 87% de la production mondiale. C’est dans les années 1930 qu’a lieu la 
+grande bascule l’industrialisation du soja,   grâce aux Etats-Unis. Suite à l’annexion 
+de la Mandchourie par le Japon en 1931,   les Etats-Unis privés de leur ressource en 
+soja, décident de le produire eux-mêmes. Le gouvernement de Roosevelt soutient 
+alors la recherche agronomique avec   des variétés à haut rendement et 
+subventionne la production de soja.   Associé au maïs, il devient un aliment clé 
+dans la production intensive de viande. Un autre tournant décisif a lieu 
+au lendemain de la seconde guerre   mondiale. Dans le cadre du Plan Marshall, 
+les Etats-Unis décident d’écouler leurs   excédents de soja qui deviennent essentiels 
+pour relancer rapidement l’élevage européen. En 1962 avec la Politique Agricole Commune,   l’Europe arbitre ses priorités : elle soutient 
+la production de céréales, de lait et de viande,   quant au soja, elle continuera à 
+l’acheter massivement aux Américains.  A partir des années 1970, les Etats-Unis 
+deviennent le premier exportateur mondial   de soja et constituent une véritable 
+filière agro industrielle dont ils   maîtrisent tous les maillons : de la semence, 
+aux silos, jusqu’aux terminaux portuaires.   Mais un événement climatique va révéler les 
+fragilités de cette hyper dépendance européenne. En 1973, les Etats-Unis sont frappés par 
+une sécheresse exceptionnelle. Pour éviter   une pénurie, le président Nixon décrète un embargo 
+sur les exportations. Le choc est brutal, mondial.  Le cours du soja est multiplié 
+par 4. Alors Pour compenser,   l’Europe décide alors de nourrir son bétail 
+avec des farines animales jusque dans les années   90 où ce système va s’eﬀondrer. Le scandale 
+sanitaire de la vache folle contraint l’Union   européenne à se tourner de nouveau vers 
+la petite graine incontournable, le soja. De simple plante nutritive, le soja, on l’aura 
+compris est donc devenu en un siècle seulement   un pilier de la sécurité alimentaire mondiale. À 
+l’aube de l’an 2000, de nouveaux géants agricoles   ont redessiné un marché du soja toujours plus 
+mondialisé, et c’est ce qu’on va voir maintenant. En Amérique du Sud, deux pays, 
+le Brésil et l’Argentine,   comprennent dès les années 1970 
+l’intérêt de produire du soja   à grande échelle afin de répondre à 
+une demande mondiale en plein essor. Au Brésil, l’État encourage l’occupation de cette 
+région, le Cerrado, immense savane vaste comme   trois fois la France, autrefois jugée impropre 
+à l’agriculture. Avec la recherche agronomique,   une mécanisation intensive, le Cerrado devient 
+la première région productrice du soja brésilien.   Les rendements ont doublé en 20 ans.
+Résultat le Brésil est aujourd’hui le   premier producteur mondial avec environ 
+165 millions de tonnes récoltées en 2024. En Argentine, le soja a lui aussi connu 
+une ascension fulgurante. L’or vert a   envahi les terres du pays en une trentaine 
+d’années : de 6 millions d’hectares en 1995,   il est aujourd’hui cultivé sur 
+environ 20 millions d’hectares. Pour s’imposer comme le troisième 
+producteur mondial de soja l’Argentine   a fait un choix : l’utilisation massive 
+des OGM depuis les années 90. Ces cultures   transgéniques résistantes aux glyphosates 
+ont permis de faire exploser les rendements   et de créer d’immenses exploitations tournées vers 
+l’exportation. Mais derrière ce succès économique,   se cache un revers inquiétant : sols 
+appauvris, forte dépendance aux produits   chimiques, semences contrôlées par quelques 
+multinationales comme BASF, ou Bayer-Monsanto.  Ce modèle d’agrobusiness qui a essaimé dans 
+en Amérique du Sud provoque en eﬀet de graves   conséquences environnementales, voyons lesquelles. 
+Sous l’œil des satellites, le soja, regardez,   avance comme une marée. Dans les zones les plus 
+touchées, Amazonie, Cerrado, Chaco le soja est   la première cause indirecte de déforestation. 
+Au Brésil, plus de 40% des nouvelles surfaces   défrichées depuis 2000 l’ont été pour la culture 
+du soja. En Argentine, l’extension vers le Nord   a entraîné la disparition de plus de 6 millions 
+d’hectares de forêts. Malgré ce coût écologique   élevé, la culture intensive du soja a fait de 
+l’Amérique du Sud un acteur majeur du commerce   mondial. Elle exporte majoritairement son soja 
+on l’a vu vers la Chine et ensuite vers l’Europe.  Si l’Union européenne tente de réguler l’entrée 
+du soja sud-américain en imposant à partir de 2026   aux importateurs de prouver que leurs produits 
+n’ont pas contribué à la déforestation, la Chine,   elle, a choisi de sécuriser ses sources 
+d’approvisionnement dans le sous-continent.  Pour y parvenir, elle a étendu 
+ses nouvelles routes de la soie en  Amérique du Sud en investissant 
+dans les ports sud-américains ou en   signant des accords stratégiques 
+avec le Brésil et l’Argentine. Voilà pour cette géopolitique du 
+soja et sa facture écologique élevée,   en raison de ce leadership 
+américain installé au fil des   années, qui entraine une dépendance 
+européenne et asiatique, on l’a vu. Une dépendance qui a donné des arguments aux 
+adversaires de l’accord de libre-échange négocié   entre l’Union européenne et les pays du Mercosur :
+pour eux, la filière de l’agriculture intensive du   soja au Brésil comme en Argentine 
+va envahir le marché européen.  Sauf que les défenseurs de l’accord rappellent :
+que de nombreux garde-fou ont été mis en place,  que les normes environnementales de l’UE devraient 
+demeurer contraignantes pour les pays du Mercosur,  qu’il y aura des quotas pour empêcher ces 
+importations de perturber déstabiliser le   marché et des mesures de sauvegarde en 
+cas de déstabilisation trop importante. C’est avec lui que nous 
+avons préparé cette émission,   le chercheur Olivier Antoine signe cette 
+Géopolitique du Soja aux éditions Armand Colin. Ainsi s’achève ce nouveau numéro du Dessous des 
+Cartes, rendez-vous bien sur la semaine prochaine,   même endroit même heure. Et d’ici là 
+n’oubliez pas, arte.tv et nos réseaux   sociaux pour retrouver l’ensemble de nos 
+vidéos et abonnez-vous à notre newsletter.  A bientot
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

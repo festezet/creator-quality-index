@@ -1,0 +1,14 @@
+{
+  "channel_id": 116,
+  "name": "Real Engineering",
+  "research_depth": 9,
+  "signal_noise": 9,
+  "originality": 8,
+  "lasting_impact": 8,
+  "reasoning": {
+    "research_depth": "Thorough research combining technical documentation, academic sources, and expert interviews. Demonstrates deep understanding of engineering principles.",
+    "signal_noise": "Excellent content density with every segment contributing to the engineering explanation. Professional narration with no filler.",
+    "originality": "Distinctive approach to engineering topics with high production quality. Makes complex engineering concepts accessible without dumbing down.",
+    "lasting_impact": "Strong evergreen content covering fundamental engineering principles. The explanations remain relevant regardless of technological trends."
+  }
+}

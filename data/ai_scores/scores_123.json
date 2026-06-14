@@ -1,0 +1,14 @@
+{
+  "channel_id": 123,
+  "name": "Applied Science",
+  "research_depth": 9,
+  "signal_noise": 10,
+  "originality": 10,
+  "lasting_impact": 9,
+  "reasoning": {
+    "research_depth": "Exceptional research depth with hands-on experimentation. Builds actual scientific equipment and conducts real experiments.",
+    "signal_noise": "Perfect signal-to-noise ratio. Pure content delivery focused entirely on the science and engineering. No entertainment filler whatsoever.",
+    "originality": "Uniquely original content. Building electron microscopes, superconductors, and other advanced scientific equipment at home is genuinely unprecedented.",
+    "lasting_impact": "Excellent lasting value. The scientific principles and engineering approaches demonstrated are timeless and educational."
+  }
+}

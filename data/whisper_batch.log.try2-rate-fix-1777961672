@@ -1,0 +1,23 @@
+Manifest: 346 channels
+Already in AVS: 1296 transcripts
+Already final-processed (ok/whisper_failed): 1046
+To process (incl. retryable rate_limited/timeout/dl_failed): 5994 videos
+Whisper model: tiny
+
+Loading Whisper model 'tiny' (CPU, int8)...
+Model loaded.
+Shared DB: /data/media/youtube/transcriptions.db
+
+[1/5994] #96 Sabine Hossenfelder          ZE-1q79FpYc [DL_FAIL_ERR] ERROR: [youtube] ZE-1q79FpYc: This video is available to this channel's members on level: Seriously (or any higher level). Join this channel to get access to members-only content and other exclusive p
+DL_FAIL
+[2/5994] #96 Sabine Hossenfelder          -bn2jMwZ3oI [DL_FAIL_ERR] ERROR: [youtube] -bn2jMwZ3oI: This video is available to this channel's members on level: Seriously (or any higher level). Join this channel to get access to members-only content and other exclusive p
+DL_FAIL
+[3/5994] #96 Sabine Hossenfelder          eWfF9RtZcRE [DL_FAIL_ERR] ERROR: [youtube] eWfF9RtZcRE: This video is available to this channel's members on level: Seriously (or any higher level). Join this channel to get access to members-only content and other exclusive p
+DL_FAIL
+[4/5994] #96 Sabine Hossenfelder          mEePibuhiIo [DL_FAIL_ERR] ERROR: [youtube] mEePibuhiIo: This video is available to this channel's members on level: Seriously (or any higher level). Join this channel to get access to members-only content and other exclusive p
+DL_FAIL
+[5/5994] #96 Sabine Hossenfelder          63i3jvU1nQ0 [DL_FAIL_ERR] ERROR: [youtube] 63i3jvU1nQ0: This video is available to this channel's members on level: Seriously (or any higher level). Join this channel to get access to members-only content and other exclusive p
+DL_FAIL
+[6/5994] #100 Arvin Ash                    XqOWgn1edY4 [RATE_LIMIT] ERROR: [youtube] XqOWgn1edY4: Sign in to confirm your age. This video may be inappropriate for some users. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dl
+RATE_LIMIT (1 in a row)
+  Pausing 600s before retry...

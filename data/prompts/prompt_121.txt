@@ -1,0 +1,166 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Branch Education
+**Video**: "Unknown"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+In this video we’re going to explore the evolution 
+of computers over the past 80 years. We’ll start   with massive mainframe computers, move into early 
+personal computers and gaming systems, go through   the turn of the millennium and into the age of 
+smartphones, wearable devices and graphics cards,   and finally end at the advent of AI and the future 
+of computing. In essence, this video will explore   how, in a span of a few decades, we moved from 
+room sized mainframe computers that weighed as   much as an elephant, cost millions of dollars 
+and were used to calculate rocket trajectories   for NASA and the Apollo Missions, to smartphones 
+that are a fraction of the size, cost and weight,   are around 16 million times more computationally 
+powerful, and are used for a range of activities,   none of which are calculating rocket trajectories
+To make this video, we built accurate 3D models   of over 60 different computers, gaming systems, 
+smartphones, and integrated circuits. In fact,   we purchased and physically disassembled a 
+number of these computers and devices, then   desoldered all the chips from the motherboard, 
+took hundreds of pictures, and built accurate   3D models of the interior components. But to be 
+clear, we’re not just going to list the different   computers and devices and show you the 3D models 
+along with their specs, but rather we’ll focus   on the underlying evolution of science and 
+engineering that enabled smaller and faster   devices year after year, essentially answering why 
+and how computers evolved the way they have. We   have 80 years of computers, technology, science, 
+and engineering to cover, so let’s jump right in.  This video is sponsored by Brilliant.
+Perhaps you’ve heard of Moore’s Law,   which was the prediction made in 1965 that the 
+number of transistors on a chip would double   every two years. Therefore, you may think that the 
+evolution of computers was simply the progression   of smaller and smaller transistors starting 
+with a few thousand transistors in a microchip   and progressing until reaching tens of billions of 
+transistors in a microchip. While Moore’s Law was   rather accurate and profoundly impactful, focusing 
+solely on it is both an oversimplification and   misleading. For example, the Super Nintendo 
+Entertainment System and Nintendo Switch were   released 26 years apart, and in that timespan, 
+the number of transistors inside these two gaming   consoles increased by 80 thousand times. However, 
+when it comes to processing power, the Nintendo   Switch is closer to 1 point 4 million times more 
+computationally powerful, and the underlying   reason for the exponential increase in processing 
+power is a lot more complicated than just simply   how many transistors it has. Therefore, throughout 
+this video we won’t focus on Moore’s law or   transistor count, but rather we’ll explore how 
+the specific underlying technological developments   directly resulted in the increase in processing 
+power across the evolution of computers.  Specifically, we can divide this timeline into 
+8 distinct time periods or ages with each age   having a different set of technological advances. 
+For example, in the 1950s, during the first age,   computers were changing from using vacuum tubes 
+to using transistors, and then in the second age   scientists and engineers focused on how groups 
+of transistors could be packaged together.   Essentially, the advancements made in one age are 
+entirely different from the advancements in the   next age. Additionally, exploring these eight ages 
+will provide insights into how some companies were   technology leaders in one age but then failed 
+to predict or adapt to the next. For example,   IBM was the leading computer company in the 50s, 
+60s and 70s and at its peak controlled around 70%   of the entire computer market. However, in the 
+subsequent age, during the 80s and 90s, the key   advancements to computers changed and as a result, 
+IBM lost its dominance and now it owns less than   1% of the computer market. Or, consider Intel’s 
+decline through the 2010s when it was a leader   in the third and fourth ages, and then failed 
+to adapt and then declined throughout the fifth   and sixth. You can now see similar trends with 
+Nvidia’s meteoric growth due to its focus on GPU   architecture and its use in AI algorithms. And, 
+since history is the best guide to predicting the   future, at the end of this video, we’ll explore 
+what the future of computing might look like.  As this video will focus on computational 
+power, simply listing each computer’s processing   capabilities might get you lost in the scale and 
+number of zeroes, especially considering today’s   AI data centers, so instead of just a string 
+of zeros, we’re going to use Lego Bricks and   equate one operation, instruction or calculation 
+per second to a single two-by-four Lego Brick.   For example, when using Lego Bricks to show 
+the computational power of the ENIAC from 1945,   its processing power of 5000 addition computations 
+a second builds a moderately sized cube of 5000   Lego bricks. Whereas the SNES from 1991, with its 
+almost 1 point 8 million instructions a second,   creates a Lego cube that fills most 
+of a room. And then, jumping to 2007,   the first iPhone’s 800 million operations 
+a second builds a cube of Lego bricks the   height of a two-story building, and the 
+current graphics cards with their teraflops   of calculations forms a Lego Cube that gets 
+ridiculously large, but we’re not there yet.  So let’s go back to the beginning of this 
+timeline and dive into the first age of computers,   which spans from 1945 to 1962, and is named 
+Transistorization. Here are the five example   computers that we’ll use and explore in further 
+detail. We’ll start with the ENIAC built in 1945.   It’s important to note that there were a number 
+of room-sized computers that were built before it,   such as the electromechanical computer 
+used to crack the Enigma code, but we   won’t explore them as they’re special-purpose 
+computers. What made the ENIAC notable is that   it was the first programmable general-purpose 
+computer. The ENIAC was built 2 years before   transistors were invented and therefore it 
+functioned using 17 thousand vacuum tubes   making it rather large and incredibly heavy.
+The next example computer is the UNIVAC-1 which   was built 6 years later and still used vacuum 
+tubes. So the question is, 4 years after the   invention of the transistor, why is this computer 
+still full of thousands of vacuum tubes? Well, the   issue was that the early designs for transistors 
+were very unreliable, sensitive to voltage spikes,   and prone to random breaking. Vacuum tubes, on 
+the other hand, had been invented almost 50 years   earlier, were considerably more reliable, and if 
+one broke, then the inside would become foggy or   the glass would be visibly cracked, making 
+it easily identifiable. In contrast, broken   transistors were a lot harder to find and, when 
+you have a computer with almost 20 thousand vacuum   tubes, switching them to unreliable, highly 
+sensitive transistors that, when broken,   were a headache to find, was not ideal.
+Therefore, during the age of Transistorization   the key technological advancements were 
+focused on building reliable transistors.   To do this scientists and engineers first switched 
+from using Germanium to Silicon-based transistors,   and second the physical design evolved from point 
+contact transistors into individually packaged   junction transistors. By the end of the 50s 
+the RCA501, NEAC-2203, and the IBM 7000 series,   such as this 7090, were some of the first publicly 
+available commercial computers to use transistors   and were advertised as transistorized computers. 
+Throughout the next few years transistors evolved   from relatively delicate-looking structures to 
+more reliable flat planar transistors. Then in   1959 the MOSFET was invented, which is a family of 
+different types of transistors. Next in 1963 the   CMOS circuit which is built from 2 different types 
+of MOSFETs was invented and by the mid-1980s,   it became the fundamental type and arrangement 
+of transistors used in every computer even to   this day. While the design of the transistor 
+was, and still is, being evolved, we decided to   have the first age of computers end in 1962, 
+with the last computer to use vacuum tubes.  It’s important to briefly note that while we’re 
+focusing on the computers and processing power,   computer memory has also had its own evolutionary 
+timeline. Early methods for storing data included   rather interesting techniques such as using sound 
+waves in tubes of mercury, called mercury delay   lines, or utilizing cathode ray tubes and the glow 
+of phosphor. Eventually small magnetic toroids   with hand-woven copper wires between them called 
+magnetic core memory and large magnetic drums were   used, and then after that, spools of magnetic 
+tape, and then magnetic disks, DRAM, and so on.  The evolution of computer memory and storage 
+is incredibly complicated, so we’ll explore   it in a separate video. There are many more 
+details we cut for time, but here are the   additional notes you can read if you’d like.
+Before we move to the next age of computers,   it’s important to understand that scientific 
+breakthroughs and technological progress typically   don’t happen by accident. But rather, every step, 
+whether it’s from vacuum tubes to transistors or   from Graphics Cards to AI Processors, was made by 
+many hard-working people who had a fundamental and   deep understanding of science and engineering 
+and applied that knowledge through critical   thinking and problem-solving. That's where 
+this video's sponsor, Brilliant, comes in.  Brilliant is an educational platform with 
+thousands of interactive and engaging lessons   in math, science, engineering, programming, 
+data analysis, and many other subjects. However,   Brilliant is more than just a catalog of courses; 
+rather, it factors in your prior education and   knowledge and then starts you off on a journey 
+with personalized lessons, practice sets,   in-depth instruction, motivating challenges, 
+and thought-provoking questions. In essence,   Brilliant is like a personalized tutor that 
+pushes you to deeply and intuitively understand   complex topics, such as college-level 
+calculus, algorithms, circuits, and more.  Brilliant’s mission is to create a world of 
+critical thinkers and problem solvers and,   with technology evolving faster than ever, 
+Brilliant continuously updates its lessons   to anticipate what you need to know for your 
+education, career, and the world to come.   For example, they have a new and in-depth 
+course on AI and Large Language Models   that explains how Generative AI works far better 
+than any textbook or video currently available.  To learn for free on Brilliant, go 
+to Brilliant.org/BranchEducation,   or by scanning the QR code on screen, and you’ll 
+then have free 30-day access to the wide range   of courses throughout their catalog. If you enjoy 
+their content and decide to stay, the link in the   description below will also save you 20% off an 
+annual premium subscription, giving you unlimited   daily access to everything on Brilliant.
+So, let’s move on to the second age,   spanning from 1964 to 1977, which 
+we’ve named “Packaging Transistors”.   Here are the example computers we’ll use to 
+demonstrate how computers evolved from room-sized   mainframes to fridge-sized minicomputers, and 
+then to personal desktop computers, which were   called microcomputers. It’s funny to consider 
+these rather large computers as mini and micro,   especially when compared to today’s smartphones 
+and smartwatches, yet, when matched up with   room-sized mainframes, these names made sense.
+Regardless, for most of this age,   the IBM System 360 mainframes, which were 
+released in 1964 and discontinued in 1978,   were the
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

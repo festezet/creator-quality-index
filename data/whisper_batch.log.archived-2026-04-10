@@ -1,0 +1,1127 @@
+Manifest: 346 channels
+Already in AVS: 254 transcripts
+Already processed: 9
+To process: 7031 videos
+Whisper model: tiny
+
+Loading Whisper model 'tiny' (CPU, int8)...
+Model loaded.
+Shared DB: /data/media/youtube/transcriptions.db
+
+[1/7031] #90 3Blue1Brown                  FE-hM1kRK4Y [4.3MB] OK (1910w, en)
+[2/7031] #90 3Blue1Brown                  j0wJBEZdwLs [4.2MB] OK (1822w, en)
+[3/7031] #90 3Blue1Brown                  -j8PzkZ70Lg (72/h, ETA 98.2h) [4.3MB] OK (1967w, en)
+[4/7031] #90 3Blue1Brown                  M-MgQC6z3VU (71/h, ETA 98.5h) [4.1MB] OK (1795w, en)
+[5/7031] #90 3Blue1Brown                  _BrFKp-U8GI (70/h, ETA 100.0h) [4.2MB] OK (1839w, en)
+[6/7031] #90 3Blue1Brown                  itRV2jEtV8Q (66/h, ETA 106.2h) [3.6MB] OK (1776w, en)
+[7/7031] #90 3Blue1Brown                  4NlrfOl0l8U (66/h, ETA 106.2h) [4.1MB] OK (1809w, en)
+[8/7031] #90 3Blue1Brown                  iv-5mZ_9CPY (68/h, ETA 103.3h) [3.5MB] OK (1722w, en)
+[9/7031] #90 3Blue1Brown                  Dlsa9EBKDGI (68/h, ETA 103.1h) [4.2MB] OK (2034w, en)
+[10/7031] #90 3Blue1Brown                  RQWpF2Gb-gU (69/h, ETA 101.4h) [4.1MB] OK (2113w, en)
+[11/7031] #90 3Blue1Brown                  6dTyOl1fmDo (69/h, ETA 102.4h) [4.1MB] OK (1997w, en)
+[12/7031] #90 3Blue1Brown                  hFMaT9oRbs4 (69/h, ETA 101.9h) [4.1MB] OK (2103w, en)
+[13/7031] #90 3Blue1Brown                  YdOXS_9_P4U (69/h, ETA 101.6h) [4.1MB] OK (2125w, en)
+[14/7031] #90 3Blue1Brown                  IQqtsm-bBRU (69/h, ETA 101.8h) [4.1MB] OK (1997w, en)
+[15/7031] #90 3Blue1Brown                  LPZh9BOjkQs (69/h, ETA 101.5h) [3.2MB] OK (1312w, en)
+[16/7031] #90 3Blue1Brown                  piJkuavhV50 (71/h, ETA 98.9h) [4.2MB] OK (2090w, en)
+[17/7031] #90 3Blue1Brown                  rbu7Zu5X1zI (71/h, ETA 99.0h) [3.5MB] OK (2213w, en)
+[18/7031] #90 3Blue1Brown                  EmKQsSDlaa4 (70/h, ETA 100.7h) [4.1MB] OK (1942w, en)
+[19/7031] #90 3Blue1Brown                  9-Jl0dxWQs8 (69/h, ETA 101.7h) [4.3MB] OK (1882w, en)
+[20/7031] #90 3Blue1Brown                  W3I3kAg2J7w (69/h, ETA 101.2h) [3.4MB] OK (2021w, en)
+[21/7031] #90 3Blue1Brown                  Cz4Q4QOuoo8 (70/h, ETA 100.3h) [4.1MB] OK (1927w, en)
+[22/7031] #91 Veritasium                   aoag03mSuXQ (71/h, ETA 99.3h) [4.9MB] OK (1652w, en)
+[23/7031] #91 Veritasium                   cMx139eTxoc (69/h, ETA 101.0h) [5.3MB] OK (1481w, en)
+[24/7031] #91 Veritasium                   6HVYHNTDOFs (68/h, ETA 103.0h) [5.0MB] OK (1764w, en)
+[25/7031] #91 Veritasium                   XKSjCOKDtpk (68/h, ETA 102.7h) [4.7MB] OK (1763w, en)
+[26/7031] #91 Veritasium                   P-4pbFcERnk (68/h, ETA 102.8h) [4.8MB] OK (1723w, en)
+[27/7031] #91 Veritasium                   MiUHjLxm3V0 (68/h, ETA 102.5h) [4.8MB] OK (1786w, en)
+[28/7031] #91 Veritasium                   piHGnG4LsmQ (68/h, ETA 103.5h) [4.7MB] OK (1867w, en)
+[29/7031] #91 Veritasium                   NIk_0AW5hFU (68/h, ETA 102.7h) [4.8MB] OK (1811w, en)
+[30/7031] #91 Veritasium                   Y-W-w8yNiKU (68/h, ETA 103.1h) [5.0MB] OK (1742w, en)
+[31/7031] #91 Veritasium                   HBluLfX2F_k (68/h, ETA 103.1h) [5.0MB] OK (1815w, en)
+[32/7031] #91 Veritasium                   QtxVdC7pBQM (68/h, ETA 103.4h) [5.0MB] OK (1740w, en)
+[33/7031] #91 Veritasium                   9M_QK4stCJU (68/h, ETA 103.6h) [4.9MB] OK (1630w, en)
+[34/7031] #91 Veritasium                   XX7PdJIGiCw (68/h, ETA 103.2h) [5.4MB] OK (1688w, en)
+[35/7031] #91 Veritasium                   CYlon2tvywA (68/h, ETA 103.1h) [4.8MB] OK (1768w, en)
+[36/7031] #91 Veritasium                   onr80iOoEXs (68/h, ETA 103.0h) [5.1MB] OK (1557w, en)
+[37/7031] #91 Veritasium                   tZ8ehplVFp4 (68/h, ETA 103.6h) [5.1MB] OK (1705w, en)
+[38/7031] #91 Veritasium                   CxVXvFOPIyQ (68/h, ETA 103.2h) [5.1MB] OK (1596w, en)
+[39/7031] #91 Veritasium                   AFXLZ7FEJc4 (67/h, ETA 103.6h) [5.1MB] OK (1673w, en)
+[40/7031] #91 Veritasium                   AGglJehON5g (67/h, ETA 104.1h) [5.3MB] OK (1679w, en)
+[41/7031] #91 Veritasium                   KZeIEiBrT_w (67/h, ETA 105.0h) [4.9MB] OK (1644w, en)
+[42/7031] #91 Veritasium                   -QTkPfq7w1A (67/h, ETA 104.9h) [4.9MB] OK (1887w, en)
+[43/7031] #91 Veritasium                   x32Zq-XvID4 (67/h, ETA 104.6h) [4.6MB] OK (1687w, en)
+[44/7031] #92 Kurzgesagt - In a Nutshell   D0WQK7cMJn8 (67/h, ETA 104.7h) [1.6MB] OK (426w, en)
+[45/7031] #92 Kurzgesagt - In a Nutshell   pHJIhxZEoxg (68/h, ETA 103.1h) [5.3MB] OK (1616w, en)
+[46/7031] #92 Kurzgesagt - In a Nutshell   UnrtLi7YIY4 (68/h, ETA 102.4h) [0.6MB] OK (236w, en)
+[47/7031] #92 Kurzgesagt - In a Nutshell   H4KMQuyxH_Y (69/h, ETA 100.7h) [5.1MB] OK (1610w, en)
+[48/7031] #92 Kurzgesagt - In a Nutshell   KNwMiydCYA4 (70/h, ETA 100.2h) [5.4MB] OK (707w, en)
+[49/7031] #92 Kurzgesagt - In a Nutshell   zozEm4f_dlw (69/h, ETA 101.2h) [5.1MB] OK (1651w, en)
+[50/7031] #92 Kurzgesagt - In a Nutshell   ZSch_NgZpQs (69/h, ETA 100.7h) [5.3MB] OK (1657w, en)
+[51/7031] #92 Kurzgesagt - In a Nutshell   sOsqXKr4l30 (70/h, ETA 100.1h) [5.0MB] OK (1648w, en)
+[52/7031] #92 Kurzgesagt - In a Nutshell   Mo1A45ShcMo (70/h, ETA 99.7h) [5.2MB] OK (1625w, en)
+[53/7031] #92 Kurzgesagt - In a Nutshell   Brm71uCWr-I (70/h, ETA 99.2h) [4.9MB] OK (1736w, en)
+[54/7031] #92 Kurzgesagt - In a Nutshell   _zfN9wnPvU0 (71/h, ETA 98.8h) [4.9MB] OK (1548w, en)
+[55/7031] #92 Kurzgesagt - In a Nutshell   VMm-U2pHrXE (71/h, ETA 98.2h) [5.0MB] OK (1664w, en)
+[56/7031] #92 Kurzgesagt - In a Nutshell   Zpq1GbPqhy4 (71/h, ETA 98.2h) [5.0MB] OK (1756w, en)
+[57/7031] #92 Kurzgesagt - In a Nutshell   dKm7T13X7n4 (71/h, ETA 97.8h) [5.0MB] OK (1690w, en)
+[58/7031] #92 Kurzgesagt - In a Nutshell   XunabxHzMuM (72/h, ETA 97.5h) [0.6MB] OK (161w, en)
+[59/7031] #92 Kurzgesagt - In a Nutshell   gtDKKJq9u30 (73/h, ETA 96.1h) [5.1MB] OK (1642w, en)
+[60/7031] #92 Kurzgesagt - In a Nutshell   u4LUix-BU0s (73/h, ETA 95.8h) [5.1MB] OK (1661w, en)
+[61/7031] #92 Kurzgesagt - In a Nutshell   aOwmt39L2IQ (73/h, ETA 95.5h) [5.2MB] OK (1623w, en)
+[62/7031] #92 Kurzgesagt - In a Nutshell   7wK4peez9zE (73/h, ETA 95.2h) [5.0MB] OK (1632w, en)
+[63/7031] #92 Kurzgesagt - In a Nutshell   efOW5NUTYB8 (73/h, ETA 94.9h) [5.1MB] OK (1606w, en)
+[64/7031] #92 Kurzgesagt - In a Nutshell   zxq60I5RSW8 (74/h, ETA 94.6h) [5.1MB] OK (1593w, en)
+[65/7031] #92 Kurzgesagt - In a Nutshell   m6KnVTYtSc0 (74/h, ETA 94.3h) [5.0MB] OK (1617w, en)
+[66/7031] #92 Kurzgesagt - In a Nutshell   tRXy-b6_lBc (74/h, ETA 94.1h) [5.1MB] OK (1648w, en)
+[67/7031] #92 Kurzgesagt - In a Nutshell   NYNBAxDfgrY (74/h, ETA 93.8h) [5.2MB] OK (1444w, en)
+[68/7031] #93 PBS Space Time               zaJRfVRe-Vg (75/h, ETA 93.5h) [4.2MB] OK (1456w, en)
+[69/7031] #93 PBS Space Time               qNCCDX32XYE (75/h, ETA 93.3h) [4.2MB] OK (1435w, en)
+[70/7031] #93 PBS Space Time               Z4DqSFrl92k (75/h, ETA 93.1h) [4.0MB] OK (1531w, en)
+[71/7031] #93 PBS Space Time               4zgZ1hh3XtI (75/h, ETA 92.9h) [4.1MB] OK (1439w, en)
+[72/7031] #93 PBS Space Time               UFXiFfj058U (75/h, ETA 92.7h) [3.9MB] OK (1523w, en)
+[73/7031] #93 PBS Space Time               t_AMURAIcF0 (75/h, ETA 92.5h) [4.6MB] OK (1512w, en)
+[74/7031] #93 PBS Space Time               c-Q5r3THR3M (74/h, ETA 93.6h) [3.9MB] OK (1377w, en)
+[75/7031] #93 PBS Space Time               mPFFUWPXAFs (74/h, ETA 93.5h) [3.8MB] OK (1468w, en)
+[76/7031] #93 PBS Space Time               e9xOMOTTW6U (75/h, ETA 93.3h) [3.9MB] OK (1548w, en)
+[77/7031] #93 PBS Space Time               eA4X9P98ess (75/h, ETA 93.2h) [4.1MB] OK (1456w, en)
+[78/7031] #93 PBS Space Time               sc7FlWUAnzA (75/h, ETA 93.1h) [4.0MB] OK (1496w, en)
+[79/7031] #93 PBS Space Time               PuHrtlJPk3o (75/h, ETA 93.0h) [3.9MB] OK (1444w, en)
+[80/7031] #93 PBS Space Time               xRhsD-RQNHs (75/h, ETA 92.8h) [3.9MB] OK (1481w, en)
+[81/7031] #93 PBS Space Time               HlNKj0K_3FY (75/h, ETA 92.7h) [3.9MB] OK (1426w, en)
+[82/7031] #93 PBS Space Time               Ivye51d5Vis (75/h, ETA 92.4h) [3.9MB] OK (1575w, en)
+[83/7031] #93 PBS Space Time               HX1EfW3euY4 (75/h, ETA 92.3h) [3.9MB] OK (1537w, en)
+[84/7031] #93 PBS Space Time               7wZPaovDH50 (75/h, ETA 92.2h) [4.1MB] OK (1424w, en)
+[85/7031] #93 PBS Space Time               U-B1MpTQfJQ (75/h, ETA 92.0h) [4.4MB] OK (1476w, en)
+[86/7031] #93 PBS Space Time               cY6Y4lE3LTo (76/h, ETA 91.9h) [4.4MB] OK (1517w, en)
+[87/7031] #93 PBS Space Time               WNyY1ZYSzoU (76/h, ETA 91.8h) [4.1MB] OK (1507w, en)
+[88/7031] #93 PBS Space Time               abvzkSJEhKk (76/h, ETA 91.7h) [4.1MB] OK (1497w, en)
+[89/7031] #93 PBS Space Time               8CgquHFM_O8 (76/h, ETA 91.5h) [4.0MB] OK (1563w, en)
+[90/7031] #93 PBS Space Time               negiPvWHaMc (76/h, ETA 91.4h) [4.1MB] OK (1486w, en)
+[91/7031] #93 PBS Space Time               hPhwhq-f1Uo (76/h, ETA 91.4h) [4.1MB] OK (1554w, en)
+[92/7031] #94 SmarterEveryDay              -0JKHuzJ67A (76/h, ETA 91.3h) DL_FAIL
+[93/7031] #94 SmarterEveryDay              XwBZx1cXEdM (77/h, ETA 90.3h) DL_FAIL
+[94/7031] #94 SmarterEveryDay              v0afQ6w3Bjw (78/h, ETA 89.3h) DL_FAIL
+[95/7031] #94 SmarterEveryDay              dt_CG_xRnrY (78/h, ETA 88.4h) DL_FAIL
+[96/7031] #94 SmarterEveryDay              cRaKMTK7ea0 (79/h, ETA 87.5h) DL_FAIL
+[97/7031] #94 SmarterEveryDay              3ZTGwcHQfLY (80/h, ETA 86.6h) DL_FAIL
+[98/7031] #94 SmarterEveryDay              8nilP--GFLY (81/h, ETA 85.7h) DL_FAIL
+[99/7031] #94 SmarterEveryDay              JVROsxtjoCw (82/h, ETA 84.9h) DL_FAIL
+[100/7031] #94 SmarterEveryDay              lylCYkgC63Q (82/h, ETA 84.0h) DL_FAIL
+[101/7031] #94 SmarterEveryDay              jDusS--bZZA (83/h, ETA 83.2h) DL_FAIL
+[102/7031] #94 SmarterEveryDay              JJofuF2zcTE (84/h, ETA 82.4h) DL_FAIL
+[103/7031] #94 SmarterEveryDay              sEK6wZWMbCY (85/h, ETA 81.6h) DL_FAIL
+[104/7031] #94 SmarterEveryDay              frbLIoqDIO8 (86/h, ETA 80.8h) DL_FAIL
+[105/7031] #94 SmarterEveryDay              VPSm9gJkPxU (87/h, ETA 80.1h) DL_FAIL
+[106/7031] #94 SmarterEveryDay              TWc48iVC8u8 (87/h, ETA 79.3h) DL_FAIL
+[107/7031] #94 SmarterEveryDay              bQF51mqzrY4 (88/h, ETA 78.6h) DL_FAIL
+[108/7031] #94 SmarterEveryDay              Bh7Xf3Ox7K8 (89/h, ETA 77.9h) DL_FAIL
+[109/7031] #94 SmarterEveryDay              AiZd5yBWvYY (90/h, ETA 77.2h) DL_FAIL
+[110/7031] #94 SmarterEveryDay              eNK2LI7VeX4 (91/h, ETA 76.5h) DL_FAIL
+[111/7031] #94 SmarterEveryDay              W4QSGlM06Gs (91/h, ETA 75.8h) DL_FAIL
+[112/7031] #94 SmarterEveryDay              OoJsPvmFixU (92/h, ETA 75.1h) DL_FAIL
+[113/7031] #94 SmarterEveryDay              TbhF7jTLlG4 (93/h, ETA 74.5h) DL_FAIL
+[114/7031] #94 SmarterEveryDay              prRTWThrotU (94/h, ETA 73.8h) DL_FAIL
+[115/7031] #94 SmarterEveryDay              dCXu8Ju_fdY (95/h, ETA 73.2h) DL_FAIL
+[116/7031] #94 SmarterEveryDay              oTfXehFVFyk (95/h, ETA 72.5h) DL_FAIL
+[117/7031] #94 SmarterEveryDay              GDzBE6vz5r0 (96/h, ETA 71.9h) DL_FAIL
+[118/7031] #95 Steve Mould                  B_JavY7pSfE (97/h, ETA 71.3h) DL_FAIL
+[119/7031] #95 Steve Mould                  RaQfGqsB30o (98/h, ETA 70.7h) DL_FAIL
+[120/7031] #95 Steve Mould                  RWbCC6f_k1c (99/h, ETA 70.2h) DL_FAIL
+[121/7031] #95 Steve Mould                  kuMUquaeE6g (99/h, ETA 69.6h) DL_FAIL
+[122/7031] #95 Steve Mould                  -NzfTE8RI4w (100/h, ETA 69.0h) DL_FAIL
+[123/7031] #95 Steve Mould                  J_vXK9uvRf4 (101/h, ETA 68.5h) DL_FAIL
+[124/7031] #95 Steve Mould                  tRDxBwverlI (102/h, ETA 67.9h) DL_FAIL
+[125/7031] #95 Steve Mould                  NtZaP8VMv0c (102/h, ETA 67.4h) DL_FAIL
+[126/7031] #95 Steve Mould                  U7NHNT3M-tw (103/h, ETA 66.9h) DL_FAIL
+[127/7031] #95 Steve Mould                  B_PCZiNlmPw (104/h, ETA 66.3h) DL_FAIL
+[128/7031] #95 Steve Mould                  5glksNTKkZI (105/h, ETA 65.8h) DL_FAIL
+[129/7031] #95 Steve Mould                  CfhsW1kaa2Q (106/h, ETA 65.3h) DL_FAIL
+[130/7031] #95 Steve Mould                  T47s4L1Wje4 (106/h, ETA 64.8h) DL_FAIL
+[131/7031] #95 Steve Mould                  rf-efIZI_Dg (107/h, ETA 64.4h) DL_FAIL
+[132/7031] #95 Steve Mould                  Mcg9GcilBfU (108/h, ETA 63.9h) DL_FAIL
+[133/7031] #95 Steve Mould                  o-dZKBwbsis (109/h, ETA 63.4h) DL_FAIL
+[134/7031] #95 Steve Mould                  PAOpkv0fpik (110/h, ETA 62.9h) DL_FAIL
+[135/7031] #95 Steve Mould                  VdwSMytC7y4 (110/h, ETA 62.5h) DL_FAIL
+[136/7031] #95 Steve Mould                  tw5tQPm-B00 (111/h, ETA 62.0h) DL_FAIL
+[137/7031] #95 Steve Mould                  kY2YeM5fNDw (112/h, ETA 61.6h) DL_FAIL
+[138/7031] #95 Steve Mould                  qvtZIdSI1Yk (113/h, ETA 61.2h) DL_FAIL
+[139/7031] #95 Steve Mould                  FMRi6pNAoag (114/h, ETA 60.7h) DL_FAIL
+[140/7031] #95 Steve Mould                  yc--vrW9qX4 (114/h, ETA 60.3h) DL_FAIL
+[141/7031] #95 Steve Mould                  XjQc8Bf0UlM (115/h, ETA 59.9h) DL_FAIL
+[142/7031] #95 Steve Mould                  hgcEIKHCI00 (116/h, ETA 59.5h) DL_FAIL
+[143/7031] #95 Steve Mould                  mj4FvZTutHA (117/h, ETA 59.1h) DL_FAIL
+[144/7031] #96 Sabine Hossenfelder          qV7hQEtr3ic (117/h, ETA 58.7h) DL_FAIL
+[145/7031] #96 Sabine Hossenfelder          ZE-1q79FpYc (118/h, ETA 58.3h) DL_FAIL
+[146/7031] #96 Sabine Hossenfelder          1mgxuVVUz40 (119/h, ETA 57.9h) DL_FAIL
+[147/7031] #96 Sabine Hossenfelder          ppbvaNzZ-tk (120/h, ETA 57.5h) DL_FAIL
+[148/7031] #96 Sabine Hossenfelder          1YvOPoALVGY (121/h, ETA 57.1h) DL_FAIL
+[149/7031] #96 Sabine Hossenfelder          lYVxRHk258g (121/h, ETA 56.7h) DL_FAIL
+[150/7031] #96 Sabine Hossenfelder          a0lYZClPYgk (122/h, ETA 56.4h) DL_FAIL
+[151/7031] #96 Sabine Hossenfelder          q8RzZQcOYoA (123/h, ETA 56.0h) DL_FAIL
+[152/7031] #96 Sabine Hossenfelder          x5sR5sGi6kU (124/h, ETA 55.6h) DL_FAIL
+[153/7031] #96 Sabine Hossenfelder          x3OYM4kbPyg (124/h, ETA 55.3h) DL_FAIL
+[154/7031] #96 Sabine Hossenfelder          -bn2jMwZ3oI (125/h, ETA 54.9h) DL_FAIL
+[155/7031] #96 Sabine Hossenfelder          B7Pc0LQHu38 (126/h, ETA 54.6h) DL_FAIL
+[156/7031] #96 Sabine Hossenfelder          ZvYFWdZf4xk (127/h, ETA 54.2h) DL_FAIL
+[157/7031] #96 Sabine Hossenfelder          wxc82VmVLyM (128/h, ETA 53.9h) DL_FAIL
+[158/7031] #96 Sabine Hossenfelder          eWfF9RtZcRE (128/h, ETA 53.6h) DL_FAIL
+[159/7031] #96 Sabine Hossenfelder          13S9wEIRsfA (129/h, ETA 53.2h) DL_FAIL
+[160/7031] #96 Sabine Hossenfelder          _MO8G8tG5s4 (130/h, ETA 52.9h) DL_FAIL
+[161/7031] #96 Sabine Hossenfelder          0azOaCJaYGo (131/h, ETA 52.6h) DL_FAIL
+[162/7031] #96 Sabine Hossenfelder          MNNs16X8Ejw (131/h, ETA 52.3h) DL_FAIL
+[163/7031] #96 Sabine Hossenfelder          mEePibuhiIo (132/h, ETA 52.0h) DL_FAIL
+[164/7031] #96 Sabine Hossenfelder          aCmakVJi1ks (133/h, ETA 51.7h) DL_FAIL
+[165/7031] #96 Sabine Hossenfelder          UbInSCs47Gw (134/h, ETA 51.4h) DL_FAIL
+[166/7031] #96 Sabine Hossenfelder          roNZr_i8iOY (134/h, ETA 51.1h) DL_FAIL
+[167/7031] #96 Sabine Hossenfelder          63i3jvU1nQ0 (135/h, ETA 50.8h) DL_FAIL
+[168/7031] #96 Sabine Hossenfelder          rrRauDKoTJM (136/h, ETA 50.5h) DL_FAIL
+[169/7031] #96 Sabine Hossenfelder          n9lmaBAxbB4 (137/h, ETA 50.2h) DL_FAIL
+[170/7031] #97 Domain of Science            6CSM_UCyBNA (138/h, ETA 49.9h) DL_FAIL
+[171/7031] #97 Domain of Science            3P2GVocbw9o (138/h, ETA 49.6h) DL_FAIL
+[172/7031] #97 Domain of Science            5FqFg-rjzPo (139/h, ETA 49.3h) DL_FAIL
+[173/7031] #97 Domain of Science            fH4MaSJ8gXU (140/h, ETA 49.0h) DL_FAIL
+[174/7031] #97 Domain of Science            ihZXl33t8So (141/h, ETA 48.8h) DL_FAIL
+[175/7031] #97 Domain of Science            ONVpFtiD-fo (141/h, ETA 48.5h) DL_FAIL
+[176/7031] #97 Domain of Science            CkwSeMrOPjc (142/h, ETA 48.2h) DL_FAIL
+[177/7031] #97 Domain of Science            pQgxiQAMTTo (143/h, ETA 48.0h) DL_FAIL
+[178/7031] #97 Domain of Science            gcbMKt079l8 (144/h, ETA 47.7h) DL_FAIL
+[179/7031] #97 Domain of Science            -UlxHPIEVqA (144/h, ETA 47.4h) DL_FAIL
+[180/7031] #97 Domain of Science            YzMAxdSdkzo (145/h, ETA 47.2h) DL_FAIL
+[181/7031] #97 Domain of Science            bL7WvdNdk3Y (146/h, ETA 46.9h) DL_FAIL
+[182/7031] #97 Domain of Science            Wf0uxjWGwPk (147/h, ETA 46.7h) DL_FAIL
+[183/7031] #97 Domain of Science            bD2M7P6dTVA (148/h, ETA 46.4h) DL_FAIL
+[184/7031] #97 Domain of Science            mYcLuWHzfmE (148/h, ETA 46.2h) DL_FAIL
+[185/7031] #97 Domain of Science            sOI4DlWQ_1w (149/h, ETA 46.0h) DL_FAIL
+[186/7031] #97 Domain of Science            oBNZOOuqO6c (150/h, ETA 45.7h) DL_FAIL
+[187/7031] #97 Domain of Science            AR23uxZruhE (151/h, ETA 45.5h) DL_FAIL
+[188/7031] #97 Domain of Science            kD370qyxTyw (151/h, ETA 45.2h) DL_FAIL
+[189/7031] #97 Domain of Science            Htf0XR6W9WQ (152/h, ETA 45.0h) DL_FAIL
+[190/7031] #97 Domain of Science            aYIbC25GNKs (153/h, ETA 44.8h) DL_FAIL
+[191/7031] #97 Domain of Science            crWBFuUW6kI (154/h, ETA 44.5h) DL_FAIL
+[192/7031] #97 Domain of Science            gAFAj3pzvAA (154/h, ETA 44.3h) DL_FAIL
+[193/7031] #97 Domain of Science            d-86tNCSJsg (155/h, ETA 44.1h) DL_FAIL
+[194/7031] #97 Domain of Science            YJ_2ABImQeU (156/h, ETA 43.9h) DL_FAIL
+[195/7031] #97 Domain of Science            754YnbOtmvA (157/h, ETA 43.7h) DL_FAIL
+[196/7031] #98 Up and Atom                  yrJA0J7jciY (157/h, ETA 43.5h) DL_FAIL
+[197/7031] #98 Up and Atom                  Gz6qefUi3Ho (158/h, ETA 43.2h) DL_FAIL
+[198/7031] #98 Up and Atom                  tXLoBs0ipsI (159/h, ETA 43.0h) DL_FAIL
+[199/7031] #98 Up and Atom                  pQWFSj1CXeg (160/h, ETA 42.8h) DL_FAIL
+[200/7031] #98 Up and Atom                  EjZB81jCGj4 (160/h, ETA 42.6h) DL_FAIL
+[201/7031] #98 Up and Atom                  XbIWmVXZOfE (161/h, ETA 42.4h) DL_FAIL
+[202/7031] #98 Up and Atom                  F3QHUvr8d8I (162/h, ETA 42.2h) DL_FAIL
+[203/7031] #98 Up and Atom                  xqDmTBa3nr4 (163/h, ETA 42.0h) DL_FAIL
+[204/7031] #98 Up and Atom                  l2wnqlcOL9A (163/h, ETA 41.8h) DL_FAIL
+[205/7031] #98 Up and Atom                  8YMGb5_CSIk (164/h, ETA 41.6h) DL_FAIL
+[206/7031] #98 Up and Atom                  fvM8ow6zNw4 (165/h, ETA 41.4h) DL_FAIL
+[207/7031] #98 Up and Atom                  A5RxUW7VC-A (166/h, ETA 41.2h) DL_FAIL
+[208/7031] #98 Up and Atom                  Cm1tBF4h8nQ (166/h, ETA 41.0h) DL_FAIL
+[209/7031] #98 Up and Atom                  A1BhOVW8qZU (167/h, ETA 40.8h) DL_FAIL
+[210/7031] #98 Up and Atom                  10rA45pb7dk (168/h, ETA 40.6h) DL_FAIL
+[211/7031] #98 Up and Atom                  sG0obNcgNJM (169/h, ETA 40.5h) DL_FAIL
+[212/7031] #98 Up and Atom                  bUNl_jJMTOw (169/h, ETA 40.3h) DL_FAIL
+[213/7031] #98 Up and Atom                  ctwX--JEzSA (170/h, ETA 40.1h) DL_FAIL
+[214/7031] #98 Up and Atom                  0fiosUv1xcs (171/h, ETA 39.9h) DL_FAIL
+[215/7031] #98 Up and Atom                  tiPdN0wtN0M (172/h, ETA 39.7h) DL_FAIL
+[216/7031] #98 Up and Atom                  ndmwB8F2kxA (172/h, ETA 39.6h) DL_FAIL
+[217/7031] #98 Up and Atom                  AwbZaTjXo-s (173/h, ETA 39.4h) DL_FAIL
+[218/7031] #98 Up and Atom                  LSaSG4n3T6o (174/h, ETA 39.2h) DL_FAIL
+[219/7031] #98 Up and Atom                  XA_0OMJjkxQ (175/h, ETA 39.0h) DL_FAIL
+[220/7031] #98 Up and Atom                  M2ZM5tuhFWs (175/h, ETA 38.9h) DL_FAIL
+[221/7031] #98 Up and Atom                  XY-mbr-aAZE (176/h, ETA 38.7h) DL_FAIL
+[222/7031] #99 MinutePhysics                ZWSvHBG7X0w (177/h, ETA 38.5h) DL_FAIL
+[223/7031] #99 MinutePhysics                lZGyjR6Y9vw (177/h, ETA 38.4h) DL_FAIL
+[224/7031] #99 MinutePhysics                kzfXBenNxeA (178/h, ETA 38.2h) DL_FAIL
+[225/7031] #99 MinutePhysics                xgFKxFX3IwY (179/h, ETA 38.0h) DL_FAIL
+[226/7031] #99 MinutePhysics                _DYZF-piKKU (180/h, ETA 37.9h) DL_FAIL
+[227/7031] #99 MinutePhysics                OEQeSrXy-YA (180/h, ETA 37.7h) DL_FAIL
+[228/7031] #99 MinutePhysics                yY7ZUIbWTyc (181/h, ETA 37.6h) DL_FAIL
+[229/7031] #99 MinutePhysics                pgqkti7yePk (182/h, ETA 37.4h) DL_FAIL
+[230/7031] #99 MinutePhysics                zzWKh8W8dX8 (183/h, ETA 37.2h) DL_FAIL
+[231/7031] #99 MinutePhysics                6c7JoCZmqC4 (183/h, ETA 37.1h) DL_FAIL
+[232/7031] #99 MinutePhysics                WADuXiMZxq4 (184/h, ETA 36.9h) DL_FAIL
+[233/7031] #99 MinutePhysics                tCsl6ZcY9ag (185/h, ETA 36.8h) DL_FAIL
+[234/7031] #99 MinutePhysics                MuvuxHXLzls (186/h, ETA 36.6h) DL_FAIL
+[235/7031] #99 MinutePhysics                WIu38oWkCTc (186/h, ETA 36.5h) DL_FAIL
+[236/7031] #99 MinutePhysics                8LkRMtWfhn4 (187/h, ETA 36.3h) DL_FAIL
+[237/7031] #99 MinutePhysics                5zBg9pH_6bE (188/h, ETA 36.2h) DL_FAIL
+[238/7031] #99 MinutePhysics                r4xGVk_2eT8 (189/h, ETA 36.0h) DL_FAIL
+[239/7031] #99 MinutePhysics                -gWHh1a5FOA (189/h, ETA 35.9h) DL_FAIL
+[240/7031] #99 MinutePhysics                KBcxuM-qXec (190/h, ETA 35.7h) DL_FAIL
+[241/7031] #99 MinutePhysics                c2wafIzuvlI (191/h, ETA 35.6h) DL_FAIL
+[242/7031] #99 MinutePhysics                mqZm6u12RJA (191/h, ETA 35.5h) DL_FAIL
+[243/7031] #99 MinutePhysics                CikPFdZdY4k (192/h, ETA 35.3h) DL_FAIL
+[244/7031] #99 MinutePhysics                ujYYlXP12m4 (193/h, ETA 35.2h) DL_FAIL
+[245/7031] #99 MinutePhysics                vIZyuXl-91U (194/h, ETA 35.0h) DL_FAIL
+[246/7031] #99 MinutePhysics                VkNF0rXuDXw (194/h, ETA 34.9h) DL_FAIL
+[247/7031] #99 MinutePhysics                W7mVQ3kRPv8 (195/h, ETA 34.8h) DL_FAIL
+[248/7031] #100 Arvin Ash                    IWfb9FnCTvI (196/h, ETA 34.6h) DL_FAIL
+[249/7031] #100 Arvin Ash                    2ScfmNkk6A8 (197/h, ETA 34.5h) DL_FAIL
+[250/7031] #100 Arvin Ash                    l5_MtFTQHLI (197/h, ETA 34.4h) DL_FAIL
+[251/7031] #100 Arvin Ash                    kEMl9phV-3Y (198/h, ETA 34.2h) DL_FAIL
+[252/7031] #100 Arvin Ash                    tstiSdmm0N8 (199/h, ETA 34.1h) [5.0MB] OK (1502w, en)
+[253/7031] #100 Arvin Ash                    VD4oHv5kO2Q (198/h, ETA 34.2h) DL_FAIL
+[254/7031] #100 Arvin Ash                    jXVrCne1738 (199/h, ETA 34.1h) DL_FAIL
+[255/7031] #100 Arvin Ash                    ZBDpQ-FqssY (200/h, ETA 34.0h) DL_FAIL
+[256/7031] #100 Arvin Ash                    ux-AWup9aVI (200/h, ETA 33.8h) DL_FAIL
+[257/7031] #100 Arvin Ash                    x_c-C6H4uWI (201/h, ETA 33.7h) DL_FAIL
+[258/7031] #100 Arvin Ash                    rrPZlZ7akrE (202/h, ETA 33.6h) DL_FAIL
+[259/7031] #100 Arvin Ash                    RBhzdzRCD6w (202/h, ETA 33.5h) DL_FAIL
+[260/7031] #100 Arvin Ash                    A159CqlSdtQ (203/h, ETA 33.3h) DL_FAIL
+[261/7031] #100 Arvin Ash                    JgYEegLu2-s (204/h, ETA 33.2h) DL_FAIL
+[262/7031] #100 Arvin Ash                    A_H0BT9ft_M (205/h, ETA 33.1h) DL_FAIL
+[263/7031] #100 Arvin Ash                    wIwCTQZ_xFE (205/h, ETA 33.0h) DL_FAIL
+[264/7031] #100 Arvin Ash                    7q0FlVwp9mU (206/h, ETA 32.9h) DL_FAIL
+[265/7031] #100 Arvin Ash                    cb9pdRjbQRo (207/h, ETA 32.7h) DL_FAIL
+[266/7031] #100 Arvin Ash                    XqOWgn1edY4 (207/h, ETA 32.6h) DL_FAIL
+[267/7031] #100 Arvin Ash                    vzv3HLKASVA (208/h, ETA 32.5h) DL_FAIL
+[268/7031] #100 Arvin Ash                    UxVssUb0MsA (209/h, ETA 32.4h) DL_FAIL
+[269/7031] #100 Arvin Ash                    xoRKzXz_pqk (210/h, ETA 32.3h) DL_FAIL
+[270/7031] #100 Arvin Ash                    KGdJuN3UGGM (210/h, ETA 32.2h) DL_FAIL
+[271/7031] #100 Arvin Ash                    TAGTp4W-TA4 (211/h, ETA 32.0h) DL_FAIL
+[272/7031] #100 Arvin Ash                    1HsRA-vbh-M (212/h, ETA 31.9h) DL_FAIL
+[273/7031] #100 Arvin Ash                    UvbRkvWM8r0 (212/h, ETA 31.8h) DL_FAIL
+[274/7031] #101 Numberphile                  VFoIPlUalRY (213/h, ETA 31.7h) DL_FAIL
+[275/7031] #101 Numberphile                  sJqceEImtew (214/h, ETA 31.6h) DL_FAIL
+[276/7031] #101 Numberphile                  YmZiq00CO60 (215/h, ETA 31.5h) DL_FAIL
+[277/7031] #101 Numberphile                  7O6ej9OSW2w (215/h, ETA 31.4h) DL_FAIL
+[278/7031] #101 Numberphile                  TLV6e41-uxc (216/h, ETA 31.3h) DL_FAIL
+[279/7031] #101 Numberphile                  6cw9QJw6J60 (217/h, ETA 31.2h) DL_FAIL
+[280/7031] #101 Numberphile                  UafhPUOCM1E (217/h, ETA 31.1h) DL_FAIL
+[281/7031] #101 Numberphile                  sgMqrT8ilyU (218/h, ETA 31.0h) DL_FAIL
+[282/7031] #101 Numberphile                  JWtD0O-zSWY (219/h, ETA 30.9h) DL_FAIL
+[283/7031] #101 Numberphile                  6Y3jHHE_hbA (219/h, ETA 30.8h) DL_FAIL
+[284/7031] #101 Numberphile                  S5FTe5KP2Cw (220/h, ETA 30.7h) DL_FAIL
+[285/7031] #101 Numberphile                  qdXiQ6IM-Cs (221/h, ETA 30.6h) DL_FAIL
+[286/7031] #101 Numberphile                  Lw-D8ThqWaE (222/h, ETA 30.5h) DL_FAIL
+[287/7031] #101 Numberphile                  izIKV98Awnw (222/h, ETA 30.3h) DL_FAIL
+[288/7031] #101 Numberphile                  6JrFu0xj0bs (223/h, ETA 30.3h) DL_FAIL
+[289/7031] #101 Numberphile                  OUQVhnuTMVU (224/h, ETA 30.2h) DL_FAIL
+[290/7031] #101 Numberphile                  6QoP80i_i5A (224/h, ETA 30.1h) DL_FAIL
+[291/7031] #101 Numberphile                  dWVCl4p-Zyc (225/h, ETA 30.0h) DL_FAIL
+[292/7031] #101 Numberphile                  rD6e925w4Ys (226/h, ETA 29.9h) DL_FAIL
+[293/7031] #101 Numberphile                  G23Jx0kPCSI (226/h, ETA 29.8h) DL_FAIL
+[294/7031] #101 Numberphile                  57V8Ud7PL8k (227/h, ETA 29.7h) DL_FAIL
+[295/7031] #101 Numberphile                  47qEMTMKRdA (228/h, ETA 29.6h) DL_FAIL
+[296/7031] #101 Numberphile                  eB0-vG6rSM4 (229/h, ETA 29.5h) DL_FAIL
+[297/7031] #101 Numberphile                  XhA5U9pFXuU (229/h, ETA 29.4h) DL_FAIL
+[298/7031] #101 Numberphile                  dgwevhEykWQ (230/h, ETA 29.3h) DL_FAIL
+[299/7031] #101 Numberphile                  1oqqpqaDgfI (231/h, ETA 29.2h) DL_FAIL
+[300/7031] #103 Fireship                     -01ZCTt-CJw (231/h, ETA 29.1h) DL_FAIL
+[301/7031] #103 Fireship                     JSuS-zXMVwE (232/h, ETA 29.0h) DL_FAIL
+[302/7031] #103 Fireship                     vd14EElCRvs (233/h, ETA 28.9h) DL_FAIL
+[303/7031] #103 Fireship                     mBHRPeg8zPU (233/h, ETA 28.8h) DL_FAIL
+[304/7031] #103 Fireship                     o7NYXvYohYk (234/h, ETA 28.7h) DL_FAIL
+[305/7031] #103 Fireship                     wfeiCZK0mNs (235/h, ETA 28.6h) DL_FAIL
+[306/7031] #103 Fireship                     nxwkn9Dt9-I (236/h, ETA 28.6h) DL_FAIL
+[307/7031] #103 Fireship                     nkY_s9HpL9M (236/h, ETA 28.5h) DL_FAIL
+[308/7031] #103 Fireship                     qaB5HF4ax9M (237/h, ETA 28.4h) DL_FAIL
+[309/7031] #103 Fireship                     ReAnFFqvCeA (238/h, ETA 28.3h) DL_FAIL
+[310/7031] #103 Fireship                     Xn-gtHDsaPY (238/h, ETA 28.2h) DL_FAIL
+[311/7031] #103 Fireship                     x36UmiSiEzc (239/h, ETA 28.1h) DL_FAIL
+[312/7031] #103 Fireship                     abbeIUOCzmw (240/h, ETA 28.0h) DL_FAIL
+[313/7031] #103 Fireship                     wzzh7Not8XE (240/h, ETA 27.9h) DL_FAIL
+[314/7031] #103 Fireship                     1fUBWAETmkk (241/h, ETA 27.9h) DL_FAIL
+[315/7031] #103 Fireship                     Ukt2gVz25PQ (242/h, ETA 27.8h) DL_FAIL
+[316/7031] #103 Fireship                     ssYt09bCgUY (242/h, ETA 27.7h) DL_FAIL
+[317/7031] #103 Fireship                     M4TufsFlv_o (243/h, ETA 27.6h) DL_FAIL
+[318/7031] #103 Fireship                     9uW6B9LPntY (244/h, ETA 27.5h) DL_FAIL
+[319/7031] #103 Fireship                     MFsYaRnrcPQ (245/h, ETA 27.4h) DL_FAIL
+[320/7031] #103 Fireship                     EKOU3JWDNLI (245/h, ETA 27.4h) DL_FAIL
+[321/7031] #103 Fireship                     rEvEXQvo-F8 (246/h, ETA 27.3h) DL_FAIL
+[322/7031] #103 Fireship                     QLK9G5zyU-Q (247/h, ETA 27.2h) DL_FAIL
+[323/7031] #103 Fireship                     5JMiNsV7P3Y (247/h, ETA 27.1h) DL_FAIL
+[324/7031] #103 Fireship                     S6wc6yvoZLY (248/h, ETA 27.1h) DL_FAIL
+[325/7031] #104 ThePrimeagen                 taoAAcS5PSw (249/h, ETA 27.0h) DL_FAIL
+[326/7031] #104 ThePrimeagen                 ZH3iKbEiks0 (249/h, ETA 26.9h) DL_FAIL
+[327/7031] #104 ThePrimeagen                 A_XGsAl-LqY (250/h, ETA 26.8h) DL_FAIL
+[328/7031] #104 ThePrimeagen                 GwcFxTuMYmU (251/h, ETA 26.7h) DL_FAIL
+[329/7031] #104 ThePrimeagen                 3f9tbqSIm-E (251/h, ETA 26.7h) DL_FAIL
+[330/7031] #104 ThePrimeagen                 UWb1dw_kbvo (252/h, ETA 26.6h) DL_FAIL
+[331/7031] #104 ThePrimeagen                 x7v6SNIgJpE (253/h, ETA 26.5h) DL_FAIL
+[332/7031] #104 ThePrimeagen                 SCPVDpyApgQ (253/h, ETA 26.4h) DL_FAIL
+[333/7031] #104 ThePrimeagen                 6jPiuOXmxEc (254/h, ETA 26.4h) DL_FAIL
+[334/7031] #104 ThePrimeagen                 o462tY758CY (255/h, ETA 26.3h) DL_FAIL
+[335/7031] #104 ThePrimeagen                 E8cM12jRH7k (256/h, ETA 26.2h) DL_FAIL
+[336/7031] #104 ThePrimeagen                 TB0cXGvuw9A (256/h, ETA 26.1h) DL_FAIL
+[337/7031] #104 ThePrimeagen                 PHvbLmLPX6s (257/h, ETA 26.1h) DL_FAIL
+[338/7031] #104 ThePrimeagen                 gutR_LNoZw0 (258/h, ETA 26.0h) DL_FAIL
+[339/7031] #104 ThePrimeagen                 2gG08VUuwzg (258/h, ETA 25.9h) DL_FAIL
+[340/7031] #104 ThePrimeagen                 FrMRyXtiJkc (259/h, ETA 25.8h) DL_FAIL
+[341/7031] #104 ThePrimeagen                 RDd71IUIgpg (260/h, ETA 25.8h) DL_FAIL
+[342/7031] #104 ThePrimeagen                 Epwlk4B90vk (260/h, ETA 25.7h) DL_FAIL
+[343/7031] #104 ThePrimeagen                 TTjYjSEGHek (261/h, ETA 25.6h) DL_FAIL
+[344/7031] #104 ThePrimeagen                 ReeLQR7KCcM (262/h, ETA 25.6h) DL_FAIL
+[345/7031] #104 ThePrimeagen                 boD0ReK62FI (262/h, ETA 25.5h) DL_FAIL
+[346/7031] #104 ThePrimeagen                 U16RnpV48KQ (263/h, ETA 25.4h) DL_FAIL
+[347/7031] #104 ThePrimeagen                 nMHxdz-N7EU (264/h, ETA 25.3h) DL_FAIL
+[348/7031] #104 ThePrimeagen                 7ap3CkBEpOE (264/h, ETA 25.3h) DL_FAIL
+[349/7031] #104 ThePrimeagen                 JjHFubUPLV0 (265/h, ETA 25.2h) DL_FAIL
+[350/7031] #104 ThePrimeagen                 w7i4amO_zaE (266/h, ETA 25.1h) DL_FAIL
+[351/7031] #105 Computerphile                x_pwyoLsvkw (267/h, ETA 25.1h) DL_FAIL
+[352/7031] #105 Computerphile                _MoRcYLN-7U (267/h, ETA 25.0h) DL_FAIL
+[353/7031] #105 Computerphile                0jmJdvI6f-A (268/h, ETA 24.9h) DL_FAIL
+[354/7031] #105 Computerphile                ZP6Bh3iWklQ (269/h, ETA 24.9h) DL_FAIL
+[355/7031] #105 Computerphile                YDdKiQNw80c (269/h, ETA 24.8h) DL_FAIL
+[356/7031] #105 Computerphile                Ly1v1BRVpz4 (270/h, ETA 24.7h) DL_FAIL
+[357/7031] #105 Computerphile                _x0vbnUKYSU (271/h, ETA 24.7h) DL_FAIL
+[358/7031] #105 Computerphile                AjQNDCYL5Rg (271/h, ETA 24.6h) DL_FAIL
+[359/7031] #105 Computerphile                zuZBkTNrv0g (272/h, ETA 24.5h) DL_FAIL
+[360/7031] #105 Computerphile                ihvbhwGblQg (273/h, ETA 24.5h) DL_FAIL
+[361/7031] #105 Computerphile                C1E500opYHA (273/h, ETA 24.4h) DL_FAIL
+[362/7031] #105 Computerphile                lypcC79k-gg (274/h, ETA 24.3h) DL_FAIL
+[363/7031] #105 Computerphile                bdbhKoypnFI (275/h, ETA 24.3h) DL_FAIL
+[364/7031] #105 Computerphile                rV2h4Tso46Y (275/h, ETA 24.2h) DL_FAIL
+[365/7031] #105 Computerphile                skmqR_VMECQ (276/h, ETA 24.2h) DL_FAIL
+[366/7031] #105 Computerphile                xYfiOnufBSk (277/h, ETA 24.1h) DL_FAIL
+[367/7031] #105 Computerphile                LHsgtcNNM0A (277/h, ETA 24.0h) DL_FAIL
+[368/7031] #105 Computerphile                G6ZHUOSXZDo (278/h, ETA 24.0h) DL_FAIL
+[369/7031] #105 Computerphile                JAcwtV_bFp4 (279/h, ETA 23.9h) DL_FAIL
+[370/7031] #105 Computerphile                JXUOMsFBDXQ (279/h, ETA 23.8h) DL_FAIL
+[371/7031] #105 Computerphile                LHHEOjd0z3s (280/h, ETA 23.8h) DL_FAIL
+[372/7031] #105 Computerphile                vrTrOCQZoQE (281/h, ETA 23.7h) DL_FAIL
+[373/7031] #105 Computerphile                SJE2lFR5utM (281/h, ETA 23.7h) DL_FAIL
+[374/7031] #105 Computerphile                Cn5E9EI8PgQ (282/h, ETA 23.6h) DL_FAIL
+[375/7031] #105 Computerphile                VEyVm6dU55c (283/h, ETA 23.5h) DL_FAIL
+[376/7031] #105 Computerphile                FBv1xk5_G1c (283/h, ETA 23.5h) DL_FAIL
+[377/7031] #106 Ben Eater                    nooPmXxO6K0 (284/h, ETA 23.4h) DL_FAIL
+[378/7031] #106 Ben Eater                    LSMQ3U1Thzw (285/h, ETA 23.4h) DL_FAIL
+[379/7031] #106 Ben Eater                    mhBya3JYteQ (285/h, ETA 23.3h) DL_FAIL
+[380/7031] #106 Ben Eater                    jJi5EAWgyEM (286/h, ETA 23.2h) DL_FAIL
+[381/7031] #106 Ben Eater                    tIOR7kRevPU (287/h, ETA 23.2h) DL_FAIL
+[382/7031] #106 Ben Eater                    aVVKgwr_SfQ (287/h, ETA 23.1h) DL_FAIL
+[383/7031] #106 Ben Eater                    gOwi2p1pzVM (288/h, ETA 23.1h) DL_FAIL
+[384/7031] #106 Ben Eater                    LuKMVXWD7FY (289/h, ETA 23.0h) DL_FAIL
+[385/7031] #106 Ben Eater                    mpIFag8zSWo (289/h, ETA 23.0h) DL_FAIL
+[386/7031] #106 Ben Eater                    XlbPnihCM0E (290/h, ETA 22.9h) DL_FAIL
+[387/7031] #106 Ben Eater                    0q6Ujn_zNH8 (291/h, ETA 22.9h) DL_FAIL
+[388/7031] #106 Ben Eater                    7M8LvMtdcgY (291/h, ETA 22.8h) DL_FAIL
+[389/7031] #106 Ben Eater                    SpG8rgI7Hec (292/h, ETA 22.7h) DL_FAIL
+[390/7031] #106 Ben Eater                    HlLCtjJzHVI (293/h, ETA 22.7h) DL_FAIL
+[391/7031] #106 Ben Eater                    CnA8nG3zYHw (293/h, ETA 22.6h) DL_FAIL
+[392/7031] #106 Ben Eater                    zsERDRM1oy8 (294/h, ETA 22.6h) DL_FAIL
+[393/7031] #106 Ben Eater                    oLYLnb7kpLg (295/h, ETA 22.5h) DL_FAIL
+[394/7031] #106 Ben Eater                    4alV5LzHLE4 (295/h, ETA 22.5h) DL_FAIL
+[395/7031] #106 Ben Eater                    a6EWIh2D1NQ (296/h, ETA 22.4h) DL_FAIL
+[396/7031] #106 Ben Eater                    AHYNxpqKqwo (297/h, ETA 22.4h) DL_FAIL
+[397/7031] #106 Ben Eater                    g_koa00MBLg (297/h, ETA 22.3h) DL_FAIL
+[398/7031] #106 Ben Eater                    -wMU8vmfaYo (298/h, ETA 22.3h) DL_FAIL
+[399/7031] #106 Ben Eater                    MCi7dCBhVpQ (299/h, ETA 22.2h) DL_FAIL
+[400/7031] #106 Ben Eater                    2lPzTU-3ONI (299/h, ETA 22.2h) DL_FAIL
+[401/7031] #106 Ben Eater                    N0O5Uwc3C0o (300/h, ETA 22.1h) DL_FAIL
+[402/7031] #106 Ben Eater                    wdgULBpRoXk (301/h, ETA 22.1h) DL_FAIL
+[403/7031] #107 George Hotz                  erBX3gTZqJI (301/h, ETA 22.0h) DL_FAIL
+[404/7031] #107 George Hotz                  KSwXGmeDja8 (302/h, ETA 22.0h) DL_FAIL
+[405/7031] #107 George Hotz                  VBMUMuZBxw0 (303/h, ETA 21.9h) DL_FAIL
+[406/7031] #107 George Hotz                  awOxxHnsiv0 (303/h, ETA 21.9h) DL_FAIL
+[407/7031] #107 George Hotz                  M96O0Sn1LXA (304/h, ETA 21.8h) DL_FAIL
+[408/7031] #107 George Hotz                  XqX8USYNc84 (305/h, ETA 21.7h) DL_FAIL
+[409/7031] #107 George Hotz                  UYQF2Rklqv4 (305/h, ETA 21.7h) DL_FAIL
+[410/7031] #107 George Hotz                  oLVt9qia5Q0 (306/h, ETA 21.6h) DL_FAIL
+[411/7031] #107 George Hotz                  8YnHFPcAvVg (307/h, ETA 21.6h) DL_FAIL
+[412/7031] #107 George Hotz                  xyzvijWmfKg (307/h, ETA 21.6h) DL_FAIL
+[413/7031] #107 George Hotz                  LE-QlIWMHxM (308/h, ETA 21.5h) DL_FAIL
+[414/7031] #107 George Hotz                  7HvkkYd4v-o (308/h, ETA 21.5h) DL_FAIL
+[415/7031] #107 George Hotz                  l3J2UwQ6iiA (309/h, ETA 21.4h) DL_FAIL
+[416/7031] #107 George Hotz                  l2Fnpfj27Zo (310/h, ETA 21.4h) DL_FAIL
+[417/7031] #107 George Hotz                  werrvv0MVXQ (310/h, ETA 21.3h) DL_FAIL
+[418/7031] #107 George Hotz                  1iiBSN224w4 (311/h, ETA 21.3h) DL_FAIL
+[419/7031] #107 George Hotz                  8renVGmpFds (312/h, ETA 21.2h) DL_FAIL
+[420/7031] #107 George Hotz                  ou4BMU14T7k (312/h, ETA 21.2h) DL_FAIL
+[421/7031] #107 George Hotz                  sSOZuKVtvJ8 (313/h, ETA 21.1h) DL_FAIL
+[422/7031] #107 George Hotz                  ubs8LnB4RH0 (314/h, ETA 21.1h) DL_FAIL
+[423/7031] #107 George Hotz                  m8_x8n2fz9g (314/h, ETA 21.0h) DL_FAIL
+[424/7031] #107 George Hotz                  HkgfPmRoazw (315/h, ETA 21.0h) DL_FAIL
+[425/7031] #107 George Hotz                  zh7qXJr1H_A (316/h, ETA 20.9h) DL_FAIL
+[426/7031] #107 George Hotz                  RMQaEXbh2h4 (316/h, ETA 20.9h) DL_FAIL
+[427/7031] #107 George Hotz                  khaHddjSHj8 (317/h, ETA 20.8h) DL_FAIL
+[428/7031] #107 George Hotz                  XY9MK7veKKM (317/h, ETA 20.8h) DL_FAIL
+[429/7031] #108 NetworkChuck                 G3jvn7n-68Y (318/h, ETA 20.8h) DL_FAIL
+[430/7031] #108 NetworkChuck                 eGSsoSEppNU (319/h, ETA 20.7h) DL_FAIL
+[431/7031] #108 NetworkChuck                 T-HZHO_PQPY (319/h, ETA 20.7h) DL_FAIL
+[432/7031] #108 NetworkChuck                 dbMXi9q78Tk (320/h, ETA 20.6h) DL_FAIL
+[433/7031] #108 NetworkChuck                 ocQ7ZKhHU5Q (321/h, ETA 20.6h) DL_FAIL
+[434/7031] #108 NetworkChuck                 _yfiUQSbdPY (321/h, ETA 20.5h) DL_FAIL
+[435/7031] #108 NetworkChuck                 9LjgqZ2wP0g (322/h, ETA 20.5h) DL_FAIL
+[436/7031] #108 NetworkChuck                 FEDiAHzS0zw (323/h, ETA 20.4h) DL_FAIL
+[437/7031] #108 NetworkChuck                 cT22fTzotYc (323/h, ETA 20.4h) DL_FAIL
+[438/7031] #108 NetworkChuck                 bFgTxr5yst0 (324/h, ETA 20.4h) DL_FAIL
+[439/7031] #108 NetworkChuck                 tbCKWX34_G4 (325/h, ETA 20.3h) DL_FAIL
+[440/7031] #108 NetworkChuck                 s96JeuuwLzc (325/h, ETA 20.3h) DL_FAIL
+[441/7031] #108 NetworkChuck                 o-8amaZBi5M (326/h, ETA 20.2h) DL_FAIL
+[442/7031] #108 NetworkChuck                 pwWBcsxEoLk (327/h, ETA 20.2h) DL_FAIL
+[443/7031] #108 NetworkChuck                 _KzObeom88Y (327/h, ETA 20.1h) DL_FAIL
+[444/7031] #108 NetworkChuck                 qFsj6KL8_nU (328/h, ETA 20.1h) DL_FAIL
+[445/7031] #108 NetworkChuck                 MsQACpcuTkU (328/h, ETA 20.1h) DL_FAIL
+[446/7031] #108 NetworkChuck                 FYL9e_aqZY0 (329/h, ETA 20.0h) DL_FAIL
+[447/7031] #108 NetworkChuck                 budTmdQfXYU (330/h, ETA 20.0h) DL_FAIL
+[448/7031] #108 NetworkChuck                 GuTcle5edjk (330/h, ETA 19.9h) DL_FAIL
+[449/7031] #108 NetworkChuck                 v477fvbj3rk (331/h, ETA 19.9h) DL_FAIL
+[450/7031] #108 NetworkChuck                 Qvx2sVgQ-u0 (332/h, ETA 19.9h) DL_FAIL
+[451/7031] #108 NetworkChuck                 ONgECvZNI3o (332/h, ETA 19.8h) DL_FAIL
+[452/7031] #108 NetworkChuck                 kxYh9RwLUFw (333/h, ETA 19.8h) DL_FAIL
+[453/7031] #108 NetworkChuck                 3BXE0e3QZ4U (333/h, ETA 19.7h) DL_FAIL
+[454/7031] #108 NetworkChuck                 tTQ4vfCdMYw (334/h, ETA 19.7h) DL_FAIL
+[455/7031] #109 Jeff Geerling                GbIoEZZwcgw (335/h, ETA 19.6h) DL_FAIL
+[456/7031] #109 Jeff Geerling                HeX22LnKdFY (335/h, ETA 19.6h) DL_FAIL
+[457/7031] #109 Jeff Geerling                BuKeW45OL-g (336/h, ETA 19.6h) DL_FAIL
+[458/7031] #109 Jeff Geerling                JpPIrmZB828 (337/h, ETA 19.5h) DL_FAIL
+[459/7031] #109 Jeff Geerling                kFnvZ4NWr00 (337/h, ETA 19.5h) DL_FAIL
+[460/7031] #109 Jeff Geerling                7r-cH1tcl_g (338/h, ETA 19.4h) DL_FAIL
+[461/7031] #109 Jeff Geerling                2LayXUxMjPU (339/h, ETA 19.4h) DL_FAIL
+[462/7031] #109 Jeff Geerling                bZJ7A1QoUEI (339/h, ETA 19.4h) DL_FAIL
+[463/7031] #109 Jeff Geerling                yvBbcLCZIhg (340/h, ETA 19.3h) DL_FAIL
+[464/7031] #109 Jeff Geerling                Ef70x0izkFU (340/h, ETA 19.3h) DL_FAIL
+[465/7031] #109 Jeff Geerling                dQ841Pd6YvQ (341/h, ETA 19.3h) DL_FAIL
+[466/7031] #109 Jeff Geerling                jRQaur0LdLE (342/h, ETA 19.2h) DL_FAIL
+[467/7031] #109 Jeff Geerling                3D5q3NWEMZY (342/h, ETA 19.2h) DL_FAIL
+[468/7031] #109 Jeff Geerling                FjRKvKC4ntw (343/h, ETA 19.1h) DL_FAIL
+[469/7031] #109 Jeff Geerling                ZRB7pjRVVkI (344/h, ETA 19.1h) DL_FAIL
+[470/7031] #109 Jeff Geerling                8X2Y62JGDCo (344/h, ETA 19.1h) DL_FAIL
+[471/7031] #109 Jeff Geerling                x4_RsUxRjKU (345/h, ETA 19.0h) DL_FAIL
+[472/7031] #109 Jeff Geerling                Q6FIcyhjoVo (345/h, ETA 19.0h) DL_FAIL
+[473/7031] #109 Jeff Geerling                OkFfTK8S00c (346/h, ETA 19.0h) DL_FAIL
+[474/7031] #109 Jeff Geerling                9rbz0akyLyQ (347/h, ETA 18.9h) DL_FAIL
+[475/7031] #109 Jeff Geerling                SPTYjF8qH0A (347/h, ETA 18.9h) DL_FAIL
+[476/7031] #109 Jeff Geerling                r21lvaw40nY (348/h, ETA 18.8h) DL_FAIL
+[477/7031] #109 Jeff Geerling                ewDJpxQEGo4 (349/h, ETA 18.8h) DL_FAIL
+[478/7031] #109 Jeff Geerling                WXfd0rOOtkg (349/h, ETA 18.8h) DL_FAIL
+[479/7031] #109 Jeff Geerling                Vz3pD3_CDUE (350/h, ETA 18.7h) DL_FAIL
+[480/7031] #109 Jeff Geerling                hF0NKvmQmVA (351/h, ETA 18.7h) DL_FAIL
+[481/7031] #111 LiveOverflow                 x4CUAuwoZVk (351/h, ETA 18.7h) DL_FAIL
+[482/7031] #111 LiveOverflow                 NT1VCmJF3mU (352/h, ETA 18.6h) DL_FAIL
+[483/7031] #111 LiveOverflow                 uXW_1hepfT4 (352/h, ETA 18.6h) DL_FAIL
+[484/7031] #111 LiveOverflow                 YQEq5s4SRxY (353/h, ETA 18.5h) DL_FAIL
+[485/7031] #111 LiveOverflow                 BOLN_B0qnZk (354/h, ETA 18.5h) DL_FAIL
+[486/7031] #111 LiveOverflow                 f0C3RH7baEw (354/h, ETA 18.5h) DL_FAIL
+[487/7031] #111 LiveOverflow                 wVknDjTgQoo (355/h, ETA 18.4h) DL_FAIL
+[488/7031] #111 LiveOverflow                 SyTy1uZgx8E (356/h, ETA 18.4h) DL_FAIL
+[489/7031] #111 LiveOverflow                 _ACCK0AUQ8Q (356/h, ETA 18.4h) DL_FAIL
+[490/7031] #111 LiveOverflow                 fPt6fJDjKKM (357/h, ETA 18.3h) DL_FAIL
+[491/7031] #111 LiveOverflow                 bhQ6FF3fCdA (357/h, ETA 18.3h) DL_FAIL
+[492/7031] #111 LiveOverflow                 PJLWlmp8CDM (358/h, ETA 18.3h) DL_FAIL
+[493/7031] #111 LiveOverflow                 lAyhKaclsPM (359/h, ETA 18.2h) DL_FAIL
+[494/7031] #111 LiveOverflow                 LxUAnZY_08o (359/h, ETA 18.2h) DL_FAIL
+[495/7031] #111 LiveOverflow                 lr1KuL8OmJY (360/h, ETA 18.2h) DL_FAIL
+[496/7031] #111 LiveOverflow                 3zShGLEqDn8 (360/h, ETA 18.1h) DL_FAIL
+[497/7031] #111 LiveOverflow                 9EY_9KtxyPg (361/h, ETA 18.1h) DL_FAIL
+[498/7031] #111 LiveOverflow                 neWc0H1k2Lc (362/h, ETA 18.1h) DL_FAIL
+[499/7031] #111 LiveOverflow                 -X03UKo_obE (362/h, ETA 18.0h) DL_FAIL
+[500/7031] #111 LiveOverflow                 duLJUpptSik (363/h, ETA 18.0h) DL_FAIL
+[501/7031] #111 LiveOverflow                 nxlm7pIvMdg (363/h, ETA 18.0h) DL_FAIL
+[502/7031] #111 LiveOverflow                 HUtkW2gjC8Q (364/h, ETA 17.9h) DL_FAIL
+[503/7031] #111 LiveOverflow                 uOvizKc1WZY (365/h, ETA 17.9h) DL_FAIL
+[504/7031] #111 LiveOverflow                 lLjgskJgaRU (365/h, ETA 17.9h) DL_FAIL
+[505/7031] #111 LiveOverflow                 2vAr9K5chII (366/h, ETA 17.8h) DL_FAIL
+[506/7031] #111 LiveOverflow                 nDiXoeeAMWM (367/h, ETA 17.8h) DL_FAIL
+[507/7031] #112 ArjanCodes                   KDnP_zbp-9Q (367/h, ETA 17.8h) DL_FAIL
+[508/7031] #112 ArjanCodes                   U4sPMwAiXco (368/h, ETA 17.7h) DL_FAIL
+[509/7031] #112 ArjanCodes                   7SUzTOkUVLY (368/h, ETA 17.7h) DL_FAIL
+[510/7031] #112 ArjanCodes                   CWYwz3iV1g0 (369/h, ETA 17.7h) DL_FAIL
+[511/7031] #112 ArjanCodes                   FXwBWS4qDAA (370/h, ETA 17.6h) DL_FAIL
+[512/7031] #112 ArjanCodes                   Y9_h7ehjhO4 (370/h, ETA 17.6h) DL_FAIL
+[513/7031] #112 ArjanCodes                   wHLZ_uTrCYA (371/h, ETA 17.6h) DL_FAIL
+[514/7031] #112 ArjanCodes                   Spp-uzXzzdE (371/h, ETA 17.5h) DL_FAIL
+[515/7031] #112 ArjanCodes                   f1Nb_JV_s8Y (372/h, ETA 17.5h) DL_FAIL
+[516/7031] #112 ArjanCodes                   cXl-AUXHHZY (373/h, ETA 17.5h) DL_FAIL
+[517/7031] #112 ArjanCodes                   KqfMiuL3cx4 (373/h, ETA 17.5h) DL_FAIL
+[518/7031] #112 ArjanCodes                   YTsJQ4ixq88 (374/h, ETA 17.4h) DL_FAIL
+[519/7031] #112 ArjanCodes                   8Pi6vGRlp1c (374/h, ETA 17.4h) DL_FAIL
+[520/7031] #112 ArjanCodes                   b6RnBKvQ40o (375/h, ETA 17.4h) DL_FAIL
+[521/7031] #112 ArjanCodes                   GMBiCMsEsq8 (376/h, ETA 17.3h) DL_FAIL
+[522/7031] #112 ArjanCodes                   43vH_lnM7x0 (376/h, ETA 17.3h) DL_FAIL
+[523/7031] #112 ArjanCodes                   mH7e7fs9gaE (377/h, ETA 17.3h) DL_FAIL
+[524/7031] #112 ArjanCodes                   ENnDxEOAKKc (377/h, ETA 17.2h) DL_FAIL
+[525/7031] #112 ArjanCodes                   Xhzn1eAxoXk (378/h, ETA 17.2h) DL_FAIL
+[526/7031] #112 ArjanCodes                   t-LC1dWLpNs (379/h, ETA 17.2h) DL_FAIL
+[527/7031] #112 ArjanCodes                   8_Pf4y5yqCE (379/h, ETA 17.2h) DL_FAIL
+[528/7031] #112 ArjanCodes                   bsU7AFjh4m8 (380/h, ETA 17.1h) DL_FAIL
+[529/7031] #112 ArjanCodes                   UG5jbLReDiM (380/h, ETA 17.1h) DL_FAIL
+[530/7031] #112 ArjanCodes                   N_ypJwV8Q8I (381/h, ETA 17.1h) DL_FAIL
+[531/7031] #112 ArjanCodes                   g7EGMWvJ1fI (382/h, ETA 17.0h) DL_FAIL
+[532/7031] #112 ArjanCodes                   S_shhw4VV68 (382/h, ETA 17.0h) DL_FAIL
+[533/7031] #113 Sebastian Lague              rRnOtKlg4jA (383/h, ETA 17.0h) DL_FAIL
+[534/7031] #113 Sebastian Lague              08mmKNLQVHU (383/h, ETA 16.9h) DL_FAIL
+[535/7031] #113 Sebastian Lague              8BCdKJ4ObZ4 (384/h, ETA 16.9h) DL_FAIL
+[536/7031] #113 Sebastian Lague              Q78wvrQ9xsU (385/h, ETA 16.9h) DL_FAIL
+[537/7031] #113 Sebastian Lague              zElxgxOeugY (385/h, ETA 16.9h) DL_FAIL
+[538/7031] #113 Sebastian Lague              wA1KVZ1eOuA (386/h, ETA 16.8h) DL_FAIL
+[539/7031] #113 Sebastian Lague              yyJ-hdISgnw (387/h, ETA 16.8h) DL_FAIL
+[540/7031] #113 Sebastian Lague              HGkuRp5HfH8 (387/h, ETA 16.8h) DL_FAIL
+[541/7031] #113 Sebastian Lague              8nIB7e_eds4 (388/h, ETA 16.7h) DL_FAIL
+[542/7031] #113 Sebastian Lague              kOkfC5fLfgE (388/h, ETA 16.7h) DL_FAIL
+[543/7031] #113 Sebastian Lague              iA6wRgwl7k0 (389/h, ETA 16.7h) DL_FAIL
+[544/7031] #113 Sebastian Lague              C1H4zIiCOaI (390/h, ETA 16.7h) DL_FAIL
+[545/7031] #113 Sebastian Lague              SO83KQuuZvg (390/h, ETA 16.6h) DL_FAIL
+[546/7031] #113 Sebastian Lague              2Ni13dnAbSA (391/h, ETA 16.6h) DL_FAIL
+[547/7031] #113 Sebastian Lague              Ne40a5LkK6A (391/h, ETA 16.6h) DL_FAIL
+[548/7031] #113 Sebastian Lague              rSKMYc1CQHE (392/h, ETA 16.5h) DL_FAIL
+[549/7031] #113 Sebastian Lague              _vqlIPDR2TU (392/h, ETA 16.5h) DL_FAIL
+[550/7031] #113 Sebastian Lague              kIMHRQWorkE (393/h, ETA 16.5h) DL_FAIL
+[551/7031] #113 Sebastian Lague              Qz0KTGYJtUk (394/h, ETA 16.5h) DL_FAIL
+[552/7031] #113 Sebastian Lague              _3cNcmli6xQ (394/h, ETA 16.4h) DL_FAIL
+[553/7031] #113 Sebastian Lague              hEDQpqhY2MA (395/h, ETA 16.4h) DL_FAIL
+[554/7031] #113 Sebastian Lague              hfMk-kjRv4c (396/h, ETA 16.4h) DL_FAIL
+[555/7031] #113 Sebastian Lague              pNp4ug5F6To (396/h, ETA 16.4h) DL_FAIL
+[556/7031] #113 Sebastian Lague              UXD97l7ZT0w (397/h, ETA 16.3h) DL_FAIL
+[557/7031] #113 Sebastian Lague              sLqXFF8mlEU (397/h, ETA 16.3h) DL_FAIL
+[558/7031] #113 Sebastian Lague              PGk0rnyTa1U (398/h, ETA 16.3h) DL_FAIL
+[559/7031] #114 Two Minute Papers            ZQAz_HrUq68 (399/h, ETA 16.2h) DL_FAIL
+[560/7031] #114 Two Minute Papers            7YVrb3-ABYE (399/h, ETA 16.2h) DL_FAIL
+[561/7031] #114 Two Minute Papers            Io_GqmbNBbY (400/h, ETA 16.2h) DL_FAIL
+[562/7031] #114 Two Minute Papers            XL5bq8DRn64 (400/h, ETA 16.2h) DL_FAIL
+[563/7031] #114 Two Minute Papers            DmtoVnTkQnM (401/h, ETA 16.1h) DL_FAIL
+[564/7031] #114 Two Minute Papers            RDQ4vHAPNls (402/h, ETA 16.1h) DL_FAIL
+[565/7031] #114 Two Minute Papers            s9SnEE7JXU4 (402/h, ETA 16.1h) DL_FAIL
+[566/7031] #114 Two Minute Papers            qF_tfIieeE0 (403/h, ETA 16.1h) DL_FAIL
+[567/7031] #114 Two Minute Papers            ssbHkYB0jYM (403/h, ETA 16.0h) DL_FAIL
+[568/7031] #114 Two Minute Papers            j-B8ymGWlIE (404/h, ETA 16.0h) DL_FAIL
+[569/7031] #114 Two Minute Papers            B6GJjvR6txg (404/h, ETA 16.0h) DL_FAIL
+[570/7031] #114 Two Minute Papers            WNsSzX0L4Es (405/h, ETA 16.0h) DL_FAIL
+[571/7031] #114 Two Minute Papers            eGpIXJ0C4ds (406/h, ETA 15.9h) DL_FAIL
+[572/7031] #114 Two Minute Papers            vsK4Gb7Eys8 (406/h, ETA 15.9h) DL_FAIL
+[573/7031] #114 Two Minute Papers            RaNay3x0Fmk (407/h, ETA 15.9h) DL_FAIL
+[574/7031] #114 Two Minute Papers            fFL7la73RO4 (407/h, ETA 15.8h) DL_FAIL
+[575/7031] #114 Two Minute Papers            4RtUJkjrKMI (408/h, ETA 15.8h) DL_FAIL
+[576/7031] #114 Two Minute Papers            opghSX24clM (409/h, ETA 15.8h) DL_FAIL
+[577/7031] #114 Two Minute Papers            9Mcv9vpGW5Q (409/h, ETA 15.8h) DL_FAIL
+[578/7031] #114 Two Minute Papers            O7q52WxYZN8 (410/h, ETA 15.7h) DL_FAIL
+[579/7031] #114 Two Minute Papers            Wibbnn3hV4U (410/h, ETA 15.7h) DL_FAIL
+[580/7031] #114 Two Minute Papers            2c8o65JiPQY (411/h, ETA 15.7h) DL_FAIL
+[581/7031] #114 Two Minute Papers            SWGBN1KvG6c (412/h, ETA 15.7h) DL_FAIL
+[582/7031] #114 Two Minute Papers            wp8d24NkOjI (412/h, ETA 15.6h) DL_FAIL
+[583/7031] #114 Two Minute Papers            _uo7CXd33Uc (413/h, ETA 15.6h) DL_FAIL
+[584/7031] #114 Two Minute Papers            oToAGiozQF8 (413/h, ETA 15.6h) DL_FAIL
+[585/7031] #115 Practical Engineering        UF63eFJmbrQ (414/h, ETA 15.6h) DL_FAIL
+[586/7031] #115 Practical Engineering        PhW2BjFQCZM (415/h, ETA 15.6h) DL_FAIL
+[587/7031] #115 Practical Engineering        qt2j2gn0yWc (415/h, ETA 15.5h) DL_FAIL
+[588/7031] #115 Practical Engineering        Ssw5bdx1HKw (416/h, ETA 15.5h) DL_FAIL
+[589/7031] #115 Practical Engineering        xPksDeGoh4E (416/h, ETA 15.5h) DL_FAIL
+[590/7031] #115 Practical Engineering        ZJqY1WLX4zA (417/h, ETA 15.5h) DL_FAIL
+[591/7031] #115 Practical Engineering        7OHCOFFUamQ (417/h, ETA 15.4h) DL_FAIL
+[592/7031] #115 Practical Engineering        lnYA0_AzhsM (418/h, ETA 15.4h) DL_FAIL
+[593/7031] #115 Practical Engineering        -2HSFJOzQQ8 (419/h, ETA 15.4h) DL_FAIL
+[594/7031] #115 Practical Engineering        sq6ZOVbKQhY (419/h, ETA 15.4h) [4.1MB] OK (1629w, en)
+[595/7031] #115 Practical Engineering        f2uad6LT9fo (417/h, ETA 15.4h) DL_FAIL
+[596/7031] #115 Practical Engineering        7mdvEtmo1pM (417/h, ETA 15.4h) DL_FAIL
+[597/7031] #115 Practical Engineering        3nDdLiXS5wk (418/h, ETA 15.4h) DL_FAIL
+[598/7031] #115 Practical Engineering        3FfMzWa6LKg (418/h, ETA 15.4h) DL_FAIL
+[599/7031] #115 Practical Engineering        2nX7Y8ZwShg (419/h, ETA 15.4h) DL_FAIL
+[600/7031] #115 Practical Engineering        QOnQORqkHcM (420/h, ETA 15.3h) DL_FAIL
+[601/7031] #115 Practical Engineering        _R0xPffklXQ (420/h, ETA 15.3h) DL_FAIL
+[602/7031] #115 Practical Engineering        nol0_4qxzb0 (421/h, ETA 15.3h) DL_FAIL
+[603/7031] #115 Practical Engineering        fudWbvE8ZKw (421/h, ETA 15.3h) DL_FAIL
+[604/7031] #115 Practical Engineering        WhCNpX3s-D8 (422/h, ETA 15.2h) DL_FAIL
+[605/7031] #115 Practical Engineering        RnYdt4T76mk (423/h, ETA 15.2h) DL_FAIL
+[606/7031] #115 Practical Engineering        jPJCYrxqyT8 (423/h, ETA 15.2h) DL_FAIL
+[607/7031] #115 Practical Engineering        RZg1zOKm5wk (424/h, ETA 15.2h) DL_FAIL
+[608/7031] #115 Practical Engineering        -D5iBAuXxeQ (424/h, ETA 15.1h) DL_FAIL
+[609/7031] #115 Practical Engineering        0kQXOTcEB_E (425/h, ETA 15.1h) DL_FAIL
+[610/7031] #115 Practical Engineering        pL5NCUuOkTM (425/h, ETA 15.1h) DL_FAIL
+[611/7031] #116 Real Engineering             wKP6tYA6ds4 (426/h, ETA 15.1h) DL_FAIL
+[612/7031] #116 Real Engineering             n7Q1vubN4w8 (427/h, ETA 15.1h) DL_FAIL
+[613/7031] #116 Real Engineering             SMJMYyszflM (427/h, ETA 15.0h) DL_FAIL
+[614/7031] #116 Real Engineering             j0ZZfIz9R1I (428/h, ETA 15.0h) DL_FAIL
+[615/7031] #116 Real Engineering             Vf_pS0XSTyo (428/h, ETA 15.0h) DL_FAIL
+[616/7031] #116 Real Engineering             8VLovd9bS5U (429/h, ETA 15.0h) DL_FAIL
+[617/7031] #116 Real Engineering             EVwlTsa9oMM (429/h, ETA 14.9h) DL_FAIL
+[618/7031] #116 Real Engineering             PB_8dGKh9JI (430/h, ETA 14.9h) DL_FAIL
+[619/7031] #116 Real Engineering             h3sbDTl2MSU (431/h, ETA 14.9h) DL_FAIL
+[620/7031] #116 Real Engineering             Gb4UBK53sGQ (431/h, ETA 14.9h) DL_FAIL
+[621/7031] #116 Real Engineering             z_PlyQAWT4g (431/h, ETA 14.9h) DL_FAIL
+[622/7031] #116 Real Engineering             8jQzwxS8vxA (432/h, ETA 14.8h) DL_FAIL
+[623/7031] #116 Real Engineering             jiWtrVL4tmA (432/h, ETA 14.8h) DL_FAIL
+[624/7031] #116 Real Engineering             geIhl_VE0IA (433/h, ETA 14.8h) DL_FAIL
+[625/7031] #116 Real Engineering             b_EoZzE7KJ0 (434/h, ETA 14.8h) DL_FAIL
+[626/7031] #116 Real Engineering             4BmRrbxQCos (434/h, ETA 14.8h) DL_FAIL
+[627/7031] #116 Real Engineering             w4FCkbPykdQ (435/h, ETA 14.7h) DL_FAIL
+[628/7031] #116 Real Engineering             R2tgByRCLzM (435/h, ETA 14.7h) DL_FAIL
+[629/7031] #116 Real Engineering             IC32zBGdJok (436/h, ETA 14.7h) DL_FAIL
+[630/7031] #116 Real Engineering             SzKkBOUvsAY (436/h, ETA 14.7h) DL_FAIL
+[631/7031] #116 Real Engineering             Dsk0aIRrHb4 (437/h, ETA 14.6h) DL_FAIL
+[632/7031] #116 Real Engineering             QsYYNk-EeJA (438/h, ETA 14.6h) DL_FAIL
+[633/7031] #116 Real Engineering             tCDY1k1JGqw (438/h, ETA 14.6h) DL_FAIL
+[634/7031] #116 Real Engineering             1zjcnnx7igc (439/h, ETA 14.6h) DL_FAIL
+[635/7031] #116 Real Engineering             I1ixCSAc3bc (439/h, ETA 14.6h) DL_FAIL
+[636/7031] #117 Stuff Made Here              JQB8aNKyeao (440/h, ETA 14.5h) DL_FAIL
+[637/7031] #117 Stuff Made Here              vJ43DjwLPGA (441/h, ETA 14.5h) DL_FAIL
+[638/7031] #117 Stuff Made Here              dXIkUkwzTQU (441/h, ETA 14.5h) DL_FAIL
+[639/7031] #117 Stuff Made Here              BO_YGcSzJdA (442/h, ETA 14.5h) DL_FAIL
+[640/7031] #117 Stuff Made Here              aXfTgCCsRSg (442/h, ETA 14.5h) DL_FAIL
+[641/7031] #117 Stuff Made Here              YqywL9PkM2s (443/h, ETA 14.4h) DL_FAIL
+[642/7031] #117 Stuff Made Here              t9rClZrbnrQ (443/h, ETA 14.4h) DL_FAIL
+[643/7031] #117 Stuff Made Here              9SRFbFreCkE (444/h, ETA 14.4h) DL_FAIL
+[644/7031] #117 Stuff Made Here              wh8ij9NnLIQ (445/h, ETA 14.4h) DL_FAIL
+[645/7031] #117 Stuff Made Here              cQO2XTP7QDw (445/h, ETA 14.3h) DL_FAIL
+[646/7031] #117 Stuff Made Here              WsPHBD5NsS0 (446/h, ETA 14.3h) DL_FAIL
+[647/7031] #117 Stuff Made Here              Gu_1S77XkiM (446/h, ETA 14.3h) DL_FAIL
+[648/7031] #117 Stuff Made Here              xHWXZyfhQas (447/h, ETA 14.3h) DL_FAIL
+[649/7031] #117 Stuff Made Here              gnwIiw3Rz3I (447/h, ETA 14.3h) DL_FAIL
+[650/7031] #117 Stuff Made Here              Q1RaC7YJ7sk (448/h, ETA 14.2h) DL_FAIL
+[651/7031] #117 Stuff Made Here              osUTMnDFV30 (449/h, ETA 14.2h) DL_FAIL
+[652/7031] #117 Stuff Made Here              1MkrNVic7pw (449/h, ETA 14.2h) DL_FAIL
+[653/7031] #117 Stuff Made Here              SjJulcvTA7Y (450/h, ETA 14.2h) DL_FAIL
+[654/7031] #117 Stuff Made Here              2A2NY29iQdI (450/h, ETA 14.2h) DL_FAIL
+[655/7031] #117 Stuff Made Here              ix68oRfI5Gw (451/h, ETA 14.1h) DL_FAIL
+[656/7031] #117 Stuff Made Here              vsTTXYxydOE (451/h, ETA 14.1h) DL_FAIL
+[657/7031] #117 Stuff Made Here              WQ8Xgp8ALFo (452/h, ETA 14.1h) DL_FAIL
+[658/7031] #117 Stuff Made Here              _7vPNcnYWQ4 (453/h, ETA 14.1h) DL_FAIL
+[659/7031] #117 Stuff Made Here              X9zXcnSXNF0 (453/h, ETA 14.1h) DL_FAIL
+[660/7031] #117 Stuff Made Here              Puo6Vgcbxps (454/h, ETA 14.0h) DL_FAIL
+[661/7031] #117 Stuff Made Here              myO8fxhDRW0 (454/h, ETA 14.0h) DL_FAIL
+[662/7031] #118 Mark Rober                   Xg1ro-zG7AM (455/h, ETA 14.0h) DL_FAIL
+[663/7031] #118 Mark Rober                   jjpjjcMeujM (455/h, ETA 14.0h) DL_FAIL
+[664/7031] #118 Mark Rober                   pLtHyLlLt4Y (456/h, ETA 14.0h) DL_FAIL
+[665/7031] #118 Mark Rober                   0XgcOz95hTs (456/h, ETA 13.9h) DL_FAIL
+[666/7031] #118 Mark Rober                   q2C1JpQi5G4 (457/h, ETA 13.9h) DL_FAIL
+[667/7031] #118 Mark Rober                   KRhofr57Na8 (458/h, ETA 13.9h) DL_FAIL
+[668/7031] #118 Mark Rober                   9IiYOTzJ2uw (458/h, ETA 13.9h) DL_FAIL
+[669/7031] #118 Mark Rober                   qr1AvisQcV8 (459/h, ETA 13.9h) DL_FAIL
+[670/7031] #118 Mark Rober                   g6tlNyr5sl8 (459/h, ETA 13.9h) DL_FAIL
+[671/7031] #118 Mark Rober                   IQJL3htsDyQ (460/h, ETA 13.8h) DL_FAIL
+[672/7031] #118 Mark Rober                   tpg3VvoIVfA (460/h, ETA 13.8h) DL_FAIL
+[673/7031] #118 Mark Rober                   6KcV1C1Ui5s (461/h, ETA 13.8h) DL_FAIL
+[674/7031] #118 Mark Rober                   h5Zwg3Ag-bE (461/h, ETA 13.8h) DL_FAIL
+[675/7031] #118 Mark Rober                   Twn_4AW0M6U (462/h, ETA 13.8h) DL_FAIL
+[676/7031] #118 Mark Rober                   P4gNS0Iiu0Q (463/h, ETA 13.7h) DL_FAIL
+[677/7031] #118 Mark Rober                   Sqr-PdVYhY4 (463/h, ETA 13.7h) DL_FAIL
+[678/7031] #118 Mark Rober                   25N0R1KnXVs (464/h, ETA 13.7h) DL_FAIL
+[679/7031] #118 Mark Rober                   SrGENEXocJU (464/h, ETA 13.7h) DL_FAIL
+[680/7031] #118 Mark Rober                   QpwJEYGCngI (465/h, ETA 13.7h) DL_FAIL
+[681/7031] #118 Mark Rober                   M7-h3FO-KKo (465/h, ETA 13.7h) DL_FAIL
+[682/7031] #118 Mark Rober                   iWWWyG5ZwG8 (466/h, ETA 13.6h) DL_FAIL
+[683/7031] #118 Mark Rober                   7__r4FVj-EI (466/h, ETA 13.6h) DL_FAIL
+[684/7031] #118 Mark Rober                   JdFRjsEZrmU (467/h, ETA 13.6h) DL_FAIL
+[685/7031] #118 Mark Rober                   Zb01RStdzEs (467/h, ETA 13.6h) DL_FAIL
+[686/7031] #118 Mark Rober                   9c2NqlUWZfo (468/h, ETA 13.6h) DL_FAIL
+[687/7031] #118 Mark Rober                   md75n8cyenA (469/h, ETA 13.5h) DL_FAIL
+[688/7031] #119 Technology Connections       mmCfOazZCNQ (469/h, ETA 13.5h) DL_FAIL
+[689/7031] #119 Technology Connections       KtQ9nt2ZeGM (470/h, ETA 13.5h) DL_FAIL
+[690/7031] #119 Technology Connections       tCVsyY5TRQI (470/h, ETA 13.5h) DL_FAIL
+[691/7031] #119 Technology Connections       oy7BrKNmZAQ (471/h, ETA 13.5h) DL_FAIL
+[692/7031] #119 Technology Connections       INZybkX8tLI (471/h, ETA 13.5h) DL_FAIL
+[693/7031] #119 Technology Connections       8I4Jc-WLsrs (472/h, ETA 13.4h) DL_FAIL
+[694/7031] #119 Technology Connections       DAX2_mPr9W8 (472/h, ETA 13.4h) DL_FAIL
+[695/7031] #119 Technology Connections       ms8uu0zeU88 (473/h, ETA 13.4h) DL_FAIL
+[696/7031] #119 Technology Connections       Aytf6ARcs8s (474/h, ETA 13.4h) DL_FAIL
+[697/7031] #119 Technology Connections       JzClLWL-Eys (474/h, ETA 13.4h) DL_FAIL
+[698/7031] #119 Technology Connections       HFYWHeBhYbM (475/h, ETA 13.3h) DL_FAIL
+[699/7031] #119 Technology Connections       SaKKzZRrPIg (475/h, ETA 13.3h) DL_FAIL
+[700/7031] #119 Technology Connections       W96a8svXo14 (476/h, ETA 13.3h) DL_FAIL
+[701/7031] #119 Technology Connections       OSCOQ6vnLwU (476/h, ETA 13.3h) DL_FAIL
+[702/7031] #119 Technology Connections       j_QfX0SYCE8 (477/h, ETA 13.3h) DL_FAIL
+[703/7031] #119 Technology Connections       OOK5xkFijPc (477/h, ETA 13.3h) DL_FAIL
+[704/7031] #119 Technology Connections       QEJpZjg8GuA (478/h, ETA 13.2h) DL_FAIL
+[705/7031] #119 Technology Connections       HnMuNCl7tZ8 (478/h, ETA 13.2h) DL_FAIL
+[706/7031] #119 Technology Connections       kTctVqjhDEw (479/h, ETA 13.2h) DL_FAIL
+[707/7031] #119 Technology Connections       qSFNufruSKw (479/h, ETA 13.2h) DL_FAIL
+[708/7031] #119 Technology Connections       6Ea6jf-9Czo (480/h, ETA 13.2h) DL_FAIL
+[709/7031] #119 Technology Connections       dHskIsOYZ8s (481/h, ETA 13.2h) DL_FAIL
+[710/7031] #119 Technology Connections       6h9JhW-m35o (481/h, ETA 13.1h) DL_FAIL
+[711/7031] #119 Technology Connections       Namf-Ddo_Xo (482/h, ETA 13.1h) DL_FAIL
+[712/7031] #119 Technology Connections       WkIR23emsWY (482/h, ETA 13.1h) DL_FAIL
+[713/7031] #119 Technology Connections       zsA3X40nz9w (483/h, ETA 13.1h) DL_FAIL
+[714/7031] #120 Engineering Explained        FwuKXRod5hk (483/h, ETA 13.1h) DL_FAIL
+[715/7031] #120 Engineering Explained        uSu03pRilFo (484/h, ETA 13.1h) DL_FAIL
+[716/7031] #120 Engineering Explained        Z9cFzt1RnBQ (484/h, ETA 13.0h) DL_FAIL
+[717/7031] #120 Engineering Explained        dxmxIsoV_Xo (485/h, ETA 13.0h) DL_FAIL
+[718/7031] #120 Engineering Explained        uCYtlijS9Xc (486/h, ETA 13.0h) DL_FAIL
+[719/7031] #120 Engineering Explained        kJtHrawFdoI (486/h, ETA 13.0h) DL_FAIL
+[720/7031] #120 Engineering Explained        1WiQAOmESH0 (487/h, ETA 13.0h) DL_FAIL
+[721/7031] #120 Engineering Explained        uA-kglFSq5I (487/h, ETA 13.0h) DL_FAIL
+[722/7031] #120 Engineering Explained        R_NO0kApAqc (488/h, ETA 12.9h) DL_FAIL
+[723/7031] #120 Engineering Explained        TynF7R7q6c8 (488/h, ETA 12.9h) DL_FAIL
+[724/7031] #120 Engineering Explained        z6q7du1q2U8 (489/h, ETA 12.9h) DL_FAIL
+[725/7031] #120 Engineering Explained        hZ83HJaCeOI (489/h, ETA 12.9h) DL_FAIL
+[726/7031] #120 Engineering Explained        bV5IHOrurKc (490/h, ETA 12.9h) DL_FAIL
+[727/7031] #120 Engineering Explained        InTrdPkwVlQ (490/h, ETA 12.9h) DL_FAIL
+[728/7031] #120 Engineering Explained        QFLrDaV6nkE (491/h, ETA 12.8h) DL_FAIL
+[729/7031] #120 Engineering Explained        l4gmHZ9c6g4 (491/h, ETA 12.8h) DL_FAIL
+[730/7031] #120 Engineering Explained        w4jo5WOy9Fk (492/h, ETA 12.8h) DL_FAIL
+[731/7031] #120 Engineering Explained        uNQgKA65jLk (492/h, ETA 12.8h) DL_FAIL
+[732/7031] #120 Engineering Explained        i0VoEhW2I-E (493/h, ETA 12.8h) DL_FAIL
+[733/7031] #120 Engineering Explained        reWvOE0JikU (494/h, ETA 12.8h) DL_FAIL
+[734/7031] #120 Engineering Explained        hF59xMCMyKI (494/h, ETA 12.7h) DL_FAIL
+[735/7031] #120 Engineering Explained        SsnYvAU3kfA (495/h, ETA 12.7h) DL_FAIL
+[736/7031] #120 Engineering Explained        OMghLAsR4U8 (495/h, ETA 12.7h) DL_FAIL
+[737/7031] #120 Engineering Explained        7hLcO1WkNTg (496/h, ETA 12.7h) DL_FAIL
+[738/7031] #120 Engineering Explained        AQWKt4CRHrQ (496/h, ETA 12.7h) DL_FAIL
+[739/7031] #120 Engineering Explained        aIveTlr3hv8 (497/h, ETA 12.7h) DL_FAIL
+[740/7031] #121 Branch Education             aa6YISbAJEA (497/h, ETA 12.7h) DL_FAIL
+[741/7031] #121 Branch Education             16zrEPOsIcI (498/h, ETA 12.6h) DL_FAIL
+[742/7031] #121 Branch Education             B2482h_TNwg (498/h, ETA 12.6h) DL_FAIL
+[743/7031] #121 Branch Education             _Pqfjer8-O4 (499/h, ETA 12.6h) DL_FAIL
+[744/7031] #121 Branch Education             h9Z4oGN89MU (499/h, ETA 12.6h) DL_FAIL
+[745/7031] #121 Branch Education             iOlehM5kNSk (500/h, ETA 12.6h) DL_FAIL
+[746/7031] #121 Branch Education             dX9CGRZwD-w (500/h, ETA 12.6h) DL_FAIL
+[747/7031] #121 Branch Education             oEC5fIw0bL0 (501/h, ETA 12.5h) DL_FAIL
+[748/7031] #121 Branch Education             C8YtdC8mxTU (501/h, ETA 12.5h) DL_FAIL
+[749/7031] #121 Branch Education             9DnnxvS6BBQ (502/h, ETA 12.5h) DL_FAIL
+[750/7031] #121 Branch Education             h-NM1xSSzHQ (503/h, ETA 12.5h) DL_FAIL
+[751/7031] #121 Branch Education             d86ws7mQYIg (503/h, ETA 12.5h) DL_FAIL
+[752/7031] #121 Branch Education             wtdnatmVdIg (504/h, ETA 12.5h) DL_FAIL
+[753/7031] #121 Branch Education             7J7X7aZvMXQ (504/h, ETA 12.5h) DL_FAIL
+[754/7031] #121 Branch Education             X6wJE-4BLM0 (505/h, ETA 12.4h) DL_FAIL
+[755/7031] #121 Branch Education             qs2QcycggWU (505/h, ETA 12.4h) DL_FAIL
+[756/7031] #121 Branch Education             gfOD-Qpl6eg (506/h, ETA 12.4h) DL_FAIL
+[757/7031] #121 Branch Education             -HVKm5fIUA8 (506/h, ETA 12.4h) DL_FAIL
+[758/7031] #121 Branch Education             Kv1Hiv3ox8I (507/h, ETA 12.4h) DL_FAIL
+[759/7031] #121 Branch Education             SAaESb4wTCM (507/h, ETA 12.4h) DL_FAIL
+[760/7031] #121 Branch Education             bHXJnY7h6gw (508/h, ETA 12.4h) DL_FAIL
+[761/7031] #121 Branch Education             9kzC4CpPxSQ (508/h, ETA 12.3h) DL_FAIL
+[762/7031] #121 Branch Education             1I1vxu5qIUM (509/h, ETA 12.3h) DL_FAIL
+[763/7031] #121 Branch Education             r-SivgEpA1Q (509/h, ETA 12.3h) DL_FAIL
+[764/7031] #121 Branch Education             VIi04uD8LtY (510/h, ETA 12.3h) DL_FAIL
+[765/7031] #121 Branch Education             _ZKNOKHpqE4 (510/h, ETA 12.3h) DL_FAIL
+[766/7031] #123 Applied Science              lAeJvZfVLbE (511/h, ETA 12.3h) DL_FAIL
+[767/7031] #123 Applied Science              RsGHr7dXLuI (511/h, ETA 12.3h) DL_FAIL
+[768/7031] #123 Applied Science              EuVgGrun1V0 (512/h, ETA 12.2h) DL_FAIL
+[769/7031] #123 Applied Science              M6XIgdS1rzs (512/h, ETA 12.2h) DL_FAIL
+[770/7031] #123 Applied Science              wSUxK8q4D0Q (513/h, ETA 12.2h) DL_FAIL
+[771/7031] #123 Applied Science              9KJLWwbs_cQ (513/h, ETA 12.2h) DL_FAIL
+[772/7031] #123 Applied Science              DQv0nlGsW-s (514/h, ETA 12.2h) DL_FAIL
+[773/7031] #123 Applied Science              kiuXasyB3L0 (515/h, ETA 12.2h) DL_FAIL
+[774/7031] #123 Applied Science              UIqhpxul_og (515/h, ETA 12.1h) DL_FAIL
+[775/7031] #123 Applied Science              -qETedzsFIE (516/h, ETA 12.1h) DL_FAIL
+[776/7031] #123 Applied Science              -cAB5FG4bXI (516/h, ETA 12.1h) DL_FAIL
+[777/7031] #123 Applied Science              eGj4jfYhDxA (517/h, ETA 12.1h) DL_FAIL
+[778/7031] #123 Applied Science              nh1SIfipQs4 (517/h, ETA 12.1h) DL_FAIL
+[779/7031] #123 Applied Science              JO_EHceV9sk (518/h, ETA 12.1h) DL_FAIL
+[780/7031] #123 Applied Science              bR9EN3kUlfg (518/h, ETA 12.1h) DL_FAIL
+[781/7031] #123 Applied Science              xdpDd7dyU00 (519/h, ETA 12.0h) DL_FAIL
+[782/7031] #123 Applied Science              Oj4tRnLKN6U (519/h, ETA 12.0h) DL_FAIL
+[783/7031] #123 Applied Science              v8pko9IlFW4 (520/h, ETA 12.0h) DL_FAIL
+[784/7031] #123 Applied Science              3d8b_ohlcdk (520/h, ETA 12.0h) DL_FAIL
+[785/7031] #123 Applied Science              j-FHbHoiwNk (521/h, ETA 12.0h) DL_FAIL
+[786/7031] #123 Applied Science              kxXEI0Ce6C0 (521/h, ETA 12.0h) DL_FAIL
+[787/7031] #123 Applied Science              ih_D6OLzqo4 (522/h, ETA 12.0h) DL_FAIL
+[788/7031] #123 Applied Science              rLkVFjRyoDU (522/h, ETA 12.0h) DL_FAIL
+[789/7031] #123 Applied Science              9wZ0wTqJIxY (523/h, ETA 11.9h) DL_FAIL
+[790/7031] #123 Applied Science              ag_p8gayrTs (524/h, ETA 11.9h) DL_FAIL
+[791/7031] #123 Applied Science              iwj78pR46zM (524/h, ETA 11.9h) DL_FAIL
+[792/7031] #124 How Money Works              yU2raZftgmE (525/h, ETA 11.9h) DL_FAIL
+[793/7031] #124 How Money Works              qWONlYziwmc (525/h, ETA 11.9h) DL_FAIL
+[794/7031] #124 How Money Works              FVZDXz3Iibw (526/h, ETA 11.9h) DL_FAIL
+[795/7031] #124 How Money Works              gWLuTxn2fMI (526/h, ETA 11.9h) DL_FAIL
+[796/7031] #124 How Money Works              Nadbj945l-4 (527/h, ETA 11.8h) DL_FAIL
+[797/7031] #124 How Money Works              -Rr3o1S-SQk (527/h, ETA 11.8h) DL_FAIL
+[798/7031] #124 How Money Works              mlc1_IYWMzk (528/h, ETA 11.8h) DL_FAIL
+[799/7031] #124 How Money Works              8w9wn1AxqQU (528/h, ETA 11.8h) DL_FAIL
+[800/7031] #124 How Money Works              m192zxKJTBs (529/h, ETA 11.8h) DL_FAIL
+[801/7031] #124 How Money Works              qK8tOEWlFKc (529/h, ETA 11.8h) DL_FAIL
+[802/7031] #124 How Money Works              W8-lfqYbJJE (530/h, ETA 11.8h) DL_FAIL
+[803/7031] #124 How Money Works              sr7OVWgqDIM (530/h, ETA 11.7h) DL_FAIL
+[804/7031] #124 How Money Works              2PiBakVRgw4 (531/h, ETA 11.7h) DL_FAIL
+[805/7031] #124 How Money Works              5XyslxsPLQ4 (531/h, ETA 11.7h) DL_FAIL
+[806/7031] #124 How Money Works              Dma7e3Ph0TQ (532/h, ETA 11.7h) DL_FAIL
+[807/7031] #124 How Money Works              7vNZ84TJsXs (532/h, ETA 11.7h) DL_FAIL
+[808/7031] #124 How Money Works              wFiEXodlNto (533/h, ETA 11.7h) DL_FAIL
+[809/7031] #124 How Money Works              dqmJN5z6Rjc (534/h, ETA 11.7h) DL_FAIL
+[810/7031] #124 How Money Works              qGwU2dOoHiY (534/h, ETA 11.7h) DL_FAIL
+[811/7031] #124 How Money Works              la3gsUisWqw (535/h, ETA 11.6h) DL_FAIL
+[812/7031] #124 How Money Works              BnPx7fxG3x4 (535/h, ETA 11.6h) DL_FAIL
+[813/7031] #124 How Money Works              xE5NnZm9OpU (536/h, ETA 11.6h) DL_FAIL
+[814/7031] #124 How Money Works              6DXZMXZCY0I (536/h, ETA 11.6h) DL_FAIL
+[815/7031] #124 How Money Works              NyDleLT6nxQ (537/h, ETA 11.6h) DL_FAIL
+[816/7031] #124 How Money Works              tAXKxKTGWFQ (537/h, ETA 11.6h) DL_FAIL
+[817/7031] #124 How Money Works              ozVb14bNwzQ (538/h, ETA 11.6h) DL_FAIL
+[818/7031] #125 Economics Explained          1zlD0K09IKE (538/h, ETA 11.5h) DL_FAIL
+[819/7031] #125 Economics Explained          01f3r_DnOPc (539/h, ETA 11.5h) DL_FAIL
+[820/7031] #125 Economics Explained          0B4tgG-CGXU (539/h, ETA 11.5h) DL_FAIL
+[821/7031] #125 Economics Explained          5xEX3LyIp04 (540/h, ETA 11.5h) DL_FAIL
+[822/7031] #125 Economics Explained          Gi1zk8rLqNI (540/h, ETA 11.5h) DL_FAIL
+[823/7031] #125 Economics Explained          Nb9uJD-XDVQ (541/h, ETA 11.5h) DL_FAIL
+[824/7031] #125 Economics Explained          fhErhFyyCno (541/h, ETA 11.5h) DL_FAIL
+[825/7031] #125 Economics Explained          Cj_a4REfBxU (542/h, ETA 11.5h) DL_FAIL
+[826/7031] #125 Economics Explained          pMqyg1cDk9I (542/h, ETA 11.4h) DL_FAIL
+[827/7031] #125 Economics Explained          gjq024RqV3o (543/h, ETA 11.4h) DL_FAIL
+[828/7031] #125 Economics Explained          4YHuaa8Jr2A (543/h, ETA 11.4h) DL_FAIL
+[829/7031] #125 Economics Explained          xSo_jDhKItU (544/h, ETA 11.4h) DL_FAIL
+[830/7031] #125 Economics Explained          lDqYA11oA9w (544/h, ETA 11.4h) DL_FAIL
+[831/7031] #125 Economics Explained          xpEBcSE9Ipc (545/h, ETA 11.4h) DL_FAIL
+[832/7031] #125 Economics Explained          0zGzWrin00w (546/h, ETA 11.4h) DL_FAIL
+[833/7031] #125 Economics Explained          u4hZAMp25s4 (546/h, ETA 11.4h) DL_FAIL
+[834/7031] #125 Economics Explained          F_VUBpALcVE (547/h, ETA 11.3h) DL_FAIL
+[835/7031] #125 Economics Explained          x-Q47erm5MI (547/h, ETA 11.3h) DL_FAIL
+[836/7031] #125 Economics Explained          yhpyHV1iz00 (548/h, ETA 11.3h) DL_FAIL
+[837/7031] #125 Economics Explained          mzSEVfp9TZk (548/h, ETA 11.3h) DL_FAIL
+[838/7031] #125 Economics Explained          6KXZP-Deel4 (549/h, ETA 11.3h) DL_FAIL
+[839/7031] #125 Economics Explained          ze-pX3L1EQ8 (549/h, ETA 11.3h) DL_FAIL
+[840/7031] #125 Economics Explained          yc-jai0uObc (550/h, ETA 11.3h) DL_FAIL
+[841/7031] #125 Economics Explained          Q093qpGLRkE (550/h, ETA 11.3h) DL_FAIL
+[842/7031] #125 Economics Explained          LygiZAFZ86Y (551/h, ETA 11.2h) DL_FAIL
+[843/7031] #125 Economics Explained          jgCMmIZBaxU (551/h, ETA 11.2h) DL_FAIL
+[844/7031] #126 Patrick Boyle                Q0jqfKUnQQk (552/h, ETA 11.2h) DL_FAIL
+[845/7031] #126 Patrick Boyle                0GGxyIA6Yr0 (552/h, ETA 11.2h) DL_FAIL
+[846/7031] #126 Patrick Boyle                8Qc5U00IiAk (553/h, ETA 11.2h) DL_FAIL
+[847/7031] #126 Patrick Boyle                8rS3fTbC7TE (553/h, ETA 11.2h) DL_FAIL
+[848/7031] #126 Patrick Boyle                T3neJOdknqc (554/h, ETA 11.2h) DL_FAIL
+[849/7031] #126 Patrick Boyle                ChdQciz1gns (554/h, ETA 11.2h) DL_FAIL
+[850/7031] #126 Patrick Boyle                Xhrzm4CmpEo (555/h, ETA 11.1h) DL_FAIL
+[851/7031] #126 Patrick Boyle                cvOuN5KqufE (555/h, ETA 11.1h) DL_FAIL
+[852/7031] #126 Patrick Boyle                e-tapKoT1K0 (556/h, ETA 11.1h) DL_FAIL
+[853/7031] #126 Patrick Boyle                n_wNCLdlV7w (556/h, ETA 11.1h) DL_FAIL
+[854/7031] #126 Patrick Boyle                L_zlYjjtNPM (557/h, ETA 11.1h) DL_FAIL
+[855/7031] #126 Patrick Boyle                QXUQ7PzuIe0 (557/h, ETA 11.1h) DL_FAIL
+[856/7031] #126 Patrick Boyle                5FbTv5CSnZA (558/h, ETA 11.1h) DL_FAIL
+[857/7031] #126 Patrick Boyle                AJP6K2_rr90 (558/h, ETA 11.1h) DL_FAIL
+[858/7031] #126 Patrick Boyle                GAJf2F1BbRA (559/h, ETA 11.1h) DL_FAIL
+[859/7031] #126 Patrick Boyle                GzvTt2xq8os (559/h, ETA 11.0h) DL_FAIL
+[860/7031] #126 Patrick Boyle                QibWyMXvwvM (560/h, ETA 11.0h) DL_FAIL
+[861/7031] #126 Patrick Boyle                fhsrkvEY55s (560/h, ETA 11.0h) DL_FAIL
+[862/7031] #126 Patrick Boyle                FsfgbTBIP6M (561/h, ETA 11.0h) DL_FAIL
+[863/7031] #126 Patrick Boyle                cHiZ-7jI0Ew (561/h, ETA 11.0h) DL_FAIL
+[864/7031] #126 Patrick Boyle                Q8FcRbLCwEk (562/h, ETA 11.0h) DL_FAIL
+[865/7031] #126 Patrick Boyle                EkQUogcOaiU (562/h, ETA 11.0h) DL_FAIL
+[866/7031] #126 Patrick Boyle                q95xzDQUxzI (563/h, ETA 11.0h) DL_FAIL
+[867/7031] #126 Patrick Boyle                NbL7yZCF-6Q (563/h, ETA 10.9h) DL_FAIL
+[868/7031] #126 Patrick Boyle                bfUOPDOLHvE (564/h, ETA 10.9h) DL_FAIL
+[869/7031] #126 Patrick Boyle                eRUEqQmQoP0 (564/h, ETA 10.9h) DL_FAIL
+[870/7031] #127 Ben Felix                    iOyFja87uyw (565/h, ETA 10.9h) DL_FAIL
+[871/7031] #127 Ben Felix                    N5v2b42i_2g (565/h, ETA 10.9h) DL_FAIL
+[872/7031] #127 Ben Felix                    9TAGlknXYW8 (566/h, ETA 10.9h) DL_FAIL
+[873/7031] #127 Ben Felix                    aU7v87EhDBI (566/h, ETA 10.9h) DL_FAIL
+[874/7031] #127 Ben Felix                    d7wnAw7ufG4 (567/h, ETA 10.9h) DL_FAIL
+[875/7031] #127 Ben Felix                    xu7kMpLbJJs (567/h, ETA 10.9h) DL_FAIL
+[876/7031] #127 Ben Felix                    14V7q4gHKFo (568/h, ETA 10.8h) DL_FAIL
+[877/7031] #127 Ben Felix                    1sV_3OvQyFI (568/h, ETA 10.8h) DL_FAIL
+[878/7031] #127 Ben Felix                    7xPlZUzJbJc (569/h, ETA 10.8h) DL_FAIL
+[879/7031] #127 Ben Felix                    G-HYSrR8-J4 (569/h, ETA 10.8h) DL_FAIL
+[880/7031] #127 Ben Felix                    1Ob-hAYCnJE (570/h, ETA 10.8h) DL_FAIL
+[881/7031] #127 Ben Felix                    K3sYY3T7V8k (570/h, ETA 10.8h) DL_FAIL
+[882/7031] #127 Ben Felix                    xzDFbv_JSks (571/h, ETA 10.8h) DL_FAIL
+[883/7031] #127 Ben Felix                    ygVObRx9X68 (571/h, ETA 10.8h) DL_FAIL
+[884/7031] #127 Ben Felix                    OguTXEnxJqk (572/h, ETA 10.8h) DL_FAIL
+[885/7031] #127 Ben Felix                    gV9r3ISZrws (572/h, ETA 10.7h) DL_FAIL
+[886/7031] #127 Ben Felix                    lMdGA0ePXzI (573/h, ETA 10.7h) DL_FAIL
+[887/7031] #127 Ben Felix                    gJLZRnfstpM (573/h, ETA 10.7h) DL_FAIL
+[888/7031] #127 Ben Felix                    lBG-g1CKfgs (574/h, ETA 10.7h) DL_FAIL
+[889/7031] #127 Ben Felix                    RxCqxhRsHiY (574/h, ETA 10.7h) DL_FAIL
+[890/7031] #127 Ben Felix                    pGgpGP3swmE (575/h, ETA 10.7h) DL_FAIL
+[891/7031] #127 Ben Felix                    j4H9LL7A-nQ (575/h, ETA 10.7h) DL_FAIL
+[892/7031] #127 Ben Felix                    mqIHa6URUPk (576/h, ETA 10.7h) DL_FAIL
+[893/7031] #127 Ben Felix                    _9c-DkBFS3w (576/h, ETA 10.7h) DL_FAIL
+[894/7031] #127 Ben Felix                    -nPon8Ad_Ug (577/h, ETA 10.6h) DL_FAIL
+[895/7031] #127 Ben Felix                    QGzgsSXdPjo (577/h, ETA 10.6h) DL_FAIL
+[896/7031] #128 The Plain Bagel              uh72gMH2vik (578/h, ETA 10.6h) DL_FAIL
+[897/7031] #128 The Plain Bagel              UB9k89XwqWU (578/h, ETA 10.6h) DL_FAIL
+[898/7031] #128 The Plain Bagel              d-SagPpEz80 (579/h, ETA 10.6h) DL_FAIL
+[899/7031] #128 The Plain Bagel              iOkLFrTjbho (579/h, ETA 10.6h) DL_FAIL
+[900/7031] #128 The Plain Bagel              I-3gj5g-7PA (580/h, ETA 10.6h) DL_FAIL
+[901/7031] #128 The Plain Bagel              eQKmPACbKQA (580/h, ETA 10.6h) DL_FAIL
+[902/7031] #128 The Plain Bagel              yCLvzlAijso (581/h, ETA 10.6h) DL_FAIL
+[903/7031] #128 The Plain Bagel              F_cxeO5Jm6Q (581/h, ETA 10.5h) DL_FAIL
+[904/7031] #128 The Plain Bagel              bkvpEHnhoGU (582/h, ETA 10.5h) DL_FAIL
+[905/7031] #128 The Plain Bagel              jYcMkhxfoNU (582/h, ETA 10.5h) DL_FAIL
+[906/7031] #128 The Plain Bagel              fIcWfHikAOo (583/h, ETA 10.5h) DL_FAIL
+[907/7031] #128 The Plain Bagel              3tF_lGbzCYU (583/h, ETA 10.5h) DL_FAIL
+[908/7031] #128 The Plain Bagel              _D4Xwpa4trE (584/h, ETA 10.5h) DL_FAIL
+[909/7031] #128 The Plain Bagel              CnoDKqlcR4Y (584/h, ETA 10.5h) DL_FAIL
+[910/7031] #128 The Plain Bagel              4GzsSoE7OiI (585/h, ETA 10.5h) DL_FAIL
+[911/7031] #128 The Plain Bagel              UaHW24jOYVw (585/h, ETA 10.5h) DL_FAIL
+[912/7031] #128 The Plain Bagel              yPxQJuGlm38 (586/h, ETA 10.5h) DL_FAIL
+[913/7031] #128 The Plain Bagel              pICIXeWV9WE (586/h, ETA 10.4h) DL_FAIL
+[914/7031] #128 The Plain Bagel              dWUUavyfJh4 (587/h, ETA 10.4h) DL_FAIL
+[915/7031] #128 The Plain Bagel              yb9-7U8pB10 (587/h, ETA 10.4h) DL_FAIL
+[916/7031] #128 The Plain Bagel              bdE2MJ8gfcA (588/h, ETA 10.4h) DL_FAIL
+[917/7031] #128 The Plain Bagel              SQ55rV62hME (588/h, ETA 10.4h) DL_FAIL
+[918/7031] #128 The Plain Bagel              vl156QpXr5g (589/h, ETA 10.4h) DL_FAIL
+[919/7031] #128 The Plain Bagel              tlPBDH2_z60 (589/h, ETA 10.4h) DL_FAIL
+[920/7031] #128 The Plain Bagel              ss-m4HFObMg (589/h, ETA 10.4h) DL_FAIL
+[921/7031] #128 The Plain Bagel              0b-IWOWYd_k (590/h, ETA 10.4h) DL_FAIL
+[922/7031] #129 Money & Macro                an9cWefN8q8 (590/h, ETA 10.3h) DL_FAIL
+[923/7031] #129 Money & Macro                jwEYTEbfprw (591/h, ETA 10.3h) DL_FAIL
+[924/7031] #129 Money & Macro                01V3IEn2MsY (591/h, ETA 10.3h) DL_FAIL
+[925/7031] #129 Money & Macro                6uXaeZgxHRw (592/h, ETA 10.3h) DL_FAIL
+[926/7031] #129 Money & Macro                T6BjSW4FrE4 (592/h, ETA 10.3h) DL_FAIL
+[927/7031] #129 Money & Macro                bufMa2Oscok (593/h, ETA 10.3h) DL_FAIL
+[928/7031] #129 Money & Macro                ATWd6K7Wxho (593/h, ETA 10.3h) DL_FAIL
+[929/7031] #129 Money & Macro                g37E9ztzxkE (594/h, ETA 10.3h) DL_FAIL
+[930/7031] #129 Money & Macro                KgZzr8Y05BU (594/h, ETA 10.3h) DL_FAIL
+[931/7031] #129 Money & Macro                aZB7vcVXCVc (595/h, ETA 10.3h) DL_FAIL
+[932/7031] #129 Money & Macro                F-9RCKKvoJw (595/h, ETA 10.2h) DL_FAIL
+[933/7031] #129 Money & Macro                dASaGYbN0dw (596/h, ETA 10.2h) DL_FAIL
+[934/7031] #129 Money & Macro                2MfQ2KCIUWo (596/h, ETA 10.2h) DL_FAIL
+[935/7031] #129 Money & Macro                tzxd5I-EzyA (597/h, ETA 10.2h) DL_FAIL
+[936/7031] #129 Money & Macro                MeBsN_t84Q0 (597/h, ETA 10.2h) DL_FAIL
+[937/7031] #129 Money & Macro                -loW7xS73BM (598/h, ETA 10.2h) DL_FAIL
+[938/7031] #129 Money & Macro                YRuYb3H3mvA (598/h, ETA 10.2h) DL_FAIL
+[939/7031] #129 Money & Macro                25wcGWvtz1k (599/h, ETA 10.2h) DL_FAIL
+[940/7031] #129 Money & Macro                yRlbUeji01U (599/h, ETA 10.2h) DL_FAIL
+[941/7031] #129 Money & Macro                BRcWIXMQze8 (600/h, ETA 10.2h) DL_FAIL
+[942/7031] #129 Money & Macro                QytQRfd5-lY (600/h, ETA 10.1h) DL_FAIL
+[943/7031] #129 Money & Macro                uS8Wn5-oFaM (601/h, ETA 10.1h) DL_FAIL
+[944/7031] #129 Money & Macro                nBXwqN5-1n4 (601/h, ETA 10.1h) DL_FAIL
+[945/7031] #129 Money & Macro                NCu7-0pHzcU (602/h, ETA 10.1h) DL_FAIL
+[946/7031] #129 Money & Macro                DDEOCJvmzKo (602/h, ETA 10.1h) DL_FAIL
+[947/7031] #129 Money & Macro                lvtZUrpKUlI (603/h, ETA 10.1h) DL_FAIL
+[948/7031] #130 Aswath Damodaran             QID0UbRuIYk (603/h, ETA 10.1h) DL_FAIL
+[949/7031] #130 Aswath Damodaran             GpOzFKrnvdU (604/h, ETA 10.1h) DL_FAIL
+[950/7031] #130 Aswath Damodaran             Ldu9iEgPFBA (604/h, ETA 10.1h) DL_FAIL
+[951/7031] #130 Aswath Damodaran             bCuR4bP7Lng (604/h, ETA 10.1h) DL_FAIL
+[952/7031] #130 Aswath Damodaran             fqu_xw-ZuoM (605/h, ETA 10.1h) DL_FAIL
+[953/7031] #130 Aswath Damodaran             LfQP4DXJGjc (605/h, ETA 10.0h) DL_FAIL
+[954/7031] #130 Aswath Damodaran             91yKnqGSb48 (606/h, ETA 10.0h) DL_FAIL
+[955/7031] #130 Aswath Damodaran             qf_OESkvs3M (606/h, ETA 10.0h) DL_FAIL
+[956/7031] #130 Aswath Damodaran             V8KoxUIajug (607/h, ETA 10.0h) DL_FAIL
+[957/7031] #130 Aswath Damodaran             7zH9FM44KiA (607/h, ETA 10.0h) DL_FAIL
+[958/7031] #130 Aswath Damodaran             iF_kZlmEj3o (608/h, ETA 10.0h) DL_FAIL
+[959/7031] #130 Aswath Damodaran             31bLutt4XeU (608/h, ETA 10.0h) DL_FAIL
+[960/7031] #130 Aswath Damodaran             s2ldevkz0Nw (609/h, ETA 10.0h) DL_FAIL
+[961/7031] #130 Aswath Damodaran             6fr1Mu1ephs (609/h, ETA 10.0h) DL_FAIL
+[962/7031] #130 Aswath Damodaran             90kl7abCjps (610/h, ETA 10.0h) DL_FAIL
+[963/7031] #130 Aswath Damodaran             mQefuvnTuzI (610/h, ETA 9.9h) DL_FAIL
+[964/7031] #130 Aswath Damodaran             xxoGclTR6FI (611/h, ETA 9.9h) DL_FAIL
+[965/7031] #130 Aswath Damodaran             YQt0fomcf80 (611/h, ETA 9.9h) DL_FAIL
+[966/7031] #130 Aswath Damodaran             1IJTjiVtAaM (612/h, ETA 9.9h) DL_FAIL
+[967/7031] #130 Aswath Damodaran             BNZYzfxVF3c (612/h, ETA 9.9h) DL_FAIL
+[968/7031] #130 Aswath Damodaran             wCxhOvcH8z0 (613/h, ETA 9.9h) DL_FAIL
+[969/7031] #130 Aswath Damodaran             8WPPozFWjuI (613/h, ETA 9.9h) DL_FAIL
+[970/7031] #130 Aswath Damodaran             d8XtxUP2JPA (614/h, ETA 9.9h) DL_FAIL
+[971/7031] #130 Aswath Damodaran             8KHIF606vS0 (614/h, ETA 9.9h) DL_FAIL
+[972/7031] #130 Aswath Damodaran             xu2sngA0lIQ (615/h, ETA 9.9h) DL_FAIL
+[973/7031] #130 Aswath Damodaran             GcoTiTBrYMY (615/h, ETA 9.8h) DL_FAIL
+[974/7031] #131 Two Cents                    02pj9BwlOPM (616/h, ETA 9.8h) DL_FAIL
+[975/7031] #131 Two Cents                    jZBDwAzwWnU (616/h, ETA 9.8h) DL_FAIL
+[976/7031] #131 Two Cents                    193G6x_zQTw (617/h, ETA 9.8h) DL_FAIL
+[977/7031] #131 Two Cents                    dndAoll-3AY (617/h, ETA 9.8h) DL_FAIL
+[978/7031] #131 Two Cents                    EdNm00w55JQ (618/h, ETA 9.8h) DL_FAIL
+[979/7031] #131 Two Cents                    647Fpl6qKqo (618/h, ETA 9.8h) DL_FAIL
+[980/7031] #131 Two Cents                    6Id6FFXuqBY (619/h, ETA 9.8h) DL_FAIL
+[981/7031] #131 Two Cents                    tBCRYZrfYXk (619/h, ETA 9.8h) DL_FAIL
+[982/7031] #131 Two Cents                    bL9fetG9MvA (620/h, ETA 9.8h) DL_FAIL
+[983/7031] #131 Two Cents                    y_4zOX9Pw0Q (620/h, ETA 9.8h) DL_FAIL
+[984/7031] #131 Two Cents                    Qp9Ch22keso (621/h, ETA 9.7h) DL_FAIL
+[985/7031] #131 Two Cents                    x0mTQjshRUo (621/h, ETA 9.7h) DL_FAIL
+[986/7031] #131 Two Cents                    2yWDKDm-ZD8 (621/h, ETA 9.7h) DL_FAIL
+[987/7031] #131 Two Cents                    x2AOJbDnoyE (622/h, ETA 9.7h) DL_FAIL
+[988/7031] #131 Two Cents                    oFAmQW3bx-Y (622/h, ETA 9.7h) DL_FAIL
+[989/7031] #131 Two Cents                    EMrCPUnvLrE (623/h, ETA 9.7h) DL_FAIL
+[990/7031] #131 Two Cents                    ZdexTf1IAHs (623/h, ETA 9.7h) DL_FAIL
+[991/7031] #131 Two Cents                    GkxFr_mDrzU (624/h, ETA 9.7h) DL_FAIL
+[992/7031] #131 Two Cents                    smTWPHf95Lo (624/h, ETA 9.7h) DL_FAIL
+[993/7031] #131 Two Cents                    6_38NCU7bDQ (625/h, ETA 9.7h) DL_FAIL
+[994/7031] #131 Two Cents                    tNaVJ-qfOAk (625/h, ETA 9.7h) DL_FAIL
+[995/7031] #131 Two Cents                    B0Z66LV4OOc (626/h, ETA 9.6h) DL_FAIL
+[996/7031] #131 Two Cents                    R8kzAemzkmA (626/h, ETA 9.6h) DL_FAIL
+[997/7031] #131 Two Cents                    Q1BDQyAO6fM (627/h, ETA 9.6h) DL_FAIL
+[998/7031] #131 Two Cents                    3SZE_KpdqZI (627/h, ETA 9.6h) DL_FAIL
+[999/7031] #131 Two Cents                    gtFYXBNgZzA (628/h, ETA 9.6h) DL_FAIL
+[1000/7031] #132 Graham Stephan               L-UPNUDx7do (628/h, ETA 9.6h) DL_FAIL
+[1001/7031] #132 Graham Stephan               q9bEjYzRksg (628/h, ETA 9.6h) DL_FAIL
+[1002/7031] #132 Graham Stephan               OHDOUNypmP0 (629/h, ETA 9.6h) DL_FAIL
+[1003/7031] #132 Graham Stephan               uS4D0EvGL0c (629/h, ETA 9.6h) DL_FAIL
+[1004/7031] #132 Graham Stephan               pP2_joPd23E (630/h, ETA 9.6h) DL_FAIL
+[1005/7031] #132 Graham Stephan               Rli3VaznNYo (630/h, ETA 9.6h) DL_FAIL
+[1006/7031] #132 Graham Stephan               NQhkqoS5290 (631/h, ETA 9.6h) DL_FAIL
+[1007/7031] #132 Graham Stephan               wTFpxk0baZI (631/h, ETA 9.5h) DL_FAIL
+[1008/7031] #132 Graham Stephan               9JRjjQ5ji4I (632/h, ETA 9.5h) DL_FAIL
+[1009/7031] #132 Graham Stephan               NEDY_A95xMY (632/h, ETA 9.5h) DL_FAIL
+[1010/7031] #132 Graham Stephan               DLiJDkQciRs (633/h, ETA 9.5h) DL_FAIL
+[1011/7031] #132 Graham Stephan               Yb38ATFB4DU (633/h, ETA 9.5h) DL_FAIL
+[1012/7031] #132 Graham Stephan               uRqgfJkbAao (634/h, ETA 9.5h) DL_FAIL
+[1013/7031] #132 Graham Stephan               jhDfq9sj-u8 (634/h, ETA 9.5h) DL_FAIL
+[1014/7031] #132 Graham Stephan               AMAQHn555fM (635/h, ETA 9.5h) DL_FAIL
+[1015/7031] #132 Graham Stephan               6M0j314e4gY (635/h, ETA 9.5h) DL_FAIL
+[1016/7031] #132 Graham Stephan               zZmcCQFu98k (636/h, ETA 9.5h) DL_FAIL
+[1017/7031] #132 Graham Stephan               diE19xlDfqo (636/h, ETA 9.5h) DL_FAIL
+[1018/7031] #132 Graham Stephan               93x3SlywzIM (636/h, ETA 9.4h) DL_FAIL
+[1019/7031] #132 Graham Stephan               rNos6CVn35c (637/h, ETA 9.4h) DL_FAIL
+[1020/7031] #132 Graham Stephan               B8iPXPQbotc (637/h, ETA 9.4h) DL_FAIL
+[1021/7031] #132 Graham Stephan               Q4No8FPZc0c (638/h, ETA 9.4h) DL_FAIL
+[1022/7031] #132 Graham Stephan               KvBfH1mqebM (638/h, ETA 9.4h) DL_FAIL
+[1023/7031] #132 Graham Stephan               Ooiv2-tHNaU (639/h, ETA 9.4h) DL_FAIL
+[1024/7031] #132 Graham Stephan               SgiczvPSFZs (639/h, ETA 9.4h) DL_FAIL
+[1025/7031] #132 Graham Stephan               KJBnaeDq3bw (640/h, ETA 9.4h) DL_FAIL
+[1026/7031] #133 Kings and Generals           nEDARlGzi4o (640/h, ETA 9.4h) DL_FAIL
+[1027/7031] #133 Kings and Generals           jfj_3mwQN9c (641/h, ETA 9.4h) DL_FAIL
+[1028/7031] #133 Kings and Generals           NbBt7TegK_4 (641/h, ETA 9.4h) DL_FAIL
+[1029/7031] #133 Kings and Generals           xEtPsD5FVJ4 (642/h, ETA 9.4h) DL_FAIL
+[1030/7031] #133 Kings and Generals           UIIQcPEDxXM (642/h, ETA 9.3h) DL_FAIL
+[1031/7031] #133 Kings and Generals           xhqS3tNIMRo (642/h, ETA 9.3h) DL_FAIL
+[1032/7031] #133 Kings and Generals           pSICc_538vA (643/h, ETA 9.3h) DL_FAIL
+[1033/7031] #133 Kings and Generals           pDkRmXp24yU (643/h, ETA 9.3h) DL_FAIL
+[1034/7031] #133 Kings and Generals           ZMvM4g86Kp0 (644/h, ETA 9.3h) DL_FAIL
+[1035/7031] #133 Kings and Generals           gwT_j9zYW3o (644/h, ETA 9.3h) DL_FAIL
+[1036/7031] #133 Kings and Generals           rT9f4cXarsU (645/h, ETA 9.3h) DL_FAIL
+[1037/7031] #133 Kings and Generals           XC_-zMFVwXA (645/h, ETA 9.3h) DL_FAIL
+[1038/7031] #133 Kings and Generals           Q1mSWaVbbKU (646/h, ETA 9.3h) DL_FAIL
+[1039/7031] #133 Kings and Generals           6uzk91Vm6_4 (646/h, ETA 9.3h) DL_FAIL
+[1040/7031] #133 Kings and Generals           eIi5QznRpw8 (646/h, ETA 9.3h) DL_FAIL
+[1041/7031] #133 Kings and Generals           FK8ciCXYkjg (647/h, ETA 9.3h) DL_FAIL
+[1042/7031] #133 Kings and Generals           0ekcO_kRreM (647/h, ETA 9.3h) DL_FAIL
+[1043/7031] #133 Kings and Generals           PTRY7dZdU_0 (648/h, ETA 9.2h) DL_FAIL
+[1044/7031] #133 Kings and Generals           SSlh7zNO9H0 (648/h, ETA 9.2h) DL_FAIL
+[1045/7031] #133 Kings and Generals           uvjFtUzLtj0 (649/h, ETA 9.2h) DL_FAIL
+[1046/7031] #133 Kings and Generals           Al_9fmORMj8 (649/h, ETA 9.2h) DL_FAIL
+[1047/7031] #133 Kings and Generals           sQ728X06zhs (650/h, ETA 9.2h) DL_FAIL
+[1048/7031] #133 Kings and Generals           DwsbDooKGOg (650/h, ETA 9.2h) DL_FAIL
+[1049/7031] #133 Kings and Generals           i2MmuJI2QpU (651/h, ETA 9.2h) DL_FAIL
+[1050/7031] #133 Kings and Generals           r2DScNgbzjk (651/h, ETA 9.2h) DL_FAIL
+[1051/7031] #133 Kings and Generals           1kYF6WsabNM (651/h, ETA 9.2h) DL_FAIL
+[1052/7031] #134 Historia Civilis             872JcpP3FEM (652/h, ETA 9.2h) DL_FAIL
+[1053/7031] #134 Historia Civilis             h6E4_Bcmscg (652/h, ETA 9.2h) DL_FAIL
+[1054/7031] #134 Historia Civilis             Qw7xXYypFQ0 (653/h, ETA 9.2h) DL_FAIL
+[1055/7031] #134 Historia Civilis             R0wwuj0sTyY (653/h, ETA 9.2h) DL_FAIL
+[1056/7031] #134 Historia Civilis             hvk_XylEmLo (654/h, ETA 9.1h) DL_FAIL
+[1057/7031] #134 Historia Civilis             EezHXh-UG-c (654/h, ETA 9.1h) DL_FAIL
+[1058/7031] #134 Historia Civilis             t7Y-1qMKY_0 (655/h, ETA 9.1h) DL_FAIL
+[1059/7031] #134 Historia Civilis             HURI6EHXybc (655/h, ETA 9.1h) DL_FAIL
+[1060/7031] #134 Historia Civilis             OGJHE6O7Mhk (656/h, ETA 9.1h) DL_FAIL
+[1061/7031] #134 Historia Civilis             QtOXq9SwarQ (656/h, ETA 9.1h) DL_FAIL
+[1062/7031] #134 Historia Civilis             CH1oYhTigyA (656/h, ETA 9.1h) DL_FAIL
+[1063/7031] #134 Historia Civilis             POHNhn3WcCc (657/h, ETA 9.1h) DL_FAIL
+[1064/7031] #134 Historia Civilis             8rt67AqrR74 (657/h, ETA 9.1h) DL_FAIL
+[1065/7031] #134 Historia Civilis             gdavaK3d4Pc (658/h, ETA 9.1h) DL_FAIL
+[1066/7031] #134 Historia Civilis             aq4G-7v-_xI (658/h, ETA 9.1h) DL_FAIL
+[1067/7031] #134 Historia Civilis             g8DBd3SkuS8 (659/h, ETA 9.1h) DL_FAIL
+[1068/7031] #134 Historia Civilis             2-PYwEsTll0 (659/h, ETA 9.0h) DL_FAIL
+[1069/7031] #134 Historia Civilis             OPDpj59kkgk (660/h, ETA 9.0h) DL_FAIL
+[1070/7031] #134 Historia Civilis             EDJwRUrK5ew (660/h, ETA 9.0h) DL_FAIL
+[1071/7031] #134 Historia Civilis             Idw_3WnIqnc (661/h, ETA 9.0h) DL_FAIL
+[1072/7031] #134 Historia Civilis             9XBxMk_plhA (661/h, ETA 9.0h) DL_FAIL
+[1073/7031] #134 Historia Civilis             Sj2UksH_nSI (662/h, ETA 9.0h) DL_FAIL
+[1074/7031] #134 Historia Civilis             ALWLELLlv6E (662/h, ETA 9.0h) DL_FAIL
+[1075/7031] #134 Historia Civilis             RZjh_UsPZWk (662/h, ETA 9.0h) DL_FAIL
+[1076/7031] #134 Historia Civilis             fD-R35DSSZY (663/h, ETA 9.0h) DL_FAIL
+[1077/7031] #134 Historia Civilis             PDvriMq6r6I (663/h, ETA 9.0h) DL_FAIL
+[1078/7031] #135 OverSimplified               1BVJzaXv3rk (664/h, ETA 9.0h) DL_FAIL
+[1079/7031] #135 OverSimplified               Q-nWA0WeF98 (664/h, ETA 9.0h) DL_FAIL
+[1080/7031] #135 OverSimplified               lsbcN9-jU1Y (665/h, ETA 9.0h) DL_FAIL
+[1081/7031] #135 OverSimplified               805SIqgDZIE (665/h, ETA 8.9h) DL_FAIL
+[1082/7031] #135 OverSimplified               hRSGxw2AQnk (666/h, ETA 8.9h) DL_FAIL
+[1083/7031] #135 OverSimplified               yRmOWcWdQAo (666/h, ETA 8.9h) DL_FAIL
+[1084/7031] #135 OverSimplified               QLq6GEiHqR8 (667/h, ETA 8.9h) DL_FAIL
+[1085/7031] #135 OverSimplified               mY3SEMTROas (667/h, ETA 8.9h) DL_FAIL
+[1086/7031] #135 OverSimplified               zqllxbPWKNI (667/h, ETA 8.9h) DL_FAIL
+[1087/7031] #135 OverSimplified               AAGIi62-sAU (668/h, ETA 8.9h) DL_FAIL
+[1088/7031] #135 OverSimplified               b1reY72ktEc (668/h, ETA 8.9h) DL_FAIL
+[1089/7031] #135 OverSimplified               Cqbleas1mmo (669/h, ETA 8.9h) DL_FAIL
+[1090/7031] #135 OverSimplified               ewLpXw6uN28 (669/h, ETA 8.9h) DL_FAIL
+[1091/7031] #135 OverSimplified               sV6uuMAnJUE (670/h, ETA 8.9h) DL_FAIL
+[1092/7031] #135 OverSimplified               tsxmyL7TUJg (670/h, ETA 8.9h) DL_FAIL
+[1093/7031] #135 OverSimplified               Cln0J87vulU (671/h, ETA 8.9h) DL_FAIL
+[1094/7031] #135 OverSimplified               EQmjXM4VK2U (671/h, ETA 8.8h) DL_FAIL
+[1095/7031] #135 OverSimplified               8qRZcXIODNU (672/h, ETA 8.8h) DL_FAIL
+[1096/7031] #135 OverSimplified               26EivpCPHnQ (672/h, ETA 8.8h) DL_FAIL
+[1097/7031] #135 OverSimplified               OIYy32RuHao (672/h, ETA 8.8h) DL_FAIL
+[1098/7031] #135 OverSimplified               I79TpDe3t2g (673/h, ETA 8.8h) DL_FAIL
+[1099/7031] #135 OverSimplified               BXpu6tbFCsI (673/h, ETA 8.8h) DL_FAIL
+[1100/7031] #135 OverSimplified               rtYC2jx1LM0 (674/h, ETA 8.8h) DL_FAIL
+[1101/7031] #135 OverSimplified               gzALIXcY4pg (674/h, ETA 8.8h) DL_FAIL
+[1102/7031] #135 OverSimplified               Jl3K63Rbygw (675/h, ETA 8.8h) DL_FAIL
+[1103/7031] #135 OverSimplified               fo2Rb9h788s (675/h, ETA 8.8h) DL_FAIL
+[1104/7031] #136 Fall of Civilizations        CAsKpXoxZAQ (676/h, ETA 8.8h) DL_FAIL
+[1105/7031] #136 Fall of Civilizations        qRYdivPIWh4 (676/h, ETA 8.8h) DL_FAIL
+[1106/7031] #136 Fall of Civilizations        PdFwMDuAnS4 (677/h, ETA 8.8h) DL_FAIL
+[1107/7031] #136 Fall of Civilizations        YyqS9V7yHQA (677/h, ETA 8.8h) DL_FAIL
+[1108/7031] #136 Fall of Civilizations        YpKej05RgsY (677/h, ETA 8.7h) DL_FAIL
+[1109/7031] #136 Fall of Civilizations        2cuh1oxLHDU (678/h, ETA 8.7h) DL_FAIL
+[1110/7031] #136 Fall of Civilizations        6dbdVhVSat8 (678/h, ETA 8.7h) DL_FAIL
+[1111/7031] #136 Fall of Civilizations        2mqX9twdyYo (679/h, ETA 8.7h) DL_FAIL
+[1112/7031] #136 Fall of Civilizations        0MtIVJ2lcu8 (679/h, ETA 8.7h) DL_FAIL
+[1113/7031] #136 Fall of Civilizations        ZR48gFySJoM (680/h, ETA 8.7h) DL_FAIL
+[1114/7031] #136 Fall of Civilizations        qSfFq02pK4s (680/h, ETA 8.7h) DL_FAIL
+[1115/7031] #136 Fall of Civilizations        uFU7--7Zy9s (681/h, ETA 8.7h) DL_FAIL
+[1116/7031] #136 Fall of Civilizations        nlMpxUYKTcU (681/h, ETA 8.7h) DL_FAIL
+[1117/7031] #136 Fall of Civilizations        GV2piw94DpM (681/h, ETA 8.7h) 

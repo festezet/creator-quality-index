@@ -1,0 +1,14 @@
+{
+  "channel_id": 109,
+  "name": "Jeff Geerling",
+  "research_depth": 7,
+  "signal_noise": 8,
+  "originality": 8,
+  "lasting_impact": 7,
+  "reasoning": {
+    "research_depth": "Solid hands-on testing and research. Demonstrates real hardware knowledge through practical experimentation and benchmarking.",
+    "signal_noise": "Minimal filler with content-focused delivery. Gets to the point efficiently with relevant technical demonstrations.",
+    "originality": "Distinctive approach combining hardware reviews with real-world testing scenarios. The practical, no-nonsense style is recognizable.",
+    "lasting_impact": "Good evergreen potential for hardware and infrastructure content, though specific product reviews may date over time."
+  }
+}

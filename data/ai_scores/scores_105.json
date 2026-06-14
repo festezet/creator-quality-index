@@ -1,0 +1,14 @@
+{
+  "channel_id": 105,
+  "name": "Computerphile",
+  "research_depth": 9,
+  "signal_noise": 9,
+  "originality": 7,
+  "lasting_impact": 9,
+  "reasoning": {
+    "research_depth": "Expert-level content with academic credibility. Features actual computer science researchers and professors explaining concepts from their domain of expertise.",
+    "signal_noise": "Pure content delivery with minimal filler. Academic interview format keeps the focus on substantive technical content throughout.",
+    "originality": "Competent execution of the expert interview format. The channel's strength is in sourcing quality experts rather than novel presentation.",
+    "lasting_impact": "Highly evergreen content covering fundamental computer science concepts that remain relevant regardless of technological trends."
+  }
+}

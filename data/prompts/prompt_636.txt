@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Entrevue
+**Video**: "Peu avant leur mort, les Bogdanoff parlaient de leur propre enterrement"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Bon, je sais pas vraiment en quelle année on sera, mais on y va. Nous sommes à votre entièrement. Est-ce que vous avez déjà anticipé ce jour ? En fait, je dirais oui et non, mais de manière qui est très, on est dit, distancié par justement des couvertes, le mot est un peu formé, mais en tout cas notre intuition scientifique de ce que représente l'autre-là de la vie. En fait, la mort n'est pas un arrêt, pas du tout. Il faut bien comprendre ça. Après cette disparition materielle, il y a autre chose, il y a l'information de ton appareil tout à l'heure. L'information, c'est quelque chose de beaucoup plus dense, beaucoup plus complet, beaucoup plus complexe, mais complet que la matière. Il faut bien se rendre compte de ça. C'est pour ça que c'est une ouverture et pas une fermeture. Les êtres humains, lorsque la matière qui les compose s'arrête, ils sont remplacés par autre chose, en tout cas prolongé par autre chose qu'on appelle l'information. C'est de la totalité de ce qu'ils sont. La matière, on dit quoi ? On dit que c'est le corps, par exemple. Quand on meurt le corps, il pourrit en gros, mais l'information reste, l'information serait quoi ? Ce serait l'âme ? Par exemple ? Oui, on peut dire ça comme ça. Quand vous glissez donc le disque d'EVD à l'intérieur de votre électeur, vous appuyez sur Play et à ce moment-là, vous voyez le film. Il y a toute une histoire avec des personnages, une réalité. Vous êtes dans le monde de l'énergie, parce qu'au pendant une heure et demi, cette énergie va vous permettre de regarder le film. Et puis lorsque vous appuyez sur Reject, vous récupérez votre disque d'EVD, là, l'écran devient noir, mais toute l'histoire est dans votre DVD. C'est les rien d'autre que de l'information. Il n'y a plus de temps réel là-dedans. Il n'y a que du temps imaginaire, il n'y a que de l'information. Mais c'est pas pour ça que les héros du film ont disparu. Ils sont toujours sur le DVD, donc sur l'information. C'est l'information. C'est exactement ce qui arrive au moment de la disparition du corps physique. Mais est-ce qu'on pourrait communiquer, du coup, avec l'information ? Est-ce que, par exemple, nous qui sommes dans le temps réel, qui sommes vivants, est-ce qu'on pourrait communiquer avec les gens qui sont morts, qui ne sont plus de la matière, mais qui sont morts ? C'est clair ou pas ? Oui, oui, oui, oui. Si on prend une image purement mathématique, le temps réel vous prenez une droite qu'on appelle d'ailleurs l'Apsis mathématique et puis vous avez perpendiculaire à cette droite, vous avez donc l'ordonné. C'est comme ça que ça s'appelle. Oh, j'ai l'impression de retourner à l'école. Oui, d'accord, donné cartesiennes, d'accord, donné des cartes très intéressantes qu'il a fait. C'est d'ailleurs lui qui a donné... Ah non, non, non, non, non. Juste, non, c'est important. C'est important. C'est lui qui a donné aux noms aux imaginaires, leurs noms, imaginaires. C'est quand même très beau. Je salue donc son génie. Mais ce qui se passe, vous avez votre droite horizontal et une verticale. Le vertical, c'est le temps imaginaire. Le temps imaginaire. Vous avez une intersection. Elle est petite, elle est très difficile à trouver, mais elle existe. Avant de retourner en 2021, on va aller faire un tour maintenant en 2020. Nous sommes de retour dans le Gers, dans le château de Saint-Lary où vous avez grandi. Vous êtes en train de discuter avec Louis, c'était le fantôme qui ont été déjà les lieux quand vous étiez plus jeune. Comment vous l'avez vu entendus ce fantôme puisque c'est vous qui en parlait ? En 2000, on aurait combié à 150 ans. En temps réel, je vais dire. En fait, l'être humain, l'être humain est fait pour vivre au beaucoup plus longtemps. Il faut bien le savoir et, d'ailleurs, nous serons peut-être parmi les premiers à expérimenter cela grâce au découvert des professeurs de maître. Mais il est clair, il est clair. Comment vous sœuriez les premiers à découvrir ça ? Parce que nous sommes... On fait des tests. De un laboratoire, proche d'un laboratoire qui aujourd'hui comme il organise tout à l'heure, travaille sur... On n'a pas l'immortalité, mais en tout cas, la très longue vie, l'allongement de la vie, d'organismes qui sont assez proches de l'innôtre, finalement. Vous êtes par des souris. Ce sera transposable aux êtres humains. Nous sommes profondément immergés dans la connaissance de ces processus, de demain, mais qui peuvent devenir des processus d'aujourd'hui. Vous parlez de ce laboratoire, donc qui forcément travaille sur ce sujet-là, de l'immortalité. Est-ce que, par exemple, vous faites des tests avec eux ? Non, malheureusement, on n'en est pas encore là, mais lorsque le nom est s'avnu, on le fera. Si il y avait la possibilité, un jour, absolument, pour essayer de devenir éternel, vous le feriez. Pas éternel, parce qu'on ne peut pas viser l'analytie. Mais en tout cas, oui, réparer entre guillemets, tous les dommages, tous les dysfonctionnements qui sont dues à l'âge, oui, ça oui. Est-ce que vous savez combien la durée de vie du requin Nugorene-Nand ? Pas du tout. On a constaté qu'il dure 450 ans déjà, et qu'on pense que c'est une limite qui peut être franchie à l'égramment, qui peut être 500 ans, 600 ans. Voilà, ça, c'est le requin Nugorene-Nand. Pourquoi aurait-il le privilège de vivre 450 ans ou 500 ans alors que l'être humain, avec ses 100 ans, allez, c'est fini. Donc, là, il y a quelque chose que, en effet, des chercheurs, comme le professeur le maître et d'autres, c'est une barrière, une limite que ils veulent reculer et ils ont raison.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

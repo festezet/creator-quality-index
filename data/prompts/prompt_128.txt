@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: The Plain Bagel
+**Video**: "Unknown"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Hey guys, it's Richard here with a really cool announcement that I'm really excited to share with you all. As we're all well familiar, AI is developing at neckbreaking speeds. From advanced chat bots to video generating platforms that can make masterpieces in seconds. But so far, we haven't seen these capabilities brought to the YouTube space. Aside from the eerie AI generated videos or deep fakes from people trying to steal your money, there's no tool that allows users to interact with AI directly on the platform. Or at least there hasn't been until now. I'm so excited to announce that I've partnered with AI pioneer in Sloppic to bring a new AI tool to the YouTube platform. Introducing the plain Bayigle. Plain Bayagle is the first YouTube native AI agent that users can interact with directly through the comment section of plain bagel videos and it's available for beta testing now. Here's how it works. Simply go to the comment section of any plain bagel video, start a new comment with plain bayigel followed by your prompt and then submit. And within seconds, plain bayle will reply with a response. It's that simple. Whether you want a video explained like you're five or the script rewritten to sound like a pirate, plain diagonal can reply to any prompt to augment or streamline your video consumption process. Even allowing you to summarize entire videos within seconds of them being posted so that you never have to watch a plain bagel video again. But the prompts for plain bayle don't just have to be about plain bagel videos. Thanks to gaps in financial regulations, Plain Bayagle can offer tailored financial advice based on the details you share. Whether you're wanting to grow your portfolio, pay down your debts, or develop a custom road map built off of your financial information for achieving your future goals. And here's the best part. With Enlopic's proprietary deep fate technology, users can now prompt for custom AI generated plain bagel videos. Just describe the video you're looking for and plain bayigel will produce a customized video in plain bagel fashion on your subject of choice. So whether you want a classic plain bagel explainer of options or other complex financial and economic concepts or tutorial on sewing or something else fun and quirky, plain bayagle can generate anything you can imagine. And if you'd prefer the stylings of a different host, well, Plain Bay Agel can help you there, too. Allowing you to plugandplay any person you'd like to host a classic plain bagel video. Whether you'd like explainers with Warren Buffett, Joe Rogan, Kermit the Frog, an actual bagel, Trevor, or one of Grock's weird anime avatars, with Plain Bayagle, you don't even need me anymore. Hello. What? What do you mean I'm fired? I don't care about the terms of service. I own this channel. That's not me. It doesn't matter how many data sets. No. No, you can't do this. You can't do Anyways guys, I hope you're just as excited about this new tool as I am. Thanks for watching and as always, be safe out there.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

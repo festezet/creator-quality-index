@@ -1,0 +1,19 @@
+{
+  "channel_id": 144,
+  "channel_name": "PolyMatter",
+  "scores": {
+    "research_depth": 9,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 8
+  },
+  "reasoning": {
+    "research_depth": "Thorough economic analysis tracing Puerto Rico from Operation Bootstrap through Section 936 to debt crisis, with specific data (tax savings per employee, bond refinancing stats)",
+    "signal_noise": "Excellent signal - each section builds logically on the previous, minimal tangents, sponsor integration brief and non-intrusive",
+    "originality": "Fresh angle on Puerto Rico's decline through the lens of Section 936 tax policy, connecting macro policy to local outcomes",
+    "lasting_impact": "Strong educational value about unintended consequences of tax policy, relevant framework for understanding territorial economics"
+  },
+  "transcript_assessment": "Representative deep-dive economic analysis typical of PolyMatter",
+  "source": "whisper_base",
+  "analysis_date": "2026-04-08"
+}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: KJ Vids
+**Video**: "M&K Highlight Film"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+On this joyous wedding day, where love is vowed forever, it came to me the simple list consisting of new formed nevers. Never again am I going to be the one you turn to first. Your husband will be the one you go to, when times are good or are the worst. Never will I get to say, I know you better than all the rest. I may have known you longer, but Kyle gets to the end best. I will never take your side against Kyle in a fight. I now firmly stand on both your sides. My only goal will be to unite. Never will I think again, no man is good enough for my daughter. Kyle, you more than exceeded the very high bar I set. You're good enough, you got her. When Kyle starts changing minds and passions risk of sea, say no, I will keep on loving you until I lose like breathing. Only if the drinking run, I can't you are your side. You're good. You're beautiful. Wow, look at you. You can ride on melodies and dive into the rhyming end when we fight. I love like breathing. When we go to the end, we go to the end. All the things we've left to do, with bones and joints now creaking, I will listen to you loud and clear. We will round out and give song to you. You should choose another year, a spending life inside me. You should choose another year, a spending life inside me. You should choose another year, a spending life inside me. You should choose another year, a spending life inside me.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

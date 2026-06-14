@@ -1,0 +1,71 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Fermilab
+**Video**: "50 years of Fermilab"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+The last hundred years have been truly incredible. Advances in science and technology have revolutionized
+our world. We can cure deadly diseases, and humans have
+walked on the Moon. These successes have been made possible because
+researchers have asked and answered scientific questions. The deepest scientific questions ever asked-
+ones that explore the deepest laws of nature- were worked out in the past century at a handful
+of laboratories sprinkled across the globe. These facilities are all amazing places, but
+one of them is having a special year. And why is this a special year? It’s because it’s Fermilab’s 50th anniversary! The Fermi National Accelerator Laboratory,
+or Fermilab for short, is America’s leading particle physics laboratory. It all started on June 15, 1967, when the
+original Fermilab employees reported to the office for the first time. With that humble start, Fermilab has become
+one of the most influential laboratories on the planet. Located about forty miles west of Chicago,
+it sits on 6,800 acres of land. It hosted the Tevatron, the world’s most
+powerful particle accelerator for about a quarter century. Data taken using the Fermilab accelerator
+complex has resulted in over twenty five thousand papers and over two thousand Ph.D. theses,
+including mine. Important parts of the Standard Model were
+discovered at Fermilab, including the top and bottom quark, and the tau neutrino. And that’s just Fermilab’s first half
+century. While the Tevatron ceased operations in 2011,
+the research didn’t just stop. In fact, Fermilab’s current program may
+well be richer and more diverse than ever. Fermilab is playing a crucial role in the
+search for dark energy and dark matter, two substances that make up 95% of the matter
+and energy in the universe. Fermilab employs more scientists working on
+the CERN Large Hadron Collider than any institution other than CERN itself. A Fermilab scientist is even leading the CMS
+experiment, a group of 3,000 scientists who co-discovered the Higgs boson. And, if that weren’t enough, Fermilab is
+also producing the most intense beam of neutrinos ever made, with plans to increase the intensity
+even more. There are lots of neutrino experiments currently
+underway at Fermilab, but the future is the DUNE experiment, short for Deep Underground
+Neutrino Experiment, and it will dominate the neutrino research world for the next few
+decades. Turning fifty might herald middle age for
+a person, but for a particle physics laboratory, that’s just getting started. The second half-century will be even more
+exciting than the first and the young scientists here with me will be the ones to make it all
+happen. So please join with me and wish Fermilab a
+happy fiftieth birthday. Happy Birthday, Fermilab!
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Nota Bene
+**Video**: "Aikido dojo uzumaki"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+C'est quoi qu'on fait ? C'est une main pour ne connaitre pas. Hum, même pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas. C'est une main pour ne connaitre pas.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

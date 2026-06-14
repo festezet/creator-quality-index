@@ -1,0 +1,14 @@
+{
+  "channel_id": 128,
+  "name": "The Plain Bagel",
+  "research_depth": 1,
+  "signal_noise": 3,
+  "originality": 7,
+  "lasting_impact": 2,
+  "reasoning": {
+    "research_depth": "WARNING: Scored on April Fools satire video - not representative of channel quality. The analyzed transcript was intentional comedy/satire.",
+    "signal_noise": "April Fools content - intentionally low signal. Not representative of normal channel output.",
+    "originality": "Creative April Fools concept shows originality in humor, but not indicative of typical educational content quality.",
+    "lasting_impact": "Satire video with no lasting educational value. Normal channel content would score significantly higher."
+  }
+}

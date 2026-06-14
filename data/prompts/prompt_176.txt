@@ -1,0 +1,181 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Primer
+**Video**: "Taking AI Doom Seriously For 62 Minutes"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+- Anxiety about creating
+something that then gets out of control has been
+with us for a long time, from ancient myths and legends to serious academic discussion during the early days of
+computing to more recent fiction. It's a common theme that
+we might build something because we could and not think quite enough
+about whether we should. But now this has gone beyond
+the realm of ME'S story to the point where actual
+companies today are spending many billions of dollars toward
+the goal of creating something that's as smart or smarter
+than humans over the next couple of years. Like many of you, I have my doubts that they'll actually
+succeed at that goal. But if you extend the
+timeline from five years to 10 or 20, it starts to get
+a lot more believable. And even 50 years isn't that far away. There's already a lot of
+videos on YouTube warning about doom from ai, and a lot of
+them are pretty dramatic, which I suppose is fair. It is a dramatic topic, but in this video, I'm not
+looking to scare anybody. I just want to go through the arguments for why I do take it seriously. First, we'll talk about power. Does it even make sense to think that a machine could take over the world? Two, we'll talk about danger. If the power did exist, would the machine use it
+to take over the world? And three, we'll talk
+about development first. I'll talk about why I think
+we will eventually build it. And we'll also talk about
+why I think it's plausible that it could happen somewhat soon. And it's not just me. The top two most cited computer
+scientists of all time, Joshua Bengio and Jeffrey
+Hinton are both also concerned that it could happen pretty soon. And then finally, we'll talk about what we might be able to do about it. To make this go better, we started out by talking
+about how companies are trying to build a machine with
+human level intelligence. So we have to start by clarifying what intelligence means here. We use the word in various ways and discussions about
+this often break down before they even start because people are just
+talking about different things. The definition we'll use is a broad one. It's the ability to achieve goals. In Star Trek, the original series, commander Spock is second in command of the Starship Enterprise. He's a Vulcan, a species
+essentially designed around the stereotype of a robotic nerd. Vulcans adhere strictly
+to logic and reason, and they suppress their emotions
+when a machine is acting up or some science needs doing. Spock's, your guy, captain
+Kirk is more of an intuitive and charismatic character. He's more creative, unpredictable,
+and driven by passion. We might say that Spock is
+more intelligent than Kirk, and as game characters, Spock does have the
+higher intelligence stat, but when they face off in
+tri-dimensional chess, Kirk wins. Spock calls, Kirk's move irrational, but it was the winning move. - Your illogical approach to chess does have its
+advantages on occasion. Captain, - The point the writers
+are trying to make here is that there's this narrow
+concept of intelligence that excels at analysis
+and well-defined problems. But the real world is messy. It's not enough to think logically. If you want to achieve your
+goals, you have to be willing to get creative and think outside the box. And this theme comes up in the show again and again and again. Real intelligence is about
+results, not about style. Kirk is the smart one because he wins. Quick aside, that was the
+first time I mentioned chess. I'm gonna bring it up a lot. So before that happens, it's
+important to me that you know that I think that chess is a bad game. So when people talk about a
+machine being smart enough to take over the world, they don't mean in a
+narrow Spock kind of way. They mean the ability to
+problem solve in a very broad and general way. In a Kirk kind of way, when I say intelligence is
+the ability to achieve goals, it sounds like I'm referring
+to a person who has the goal, who's feeling a desire for some outcome, that there's someone in there
+having a conscious experience, but it's not clear that a machine can be
+conscious or have goals. In this sense, the nature of consciousness is a fascinating topic and we could go down that rabbit hole, but that's a distraction. You don't need to have
+feelings to act toward a goal. Take bees, A bee wants to make honey. Do bees have feelings?
+Maybe? I don't know. But either way, it's still handy to describe the bees behavior
+in a goal-oriented way. We could describe all the
+complicated mechanical details of its physiology that lead
+it to seek out the flowers, get the nectar route,
+transfer it mouth to mouth to other bees, fan it with
+their wings to dry it out, and then cap it up with wax. But if you just wanna describe what bees do overall saying they want to make honey does the
+job much more easily. And you could say something
+similar about the computer chess engine stock fish. Stock fish has the goal
+of winning chess games. I think stock fish is less likely to have feelings than a bee, but much like a bee, it's a
+system with complicated behavior that tends to produce a certain
+result through a wide range of possible paths. In this case, checkmates in a chess game. So we summarize that with the word goal. And a goal-oriented view
+is even useful in physics. One concept that takes this view is the principle of least action. When a photon travels from air into water, its trajectory bends and it does so in a way that
+seems to minimize the amount of time it takes to
+get to its destination. Light travels more slowly in
+water than it does in air. So if you were a photon with a goal of ending up in a certain
+spot as quickly as possible, you wouldn't go in a straight line. The best route would
+be to take a bent path, spending more time in the
+air than in the water. Only the most philosophically
+adventurous physicist would think a photon had the goal
+ahead of time or has feelings. But a goal-oriented view
+is still a useful way of describing the behavior of photons. And the same is true for a more broadly capable AI
+system that we might create. It could act as though it's
+intelligently pursuing a goal, whether or not it has feelings
+or is awake in some sense. Next, I wanna convince you that human level intelligence
+is not the limit. Two directions I want to
+explore are first adding fundamentally new mental powers and second, adding computer powers on top of human intelligence. Now these will be theoretical, so some of you will be tempted to
+dismiss it as science fiction and it is science fiction. I'm not claiming that any
+of these will happen exactly how I say, but science
+fiction does serve a purpose. If you refuse to imagine possibilities, you'll always be surprised
+whenever the world changes. - Ship
+- Chimpanzees are pretty dang smart. They even rival humans in some ways. The most striking
+example I know of is Amu, a chimp at Kyoto University who was able to outperform human subjects
+on a short term memory. Task numbers were
+briefly shown on a screen and then covered by white squares, and the task was to touch the
+squares in ascending order according to the numbers
+they were covering. Looking at the paper and the video, it does seem like a yuu had
+a bit longer to get used to this kind of thing than the humans did, but it's still pretty impressive. But we have some extra powers that chimps don't have in his 2019 book. Becoming Human Psychologist
+Michael Tomicello describes how we humans point at things to direct each other's attention. And chimps don't. They do point, but for other reasons like to request things they don't
+point to direct attention. That may not seem like much, but while chimps learn through imitation, by sharing attention, we can actively teach each
+other and collaborate. And this ability to teach and collaborate allows us to create and pass down cultural
+knowledge to even argues that this sharing of
+attention is a prerequisite to developing complex symbolic
+language, which allows us to specify and communicate
+ideas with great precision. And through this, we've
+been able to create social and physical technologies that make us extremely
+powerful compared to chimps. A higher intelligence might
+have some simple ability that we just don't, much like how chimps don't have joint attention, I can't really make a strong claim here because we just have no way
+of knowing whether there is or isn't something beyond our grasp. It's beyond our grasp. But I do think it's worth
+noting that there is an example of such a thing in the real world. So it would feel a
+little bit overconfident to strongly claim that humans have unlocked
+the entire cognitive. It's hard to imagine a computer with true human level intelligence. So I think it's easier if we flip the idea and instead of giving
+human powers to a computer, what if we gave computer
+powers to a human? Say I get bitten by a radioactive computer and I become computer man,
+suddenly my body is made of metal and semiconductor parts,
+which could be manufactured. My brain runs faster
+and I can directly send and receive signals the way computer can. In other words, I'm a robot with true human level intelligence, I would easily be powerful
+enough to take over the world to see why we're gonna do
+some napkin math to see what the most boring possible version of this would look like. I'll continue to be a normal
+person doing normal work and saving a normal amount of money. The only differences
+are that I'll be faster. And instead of using my savings
+to buy shares of index funds or something, I'll be able
+to literally invest in myself by buying hardware to make a new copy. So first, let's talk
+about the copying part. How much would it cost? It's hard to say exactly, but Tesla is saying they wanna
+offer their humanoid robots in the 20 to $30,000 range, but I'd be more advanced than that. So let's say a copy costs $100,000, and this might seem pretty cheap, but we're assuming these
+parts already exist. I don't have to do any research or design. I can just get the parts off the shelf. And because this is a metaphor for something similar happening
+in real life, in that case, we couldn't make the
+robot without knowing how to make the hardware. So, but maybe you think
+that's still too cheap. So let's add a zero and say it costs a million
+dollars for a copy. As for my finances, since I'm a normal
+person doing normal work, I make the median US
+individual income each year, which was about $51,000 in 2024. I don't have to eat, but
+I still have expenses. I have to buy electricity
+and motor oil or something and I have to live somewhere. So let's say I have
+normal overall expenses and I save money at the
+normal US savings rate, which recently is about 5%. The only thing that makes me unusual is that I can use my savings to literally invest in myself
+saving up to buy a copy. I save $2,550 per year, and at this rate it takes me
+392 years to afford a new copy. So far, that doesn't seem too threatening, but we forgot that. I can also think faster
+than a normal person how much faster. That depends on exactly
+how the system works. So we can't come up with a precise answer
+without actually figuring out how we would build it. But I'm gonna say that because human neurons top out
+at a few hundred cycles per second, and typical computer
+hardware runs at a few billion cycles per second, we can
+give the computer hardware a 10,000 times speed penalty
+because of engineering details and land at a human capable
+mind that thinks 1000 times as fast as meet people. Again, this is sci-fi, but I don't think that's too crazy acclaim that that's possible. The best way I can come up
+with to make sense of a mind that works 1000 times as
+fast as normal is to say that everything around
+me, including own body, feels like it moves at 0.1%. Its normal speed. So one day
+feels like 1000 days to me, an eight hour workday
+feels like 8,000 hours, and my body only moves at normal speed. So I focus on remote jobs,
+doable on a computer, since those can levera
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

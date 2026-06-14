@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Simone Giertz
+**Video**: "I turned your most requested project into a product"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Today is a really big day because I am launching the laundry chair on Kickstarter. It started as a video here on YouTube and I know I said I'm never going to do a Kickstarter campaign again, but here we are and I can stop whenever I want. I just wanted to show you the Kickstarter video because I am so proud of it without much further ado. Here is my pitch as to why you deserve a better bedroom chair. Everybody has this chair covered in clothes that are not clean but also not dirty. The problem isn't laundry, washing clothes too often actually wears them out. The real problem is that we don't have a place for half dirty clothes, so I made this. This is the laundry chair, but it's not just a chair, it's a storage solution. How's that for snazzy Kickstarter language? The real, let's you hang the clothes you're still wearing and when you don't want to look at them, it rotates neatly at a site behind the chair. My name is Simone Yatch. I am an inventor and the founder of Yatch Studio and for the last 10 years, I built everything from shitty robots, which yes, that's the technical term, to custom pickup trucks. I love figuring out how to add functionality to everyday objects, like this coat hanger, the folds in half, so you can add storage to shallow spaces, or this calendar that you can use to track your daily habits. I actually built the first version of this chair for a YouTube video in 2024. Imagine that these are chair legs. There's also a rail like this that you can use to hang your clothes on. Since then, so many of you have reached out asking where you can buy it, but I can't just take your word for it. That's why we're doing Kickstarter. So you can put your money where your thumbs are. Over the last year, we've refined and tweaked the original design, making it lighter, more durable, flat-packable for safe shipping, while keeping the sole the same. It's made from hardwood with premium fabric and a built-in ball bearing system that lets the rail move smoothly and quietly. The laundry chair gives your half-dirty clothes the home they deserve, and a chair you can actually sit in, because I believe that good design should align with how we actually live. So if you have that chair, then this is the upgraded version. Okay, bye.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

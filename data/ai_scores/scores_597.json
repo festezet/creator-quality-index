@@ -1,0 +1,14 @@
+{
+  "channel_id": 597,
+  "name": "Aperture",
+  "scores": {
+    "research_depth": 1,
+    "signal_noise": 1,
+    "originality": 1,
+    "lasting_impact": 1
+  },
+  "warning": "Transcript appears corrupted - contains only song lyrics",
+  "expected_content": "philosophical video essays",
+  "actual_content": "music lyrics only",
+  "recommendation": "Re-extract transcript or use different video sample"
+}

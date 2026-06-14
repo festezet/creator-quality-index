@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Now You See It
+**Video**: "Succession - How To Film a Car Scene"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+When shooting a scene, there's nothing more constraining than two people in the back of a car. It's small, it's cramped, and everybody faces the same direction. But let's take a look at how, despite these limitations, the TV show's succession managed to use creative cinematic techniques in three scenes, where two characters, Shiv Roy and Tom Wombsgans, do nothing but talk in the back of a car. In the first car scene in Season 1 Episode 9, Tom and Shiv drive to their wedding venue in rural England. The scene begins with a plain medium shot, and the lighting, custom design, and color grading all reminds the viewer that we're no longer in the busy and colorful New York City, but in the dreary and overcast UK. Like the shot, the dialogue starts off innocuous, but then Shiv goes into what she's really thinking about, and the camera works shifts. Um, hey, I wanted to ask you something. Uh-oh. From here, we go to a close-up on Shiv as she asks Tom for details on the crew's situation. I could do with knowing about the bad thing in cruises. Tom dances around the issue and Shiv continues to push, and the camera work reflects the newfound tension. Each time Shiv asks Tom a question, the camera starts on her, and then pans over to his response. This camera move happens not once, not twice, but three times in a row, and it gives Shiv all the power, while also forcing us to watch Tom squirm. But I did then destroy all the evidence, so... But then finally, Tom pushes back, and it becomes a tennis match, with the camera bouncing from Shiv to Tom and back to Shiv again. It's not even that bad. Oh, it's quite bad. It's quite bad. From here, we don't return to the medium shot, and instead leave the car entirely, showing the conflict never resolved. Even when stuck in a car, the camera tells the story here. It shows innocent beginnings and interrogation, and then a standoff with no resolution. And succession isn't just skilled at dramatic scenes. They also know how to make the back of a car funny. In our second scene, in Season 2, Episode 4, Tom and Shiv head to the waystar Royco headquarters in New York City. Right from the first shot, the scene feels completely different. We return to that warm, busy New York City Hue. The initial medium shot is handheld instead of fixed, and it's more casual. We've dropped the seat belts and the tense dialogue. This initial shot sets the scene up perfectly for comedy, especially with the wide-angle lens stretching Tom and Shiv's features, making every hand gesture an eye movement bigger. And when we go to close-ups, the camera moves in between them and closer to their faces, further exaggerating their movements. And all those differences, when combined, completely alter the feeling of these scenes, one traumatic and one comedic. You know, church and state, and ACDC, and ebony and ivory, and never the twanchial meat. It's like you and your dad have finally admitted how much you're into each other. Now you can, you know, not this, but now you can bang. Still in a car, still just talking, but a totally different feeling. And that brings us to perhaps the most famous shot in the entire show, which is, you guessed it, Tom and Shiv sitting in the back of a car. I won't spoil the ending of the show, but this third car scene takes place at the end of the series finale, as Tom and Shiv drive out of waystar Royco forever changed. After Tom enters the car, the scene famously holds on a single medium shot. The frame is almost completely black. Visually, they could be driving to a funeral. Despite holding on just a single, static shot, the moment is surprisingly dynamic. As we swirl through the underbelly of the waystar Royco building, we get the famous hand touch in the middle, and then we're forced to do nothing but look between Tom and Shiv. Notice how the lights in the basement alternate between lighting up Tom, then Shiv, then Tom again. And notice the distance between the two characters in the frame, compared to the other two scenes. These lighting and framing differences show the profound distance now between Tom and Shiv, lit darkly and separately, framed far apart, but still somehow touching in the middle. Without dialogue and without a camera move, we get a story of their tragic union. Succession is a show of mostly people sitting around talking, and yet the creator still managed to make it tense, funny, and heartbreaking. Now you see it.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Linguisticae
+**Video**: "C’est quoi, un CRÉOLE ?"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Alors, on va parler du Creole dans cette vidéo, même si le Creole n'était pas dans les langues du défi du début de l'année, puisqu'on la tirait le finois et le wall-off. Et donc j'ai fait mes premiers cours avec notre partenaire, Italki, et ça, c'est plutôt bien passé. Moi ! Moi, terouet ! Italki est une plateforme d'apprentissage de langues qui applique un principe simple, vous mettre en relation avec un professeur. Alors, je vais essayer de le faire en Chinois. Italki, on qu'est l'ennopimi salustat ? Yokatoimi Xenq ! Yokatoimi Xenq ! Yokatoimi Xenq ! Kertaisen ! Periateen ! Moukai Sesti ! C'est hudisté ! Sinoute ! Opectaillane ! Je ne crois pas avoir d'une quelque chose de vraiment juste, mais bon ! J'ai pas ce niveau encore, hein, vous l'aurez pas. Euh... Yves, Yves, Yves. Yves. Voilà, juste niveau. Et bon, comment ça se normale, voilà ? Nika, son mimi, on. Ah, on lène romain ? Comment ce fort ? Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves. Yves.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

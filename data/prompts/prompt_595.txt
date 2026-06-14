@@ -1,0 +1,91 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Wisecrack
+**Video**: "The Philosophy of BOJACK HORSEMAN – Wisecrack Edition"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Hey Wisecrack! Jared here. And today we're talking about the 
+happiest show in the Netflix's catalogue BoJack Horseman. With its colorful animation, talking animals, and Hollywood glamour BoJack might look like your
+typical happy-go-lucky cartoon but this is far from the case. The show’s light hearted veneer hides a dark and downright depressing reality which is fitting given its focus on the disillusionment
+that inevitably comes when you look beneath the surface. BoJack reveals the ugly, narcissistic reality that lies behind the dazzling façade of Hollywoo. BoJack: "Most important thing is you gotta give the people what they want." "Even if it KILLS you." "Even if it empties you out until there's
+nothing left to empty." From Mr. Peanutbutter's feigned interest "I wanna talk to you..." "...ERICKA!" to studio executives only focused on money to meaningless award ceremonies that only
+reward those with established names. In other words: Charlotte: “Hollywoo’s a real pretty town that’s" "smack on top of all that black tar." "By the time you realize you’re sinking" "it’s too late.” But the show goes far deeper. Hollywoo could be considered a metaphor for
+existence in general. Just like the façade of Hollywoo covers up the reality of an ugly, hollow industry the trappings of our daily lives cover up the
+meaninglessness of existence itself. This idea, known as “Existential Nihilism” is foundational to “BoJack Horseman.” If life is truly meaningless then how are we supposed to deal with it? Welcome to this Wisecrack Edition on: The philosophy of “BoJack Horseman.” What does it know? Does it know things? Let's find out! But before we dive in This Wisecrack edition is sponsored by Best Fiends and the newest game in the Best Fiends trilogy: Best Fiends Forever It's the same characters and story as before but a totally different kind of game. An addictive clicker adventure where you slap, collect, and level up pretty much everything while trying to get as far as you can as fast as you can. Also, something we really like in edition to making crazy addicting games like this Best fiends gives back. As a supporter of the charity Oceana. Helping protect the worlds oceans. So be sure to check out the new Best Fiends game. It's FREE and you can download it from the link below. Let us know how far you get and thanks again to Best Fiends 
+for sponsoring this video. Part 1: Distract yourself A key way to cope with the anguish
+of a meaningless world is to simply distract yourself. Naomi Watts: "I just wanted to do something 
+light and fun" "to distract me from the deep well of sadness that is my life." Princess Carolyn persistently distracts
+herself with her job and her compulsive need to
+fix the life of those she cares about. Despite complaining about work dominating her life she can’t actually handle the free time
+that comes without it. Lora: "Are you gonna head out soon?" Princess Carolyn: "Where else would I go?" When her agency folds she finally has time for the relationship
+she always wanted but still finds a way to get right back to the
+Hollywoo grindstone. Princess Carolyn: "I think I'm having an epiphany." "I'M GONNA BE A MANAGER!" Ralph: "Oohh.." Todd, BoJack’s best friend and perpetual mooch is happy as long as he has something to do Todd: "Hooray! A task!" The one time we do see Todd without anything to do he immediately starts to spiral into existential despair. Todd: "I need something to do." "A job or a task or a direction in life." "Do I have a purpose?" before finding Something to take his mind off it. Todd may not have much direction or common sense but he manages to keep himself busy: He composes a space opera builds his own Disneyland and starts a number of businesses. "An all hallow's eve store..." "...in January?" "How fiendishly droll." "Nuhhhhhhhhhhhhhh *crash* Similarly, Mr. Peanutbutter spends his life
+in a state of distraction. Though he may seem like a moron BoJack: "He's so stupid, he doesn't realize how miserable he should be." Mr. Peanutbutter is more self aware than most. Mr. Peanutbutter: "The universe is a cruel uncaring void." "The key to being happy isn't the search for meaning." "It's to just keep yourself busy 
+with unimportant nonsense." "And eventually..." "...you'll be dead." And then there’s BoJack. BoJack’s whole life is a series of distractions. The way BoJack spends his days is so trivial that the show often makes a joke of not showing us what he’s doing half the time. BoJack: "Yeaaah!" "Two days!" "I can do all those things." *two days later* BoJack: "Oh shit!" "I didn't do any of those things." In fact, in the years since "Horsin' Around" BoJack has been able to drift through life in a near constant state of distraction. Princess Carolyn: "Horsin' Around?" "That ended 11 years ago." BoJack: "Really?" "Where does the time go?" *drinks to forget* But in the first episode BoJack has a “mild anxiety attack” that
+sends him to the hospital. The doctor tells him he needs to 
+take it easier. Princess Carolyn: "Take it easy!? Are you kidding?" "He doesn't have a job he has no real responsibilities he doesn't do anything but take it easy." The show asks a question commonly directed
+at celebrities They have everything, so how could they not be happy? BoJack: "Great house, great career, 'great life' " "That must be why I'm so goddamn happy all the time." This question was addressed by 17th Century philosopher Blaise Pascal who is considered by many to be a 
+precursor to the Existentialists. For Pascal, when given too much time to think humans will eventually contemplate
+their own insignificance which inevitably bums them out. Or as Pascal puts it: “I have discovered that all the unhappiness
+of men arises from one single fact: that they cannot stay quietly in their own chamber. I have found that there is one very real reason namely, the natural poverty of our feeble
+and mortal condition so miserable that nothing
+can comfort us when we think of it closely.” For Pascal, humans have a natural psychological
+defense mechanism that keeps these thoughts at bay: We’re really easily distracted. And when we’re distracted we stop thinking about our existence and can be, if not happy at least functional. Pascal directly addressed the
+unhappy celebrity question though he uses kings instead of movie stars: “Yet, when we imagine a king attended with
+every pleasure he can feel if he be without diversion and be left to consider 
+and reflect on what he is this feeble happiness will not sustain him.” Like a king BoJack has no serious struggle to occupy his life. Instead, he has to spend all of his time trying
+to distract himself so that he never has to think about the
+reality of his situation. Although he succeeds in doing this for years the whole charade comes crashing down when he reads Diane’s book “One Trick Pony.” In the book, BoJack sees an honest reflection of himself warts and all. He is forced to face all the things he really is and isn’t and to confront the extent of his self-deception. "I love the part about how you became famous." "You could be constantly surrounded by distraction" "and wouldn't have to be alone with yourself." So what should BoJack do 
+now that his distraction has crumbled? For Pascal, once you’ve passed the critical point where diversion will no longer sustain you the only recourse is to turn to God. But for BoJack this isn’t an option. It seems that Hollywoo is a post-God-Is-Dead world. In the Christmas Special, the show uses Santa Claus 
+as a stand-in to discuss the non-existence of God: BoJack: “He’s a lie that grown ups made up because" "we like to believe that there’s an order to the universe" "and that good behavior will lead to happiness" "but the fact is" "that just isn’t true.” But if there’s no God where are we supposed to turn? For BoJack, the first choice is
+right back to distraction. The show provides two separate
+case studies of what happens when you try to force distraction after the illusion has been broken and neither ends well. First, Secretariat gives a young BoJack advice
+that basically amounts to “Don’t Think About It.”
+*same as Rick Sanchez* Secretariat: "BoJack." "When you get sad...you run..." "straight ahead" "and..and you keep running forward" "no matter what." "There are people in your life
+who are gonna try to hold you back" "slow you down but you don't let them." "Don't you stop running and don't you ever look behind you." "There's nothing for you behind you." "All that exists is what's ahead." But once he’s disqualified from racing and
+can no longer keep the thoughts at bay... "You can be the fastest runner in the world, but you can't outrun the truth." The second case is Sarah Lynn. BoJack drags Sarah Lynn on a months long bender that only ends when she OD’s on well BoJack (the heroin, not the horse). Looking back on it that might have been a bit on the nose. If trying to reclaim his distracted state
+is doomed to end in tragedy what other options does BoJack have? Part 2: Radical Freedom From the beginning, BoJack rejects responsibility: “I’m responsible for my own happiness?" "I can’t even be responsible for my own breakfast.” He wants to escape the realities
+of his own terrible life choices. BoJack: "I didn't do anything wrong because I can't do anything wrong." "EVERYTHING IS MEANINGLESS!" "NOTHING I DO HAS CONSEQUENCE!" After his first bender, BoJack asks Diane: "Am I just doomed to be the person that I am?" "The person person in that book? "I know that I can be selfish and narcissistic
+and self destructive" "but underneath all that, deep down" "I'm a good person and
+I need you to tell me that I'm good." BoJack is afraid of what 20th Century French
+philosopher Jean-Paul Sartre called “Radical Freedom” which was a major focus of his philosophy Existentialism. BoJack: "I stand by my critique of 'Sartre'." "His philosophical arguments helped many 
+tyrannical regimes justify over-cruelty." "Also the French smell and I hate them." If Existentialism had a catchphrase, it would be: “Existence Precedes Essence.” An object’s essence, for Sartre, can be thought of as its purpose. If I make a hammer, I create it with a particular purpose in mind i.e. hammering, so we would say that the hammer’s essence precedes its existence. For a Christian a human is like a hammer a tool created by God with a purpose in mind. But for an Existential Nihilist, humans, and horsemen exist just because. Unlike a hammer or a Gentle Farms chicken there’s no purpose underlying BoJack’s existence and nothing he is meant to do. There is nothing stopping BoJack from stealing
+the D from the Hollywood sign or doing three months worth of drugs, and on the flip side nothing forcing him to do those things either. BoJack has total control over every choice he makes. This is what Sartre meant by “Radical Freedom” and it's definitely not supposed to be comforting: “That is what I mean when I say that man
+is condemned to be free." "Condemned, because he did not create himself," "yet is nevertheless at liberty," "and from the moment that he is thrown into this world" "he is responsible for EVERYTHING he does.” Or, as Diane and BoJack put it: Diane: “That’s the thing, I don’t think I believe in 'deep down'." "I kinda think all you are is 
+just the things that you do.” BoJack: "Well that's depressing." There is no “good BoJack” deep down. There is only the one BoJack and he is entirely defined by the choices
+he's made so far. Or, as Todd puts it to BoJack at the end of season 3: "You are all the things that are wrong with you." While this might not seem too comforting it does offer BoJack one bit of hope: Yes, BoJack is defined by the choices
+he's made so far but he is not “doomed to be the person in that book” forever. He has the freedom to change his actions and himself. But it’s entirely up to him to do so. "It's never too late to be the person you want to be." "You need to choose the life you want." The show provides an optimistic take on Sartre by using wa
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

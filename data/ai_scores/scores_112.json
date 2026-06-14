@@ -1,0 +1,14 @@
+{
+  "channel_id": 112,
+  "name": "ArjanCodes",
+  "research_depth": 4,
+  "signal_noise": 7,
+  "originality": 6,
+  "lasting_impact": 7,
+  "reasoning": {
+    "research_depth": "Surface-level coverage of Python design patterns. Presents established concepts without deep investigation or novel insights.",
+    "signal_noise": "Good structure and clear delivery. Content is well-organized with minimal tangents, though some segments feel like filler.",
+    "originality": "Competent execution of Python tutorial format. The focus on design patterns is somewhat distinctive but the presentation style is conventional.",
+    "lasting_impact": "Decent evergreen value for Python best practices. Design pattern content remains relevant though specific library recommendations may date."
+  }
+}

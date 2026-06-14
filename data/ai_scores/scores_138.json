@@ -1,0 +1,19 @@
+{
+  "channel_id": 138,
+  "channel_name": "History Matters",
+  "scores": {
+    "research_depth": 8,
+    "signal_noise": 9,
+    "originality": 8,
+    "lasting_impact": 7
+  },
+  "reasoning": {
+    "research_depth": "Well-researched WWI and Roosevelt content with multiple credible sources and demonstrated deep subject knowledge",
+    "signal_noise": "Excellent signal-to-noise ratio, very content-dense with minimal filler in short-form format",
+    "originality": "Distinctive animated style with unique humorous approach to history education, recognizable format",
+    "lasting_impact": "Historical content is evergreen, though short format may limit depth of lasting intellectual impact"
+  },
+  "transcript_assessment": "WWI history and Roosevelt analysis, short animated format with humor, highly educational",
+  "source": "sonnet_analysis",
+  "analysis_date": "2026-04-08"
+}

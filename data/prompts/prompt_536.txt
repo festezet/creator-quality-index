@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: ElectroBOOM
+**Video**: "Components Giving Birth?! (LATITY-018)"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Hi, in these crazy times, I know I can rely on your posts to heal my soul. Let's see them together. The fullest bridge rectifier I've ever seen. No, it's still a regular full bridge rectifier, but it's dead. They cast. If I remember it right, the mother of all fullest bridge rectifier! Or M-A-F-B-R was a six or more phases bridge rectifier. According to the ElectroBooms dictionary of unnecessary words and phrases. Fun fact. Did you know while a full bridge rectifier is better than a puny single diode rectifier? For high power demand, you should combine it with a power factor correction circuit for better performance. Otherwise, it pulls all the required current only at the AC voltage peaks. It's like every time you try to pet a child, instead of a kind continuous force on their head, you apply the same total force in short bursts like a hammer. That's bad power factor. Forbidden USB. Hmm, what type of person am I? Am I the type of person who would plug his USB into somewhere that beside it says 220 volts? Yes, yes I am. Definitely my wife's phone. My phone! I'm just joking! I suspect Mady would try that just to electrocute himself. Well, this is a good indication that high voltage will always find a way. After doing some research, I noticed that this video got shared around quite often by many different accounts. And they say the guy got shocked by their Vandograft generator. Let's investigate this video a little bit further. Since the guy's hair is raised, it means that his body is charged by a static electricity, meaning same charges. So it matches a Vandograft behavior. But Vandograft doesn't have enough energy to supply such continuous arcs. Which means these arcs are either not created by a Vandograft machine and are made by some continuous active pi voltage power supply. Or perhaps this is fake. I'm not saying it is AI or anything, I mean those arcs may have been added later. A Vandograft collects charges over some time, enough to make a long arc. I have to ground that thing. So the discharges have some good delay between them, unlike those continuous early arcs in the video. I think the guy did get shocked in the box. But the arcs are added later for more comedic effect by someone who didn't know how things worked. I have had those pesky conductive strings flying back towards me and shocking me. Found this unlinked in. What is this real? A smaller capacitor disguised as a larger one? This must be fake. I mean even the capacitors don't have the same value. This one is 2,200mph. That one is 6,800mph. I mean as soon as you use it, you know something's wrong. And I'm saying some engineer just built this to be funny. It is like the puny you put on a muscle suit. Everyone may buy that first until you get into a fight and get shit beaten out of you. Always be who you are. And you will be beaten accordingly. Meti. It's Meti. A resistor ring. If you propose to me with a resistor ring, I won't resist. Electra boom party game. The electric pickle race. We have some pickles on some rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails. rails.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

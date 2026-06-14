@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Zeihan on Geopolitics
+**Video**: "So You Want to Take Iran's Oil… || Peter Zeihan"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+Hey, I'll pay the design here coming to you from Colorado. Donald Trump is going on about taking other countries oil again, specifically Iran. And there's no good way to do it. Let's just start with that. But it is important, I think, to understand where the stuff is and what that would mean for a potential military occupation. So there are basically two large concentrations of petroleum in Iran. The first is kind of in the middle part of the Persian Gulf directly opposite the country of gutter. That's when that's kind of like a thumb sticking up on the south side of the Gulf. This is what the Iran's called the South Parsfield and the surrounding fields. It's majority offshore. It is operated by a lot of foreign companies because the Iranians don't know how to do it themselves. But this is responsible for somewhere between 70 and 80% of the country's natural gas production. Now Iran doesn't really export natural gas in the conventional sense. And almost everything that come from South Pars is fed into the local pipeline network in order to be burned to generate electricity. So if the United States wanted to take over this zone, it would basically be shutting off the natural gas production because there's no export capacity. The nearest country would be Turkey. There is a little pipeline there, but you'd have to go through a lot of Iran to get to it. And second, there's no liquefied natural gas facility like exists on the south side of the Gulf. So if you take this thing, you're just shutting it down and triggering war crimes level of humanitarian disaster as you turn off the power in a country with roughly 90 million people. That'd be bad. The other one is easier in simply because it's possible, again, not an endorsement here. It's in the province of Kuzistan, which is in the country's southwest hard up against the Iraq border directly opposite from Bostra, if you remember, your war in Iraq days. Kuzistan has 70 to 80% of the country's oil production generates a little bit of waste natural gas here and there, but it's mostly about the oil. And this is the stuff that basically powers the Iranian economy. The oil from Kuzistan is consumed locally. It's consumed throughout the rest of the country. It is sent to refineries, the country over, and a lot of it is exported through Carg Island. Carg Island is an island off the coast of the northern Gulf, Serenian. And people have been talking about that a lot recently. Donald Trump even knows where it is, and he seems to think that if you take a car, you control the oil district. If you take Carg, you can shut off Iran's ability to export, but that doesn't give you control over production. So if your goal is to take the oil, you have to basically capture all of Kuzistan province in a little chunks of territory that are adjacent to it. Now, Kuzistan is interesting for a number of reasons. Be science the oil. If you remember back to your political geography days, Iran is a series of mountain nations, different ethnicities that bit by bit were amalgamated into the hole that we now call Iran or Persia if you want to use the older term. Kuzistan is an outlier there because it's flat. It's not mountainous, and the vast bulk of the population are Arabs instead of mountain peoples or zaries or Persians. So they are an oppressed minority living in the country, and they live on top of the oil, and they get so little of the money that comes from the oil that this is one of the few parts of Iran that's actually experiencing population decline. Because basically the Iranian government, Tehran, siphons off all the oil, leaves nothing for the Arabs and they're just kind of like wallowing in their own poverty. Before you think, oh, this is a great fifth column to launch a rebellion against Tehran. Keep in mind that the United States has tried that trick specifically before just on the other side of the river in southern Iraq, where you have a Shia majority that used to be ruled by a Sunni government in Baghdad. And after 20 years, about the only thing that the Shia of Iraq could agree on is that they hated the United States more than everybody else. I can guarantee you, in the time that the United States has been resting and recouping in the aftermath of the war and terror, we have not gotten any better at nation building. And when we were trying to occupy southern Iraq, which supposedly had a rest of political group that hated the central government that we had overthrown, it didn't go nearly as well as we had hoped. And this time, if you do that in Kusistan, there's a lot more Iranians with a lot more weaponry and equipment that can be brought to bear. Because in the case of Iraq, we'd overthrew the entire government and were the authority. In the case of Iran, we'd have tens of thousands of American troops on the ground occupying the local population and then resisting the general forces of the rest of the country. Anyway, bottom line of all of this is not that I think we can or should take Iran's oil, just to give you an idea of what is in play. It's pretty clear that Donald Trump is planning some sort of ground offensive. He has never deployed troops to an area and not used them. And in this case, we've got two loads of Marines with the Marine Expeditionary Units on their way, one of them with the Tripoli is practically local now. They were in Diego Garcia last week. And the other group, the boxer, is approaching Southeast Asia and is expected to be in the Persian Gulf in two to three weeks. And of course, the airborne forces can be wherever they need to be. So we're definitely moving forces in. The Trump administration is definitely planning on using them. It will definitely be a disaster. And if the Trump administration decides to go after this target specifically, we're going to be an occupation in the Middle East. And just like we were for the bulk of the last 25 years, and we all remember how that went.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

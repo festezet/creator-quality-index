@@ -1,0 +1,14 @@
+{
+  "channel_id": 104,
+  "name": "ThePrimeagen",
+  "research_depth": 3,
+  "signal_noise": 6,
+  "originality": 7,
+  "lasting_impact": 4,
+  "reasoning": {
+    "research_depth": "Minimal technical sourcing. The video is a personal narrative/demo about using Strudel (JavaScript music library) with Vim/Playwright. No citations, expert interviews, or technical documentation references. Anecdotal storytelling with some technical demonstration.",
+    "signal_noise": "Decent signal-to-noise ratio. The video has a clear narrative arc (musician→programmer→musician) and demonstrates a working technical setup. Some filler with memes, copypasta humor, and tangential jokes, but the core technical content is present.",
+    "originality": "Distinct voice and recognizable style (ThePrimeagen's characteristic humor and storytelling). The Vim+Playwright+Strudel integration is a creative technical solution. Strong personal style elevates it.",
+    "lasting_impact": "Largely time-bound content. The personal story and specific Strudel demo have limited evergreen value. Not likely to be referenced years later except as a curiosity."
+  }
+}

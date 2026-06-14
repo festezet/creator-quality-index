@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: Sabine Hossenfelder
+**Video**: "Quantum Computers Just Got Much More Dangerous"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+For the past few years, I felt like when I'm talking about quantum computers, I'm trying to report news about nothing. But this past week has been quite something. It seems like quantum computers are becoming dangerous much faster than expected. And at this point, I'm very sure there are a lot of things happening now that we don't know anything about. The first paper that made a lot of buzz last week comes from a group at Google. They looked at the use of quantum computers for particular type of code breaking used to keep some cryptocurrencies, including Bitcoin, safe. I just talked about these security risks a few weeks ago. It's not just cryptocurrency that's at stake. There is a lot of encrypted data out there that could become readable with a sufficiently large quantum computer. For example, a lot of confidential information that's without doubt being collected by hackers or spies over the past decades that they couldn't do anything with. Anything from military secrets to cover up affairs might suddenly become readable. I have to admit that I quite like the idea that a quantum computer would reveal the secret US government program on anti-gravity. Quantum computers could do this because it's not like these codes are truly unbreakable. It's just that the algorithm that can break them might run a billion years on a standard computer. On a quantum computer, it could run in 10 minutes. But today's quantum computers are too small to get to the 10 minutes. We are at a few hundred qubits when really we'd need at least 10 million qubits for the code breaking. This is what the estimates used to say. But now, this. The Google group basically found an algorithm that works 20 times faster than the previously best-known algorithm. Or to put it differently, they can do the same calculation with fewer qubits. They say that now it would take just about 10 minutes with half a million of qubits. This is huge progress. At the same time, Google announced that they revised their estimate for the arrival of Q-Day. That's the day on which quantum computers will be able to break these codes. The previous estimate was typically sometime in the mid-2030s. They now put it at 2029. Things in the quantum cryptography area happening so fast now that researchers in the field are discussing whether it's still okay to even publish such papers because of the huge geopolitical risk. Here we have computer scientist Scott Aaronson talking about this. I actually know that, you know, there are people thinking about, you know, what are the exact resource requirements for Shor's algorithm, you know, for, let's say, breaking uh various cryptosystems, you know, that are deployed today with a quantum computer. And who have reached the point of wondering, like, should we publish this or not? >> So, the quantum leap isn't in technology, it's in how quickly we went from this is impossible to maybe don't publish that. In fact, the Google group did not publish their revised algorithm. Instead, what they did was basically to use a sort of meta program that proves that the algorithm works, as they say it does, without revealing the actual algorithm. It's called a zero-knowledge proof. This new algorithm for code breaking comes with a caveat, though, which is that it might be difficult to implement on Google's own quantum computers. Google's quantum computers, like those from IBM and Amazon, work with superconducting qubits. In these, the qubits are naturally entangled with their neighboring qubits. Long-distance entanglement is difficult to achieve, but this is exactly what the new algorithm is based on. But there is a type of qubit that can do this much more easily, which is arrays of atoms. Neutral atoms are sort of black holes, a latecomer in the race to quantum computing that's catching up incredibly quickly. The second remarkable paper this week now comes from a startup called Oratomic that works on these kinds of qubits, and they say they could do it with merely 26,000 qubits in about 10 days. And then we have a third quantum crypto paper this week, which says they have found another algorithmic improvement that shows that they can break RSA with 10 times fewer qubits than we originally thought. At this rate, by next Tuesday, someone will claim they can do it on a laptop with a strong espresso. What does all this mean? One way you can look at this is to say this is amazing progress in code breaking. Wow. And that's certainly true. But I think it's also interesting how little we hear about progress for any other use of quantum computing. Remember how they used to say we can use quantum computers to improve stock investments and financial analysis or to solve tricky logistic problems or for quantum chemistry and material science. Whatever happened to that? Not much. The issue is that in all these areas, it's incredibly difficult to find any way to turn the potential computational advantage into real-world advantage. The exception is code breaking. If nothing else, this finally answers the question what quantum computing is actually good for. It's the revenge of the nerds. I'm very protective of my privacy, but it's becoming incredibly difficult online when there are a dozen companies tracking you each time you open a website. That's why I'm signed up to Incogni. Incogni is a service that keeps your personal data out of the hands of data brokers. These are companies which collect data about you each time you visit a website and when you fill in information. Then they sell this information off. You can request that they remove your data, but this is incredibly time-consuming. Incogni automates this process. It's very simple. You sign up and they'll contact the big sinners, request that your personal details be removed. They also now have a new customer removal feature where you can submit specific websites. If you use my code ZABINA or the custom link in the info below, you'll get 60% off of Incogni, which isn't expensive in the first place. That's an amazing deal, so go and check this out. Thanks for watching. See you tomorrow.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}

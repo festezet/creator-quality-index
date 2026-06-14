@@ -1,0 +1,41 @@
+You are an expert YouTube content quality evaluator. Analyze this transcript and score it on 4 criteria (1-10 each).
+
+**Channel**: ThePrimeagen
+**Video**: "Musician turned Programmer turned Musician"
+
+## Scoring Rubrics
+
+### Research Depth
+- 9-10: Primary sources, academic papers, expert interviews, original data/proofs
+- 7-8: Multiple credible sources, fact-checked, deep subject knowledge
+- 5-6: Decent research, relies on secondary sources or surface-level analysis
+- 3-4: Minimal sourcing, anecdotal evidence, occasional errors
+- 1-2: No sources, speculation as fact
+
+### Signal-to-Noise Ratio
+- 9-10: Pure content, no filler, every second adds value
+- 7-8: Minimal filler, brief sponsor reads, content-focused
+- 5-6: Some padding but acceptable, occasional tangents
+- 3-4: Significant filler, clickbait, artificial drama
+- 1-2: More filler than content
+
+### Originality
+- 9-10: Invented a format, unique framework, genuinely novel approach
+- 7-8: Distinct voice, recognizable style, original takes
+- 5-6: Competent execution of established format
+- 3-4: Derivative, follows trends
+- 1-2: Pure repackaging
+
+### Lasting Impact
+- 9-10: Timeless content, fundamentally shifts understanding
+- 7-8: Mostly evergreen, referenced years later
+- 5-6: Good content with some time-sensitivity
+- 3-4: Largely time-bound
+- 1-2: Disposable content
+
+## Transcript
+The year is 1999 and this is the year that my life changed completely because I was like every kid in the 90s, right? I loved Nintendo 64. I would play 27 hours of perfect dark and Turok rage wars of which to this day, 30 years later, I am still upset about the black cartridge monkey bug. Somehow in my gaming stupor, I stumble upon the game called Grail and an inside Grail had a level editor and the level editor allowed you to do some basic programming. This is where I learned about if statements and wild loops and of course cosine, the greatest of all the waves. Fast forward a couple years, I'm in high school and I discover what is known to be women and they were not impressed with my coding skills, okay? If statements not doing it, so I did what everybody else did. I learned the acoustic guitar. It turns out that coding wasn't the only reason the women didn't like me, but as much as the women didn't like me, I fell in love with music. I would love to play music. I played hours every day and this kept up for about a decade until 2010 when I watched the social network and I decided that my friendship with music was over and programming was the only thing I cared about and this is just like a normal part of every programmer's tale which is they watched the social network and then ruined their entire life. And for what? A chance to be able to betray your best friend and make hundreds of millions of dollars and become a Chad later in life. That's just the dream of the Silicon Valley. And for the next 16 years, I just programmed and I was okay with music taking a backseat in my life. It just felt like I needed to grow up. I needed to have children, become a better husband, become a better father, really just become the provider. And honestly, I was really never that great at music to begin with. And programming has always been more my style. I was always really awesome with them. Them is my instrument. And the keys are where I make the music. Is how I make the music. Is how I blow that horn, baby. But the algorithm got me and I was exposed to this. Look at that. That's programming. Listen to this. That's music. That means my prowess in programming can be combined with my skill issues in music. I can finally become the 2010s LinkedIn wet dream of a programming rock star. So what is this magical program? Well, this is called strutal. It's JavaScript. Now, hold on, hold on, before you get upset about JavaScript, okay? The magical part about strutal is that it has a repel. You can make music instantly in the brows to make the simplest sound. Just type out sound H H. Whoa, whoa, whoa, whoa, whoa. It's one thing to program JavaScript. It's another thing to use an editor that's written in JavaScript. Okay, I use Vim. This is a browser. My personality's Vim. It's not JavaScript. Brian, what did we use playwright to control the browser? Perfect idea, best friend. I'll definitely never portray you for hundreds of millions of dollars. Why does he keep saying that? So I'm just going to launch a bunch server that uses playwright, then have a curl command from inside Vim to be able to take whatever file I'm working in, shoot it through the curl to my server into playwright and write it to strutal. Now we're on my home turf. Let's see what we can cook up. Hey, this is Future Prime. It turns out I forgot to add in a section where I talk about how TJ made it so that we could bring in Twitch chat. Enjoy Twitch chat. That was a dumb idea. So I wrote it myself instead. Obviously the first thing we should cook up is a DSL. So now that I can take this file and I can import it in this file. Boom, save. It's up on strutal. So to make your first sound in strutal just type in sound H H and that's going to make a high hat sound. It's going to play it over and over again. Strutal runs on cycles. Now you're probably thinking, hey, that's kind of like an event loop, right? Wrong. It's nothing like an event loop. It's like music, okay? It runs in cycles. It runs on time. But this, it's boring. You're never going to get a beat placement. So we need more high hat. Let's put four high hats and now we have four high hats per cycle. Okay, sounds a little bit better. This still doesn't sound interesting. There's a lot of things Strutal allows you to do. It's called their mini notation. It allows you to put in rests. You can put in subgrouping. If you wrap it with carrots, each one of the subgroups will be played for one cycle. That means you can make way more interesting patterns like this. Now let's use that DSL and bring in some bass drums. Better. Bringing the bass. Ooh, that's better. But drums, drums are boring. I want to see music so band music. All right, but that doesn't, that doesn't sound good either. Okay, it kind of sounds like Doom. So what we're going to do is we're going to add a little bit of structure to it. Okay. All right, a little bit of syncopation, but now we're going to randomly clip out some of the sounds. Okay, it sounds better. Let's add a little bit of extra strumming, reverberation, low pass filter. Ooh, it's kind of starting to sound sexy. Super saw and delay that changes bass on the shape of the sine wave. All right, we got a clear board. Do hi hat, bass drum, bass line. But the thing is is that sometimes you don't want them all to play at the exact same time. You kind of want to actually like make a bit of music, right? So let's use a range. I can take a range and I can go like this. Okay, we're just going to play the bass line for two cycles. Next, we're going to play the bass line plus the bass drum for two cycles. Next, we're going to play the bass drum, the bass line, and the hi hat for four cycles. Whew, we got ourselves a jam here. Something's missing. There's just not enough crow. I think I could actually make a full song out of this. Not going to be active on Discord tonight. I'm meeting a girl, a real one. In half an hour, wouldn't expect a lot of you to understand anyway. So please don't DM me, asking me where I am. I'm with the girl. Okay, you'll most likely get aired because it'll be with the girl. Again, I don't expect you to understand. She's actually really interested in me, and it's not a situation I can pass up for some meaningless Discord degenerates, because it'll be meeting a girl. Not that you really are going to understand. Really? Hey! Have you ever had a dream that you had? You could. You'll do. You once. You could do so. You could. You wanted them to do you so much. You could do you anything. Shut up, co-girl. Really? Hey! Hey, look at me. I'm at open sauce. By the way, I sell coffee in the Terms SSH Terminal Terminal coffee in hand, living the dream.
+
+## Instructions
+Return ONLY a JSON object (no markdown, no commentary):
+{"research_depth": X, "signal_noise": X, "originality": X, "lasting_impact": X, "reasoning": {"research_depth": "...", "signal_noise": "...", "originality": "...", "lasting_impact": "..."}}
